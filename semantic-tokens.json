@@ -525,16 +525,6 @@
         "type": "fontWeights"
       }
     },
-    "font-family": {
-      "default": {
-        "value": "Inter",
-        "type": "fontFamilies"
-      },
-      "aran-grant": {
-        "value": "Oswald",
-        "type": "fontFamilies"
-      }
-    },
     "line-height": {
       "100": {
         "value": "100%",
@@ -704,13 +694,13 @@
     "control": {
       "button-large": {
         "value": {
-          "fontFamily": "{font-family.default}",
-          "fontWeight": "{font-weight.semi-bold}",
-          "lineHeight": "{size.300}",
-          "fontSize": "{font-size.200}",
+          "fontFamily": "Inter",
+          "fontWeight": "600",
+          "lineHeight": "24",
+          "fontSize": "16",
           "letterSpacing": "none",
           "paragraphSpacing": "none",
-          "textCase": "{text-case.upper}",
+          "textCase": "none",
           "textDecoration": "none"
         },
         "type": "typography"
@@ -761,6 +751,12 @@
           }
         }
       }
+    },
+    "font-family": {
+      "inter": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      }
     }
   },
   "Arangrant": {
@@ -781,6 +777,26 @@
         "subtle": {
           "value": "{color.apricot.50}",
           "type": "color"
+        }
+      },
+      "control": {
+        "primary": {
+          "bg": {
+            "value": "{semantic.primary.default}",
+            "type": "color"
+          },
+          "bg-hover": {
+            "value": "{semantic.primary.emphasis}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{semantic.content.primary-inverse}",
+            "type": "color"
+          },
+          "text-hover": {
+            "value": "{semantic.content.primary-inverse}",
+            "type": "color"
+          }
         }
       }
     },
@@ -875,6 +891,37 @@
         "900": {
           "value": "#212133",
           "type": "color"
+        }
+      }
+    },
+    "font-family": {
+      "oswald": {
+        "value": "Oswald",
+        "type": "fontFamilies"
+      }
+    },
+    "control": {
+      "button-large": {
+        "value": {
+          "fontFamily": "Oswald",
+          "fontWeight": "600",
+          "lineHeight": "24",
+          "fontSize": "16",
+          "letterSpacing": "none",
+          "paragraphSpacing": "none",
+          "textCase": "{text-case.upper}",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "component": {
+      "button": {
+        "xl": {
+          "border-radius": {
+            "value": "{border-radius.medium}",
+            "type": "borderRadius"
+          }
         }
       }
     }
