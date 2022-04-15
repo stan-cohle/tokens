@@ -1,2 +1,0 @@
-# tokens
-Figma Tokens
