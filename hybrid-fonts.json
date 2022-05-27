@@ -2895,7 +2895,7 @@
     "sys": {
       "font-family": {
         "title": {
-          "value": "{font-family.oswald}",
+          "value": "{font-family.aran-grant}",
           "type": "fontFamilies"
         },
         "body": {
@@ -2911,8 +2911,34 @@
       }
     },
     "font-family": {
-      "oswald": {
+      "aran-grant": {
         "value": "Oswald",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "Priceline": {
+    "sys": {
+      "font-family": {
+        "title": {
+          "value": "{font-family.priceline}",
+          "type": "fontFamilies"
+        },
+        "body": {
+          "value": "{font-family.inter}",
+          "type": "fontFamilies"
+        }
+      }
+    },
+    "font-weight": {
+      "semi-bold": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      }
+    },
+    "font-family": {
+      "priceline": {
+        "value": "Montserrat",
         "type": "fontFamilies"
       }
     }
