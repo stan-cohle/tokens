@@ -2899,7 +2899,7 @@
     "sys": {
       "font-family": {
         "title": {
-          "value": "{font-family.aran-grant}",
+          "value": "{font-family.oswald}",
           "type": "fontFamilies"
         },
         "body": {
@@ -2915,7 +2915,7 @@
       }
     },
     "font-family": {
-      "aran-grant": {
+      "oswald": {
         "value": "Oswald",
         "type": "fontFamilies"
       }
@@ -2925,7 +2925,7 @@
     "sys": {
       "font-family": {
         "title": {
-          "value": "{font-family.priceline}",
+          "value": "{font-family.montserrat}",
           "type": "fontFamilies"
         },
         "body": {
@@ -2941,7 +2941,7 @@
       }
     },
     "font-family": {
-      "priceline": {
+      "montserrat": {
         "value": "Montserrat",
         "type": "fontFamilies"
       }
