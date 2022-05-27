@@ -190,6 +190,10 @@
       "upper": {
         "value": "uppercase",
         "type": "textCase"
+      },
+      "capitalize": {
+        "value": "capitalize",
+        "type": "textCase"
       }
     },
     "sys": {
