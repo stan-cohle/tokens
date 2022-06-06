@@ -1,1 +1,64 @@
-{}
+{
+  "colors": {
+    "pumpkin": {
+      "600": {
+        "value": "#ff690f",
+        "type": "color"
+      },
+      "700": {
+        "value": "#cc4500",
+        "type": "color"
+      }
+    },
+    "space": {
+      "700": {
+        "value": "#363f45",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2c3439",
+        "type": "color"
+      },
+      "900": {
+        "value": "#212a30",
+        "type": "color"
+      }
+    },
+    "chill": {
+      "600": {
+        "value": "#0f7b97",
+        "type": "color"
+      },
+      "700": {
+        "value": "#0d6077",
+        "type": "color"
+      }
+    },
+    "gradient": {
+      "Kayak": {
+        "value": "linear-gradient(90deg, #ff690f 0%, #ee4719 100%)",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "primary": {
+      "default": {
+        "value": "{colors.pumpkin.700}",
+        "type": "color",
+        "description": "bg, background, border"
+      },
+      "emphasis": {
+        "value": "{colors.pumpkin.600}",
+        "type": "color",
+        "description": "content, icon, text"
+      }
+    },
+    "bg": {
+      "disabled": {
+        "value": "#9ca3af29",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -150,7 +150,7 @@
         "value": "{colors.neutral.800}"
       },
       "inverse-selected": {
-        "value": "{colors.primary.secondary}",
+        "value": "{theme.primary.secondary}",
         "type": "color"
       }
     }
