@@ -18,5 +18,19 @@
       "03_semantic / shadows": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "cd51684abcdd4befe0ab9eb1436ae4a20ea71e62",
+    "name": "Kayak",
+    "selectedTokenSets": {
+      "01_base / colors": "source",
+      "01_base / opacity": "source",
+      "01_base / shadows": "source",
+      "02_themes / arangrant": "disabled",
+      "02_themes / default": "enabled",
+      "02_themes / wowfare": "disabled",
+      "03_semantic / shadows": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
