@@ -1,0 +1,22 @@
+[
+  {
+    "id": "aa719ce11562dd775f0300c0746586044ee64516",
+    "name": "Default",
+    "selectedTokenSets": {
+      "Colors": "enabled",
+      "Arangrant": "disabled",
+      "Wowfare": "disabled",
+      "Themes / Arangrant": "disabled",
+      "Themes / Wowfare": "disabled",
+      "Default Colors": "enabled",
+      "01_base / colors": "source",
+      "02_themes / Default": "enabled",
+      "02_themes / default": "enabled",
+      "01_base / shadows": "source",
+      "01_base / shadows-colors": "disabled",
+      "01_base / opacity": "source",
+      "03_semantic / shadows": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

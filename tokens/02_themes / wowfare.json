@@ -1,0 +1,123 @@
+{
+  "theme": {
+    "primary": {
+      "emphasis": {
+        "value": "{colors.mint.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.mint.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.mint.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.mint.50}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "emphasis": {
+        "value": "{colors.rouge.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.rouge.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.rouge.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "rgba({colors.rouge.600}, {opacity.8})",
+        "type": "color"
+      }
+    },
+    "success": {
+      "emphasis": {
+        "value": "{colors.mint.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.mint.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.mint.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.mint.50}",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "footer": {
+        "value": "{colors.mirage.900}",
+        "type": "color"
+      }
+    }
+  },
+  "colors": {
+    "yellow": {
+      "500": {
+        "value": "#ffe03c",
+        "type": "color",
+        "description": "Accent Elements"
+      }
+    },
+    "mirage": {
+      "900": {
+        "value": "#1a2633",
+        "type": "color",
+        "description": "Footer"
+      }
+    },
+    "rouge": {
+      "500": {
+        "value": "#a74e74",
+        "type": "color"
+      },
+      "600": {
+        "value": "#9d3b65",
+        "type": "color"
+      },
+      "700": {
+        "value": "#8e355b",
+        "type": "color"
+      }
+    },
+    "gradient": {
+      "mint": {
+        "value": "linear-gradient(180deg, #25acaa 0%, #0da3a1 100%)",
+        "type": "color",
+        "description": "Sub Header"
+      }
+    },
+    "mint": {
+      "50": {
+        "value": "#E8FCFB",
+        "type": "color"
+      },
+      "400": {
+        "value": "#5fd1ca",
+        "type": "color"
+      },
+      "500": {
+        "value": "#4eccc4",
+        "type": "color"
+      },
+      "600": {
+        "value": "#25acaa",
+        "type": "color"
+      },
+      "700": {
+        "value": "#0da3a1",
+        "type": "color"
+      }
+    }
+  }
+}
