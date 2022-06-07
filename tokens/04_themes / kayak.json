@@ -50,6 +50,10 @@
       "Kayak": {
         "value": "linear-gradient(90deg, #ff690f 0%, #ee4719 100%)",
         "type": "color"
+      },
+      "Kayak-copy": {
+        "value": "linear-gradient(90deg, rgba({theme.primary.default}, 0) 0%, {theme.primary.default} 100%)",
+        "type": "color"
       }
     }
   },
