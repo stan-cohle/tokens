@@ -128,6 +128,10 @@
         "value": "#e5ebf0",
         "type": "color"
       },
+      "secondary": {
+        "value": "#b3c1cb",
+        "type": "color"
+      },
       "selected": {
         "value": "#8596A3",
         "type": "color"
