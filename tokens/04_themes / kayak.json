@@ -121,6 +121,14 @@
       "tertiary": {
         "value": "#647582",
         "type": "color"
+      },
+      "inverse-primary": {
+        "value": "{colors.base.white}",
+        "type": "color"
+      },
+      "inverse-secondary": {
+        "value": "#a0afba",
+        "type": "color"
       }
     },
     "border": {
