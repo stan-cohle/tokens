@@ -21,7 +21,14 @@
       "02_semantic / shadows": "enabled",
       "02_semantic / shadows-colors": "enabled",
       "02_semantic / tokens": "enabled",
-      "04_components / button": "enabled"
+      "04_components / button": "enabled",
+      "00_base / colors": "enabled",
+      "00_base / core": "enabled",
+      "01_semantic / colors": "enabled",
+      "01_semantic / shadows": "enabled",
+      "01_semantic / shadows-colors": "source",
+      "01_semantic / tokens": "enabled",
+      "03_components / button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -43,8 +50,8 @@
       "01_base / core": "enabled",
       "03_themes / kayak": "enabled",
       "04_components / button": "enabled",
-      "00_base / colors": "source",
-      "00_base / core": "source",
+      "00_base / colors": "enabled",
+      "00_base / core": "enabled",
       "01_semantic / colors": "enabled",
       "01_semantic / shadows": "enabled",
       "01_semantic / shadows-colors": "source",
