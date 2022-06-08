@@ -9,6 +9,10 @@
         "type": "color",
         "value": "{colors.mint.600}"
       },
+      "secondary": {
+        "type": "color",
+        "value": "{colors.mint.500}"
+      },
       "muted": {
         "type": "color",
         "value": "{colors.mint.400}"
@@ -45,6 +49,10 @@
         "type": "color",
         "value": "{colors.mint.600}"
       },
+      "secondary": {
+        "type": "color",
+        "value": "{colors.mint.500}"
+      },
       "muted": {
         "type": "color",
         "value": "{colors.mint.400}"
@@ -58,6 +66,12 @@
       "footer": {
         "type": "color",
         "value": "{colors.mirage.900}"
+      }
+    },
+    "border": {
+      "selected": {
+        "value": "{theme.primary.emphasis}",
+        "type": "color"
       }
     }
   },

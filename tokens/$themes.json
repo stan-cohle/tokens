@@ -60,5 +60,22 @@
       "04_themes / kayak": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
+    "name": "Wowfare",
+    "selectedTokenSets": {
+      "00_base / colors": "enabled",
+      "00_base / core": "enabled",
+      "01_semantic / colors": "enabled",
+      "01_semantic / shadows-colors": "source",
+      "01_semantic / shadows": "enabled",
+      "01_semantic / tokens": "enabled",
+      "03_components / button": "enabled",
+      "04_themes / arangrant": "disabled",
+      "04_themes / kayak": "disabled",
+      "04_themes / wowfare": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
