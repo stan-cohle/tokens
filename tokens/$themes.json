@@ -29,21 +29,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
-    "name": "Wowfare",
-    "selectedTokenSets": {
-      "00_base / colors": "enabled",
-      "00_base / core": "enabled",
-      "01_semantic / colors": "enabled",
-      "01_semantic / shadows-colors": "source",
-      "01_semantic / shadows": "enabled",
-      "01_semantic / tokens": "enabled",
-      "02_components / button": "enabled",
-      "03_themes / wowfare": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "9a18d9622f75758fa152481772c3f9acd78029b0",
     "name": "UI Kit",
     "selectedTokenSets": {
@@ -57,6 +42,21 @@
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
       "03_themes / wowfare": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
+    "name": "Wowfare",
+    "selectedTokenSets": {
+      "00_base / colors": "source",
+      "00_base / core": "enabled",
+      "01_semantic / colors": "enabled",
+      "01_semantic / shadows-colors": "source",
+      "01_semantic / shadows": "enabled",
+      "01_semantic / tokens": "enabled",
+      "02_components / button": "enabled",
+      "03_themes / wowfare": "enabled"
     },
     "$figmaStyleReferences": {}
   }
