@@ -42,5 +42,22 @@
       "03_themes / wowfare": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "9a18d9622f75758fa152481772c3f9acd78029b0",
+    "name": "UI Kit",
+    "selectedTokenSets": {
+      "00_base / colors": "disabled",
+      "00_base / core": "enabled",
+      "01_semantic / colors": "disabled",
+      "01_semantic / shadows-colors": "disabled",
+      "01_semantic / shadows": "disabled",
+      "01_semantic / tokens": "enabled",
+      "02_components / button": "enabled",
+      "03_themes / arangrant": "disabled",
+      "03_themes / kayak": "disabled",
+      "03_themes / wowfare": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
