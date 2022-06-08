@@ -213,7 +213,7 @@
       },
       "secondary": {
         "type": "color",
-        "value": "{colors.yellow.500}"
+        "value": "{colors.sunflower.500}"
       },
       "muted": {
         "type": "color",
