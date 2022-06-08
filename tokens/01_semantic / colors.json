@@ -48,7 +48,7 @@
         "value": "{colors.neutral.500}"
       },
       "inverse-primary": {
-        "value": "rgba({colors.base.white}, {opacity.96})",
+        "value": "{colors.base.white}",
         "type": "color"
       },
       "inverse-secondary": {
