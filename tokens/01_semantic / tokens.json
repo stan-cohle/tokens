@@ -79,6 +79,22 @@
       }
     },
     "border-width": {
+      "none": {
+        "value": "{border-width.0}",
+        "type": "borderWidth"
+      },
+      "thin": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      },
+      "medium": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
+      "strong": {
+        "value": "{border-width.3}",
+        "type": "borderWidth"
+      },
       "input-focus": {
         "value": "{border-width.2}",
         "type": "borderWidth"
