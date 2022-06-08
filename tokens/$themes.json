@@ -9,22 +9,8 @@
       "01_semantic / shadows": "enabled",
       "01_semantic / shadows-colors": "source",
       "01_semantic / tokens": "enabled",
-      "02_components / button": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "cd51684abcdd4befe0ab9eb1436ae4a20ea71e62",
-    "name": "Kayak",
-    "selectedTokenSets": {
-      "00_base / colors": "enabled",
-      "00_base / core": "enabled",
-      "01_semantic / colors": "enabled",
-      "01_semantic / shadows": "enabled",
-      "01_semantic / shadows-colors": "source",
-      "01_semantic / tokens": "enabled",
       "02_components / button": "enabled",
-      "03_themes / kayak": "enabled"
+      "00_base / doc": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -41,7 +27,8 @@
       "02_components / button": "enabled",
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
-      "03_themes / wowfare": "disabled"
+      "03_themes / wowfare": "disabled",
+      "00_base / doc": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -56,7 +43,24 @@
       "01_semantic / shadows": "enabled",
       "01_semantic / tokens": "enabled",
       "02_components / button": "enabled",
-      "03_themes / wowfare": "enabled"
+      "03_themes / wowfare": "enabled",
+      "00_base / doc": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "cd51684abcdd4befe0ab9eb1436ae4a20ea71e62",
+    "name": "Kayak",
+    "selectedTokenSets": {
+      "00_base / colors": "enabled",
+      "00_base / core": "enabled",
+      "01_semantic / colors": "enabled",
+      "01_semantic / shadows": "enabled",
+      "01_semantic / shadows-colors": "source",
+      "01_semantic / tokens": "enabled",
+      "02_components / button": "enabled",
+      "03_themes / kayak": "enabled",
+      "00_base / doc": "source"
     },
     "$figmaStyleReferences": {}
   }
