@@ -10,7 +10,9 @@
       "01_semantic / shadows-colors": "source",
       "01_semantic / tokens": "enabled",
       "02_components / button": "enabled",
-      "00_base / doc": "source"
+      "03_themes / arangrant": "disabled",
+      "03_themes / kayak": "disabled",
+      "03_themes / wowfare": "disabled",
     },
     "$figmaStyleReferences": {}
   },
@@ -28,7 +30,6 @@
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
       "03_themes / wowfare": "disabled",
-      "00_base / doc": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -44,7 +45,8 @@
       "01_semantic / tokens": "enabled",
       "02_components / button": "enabled",
       "03_themes / wowfare": "enabled",
-      "00_base / doc": "source"
+      "03_themes / arangrant": "disabled",
+      "03_themes / kayak": "disabled",
     },
     "$figmaStyleReferences": {}
   },
@@ -59,8 +61,9 @@
       "01_semantic / shadows-colors": "source",
       "01_semantic / tokens": "enabled",
       "02_components / button": "enabled",
+      "03_themes / wowfare": "disabled",
+      "03_themes / arangrant": "disabled",
       "03_themes / kayak": "enabled",
-      "00_base / doc": "source"
     },
     "$figmaStyleReferences": {}
   }
