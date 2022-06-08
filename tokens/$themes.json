@@ -49,7 +49,7 @@
     "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
     "name": "Wowfare",
     "selectedTokenSets": {
-      "00_base / colors": "source",
+      "00_base / colors": "enabled",
       "00_base / core": "enabled",
       "01_semantic / colors": "enabled",
       "01_semantic / shadows-colors": "source",

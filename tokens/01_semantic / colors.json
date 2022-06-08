@@ -52,7 +52,7 @@
         "type": "color"
       },
       "inverse-secondary": {
-        "value": "rgba({colors.base.white}, {opacity.64})",
+        "value": "rgba({colors.base.white}, {opacity.72})",
         "type": "color"
       },
       "inverse-tertiary": {
@@ -213,7 +213,7 @@
       },
       "secondary": {
         "type": "color",
-        "value": "{colors.sunflower.500}"
+        "value": "{colors.yellow.500}"
       },
       "muted": {
         "type": "color",

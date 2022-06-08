@@ -166,13 +166,5 @@
       "type": "color",
       "description": "Transparent bar"
     }
-  },
-  "button": {
-    "large": {
-      "border-radius": {
-        "value": "{border-radius.8}",
-        "type": "borderRadius"
-      }
-    }
   }
 }
