@@ -12,7 +12,7 @@
       "02_components / button": "enabled",
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
-      "03_themes / wowfare": "disabled",
+      "03_themes / wowfare": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,7 +29,7 @@
       "02_components / button": "enabled",
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
-      "03_themes / wowfare": "disabled",
+      "03_themes / wowfare": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -46,7 +46,7 @@
       "02_components / button": "enabled",
       "03_themes / wowfare": "enabled",
       "03_themes / arangrant": "disabled",
-      "03_themes / kayak": "disabled",
+      "03_themes / kayak": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -63,7 +63,7 @@
       "02_components / button": "enabled",
       "03_themes / wowfare": "disabled",
       "03_themes / arangrant": "disabled",
-      "03_themes / kayak": "enabled",
+      "03_themes / kayak": "enabled"
     },
     "$figmaStyleReferences": {}
   }
