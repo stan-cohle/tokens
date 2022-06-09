@@ -66,5 +66,23 @@
       "03_themes / kayak": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4ea711a8623168909dfd29b753d42cb41e3d1abb",
+    "name": "ChatDeal",
+    "selectedTokenSets": {
+      "00_base / colors": "enabled",
+      "00_base / core": "enabled",
+      "01_semantic / colors": "enabled",
+      "01_semantic / shadows-colors": "source",
+      "01_semantic / shadows": "enabled",
+      "01_semantic / tokens": "enabled",
+      "02_components / button": "enabled",
+      "03_themes / arangrant": "disabled",
+      "03_themes / kayak": "disabled",
+      "03_themes / wowfare": "disabled",
+      "03_themes / chatdeal": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
