@@ -84,7 +84,7 @@
       "value": "#111827",
       "type": "color"
     },
-    "gradient": {
+    "other": {
       "orange-pink": {
         "value": "linear-gradient(270deg, #fea520 0%, #fe2072 98.65%)",
         "type": "color",

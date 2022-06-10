@@ -90,7 +90,7 @@
         "description": "Footer"
       }
     },
-    "gradient": {
+    "other": {
       "mint": {
         "value": "linear-gradient(180deg, #25acaa 0%, #0da3a1 100%)",
         "type": "color",

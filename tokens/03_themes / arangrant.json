@@ -46,9 +46,23 @@
         "type": "color"
       }
     },
-    "gradient": {
-      "apricot-bottom-top": {
+    "other": {
+      "apricot": {
         "value": "linear-gradient(180deg,  #F19C3D 0%, #DD7400 100%)",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "linear-gradient(210deg,  {colors.neutral.900} 0%, {colors.neutral.800} 100%)",
+        "type": "color",
+        "description": "Landing, Dark form, Background"
+      },
+      "transparent-80": {
+        "value": "rgba({colors.neutral.900}, {opacity.80})",
+        "type": "color",
+        "description": "Transparent bar"
+      },
+      "bottom-to-top-bd": {
+        "value": "linear-gradient(180deg, rgba({colors.neutral.800}, 0) 0%, rgba({colors.neutral.800}, 0.4) 100%)",
         "type": "color"
       }
     },
@@ -153,18 +167,6 @@
         "value": "{theme.primary.secondary}",
         "type": "color"
       }
-    }
-  },
-  "marketing": {
-    "gradient-1": {
-      "value": "linear-gradient(210deg,  {colors.neutral.900} 0%, {colors.neutral.800} 100%)",
-      "type": "color",
-      "description": "Landing, Dark form, Background"
-    },
-    "transparent-80": {
-      "value": "rgba({colors.neutral.900}, {opacity.80})",
-      "type": "color",
-      "description": "Transparent bar"
     }
   }
 }
