@@ -1,1 +1,126 @@
-{}
+{
+  "colors": {
+    "red": {
+      "100": {
+        "value": "#fee4e2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#fecdca",
+        "type": "color"
+      },
+      "400": {
+        "value": "#f97066",
+        "type": "color"
+      },
+      "600": {
+        "value": "#d92d20",
+        "type": "color"
+      }
+    },
+    "green": {
+      "100": {
+        "value": "#d1fadf",
+        "type": "color"
+      },
+      "200": {
+        "value": "#a6f4c5",
+        "type": "color"
+      },
+      "400": {
+        "value": "#32d583",
+        "type": "color"
+      },
+      "600": {
+        "value": "#039855",
+        "type": "color"
+      }
+    },
+    "orange": {
+      "100": {
+        "value": "#ffe9c9",
+        "type": "color"
+      },
+      "200": {
+        "value": "#fece85",
+        "type": "color"
+      },
+      "400": {
+        "value": "#fea520",
+        "type": "color"
+      },
+      "600": {
+        "value": "#df8600",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "100": {
+        "value": "#d1e9ff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#b2ddff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#53b1fd",
+        "type": "color"
+      },
+      "600": {
+        "value": "#1570ef",
+        "type": "color"
+      }
+    },
+    "rose": {
+      "value": "#fe2072",
+      "type": "color"
+    },
+    "coral": {
+      "value": "#fe6656",
+      "type": "color"
+    },
+    "gradient": {
+      "orange-pink": {
+        "value": "linear-gradient(270deg, #fea520 0%, #fe2072 98.65%)",
+        "type": "color",
+        "description": "Rose -> Orange-400, 270deg, 0% -> 100%"
+      },
+      "blue-pink": {
+        "value": "linear-gradient(251deg, #4794ff 0%, #fe2072 98.65%)",
+        "type": "color",
+        "description": "Blue-400 -> Rose, 250deg, 35% -> 112%"
+      },
+      "blue": {
+        "value": "linear-gradient(90deg, #4794ff 0%, #0063ec 100%)",
+        "type": "color",
+        "description": "Blue-600 -> Blue-400, 180deg, -42% -> 66%"
+      },
+      "light-blue": {
+        "value": "linear-gradient(180deg, #4794ff 0%, #0063ec 100%)",
+        "type": "color",
+        "description": "Blue-400 -> Blue-600, 180deg, 0% -> 100%"
+      },
+      "orange": {
+        "value": "linear-gradient(180deg, #feaf39 0%, #fe2072 98.65%)",
+        "type": "color",
+        "description": "Rose -> Orange-400, 180deg, -42% -> 66%"
+      },
+      "red": {
+        "value": "linear-gradient(180deg, #fe9a9a 0%, #f12121 76.37%)",
+        "type": "color",
+        "description": "Red-400 -> Red-200, 180deg, -42% -> 66%"
+      },
+      "green": {
+        "value": "linear-gradient(180deg, #a5efe7 0%, #2ec4b6 76.37%)",
+        "type": "color",
+        "description": "Green-400 -> Green-200, 180deg, -42% -> 66%"
+      },
+      "neutral": {
+        "value": "linear-gradient(180deg, #4794ff 0%, #a7acb4 0.01%, #676e79 76.37%)",
+        "type": "color",
+        "description": "Neutral-600 -> Neutral-400, 180deg, -42% -> 66%"
+      }
+    }
+  }
+}

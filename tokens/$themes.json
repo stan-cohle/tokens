@@ -71,7 +71,7 @@
     "id": "4ea711a8623168909dfd29b753d42cb41e3d1abb",
     "name": "ChatDeal",
     "selectedTokenSets": {
-      "00_base / colors": "enabled",
+      "00_base / colors": "source",
       "00_base / core": "enabled",
       "01_semantic / colors": "enabled",
       "01_semantic / shadows-colors": "source",
