@@ -52,7 +52,7 @@
         "type": "color"
       },
       "Kayak-copy": {
-        "value": "linear-gradient(90deg, rgba({theme.primary.default}, 0) 0%, {theme.primary.default} 100%)",
+        "value": "linear-gradient(90deg, rgba({theme.accent.default}, 0) 0%, {theme.accent.default} 100%)",
         "type": "color"
       }
     }

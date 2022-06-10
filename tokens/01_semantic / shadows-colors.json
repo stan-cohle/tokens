@@ -10,7 +10,7 @@
         "type": "color"
       },
       "primary": {
-        "value": "rgba({theme.primary.default}, {opacity.24})",
+        "value": "rgba({theme.accent.default}, {opacity.24})",
         "type": "color"
       }
     }
