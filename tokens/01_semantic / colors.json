@@ -14,10 +14,6 @@
         "type": "color",
         "value": "{colors.neutral.100}"
       },
-      "disabled": {
-        "value": "rgba({colors.neutral.400}, {opacity.16})",
-        "type": "color"
-      },
       "info": {
         "value": "{theme.info.subtle}",
         "type": "color"
@@ -32,6 +28,10 @@
       },
       "danger": {
         "value": "{theme.danger.subtle}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "rgba({colors.neutral.400}, {opacity.16})",
         "type": "color"
       },
       "inverse-primary": {
