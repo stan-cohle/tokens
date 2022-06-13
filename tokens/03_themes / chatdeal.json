@@ -129,10 +129,6 @@
   },
   "theme": {
     "brand": {
-      "emphasis": {
-        "value": "#000",
-        "type": "color"
-      },
       "default": {
         "value": "{colors.midnight}",
         "type": "color"
