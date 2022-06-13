@@ -9,8 +9,8 @@
         "value": "rgba({colors.base.black}, {opacity.32})",
         "type": "color"
       },
-      "primary": {
-        "value": "rgba({theme.accent.default}, {opacity.24})",
+      "brand": {
+        "value": "rgba({theme.brand.default}, {opacity.24})",
         "type": "color"
       }
     }

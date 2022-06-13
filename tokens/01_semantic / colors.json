@@ -152,10 +152,15 @@
         "description": "bg, background, border",
         "value": "{colors.indigo.600}"
       },
-      "emphasis": {
+      "hover": {
         "type": "color",
         "description": "content, icon, text",
         "value": "{colors.indigo.700}"
+      },
+      "active": {
+        "type": "color",
+        "description": "content, icon, text",
+        "value": "{colors.indigo.800}"
       },
       "secondary": {
         "type": "color",

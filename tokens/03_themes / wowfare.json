@@ -71,7 +71,7 @@
     "border": {
       "selected": {
         "type": "color",
-        "value": "{theme.brand.emphasis}"
+        "value": "{theme.brand.hover}"
       }
     }
   },
