@@ -182,11 +182,11 @@
         "type": "color"
       },
       "hover": {
-        "value": "rgba({colors.neutral.600}, {opacity.24})",
+        "value": "rgba({colors.neutral.500}, {opacity.24})",
         "type": "color"
       },
       "active": {
-        "value": "rgba({colors.neutral.700}, {opacity.32})",
+        "value": "rgba({colors.neutral.600}, {opacity.24})",
         "type": "color"
       },
       "onsecondary": {
