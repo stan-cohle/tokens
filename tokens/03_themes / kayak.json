@@ -106,11 +106,15 @@
     },
     "secondary": {
       "default": {
-        "value": "#363F45",
+        "value": "{colors.space.700}",
         "type": "color"
       },
       "hover": {
-        "value": "#2C3439",
+        "value": "{colors.space.800}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.space.900}",
         "type": "color"
       },
       "onsecondary": {
@@ -137,6 +141,10 @@
       },
       "inverse-secondary": {
         "value": "#a0afba",
+        "type": "color"
+      },
+      "link": {
+        "value": "{colors.chill.600}",
         "type": "color"
       }
     },
