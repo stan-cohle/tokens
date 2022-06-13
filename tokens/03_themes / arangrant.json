@@ -114,7 +114,7 @@
     }
   },
   "theme": {
-    "primary": {
+    "brand": {
       "emphasis": {
         "type": "color",
         "value": "{colors.apricot.700}"
@@ -164,8 +164,8 @@
         "value": "{colors.neutral.800}"
       },
       "inverse-selected": {
-        "value": "{theme.primary.secondary}",
-        "type": "color"
+        "type": "color",
+        "value": "{theme.brand.secondary}"
       }
     }
   }

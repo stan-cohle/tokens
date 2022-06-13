@@ -1,6 +1,6 @@
 {
   "theme": {
-    "primary": {
+    "brand": {
       "emphasis": {
         "type": "color",
         "value": "{colors.mint.700}"
@@ -70,8 +70,8 @@
     },
     "border": {
       "selected": {
-        "value": "{theme.primary.emphasis}",
-        "type": "color"
+        "type": "color",
+        "value": "{theme.brand.emphasis}"
       }
     }
   },

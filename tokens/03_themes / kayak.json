@@ -58,7 +58,7 @@
     }
   },
   "theme": {
-    "primary": {
+    "brand": {
       "emphasis": {
         "value": "{colors.pumpkin.700}",
         "type": "color",
