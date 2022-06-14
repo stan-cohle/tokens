@@ -232,11 +232,11 @@
     },
     "neutral": {
       "25": {
-        "value": "#FCFDFD",
+        "value": "#F9FBFB",
         "type": "color"
       },
       "50": {
-        "value": "#F7F9FA",
+        "value": "#F3F6F7",
         "type": "color"
       },
       "100": {
