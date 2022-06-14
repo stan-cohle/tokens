@@ -76,7 +76,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "rgba({colors.neutral.700}, {opacity.40})",
+        "value": "rgba({colors.neutral.700}, {opacity.32})",
         "type": "color"
       },
       "info": {
