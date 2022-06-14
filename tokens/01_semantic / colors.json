@@ -53,7 +53,7 @@
     "content": {
       "primary": {
         "type": "color",
-        "value": "{colors.neutral.900}"
+        "value": "{colors.neutral.800}"
       },
       "secondary": {
         "type": "color",
@@ -61,7 +61,7 @@
       },
       "tertiary": {
         "type": "color",
-        "value": "{colors.neutral.500}"
+        "value": "{colors.neutral.400}"
       },
       "inverse-primary": {
         "value": "{colors.base.white}",
