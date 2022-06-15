@@ -335,7 +335,7 @@
       }
     },
     "opacity": {
-      "primary": {
+      "brand": {
         "8": {
           "value": "rgba({theme.brand.default}, {opacity.8})",
           "type": "color"
