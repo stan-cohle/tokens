@@ -8,44 +8,33 @@
       },
       "secondary": {
         "type": "color",
-        "value": "{colors.neutral.50}"
+        "value": "{colors.neutral-light.200}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{colors.neutral.100}"
-      },
-      "info": {
-        "value": "{theme.info.subtle}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{theme.success.subtle}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{theme.warning.subtle}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{theme.danger.subtle}",
-        "type": "color"
+        "value": "{colors.neutral-light.300}"
       },
       "disabled": {
-        "value": "rgba({colors.neutral.400}, {opacity.16})",
+        "value": "{colors.neutral-light.400}",
         "type": "color"
       },
       "inverse-primary": {
         "type": "color",
         "description": "Primary background for top-most level",
-        "value": "{colors.neutral.800}"
+        "value": "{colors.neutral-dark.800}"
       },
       "inverse-secondary": {
         "type": "color",
         "description": "Primary background for top-most level",
-        "value": "{colors.neutral.900}"
+        "value": "{colors.neutral-dark.900}"
       },
       "scrim": {
-        "value": "rgba({colors.neutral.900}, {opacity.80})",
+        "value": "rgba({colors.neutral-dark.900}, {opacity.64})",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "link": {
+        "value": "{colors.blue.700}",
         "type": "color",
         "description": "Background color for scrim under modal windows"
       }
@@ -53,15 +42,19 @@
     "content": {
       "primary": {
         "type": "color",
-        "value": "{colors.neutral.800}"
+        "value": "{colors.neutral-dark.900}"
       },
       "secondary": {
         "type": "color",
-        "value": "{colors.neutral.700}"
+        "value": "{colors.neutral-dark.600}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{colors.neutral.400}"
+        "value": "{colors.neutral-light.900}"
+      },
+      "disabled": {
+        "value": "{colors.neutral-light.600}",
+        "type": "color"
       },
       "inverse-primary": {
         "value": "{colors.base.white}",
@@ -74,56 +67,20 @@
       "inverse-tertiary": {
         "value": "rgba({colors.base.white}, {opacity.40})",
         "type": "color"
-      },
-      "disabled": {
-        "value": "rgba({colors.neutral.700}, {opacity.32})",
-        "type": "color"
-      },
-      "info": {
-        "type": "color",
-        "value": "{theme.info.hover}"
-      },
-      "success": {
-        "type": "color",
-        "value": "{theme.success.hover}"
-      },
-      "warning": {
-        "type": "color",
-        "value": "{theme.warning.hover}"
-      },
-      "error": {
-        "type": "color",
-        "value": "{theme.danger.hover}"
-      },
-      "link": {
-        "type": "color",
-        "value": "{colors.blue.800}"
       }
     },
     "border": {
-      "primary": {
-        "value": "rgba({colors.neutral.400}, {opacity.24})",
+      "light": {
+        "value": "{colors.neutral-light.400}",
         "type": "color"
       },
-      "secondary": {
-        "value": "rgba({colors.neutral.400}, {opacity.40})",
+      "medium": {
+        "value": "{colors.neutral-light.500}",
         "type": "color"
       },
       "selected": {
         "type": "color",
         "value": "{theme.brand.default}"
-      },
-      "info": {
-        "value": "{theme.info.default}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{theme.success.default}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{theme.warning.default}",
-        "type": "color"
       },
       "danger": {
         "value": "{theme.danger.default}",
@@ -135,14 +92,6 @@
       },
       "inverse-secondary": {
         "value": "rgba({colors.base.white}, {opacity.16})",
-        "type": "color"
-      },
-      "inverse-selected": {
-        "type": "color",
-        "value": "{theme.brand.secondary}"
-      },
-      "inverse-danger": {
-        "value": "{theme.danger.secondary}",
         "type": "color"
       }
     },
@@ -183,19 +132,19 @@
     },
     "secondary": {
       "default": {
-        "value": "rgba({colors.neutral.400}, {opacity.24})",
+        "value": "rgba({colors.neutral-light.700}, {opacity.24})",
         "type": "color"
       },
       "hover": {
-        "value": "rgba({colors.neutral.500}, {opacity.24})",
+        "value": "rgba({colors.neutral-light.800}, {opacity.24})",
         "type": "color"
       },
       "active": {
-        "value": "rgba({colors.neutral.600}, {opacity.24})",
+        "value": "rgba({colors.neutral-light.900}, {opacity.24})",
         "type": "color"
       },
       "onsecondary": {
-        "value": "{theme.content.secondary}",
+        "value": "{colors.neutral-dark.700}",
         "type": "color"
       }
     },
