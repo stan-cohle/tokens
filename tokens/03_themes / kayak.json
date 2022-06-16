@@ -161,7 +161,7 @@
         "value": "#8596A3",
         "type": "color"
       },
-      "error": {
+      "danger": {
         "value": "#BF323B",
         "type": "color"
       }
