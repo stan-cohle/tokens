@@ -32,11 +32,6 @@
         "value": "rgba({colors.neutral-dark.900}, {opacity.64})",
         "type": "color",
         "description": "Background color for scrim under modal windows"
-      },
-      "link": {
-        "value": "{colors.blue.700}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
       }
     },
     "content": {
@@ -67,6 +62,11 @@
       "inverse-tertiary": {
         "value": "rgba({colors.base.white}, {opacity.40})",
         "type": "color"
+      },
+      "link": {
+        "value": "{colors.blue.700}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
       }
     },
     "border": {
