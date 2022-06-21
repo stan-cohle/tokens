@@ -13,7 +13,8 @@
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
       "03_themes / wowfare": "disabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "03_themes / ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -31,7 +32,8 @@
       "03_themes / wowfare": "disabled",
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "03_themes / ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -50,7 +52,8 @@
       "03_themes / chatdeal": "disabled",
       "03_themes / kayak": "disabled",
       "03_themes / wowfare": "disabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "03_themes / ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -68,7 +71,8 @@
       "03_themes / wowfare": "enabled",
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "03_themes / ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -87,7 +91,8 @@
       "03_themes / kayak": "disabled",
       "03_themes / wowfare": "disabled",
       "03_themes / chatdeal": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "03_themes / ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -105,7 +110,28 @@
       "03_themes / arangrant": "disabled",
       "03_themes / kayak": "disabled",
       "03_themes / wowfare": "disabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "03_themes / ovago": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "7438e3798f0dbf50ead437e6652e591fdb1920dc",
+    "name": "Ovago",
+    "selectedTokenSets": {
+      "00_base / archive": "disabled",
+      "00_base / colors": "enabled",
+      "00_base / core": "enabled",
+      "01_semantic / colors": "enabled",
+      "01_semantic / shadows-colors": "source",
+      "01_semantic / shadows": "enabled",
+      "01_semantic / tokens": "enabled",
+      "02_components / button": "enabled",
+      "03_themes / arangrant": "disabled",
+      "03_themes / chatdeal": "disabled",
+      "03_themes / kayak": "disabled",
+      "03_themes / wowfare": "disabled",
+      "03_themes / ovago": "enabled"
     },
     "$figmaStyleReferences": {}
   }
