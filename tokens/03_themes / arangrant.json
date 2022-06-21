@@ -209,5 +209,13 @@
         "value": "{theme.brand.secondary}"
       }
     }
+  },
+  "button": {
+    "x-large": {
+      "border-radius": {
+        "value": "{border-radius.8}",
+        "type": "borderRadius"
+      }
+    }
   }
 }
