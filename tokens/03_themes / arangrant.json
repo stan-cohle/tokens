@@ -52,66 +52,20 @@
         "type": "color"
       },
       "gradient-neutral": {
-        "value": "linear-gradient(220deg,  {colors.neutral.900} 0%,  {colors.neutral.900} 100%)",
+        "value": "linear-gradient(220deg,  {colors.neutral-dark.900} 0%,  {colors.neutral-dark.900} 100%)",
         "type": "color"
       },
       "transparent-80": {
-        "value": "rgba({colors.neutral.900}, {opacity.80})",
+        "value": "rgba({colors.neutral-dark.900}, {opacity.80})",
         "type": "color",
         "description": "Transparent bar"
       },
       "bottom-to-top-40": {
-        "value": "linear-gradient(180deg, rgba({colors.neutral.800}, 0) 0%, rgba({colors.neutral.800}, 0.4) 100%)",
+        "value": "linear-gradient(180deg, rgba({colors.neutral-dark.800}, 0) 0%, rgba({colors.neutral-dark.800}, 0.4) 100%)",
         "type": "color"
       },
       "bottom-to-top-80": {
-        "value": "linear-gradient(180deg, rgba({colors.neutral.800}, 0) 0%, rgba({colors.neutral.800}, 0.6) 40%, rgba({colors.neutral.800}, 0.8) 100%)",
-        "type": "color"
-      }
-    },
-    "neutral": {
-      "25": {
-        "value": "#F8F9FA",
-        "type": "color"
-      },
-      "50": {
-        "value": "#F1F2F3",
-        "type": "color"
-      },
-      "100": {
-        "value": "#EBECED",
-        "type": "color"
-      },
-      "200": {
-        "value": "#DDDEE1",
-        "type": "color"
-      },
-      "300": {
-        "value": "#CACCD2",
-        "type": "color"
-      },
-      "400": {
-        "value": "#C0C3C8",
-        "type": "color"
-      },
-      "500": {
-        "value": "#969BA3",
-        "type": "color"
-      },
-      "600": {
-        "value": "#5A5D6B",
-        "type": "color"
-      },
-      "700": {
-        "value": "#3E4152",
-        "type": "color"
-      },
-      "800": {
-        "value": "#2C2E3D",
-        "type": "color"
-      },
-      "900": {
-        "value": "#212133",
+        "value": "linear-gradient(180deg, rgba({colors.neutral-dark.800}, 0) 0%, rgba({colors.neutral-dark.800}, 0.6) 40%, rgba({colors.neutral-dark.800}, 0.8) 100%)",
         "type": "color"
       }
     },
