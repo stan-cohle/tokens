@@ -86,11 +86,11 @@
         "value": "{theme.danger.default}",
         "type": "color"
       },
-      "inverse-primary": {
+      "inverse-light": {
         "value": "rgba({colors.base.white}, {opacity.8})",
         "type": "color"
       },
-      "inverse-secondary": {
+      "inverse-medium": {
         "value": "rgba({colors.base.white}, {opacity.16})",
         "type": "color"
       }
