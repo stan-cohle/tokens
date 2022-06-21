@@ -67,6 +67,10 @@
       "bottom-to-top-80": {
         "value": "linear-gradient(180deg, rgba({colors.neutral-dark.800}, 0) 0%, rgba({colors.neutral-dark.800}, 0.6) 40%, rgba({colors.neutral-dark.800}, 0.8) 100%)",
         "type": "color"
+      },
+      "white-to-apricot": {
+        "value": "linear-gradient(90deg, rgba({colors.apricot.600}, 0) 0%, {colors.apricot.600} 100%)",
+        "type": "color"
       }
     },
     "neutral-dark": {
