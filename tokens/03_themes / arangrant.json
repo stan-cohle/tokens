@@ -202,7 +202,7 @@
     "border": {
       "selected": {
         "type": "color",
-        "value": "{colors.neutral.800}"
+        "value": "{colors.neutral-dark.800}"
       },
       "inverse-selected": {
         "type": "color",
