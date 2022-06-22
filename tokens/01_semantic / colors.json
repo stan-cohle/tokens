@@ -443,6 +443,10 @@
       "footer": {
         "value": "{theme.bg.inverse-primary}",
         "type": "color"
+      },
+      "header": {
+        "value": "{theme.brand.hover}",
+        "type": "color"
       }
     }
   }
