@@ -134,5 +134,25 @@
       "03_themes / ovago": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "8bbd6fac01dd89a9c9cad1e486c5835378c633cc",
+    "name": "Ovago Styles",
+    "selectedTokenSets": {
+      "00_base / archive": "disabled",
+      "00_base / colors": "source",
+      "00_base / core": "source",
+      "01_semantic / colors": "source",
+      "01_semantic / shadows-colors": "source",
+      "01_semantic / shadows": "source",
+      "01_semantic / tokens": "source",
+      "02_components / button": "source",
+      "03_themes / arangrant": "disabled",
+      "03_themes / chatdeal": "disabled",
+      "03_themes / kayak": "disabled",
+      "03_themes / ovago": "enabled",
+      "03_themes / wowfare": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
