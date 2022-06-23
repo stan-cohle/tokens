@@ -32,6 +32,26 @@
         "value": "rgba({colors.neutral-dark.900}, {opacity.64})",
         "type": "color",
         "description": "Background color for scrim under modal windows"
+      },
+      "info": {
+        "value": "{colors.blue.50}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "success": {
+        "value": "{colors.green.50}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "warning": {
+        "value": "{colors.yellow.50}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "danger": {
+        "value": "{colors.red.50}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
       }
     },
     "content": {
@@ -63,8 +83,23 @@
         "value": "rgba({colors.base.white}, {opacity.40})",
         "type": "color"
       },
-      "link": {
+      "info": {
         "value": "{colors.blue.700}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "success": {
+        "value": "{colors.green.700}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "warning": {
+        "value": "{colors.yellow.700}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "danger": {
+        "value": "{colors.red.700}",
         "type": "color",
         "description": "Background color for scrim under modal windows"
       }
@@ -78,20 +113,35 @@
         "value": "{colors.neutral-light.500}",
         "type": "color"
       },
-      "selected": {
-        "type": "color",
-        "value": "{theme.brand.default}"
-      },
-      "danger": {
-        "value": "{theme.danger.default}",
-        "type": "color"
-      },
       "inverse-light": {
         "value": "rgba({colors.base.white}, {opacity.8})",
         "type": "color"
       },
       "inverse-medium": {
         "value": "rgba({colors.base.white}, {opacity.16})",
+        "type": "color"
+      },
+      "selected": {
+        "type": "color",
+        "value": "{theme.brand.default}"
+      },
+      "info": {
+        "value": "{colors.blue.600}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "success": {
+        "value": "{colors.green.600}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "warning": {
+        "value": "{colors.yellow.600}",
+        "type": "color",
+        "description": "Background color for scrim under modal windows"
+      },
+      "danger": {
+        "value": "{theme.danger.default}",
         "type": "color"
       }
     },
@@ -440,12 +490,12 @@
       }
     },
     "presets": {
-      "footer": {
-        "value": "{theme.bg.inverse-primary}",
-        "type": "color"
-      },
       "header": {
         "value": "{theme.brand.hover}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{theme.bg.inverse-primary}",
         "type": "color"
       }
     }
