@@ -29,24 +29,44 @@
         "value": "rgba({colors.neutral-dark.900}, {opacity.64})",
         "type": "color"
       },
+      "brand": {
+        "value": "{theme.brand.default}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{theme.info.default}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{theme.success.default}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{theme.warning.default}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{theme.danger.default}",
+        "type": "color"
+      },
       "light-brand": {
-        "value": "{colors.indigo.50}",
+        "value": "{theme.brand.subtle}",
         "type": "color"
       },
       "light-info": {
-        "value": "{colors.blue.50}",
+        "value": "{theme.info.subtle}",
         "type": "color"
       },
       "light-success": {
-        "value": "{colors.green.50}",
+        "value": "{theme.success.subtle}",
         "type": "color"
       },
       "light-warning": {
-        "value": "{colors.yellow.50}",
+        "value": "{theme.warning.subtle}",
         "type": "color"
       },
       "light-danger": {
-        "value": "{colors.red.50}",
+        "value": "{theme.danger.subtle}",
         "type": "color"
       }
     },
@@ -79,12 +99,12 @@
         "value": "rgba({colors.base.white}, {opacity.40})",
         "type": "color"
       },
-      "info": {
-        "value": "{colors.blue.700}",
-        "type": "color"
-      },
       "brand": {
         "value": "{colors.indigo.700}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{colors.blue.700}",
         "type": "color"
       },
       "success": {
@@ -209,7 +229,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.blue.100}"
+        "value": "{colors.blue.50}"
       },
       "oninfo": {
         "type": "color",
@@ -239,7 +259,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.green.100}"
+        "value": "{colors.green.50}"
       },
       "onsuccess": {
         "type": "color",
@@ -269,7 +289,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.yellow.100}"
+        "value": "{colors.yellow.50}"
       },
       "onwarning": {
         "type": "color",
@@ -299,7 +319,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.red.100}"
+        "value": "{colors.red.50}"
       },
       "ondanger": {
         "type": "color",
