@@ -100,11 +100,11 @@
         "type": "color"
       },
       "brand": {
-        "value": "{colors.indigo.700}",
+        "value": "{theme.brand.hover}",
         "type": "color"
       },
       "info": {
-        "value": "{colors.blue.700}",
+        "value": "{theme.info.hover}",
         "type": "color"
       },
       "success": {
@@ -112,11 +112,11 @@
         "type": "color"
       },
       "warning": {
-        "value": "{colors.yellow.700}",
+        "value": "{theme.warning.hover}",
         "type": "color"
       },
       "danger": {
-        "value": "{colors.red.700}",
+        "value": "{theme.danger.hover}",
         "type": "color"
       }
     },
@@ -146,7 +146,7 @@
         "type": "color"
       },
       "success": {
-        "value": "{colors.green.600}",
+        "value": "{theme.success.hover}",
         "type": "color"
       },
       "warning": {
