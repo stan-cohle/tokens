@@ -3,7 +3,6 @@
     "bg": {
       "primary": {
         "type": "color",
-        "description": "Primary background for top-most level",
         "value": "{colors.base.white}"
       },
       "secondary": {
@@ -20,38 +19,35 @@
       },
       "inverse-primary": {
         "type": "color",
-        "description": "Primary background for top-most level",
         "value": "{colors.neutral-dark.800}"
       },
       "inverse-secondary": {
         "type": "color",
-        "description": "Primary background for top-most level",
         "value": "{colors.neutral-dark.900}"
       },
       "scrim": {
         "value": "rgba({colors.neutral-dark.900}, {opacity.64})",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
-      "info": {
+      "light-brand": {
+        "value": "{colors.indigo.50}",
+        "type": "color"
+      },
+      "light-info": {
         "value": "{colors.blue.50}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
-      "success": {
+      "light-success": {
         "value": "{colors.green.50}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
-      "warning": {
+      "light-warning": {
         "value": "{colors.yellow.50}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
-      "danger": {
+      "light-danger": {
         "value": "{colors.red.50}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       }
     },
     "content": {
@@ -85,23 +81,23 @@
       },
       "info": {
         "value": "{colors.blue.700}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
+      },
+      "brand": {
+        "value": "{colors.indigo.700}",
+        "type": "color"
       },
       "success": {
         "value": "{colors.green.700}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
       "warning": {
         "value": "{colors.yellow.700}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
       "danger": {
         "value": "{colors.red.700}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       }
     },
     "border": {
@@ -121,24 +117,21 @@
         "value": "rgba({colors.base.white}, {opacity.16})",
         "type": "color"
       },
-      "selected": {
+      "brand": {
         "type": "color",
         "value": "{theme.brand.default}"
       },
       "info": {
         "value": "{colors.blue.600}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
       "success": {
         "value": "{colors.green.600}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
       "warning": {
         "value": "{colors.yellow.600}",
-        "type": "color",
-        "description": "Background color for scrim under modal windows"
+        "type": "color"
       },
       "danger": {
         "value": "{theme.danger.default}",
@@ -148,22 +141,18 @@
     "brand": {
       "default": {
         "type": "color",
-        "description": "bg, background, border",
         "value": "{colors.indigo.600}"
       },
       "hover": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.indigo.700}"
       },
       "active": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.indigo.800}"
       },
       "secondary": {
         "type": "color",
-        "description": "bg, background, border",
         "value": "{colors.indigo.500}"
       },
       "muted": {
@@ -172,7 +161,6 @@
       },
       "subtle": {
         "type": "color",
-        "description": "subtle-background",
         "value": "{colors.indigo.50}"
       },
       "onprimary": {
@@ -201,17 +189,14 @@
     "info": {
       "default": {
         "type": "color",
-        "description": "bg, background, border",
         "value": "{colors.blue.600}"
       },
       "hover": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.blue.700}"
       },
       "active": {
         "type": "color",
-        "description": "bg, background, border",
         "value": "{colors.blue.800}"
       },
       "secondary": {
@@ -224,7 +209,6 @@
       },
       "subtle": {
         "type": "color",
-        "description": "subtle-background",
         "value": "{colors.blue.100}"
       },
       "oninfo": {
@@ -235,17 +219,14 @@
     "success": {
       "default": {
         "type": "color",
-        "description": "bg, background, border",
         "value": "{colors.green.600}"
       },
       "hover": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.green.700}"
       },
       "active": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.green.800}"
       },
       "secondary": {
@@ -258,7 +239,6 @@
       },
       "subtle": {
         "type": "color",
-        "description": "subtle-background",
         "value": "{colors.green.100}"
       },
       "onsuccess": {
@@ -269,17 +249,14 @@
     "warning": {
       "default": {
         "type": "color",
-        "description": "bg, background, border",
         "value": "{colors.yellow.600}"
       },
       "hover": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.yellow.700}"
       },
       "active": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.yellow.800}"
       },
       "secondary": {
@@ -302,17 +279,14 @@
     "danger": {
       "default": {
         "type": "color",
-        "description": "bg, background, border",
         "value": "{colors.red.600}"
       },
       "hover": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.red.700}"
       },
       "active": {
         "type": "color",
-        "description": "content, icon, text",
         "value": "{colors.red.800}"
       },
       "secondary": {
@@ -325,7 +299,6 @@
       },
       "subtle": {
         "type": "color",
-        "description": "subtle-background",
         "value": "{colors.red.100}"
       },
       "ondanger": {
@@ -387,13 +360,11 @@
       "black": {
         "8": {
           "value": "rgba({colors.base.black}, {opacity.8})",
-          "type": "color",
-          "description": "Darken 10"
+          "type": "color"
         },
         "16": {
           "value": "rgba({colors.base.black}, {opacity.16})",
-          "type": "color",
-          "description": "Darken 20"
+          "type": "color"
         },
         "24": {
           "value": "rgba({colors.base.black}, {opacity.24})",
@@ -439,13 +410,11 @@
       "white": {
         "8": {
           "value": "rgba({colors.base.white}, {opacity.8})",
-          "type": "color",
-          "description": "Darken 10"
+          "type": "color"
         },
         "16": {
           "value": "rgba({colors.base.white}, {opacity.16})",
-          "type": "color",
-          "description": "Darken 20"
+          "type": "color"
         },
         "24": {
           "value": "rgba({colors.base.white}, {opacity.24})",
