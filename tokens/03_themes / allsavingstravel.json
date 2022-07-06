@@ -22,7 +22,33 @@
         "type": "color"
       },
       "subtle": {
-        "value": "#EAF0F6",
+        "value": "{colors.blue.50}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "default": {
+        "value": "{colors.blue.700}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.blue.800}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.blue.900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{colors.blue.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.blue.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.blue.50}",
         "type": "color"
       }
     }
