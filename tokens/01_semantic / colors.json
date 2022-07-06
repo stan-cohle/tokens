@@ -101,7 +101,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.indigo.100}"
+        "value": "{colors.indigo.50}"
       },
       "onprimary": {
         "type": "color",
@@ -149,7 +149,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.blue.100}"
+        "value": "{colors.blue.50}"
       },
       "oninfo": {
         "type": "color",
@@ -179,7 +179,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.green.100}"
+        "value": "{colors.green.50}"
       },
       "onsuccess": {
         "type": "color",
@@ -209,7 +209,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.yellow.100}"
+        "value": "{colors.yellow.50}"
       },
       "onwarning": {
         "type": "color",
@@ -239,7 +239,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.red.100}"
+        "value": "{colors.red.50}"
       },
       "ondanger": {
         "type": "color",
@@ -247,7 +247,7 @@
       }
     },
     "opacity": {
-      "primary": {
+      "brand": {
         "8": {
           "value": "rgba({theme.primary.default}, {opacity.8})",
           "type": "color"
@@ -403,16 +403,12 @@
         "type": "color",
         "value": "{theme.primary.hover}"
       },
-      "subheader": {
-        "type": "color",
-        "value": "{theme.primary.active}"
-      },
       "footer": {
         "value": "{theme.bg.inverse-primary}",
         "type": "color"
       },
       "link": {
-        "value": "{colors.blue.700}",
+        "value": "{colors.blue.800}",
         "type": "color"
       }
     }

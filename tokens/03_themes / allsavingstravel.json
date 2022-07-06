@@ -51,20 +51,24 @@
         "value": "{colors.blue.50}",
         "type": "color"
       }
-    }
-  },
-  "presets": {
-    "footer": {
-      "value": "#222222",
-      "type": "color"
     },
-    "header": {
-      "value": "$colors.base.white",
-      "type": "color"
-    },
-    "subheader": {
-      "value": "#EAF0F6",
-      "type": "color"
+    "presets": {
+      "header": {
+        "value": "$colors.base.white",
+        "type": "color"
+      },
+      "footer": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "link": {
+        "value": "{colors.blue.800}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "#EAF0F6",
+        "type": "color"
+      }
     }
   },
   "colors": {
