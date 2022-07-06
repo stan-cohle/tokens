@@ -2,7 +2,7 @@
   "theme": {
     "brand": {
       "default": {
-        "value": "$colors.blue-300",
+        "value": "{colors.blue.700}",
         "type": "color"
       },
       "default-subtle": {
@@ -21,7 +21,7 @@
       "type": "color"
     },
     "subheader": {
-      "value": "$theme.brand.subtle",
+      "value": "#EAF0F6",
       "type": "color"
     }
   },
@@ -106,23 +106,25 @@
       "value": "linear-gradient(135deg, #00ffd4 0%, #00cff9 15%, #007cff 49%, #681aea 100%)",
       "type": "color"
     },
-    "blue-100": {
-      "value": "#eaf0f6",
-      "type": "color"
-    },
-    "blue-200": {
-      "value": "#cbd6e5",
-      "type": "color"
-    },
-    "blue-300": {
-      "value": "#007cff",
-      "type": "color"
+    "blue": {
+      "100": {
+        "value": "#eaf0f6",
+        "type": "color"
+      },
+      "200": {
+        "value": "#cbd6e5",
+        "type": "color"
+      },
+      "700": {
+        "value": "#007cff",
+        "type": "color"
+      }
     },
     "violet": {
       "value": "#000edb",
       "type": "color"
     },
-    "blue-400": {
+    "charcoal": {
       "value": "#33475b",
       "type": "color"
     },
