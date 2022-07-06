@@ -28,46 +28,6 @@
       "scrim": {
         "value": "rgba({colors.neutral-dark.900}, {opacity.64})",
         "type": "color"
-      },
-      "brand": {
-        "type": "color",
-        "value": "{theme.primary.default}"
-      },
-      "info": {
-        "value": "{theme.info.default}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{theme.success.default}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{theme.warning.default}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{theme.danger.default}",
-        "type": "color"
-      },
-      "light-brand": {
-        "type": "color",
-        "value": "{theme.primary.subtle}"
-      },
-      "light-info": {
-        "value": "{theme.info.subtle}",
-        "type": "color"
-      },
-      "light-success": {
-        "value": "{theme.success.subtle}",
-        "type": "color"
-      },
-      "light-warning": {
-        "value": "{theme.warning.subtle}",
-        "type": "color"
-      },
-      "light-danger": {
-        "value": "{theme.danger.subtle}",
-        "type": "color"
       }
     },
     "content": {
@@ -98,26 +58,6 @@
       "inverse-tertiary": {
         "value": "rgba({colors.base.white}, {opacity.40})",
         "type": "color"
-      },
-      "brand": {
-        "type": "color",
-        "value": "{theme.primary.hover}"
-      },
-      "info": {
-        "value": "{theme.info.hover}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{colors.green.700}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{theme.warning.hover}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{theme.danger.hover}",
-        "type": "color"
       }
     },
     "border": {
@@ -135,26 +75,6 @@
       },
       "inverse-medium": {
         "value": "rgba({colors.base.white}, {opacity.16})",
-        "type": "color"
-      },
-      "brand": {
-        "type": "color",
-        "value": "{theme.primary.default}"
-      },
-      "info": {
-        "value": "{colors.blue.600}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{theme.success.hover}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{colors.yellow.600}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{theme.danger.default}",
         "type": "color"
       }
     },
@@ -485,6 +405,10 @@
       },
       "footer": {
         "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{colors.blue.800}",
         "type": "color"
       }
     }

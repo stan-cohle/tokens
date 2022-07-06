@@ -144,10 +144,6 @@
         "type": "color"
       }
     },
-    "gradient": {
-      "value": "linear-gradient(135deg, #00ffd4 0%, #00cff9 15%, #007cff 49%, #681aea 100%)",
-      "type": "color"
-    },
     "blue": {
       "25": {
         "value": "#F5F8FF",
@@ -208,6 +204,10 @@
     },
     "purple-200": {
       "value": "#681aea",
+      "type": "color"
+    },
+    "gradient": {
+      "value": "linear-gradient(135deg, #00ffd4 0%, #00cff9 15%, #007cff 49%, #681aea 100%)",
       "type": "color"
     }
   }
