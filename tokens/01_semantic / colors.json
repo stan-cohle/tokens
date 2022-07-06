@@ -412,7 +412,7 @@
         "type": "color"
       },
       "link": {
-        "value": "{colors.blue.800}",
+        "value": "{colors.blue.700}",
         "type": "color"
       }
     }
