@@ -403,6 +403,10 @@
         "type": "color",
         "value": "{theme.primary.hover}"
       },
+      "subheader": {
+        "type": "color",
+        "value": "{theme.primary.active}"
+      },
       "footer": {
         "value": "{theme.bg.inverse-primary}",
         "type": "color"
