@@ -208,5 +208,117 @@
         "type": "color"
       }
     }
+  },
+  "theme": {
+    "primary": {
+      "default": {
+        "value": "{colors.primary.base}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.primary.tone}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.primary.dark}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.primary.tint}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.primary.light}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "default": {
+        "value": "{colors.primary.base}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.primary.tone}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.primary.dark}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.primary.tint}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.primary.light}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "default": {
+        "value": "{colors.secondary.base}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.secondary.tone}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.secondary.dark}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.secondary.tint}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.secondary.light}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "{colors.alert.base}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.alert.tone}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.alert.dark}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.alert.tint}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.alert.light}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "default": {
+        "value": "{colors.error.base}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.error.tone}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.error.dark}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.error.tint}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.error.light}",
+        "type": "color"
+      }
+    }
   }
 }
