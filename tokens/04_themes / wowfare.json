@@ -13,10 +13,6 @@
         "type": "color",
         "value": "{colors.mint.800}"
       },
-      "secondary": {
-        "type": "color",
-        "value": "{colors.mint.500}"
-      },
       "muted": {
         "type": "color",
         "value": "{colors.mint.400}"
@@ -38,10 +34,6 @@
       "active": {
         "type": "color",
         "value": "{colors.rouge.800}"
-      },
-      "secondary": {
-        "type": "color",
-        "value": "{colors.rouge.500}"
       },
       "muted": {
         "type": "color",
@@ -65,10 +57,6 @@
         "type": "color",
         "value": "{colors.mint.800}"
       },
-      "secondary": {
-        "type": "color",
-        "value": "{colors.mint.500}"
-      },
       "muted": {
         "type": "color",
         "value": "{colors.mint.400}"
@@ -81,33 +69,23 @@
     "presets": {
       "footer": {
         "type": "color",
-        "value": "{colors.mirage.900}"
-      }
-    },
-    "border": {
-      "selected": {
-        "type": "color",
-        "value": "{theme.primary.hover}"
+        "value": "{colors.other.mirage}"
       }
     }
   },
   "colors": {
-    "sunflower": {
-      "500": {
+    "other": {
+      "sunflower": {
         "value": "#ffe03c",
         "type": "color",
         "description": "Accent Elements"
-      }
-    },
-    "mirage": {
-      "900": {
+      },
+      "mirage": {
         "value": "#1a2633",
         "type": "color",
         "description": "Footer"
-      }
-    },
-    "other": {
-      "mint": {
+      },
+      "mint-gradient": {
         "value": "linear-gradient(180deg, #25acaa 0%, #0da3a1 100%)",
         "type": "color",
         "description": "Sub Header"
