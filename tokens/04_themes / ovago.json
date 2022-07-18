@@ -114,14 +114,16 @@
         "type": "color"
       }
     },
-    "grape-gradient": {
-      "value": "linear-gradient(180deg, {colors.grape.600} 0%, {colors.grape.700} 100%)",
-      "type": "color",
-      "description": "Sub header"
-    },
-    "midnight": {
-      "value": "#1b1736",
-      "type": "color"
+    "other": {
+      "grape-gradient": {
+        "value": "linear-gradient(180deg, {colors.grape.600} 0%, {colors.grape.700} 100%)",
+        "type": "color",
+        "description": "Sub header"
+      },
+      "midnight": {
+        "value": "#1b1736",
+        "type": "color"
+      }
     }
   },
   "theme": {
@@ -136,10 +138,6 @@
       },
       "active": {
         "value": "{colors.grape.700}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{colors.grape.400}",
         "type": "color"
       },
       "muted": {
@@ -162,10 +160,6 @@
       },
       "active": {
         "value": "{colors.cranberry.700}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{colors.cranberry.400}",
         "type": "color"
       },
       "muted": {

@@ -130,7 +130,7 @@
   "theme": {
     "primary": {
       "default": {
-        "value": "{colors.midnight}",
+        "value": "{colors.other.midnight}",
         "type": "color"
       },
       "hover": {

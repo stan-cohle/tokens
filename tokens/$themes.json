@@ -88,28 +88,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "7438e3798f0dbf50ead437e6652e591fdb1920dc",
-    "name": "Ovago",
-    "selectedTokenSets": {
-      "00_base / colors": "enabled",
-      "00_base / core": "enabled",
-      "00_base / archive": "disabled",
-      "02_semantic / colors": "enabled",
-      "02_semantic / shadows": "enabled",
-      "02_semantic / shadows-colors": "source",
-      "02_semantic / tokens": "enabled",
-      "03_components / button": "enabled",
-      "04_themes / allsavingstravel": "disabled",
-      "04_themes / arangrant": "disabled",
-      "04_themes / chatdeal": "disabled",
-      "04_themes / kayak": "disabled",
-      "04_themes / ovago": "enabled",
-      "04_themes / priceline": "disabled",
-      "04_themes / wowfare": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "8bbd6fac01dd89a9c9cad1e486c5835378c633cc",
     "name": "Ovago Styles",
     "selectedTokenSets": {
@@ -216,6 +194,28 @@
       "04_themes / ovago": "disabled",
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "7438e3798f0dbf50ead437e6652e591fdb1920dc",
+    "name": "Ovago",
+    "selectedTokenSets": {
+      "00_base / colors": "source",
+      "00_base / core": "enabled",
+      "00_base / archive": "disabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / shadows": "enabled",
+      "02_semantic / shadows-colors": "source",
+      "02_semantic / tokens": "enabled",
+      "03_components / button": "enabled",
+      "04_themes / allsavingstravel": "disabled",
+      "04_themes / arangrant": "disabled",
+      "04_themes / chatdeal": "disabled",
+      "04_themes / kayak": "disabled",
+      "04_themes / ovago": "enabled",
+      "04_themes / priceline": "disabled",
+      "04_themes / wowfare": "disabled"
     },
     "$figmaStyleReferences": {}
   }
