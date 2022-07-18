@@ -16,7 +16,8 @@
       "03_semantic / shadows": "disabled",
       "03_semantic / shadows-colors": "disabled",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,7 +38,8 @@
       "03_semantic / shadows": "enabled",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -58,7 +60,8 @@
       "03_semantic / shadows": "enabled",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -79,7 +82,8 @@
       "03_semantic / shadows": "enabled",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -100,7 +104,8 @@
       "03_semantic / shadows": "enabled",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -121,7 +126,8 @@
       "03_semantic / shadows": "enabled",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -142,7 +148,8 @@
       "03_semantic / shadows": "source",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "source",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -163,7 +170,8 @@
       "03_semantic / shadows": "enabled",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -184,7 +192,30 @@
       "03_semantic / shadows": "enabled",
       "03_semantic / shadows-colors": "source",
       "03_semantic / tokens": "enabled",
-      "00_base / archive": "disabled"
+      "00_base / archive": "disabled",
+      "01_themes / priceline": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "473884322551d49f246b546b32d307ca1f6ea570",
+    "name": "Priceline",
+    "selectedTokenSets": {
+      "00_base / archive": "disabled",
+      "00_base / colors": "enabled",
+      "00_base / core": "enabled",
+      "01_themes / allsavingstravel": "disabled",
+      "01_themes / arangrant": "disabled",
+      "01_themes / chatdeal": "disabled",
+      "01_themes / kayak": "disabled",
+      "01_themes / ovago": "disabled",
+      "01_themes / wowfare": "disabled",
+      "02_components / button": "enabled",
+      "03_semantic / colors": "enabled",
+      "03_semantic / shadows-colors": "source",
+      "03_semantic / shadows": "enabled",
+      "03_semantic / tokens": "enabled",
+      "01_themes / priceline": "enabled"
     },
     "$figmaStyleReferences": {}
   }
