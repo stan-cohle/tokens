@@ -44,28 +44,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
-    "name": "Wowfare",
-    "selectedTokenSets": {
-      "00_base / colors": "enabled",
-      "00_base / core": "enabled",
-      "00_base / archive": "disabled",
-      "02_semantic / colors": "enabled",
-      "02_semantic / shadows": "enabled",
-      "02_semantic / shadows-colors": "source",
-      "02_semantic / tokens": "enabled",
-      "03_components / button": "enabled",
-      "04_themes / allsavingstravel": "disabled",
-      "04_themes / arangrant": "disabled",
-      "04_themes / chatdeal": "disabled",
-      "04_themes / kayak": "disabled",
-      "04_themes / ovago": "disabled",
-      "04_themes / priceline": "disabled",
-      "04_themes / wowfare": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "4ea711a8623168909dfd29b753d42cb41e3d1abb",
     "name": "ChatDeal",
     "selectedTokenSets": {
@@ -216,6 +194,28 @@
       "04_themes / ovago": "disabled",
       "04_themes / priceline": "enabled",
       "04_themes / wowfare": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
+    "name": "Wowfare",
+    "selectedTokenSets": {
+      "00_base / colors": "source",
+      "00_base / core": "enabled",
+      "00_base / archive": "disabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / shadows": "enabled",
+      "02_semantic / shadows-colors": "source",
+      "02_semantic / tokens": "enabled",
+      "03_components / button": "enabled",
+      "04_themes / allsavingstravel": "disabled",
+      "04_themes / arangrant": "disabled",
+      "04_themes / chatdeal": "disabled",
+      "04_themes / kayak": "disabled",
+      "04_themes / ovago": "disabled",
+      "04_themes / priceline": "disabled",
+      "04_themes / wowfare": "enabled"
     },
     "$figmaStyleReferences": {}
   }
