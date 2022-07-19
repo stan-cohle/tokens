@@ -166,7 +166,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.apricot.100}"
+        "value": "{colors.apricot.200}"
       }
     },
     "warning": {
@@ -192,7 +192,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.apricot.100}"
+        "value": "{colors.apricot.200}"
       }
     },
     "border": {
