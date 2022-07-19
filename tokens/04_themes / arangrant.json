@@ -194,6 +194,20 @@
         "type": "color",
         "value": "{colors.apricot.200}"
       }
+    },
+    "presets": {
+      "footer": {
+        "value": "{colors.neutral-dark.900}",
+        "type": "color"
+      },
+      "header": {
+        "value": "{colors.other.gradient-apricot}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{theme.info.tone}",
+        "type": "color"
+      }
     }
   },
   "button": {
