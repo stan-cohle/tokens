@@ -1,19 +1,19 @@
 {
   "theme": {
     "primary": {
+      "dark": {
+        "value": "{colors.blue.900}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.blue.800}",
+        "type": "color"
+      },
       "default": {
         "value": "{colors.blue.700}",
         "type": "color"
       },
-      "hover": {
-        "value": "{colors.blue.800}",
-        "type": "color"
-      },
-      "active": {
-        "value": "{colors.blue.900}",
-        "type": "color"
-      },
-      "secondary": {
+      "tint": {
         "value": "{colors.blue.500}",
         "type": "color"
       },
@@ -27,19 +27,19 @@
       }
     },
     "info": {
+      "dark": {
+        "value": "{colors.blue.900}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.blue.800}",
+        "type": "color"
+      },
       "default": {
         "value": "{colors.blue.700}",
         "type": "color"
       },
-      "hover": {
-        "value": "{colors.blue.800}",
-        "type": "color"
-      },
-      "active": {
-        "value": "{colors.blue.900}",
-        "type": "color"
-      },
-      "secondary": {
+      "tint": {
         "value": "{colors.blue.500}",
         "type": "color"
       },
@@ -194,25 +194,27 @@
         "type": "color"
       }
     },
-    "violet": {
-      "value": "#000edb",
-      "type": "color"
-    },
-    "charcoal": {
-      "value": "#33475b",
-      "type": "color"
-    },
-    "purple-100": {
-      "value": "#b38cf4",
-      "type": "color"
-    },
-    "purple-200": {
-      "value": "#681aea",
-      "type": "color"
-    },
-    "gradient": {
-      "value": "linear-gradient(135deg, #00ffd4 0%, #00cff9 15%, #007cff 49%, #681aea 100%)",
-      "type": "color"
+    "other": {
+      "violet": {
+        "value": "#000edb",
+        "type": "color"
+      },
+      "charcoal": {
+        "value": "#33475b",
+        "type": "color"
+      },
+      "purple-100": {
+        "value": "#b38cf4",
+        "type": "color"
+      },
+      "purple-200": {
+        "value": "#681aea",
+        "type": "color"
+      },
+      "gradient": {
+        "value": "linear-gradient(135deg, #00ffd4 0%, #00cff9 15%, #007cff 49%, #681aea 100%)",
+        "type": "color"
+      }
     }
   }
 }

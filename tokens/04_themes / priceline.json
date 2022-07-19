@@ -17,12 +17,12 @@
         "value": "#0055c4",
         "type": "color"
       },
-      "dark": {
-        "value": "#004499",
-        "type": "color"
-      },
       "shade": {
         "value": "#002f6d",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#004499",
         "type": "color"
       }
     },
@@ -211,16 +211,16 @@
   },
   "theme": {
     "primary": {
-      "default": {
-        "value": "{colors.primary.base}",
+      "dark": {
+        "value": "{colors.primary.dark}",
         "type": "color"
       },
-      "hover": {
+      "tone": {
         "value": "{colors.primary.tone}",
         "type": "color"
       },
-      "active": {
-        "value": "{colors.primary.dark}",
+      "default": {
+        "value": "{colors.primary.base}",
         "type": "color"
       },
       "muted": {
@@ -233,16 +233,16 @@
       }
     },
     "info": {
-      "default": {
-        "value": "{colors.primary.base}",
+      "dark": {
+        "value": "{colors.primary.dark}",
         "type": "color"
       },
-      "hover": {
+      "tone": {
         "value": "{colors.primary.tone}",
         "type": "color"
       },
-      "active": {
-        "value": "{colors.primary.dark}",
+      "default": {
+        "value": "{colors.primary.base}",
         "type": "color"
       },
       "muted": {
@@ -255,16 +255,16 @@
       }
     },
     "success": {
-      "default": {
-        "value": "{colors.secondary.base}",
+      "dark": {
+        "value": "{colors.secondary.dark}",
         "type": "color"
       },
-      "hover": {
+      "tone": {
         "value": "{colors.secondary.tone}",
         "type": "color"
       },
-      "active": {
-        "value": "{colors.secondary.dark}",
+      "default": {
+        "value": "{colors.secondary.base}",
         "type": "color"
       },
       "muted": {
@@ -277,16 +277,16 @@
       }
     },
     "warning": {
-      "default": {
-        "value": "{colors.alert.base}",
+      "dark": {
+        "value": "{colors.alert.dark}",
         "type": "color"
       },
-      "hover": {
+      "tone": {
         "value": "{colors.alert.tone}",
         "type": "color"
       },
-      "active": {
-        "value": "{colors.alert.dark}",
+      "default": {
+        "value": "{colors.alert.base}",
         "type": "color"
       },
       "muted": {
@@ -299,16 +299,16 @@
       }
     },
     "danger": {
-      "default": {
-        "value": "{colors.error.base}",
+      "dark": {
+        "value": "{colors.error.dark}",
         "type": "color"
       },
-      "hover": {
+      "tone": {
         "value": "{colors.error.tone}",
         "type": "color"
       },
-      "active": {
-        "value": "{colors.error.dark}",
+      "default": {
+        "value": "{colors.error.base}",
         "type": "color"
       },
       "muted": {
