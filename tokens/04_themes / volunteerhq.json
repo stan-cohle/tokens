@@ -247,28 +247,28 @@
       }
     },
     "other": {
-      "alice-blue": {
-        "value": "#f3f9fa",
-        "type": "color"
-      },
-      "tea-green": {
-        "value": "#d5eab2",
-        "type": "color"
-      },
-      "water": {
-        "value": "#d2f1f3",
-        "type": "color"
-      },
-      "grey-2": {
-        "value": "#e1e1e1",
+      "onyx": {
+        "value": "#383838",
         "type": "color"
       },
       "grey-1": {
         "value": "#ececec",
         "type": "color"
       },
-      "onyx": {
-        "value": "#383838",
+      "grey-2": {
+        "value": "#e1e1e1",
+        "type": "color"
+      },
+      "alice-blue": {
+        "value": "#f3f9fa",
+        "type": "color"
+      },
+      "water": {
+        "value": "#d2f1f3",
+        "type": "color"
+      },
+      "tea-green": {
+        "value": "#d5eab2",
         "type": "color"
       },
       "blue-gradient": {
