@@ -234,7 +234,7 @@
     "name": "Volunteerhq",
     "selectedTokenSets": {
       "00_base / archive": "disabled",
-      "00_base / colors": "source",
+      "00_base / colors": "enabled",
       "00_base / core": "enabled",
       "02_semantic / colors": "enabled",
       "02_semantic / shadows-colors": "source",
