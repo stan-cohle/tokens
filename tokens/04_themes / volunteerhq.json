@@ -267,8 +267,16 @@
         "value": "#d2f1f3",
         "type": "color"
       },
+      "celestial-blue": {
+        "value": "#2FB2BC",
+        "type": "color"
+      },
       "tea-green": {
         "value": "#d5eab2",
+        "type": "color"
+      },
+      "pistachio": {
+        "value": "#A1D36C",
         "type": "color"
       },
       "blue-gradient": {
