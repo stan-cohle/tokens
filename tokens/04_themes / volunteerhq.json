@@ -1,0 +1,217 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "value": "{colors.green.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.green.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.green.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.green.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.green.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.green.100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "dark": {
+        "value": "{colors.blue.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.blue.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.blue.600}",
+        "type": "color",
+        "description": "Butterfly"
+      },
+      "tint": {
+        "value": "{colors.blue.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.blue.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.blue.100}",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "#f5f7f9",
+        "type": "color"
+      },
+      "form": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "footer": {
+        "value": "#192f40",
+        "type": "color"
+      },
+      "link": {
+        "value": "#00679a",
+        "type": "color"
+      },
+      "controls": {
+        "value": "#0093dc",
+        "type": "color"
+      }
+    },
+    "content": {
+      "primary": {
+        "value": "{colors.other.onyx}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "secondary": {
+        "value": "{colors.other.grey-1}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{colors.other.grey-2}",
+        "type": "color"
+      }
+    }
+  },
+  "colors": {
+    "green": {
+      "100": {
+        "value": "#bfe3ca",
+        "type": "color"
+      },
+      "200": {
+        "value": "#bfe3ca",
+        "type": "color"
+      },
+      "300": {
+        "value": "#a5d5b3",
+        "type": "color"
+      },
+      "400": {
+        "value": "#86c197",
+        "type": "color"
+      },
+      "500": {
+        "value": "#5ea573",
+        "type": "color"
+      },
+      "600": {
+        "value": "#288744",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1f6935",
+        "type": "color"
+      },
+      "800": {
+        "value": "#1c6030",
+        "type": "color"
+      },
+      "900": {
+        "value": "#19562b",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "100": {
+        "value": "#cceef5",
+        "type": "color"
+      },
+      "200": {
+        "value": "#8edbeb",
+        "type": "color"
+      },
+      "300": {
+        "value": "#5ec7de",
+        "type": "color"
+      },
+      "400": {
+        "value": "#22b3d3",
+        "type": "color"
+      },
+      "500": {
+        "value": "#149ab8",
+        "type": "color"
+      },
+      "600": {
+        "value": "#007f9b",
+        "type": "color"
+      },
+      "700": {
+        "value": "#006075",
+        "type": "color"
+      },
+      "800": {
+        "value": "#005568",
+        "type": "color"
+      },
+      "900": {
+        "value": "#004b5b",
+        "type": "color"
+      }
+    },
+    "other": {
+      "alice-blue": {
+        "value": "#f3f9fa",
+        "type": "color"
+      },
+      "tea-green": {
+        "value": "#d5eab2",
+        "type": "color"
+      },
+      "water": {
+        "value": "#d2f1f3",
+        "type": "color"
+      },
+      "grey-2": {
+        "value": "#e1e1e1",
+        "type": "color"
+      },
+      "grey-1": {
+        "value": "#ececec",
+        "type": "color"
+      },
+      "onyx": {
+        "value": "#383838",
+        "type": "color"
+      }
+    },
+    "charcoal": {
+      "700": {
+        "value": "#2f3f4c",
+        "type": "color"
+      },
+      "800": {
+        "value": "#202b34",
+        "type": "color"
+      },
+      "900": {
+        "value": "#1c252c",
+        "type": "color"
+      }
+    }
+  }
+}

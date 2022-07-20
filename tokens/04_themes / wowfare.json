@@ -1,6 +1,6 @@
 {
   "theme": {
-    "primary": {
+    "accent": {
       "dark": {
         "type": "color",
         "value": "{colors.mint.800}"
@@ -26,7 +26,7 @@
         "value": "{colors.mint.50}"
       }
     },
-    "accent": {
+    "primary": {
       "dark": {
         "type": "color",
         "value": "{colors.rouge.800}"

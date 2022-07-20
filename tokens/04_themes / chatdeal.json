@@ -130,7 +130,7 @@
     }
   },
   "theme": {
-    "primary": {
+    "accent": {
       "default": {
         "value": "{colors.other.midnight}",
         "type": "color"
@@ -140,7 +140,7 @@
         "type": "color"
       }
     },
-    "accent": {
+    "primary": {
       "default": {
         "value": "{colors.other.coral}",
         "type": "color"

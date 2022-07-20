@@ -58,7 +58,7 @@
     }
   },
   "theme": {
-    "primary": {
+    "accent": {
       "dark": {
         "value": "{colors.pumpkin.700}",
         "type": "color",
@@ -162,7 +162,7 @@
         "type": "color"
       }
     },
-    "accent": {
+    "primary": {
       "default": {
         "value": "{colors.chill.600}",
         "type": "color"
