@@ -74,21 +74,11 @@
         "type": "color"
       },
       "link": {
-        "value": "{colors.blue.600}",
+        "value": "{colors.green.700}",
         "type": "color"
       },
       "controls": {
-        "value": "{colors.blue.600}",
-        "type": "color"
-      }
-    },
-    "bg": {
-      "secondary": {
-        "value": "{colors.other.grey-1}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{colors.other.grey-2}",
+        "value": "{colors.green.600}",
         "type": "color"
       }
     }
