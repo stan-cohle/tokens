@@ -37,8 +37,7 @@
       },
       "default": {
         "value": "{colors.blue.600}",
-        "type": "color",
-        "description": "Butterfly"
+        "type": "color"
       },
       "tint": {
         "value": "{colors.blue.500}",
@@ -51,6 +50,10 @@
       "subtle": {
         "value": "{colors.blue.100}",
         "type": "color"
+      },
+      "onaccent": {
+        "value": "{colors.base.white}",
+        "type": "color"
       }
     },
     "presets": {
@@ -59,7 +62,7 @@
         "type": "color"
       },
       "subheader": {
-        "value": "#f5f7f9",
+        "value": "{colors.other.grey-1}",
         "type": "color"
       },
       "form": {
@@ -67,21 +70,15 @@
         "type": "color"
       },
       "footer": {
-        "value": "#192f40",
+        "value": "{colors.other.onyx}",
         "type": "color"
       },
       "link": {
-        "value": "#00679a",
+        "value": "{colors.blue.600}",
         "type": "color"
       },
       "controls": {
-        "value": "#0093dc",
-        "type": "color"
-      }
-    },
-    "content": {
-      "primary": {
-        "value": "{colors.other.onyx}",
+        "value": "{colors.blue.600}",
         "type": "color"
       }
     },
@@ -97,6 +94,82 @@
     }
   },
   "colors": {
+    "neutral-dark": {
+      "100": {
+        "value": "#737391",
+        "type": "color"
+      },
+      "200": {
+        "value": "#676783",
+        "type": "color"
+      },
+      "300": {
+        "value": "#5f5f7a",
+        "type": "color"
+      },
+      "400": {
+        "value": "#565672",
+        "type": "color"
+      },
+      "500": {
+        "value": "#4d4d6a",
+        "type": "color"
+      },
+      "600": {
+        "value": "#42425a",
+        "type": "color"
+      },
+      "700": {
+        "value": "#36364d",
+        "type": "color"
+      },
+      "800": {
+        "value": "#26263b",
+        "type": "color"
+      },
+      "900": {
+        "value": "#212133",
+        "type": "color"
+      }
+    },
+    "neutral-light": {
+      "100": {
+        "value": "#fafafb",
+        "type": "color"
+      },
+      "200": {
+        "value": "#f5f5f7",
+        "type": "color"
+      },
+      "300": {
+        "value": "#efeff1",
+        "type": "color"
+      },
+      "400": {
+        "value": "#e2e2e8",
+        "type": "color"
+      },
+      "500": {
+        "value": "#cbcbd4",
+        "type": "color"
+      },
+      "600": {
+        "value": "#b3b3c1",
+        "type": "color"
+      },
+      "700": {
+        "value": "#a5a5b5",
+        "type": "color"
+      },
+      "800": {
+        "value": "#9696aa",
+        "type": "color"
+      },
+      "900": {
+        "value": "#8d8da2",
+        "type": "color"
+      }
+    },
     "green": {
       "100": {
         "value": "#bfe3ca",

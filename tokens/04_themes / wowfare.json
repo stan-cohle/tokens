@@ -1,31 +1,5 @@
 {
   "theme": {
-    "accent": {
-      "dark": {
-        "type": "color",
-        "value": "{colors.mint.800}"
-      },
-      "tone": {
-        "type": "color",
-        "value": "{colors.mint.700}"
-      },
-      "default": {
-        "type": "color",
-        "value": "{colors.mint.600}"
-      },
-      "tint": {
-        "type": "color",
-        "value": "{colors.mint.500}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{colors.mint.400}"
-      },
-      "subtle": {
-        "type": "color",
-        "value": "{colors.mint.50}"
-      }
-    },
     "primary": {
       "dark": {
         "type": "color",

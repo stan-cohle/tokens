@@ -58,7 +58,7 @@
     }
   },
   "theme": {
-    "accent": {
+    "primary": {
       "dark": {
         "value": "{colors.pumpkin.700}",
         "type": "color",
@@ -70,9 +70,8 @@
         "description": "content, icon, text"
       },
       "default": {
-        "value": "{colors.pumpkin.600}",
-        "type": "color",
-        "description": "bg, background, border"
+        "value": "{colors.chill.600}",
+        "type": "color"
       },
       "tint": {
         "value": "{colors.pumpkin.500}",
@@ -88,6 +87,10 @@
         "value": "{colors.pumpkin.50}",
         "type": "color",
         "description": "content, icon, text"
+      },
+      "hover": {
+        "value": "{colors.chill.700}",
+        "type": "color"
       }
     },
     "bg": {
@@ -159,16 +162,6 @@
       },
       "selected": {
         "value": "#8596A3",
-        "type": "color"
-      }
-    },
-    "primary": {
-      "default": {
-        "value": "{colors.chill.600}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{colors.chill.700}",
         "type": "color"
       }
     },

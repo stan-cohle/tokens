@@ -1,6 +1,6 @@
 {
   "theme": {
-    "accent": {
+    "primary": {
       "dark": {
         "value": "{colors.blue.900}",
         "type": "color"

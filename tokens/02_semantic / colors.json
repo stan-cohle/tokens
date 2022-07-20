@@ -78,7 +78,7 @@
         "type": "color"
       }
     },
-    "accent": {
+    "primary": {
       "dark": {
         "type": "color",
         "value": "{colors.indigo.800}"
@@ -401,7 +401,7 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{theme.accent.tone}"
+        "value": "{theme.primary.tone}"
       },
       "footer": {
         "value": "{theme.bg.inverse-primary}",

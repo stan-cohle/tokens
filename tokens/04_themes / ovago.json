@@ -127,32 +127,6 @@
     }
   },
   "theme": {
-    "accent": {
-      "dark": {
-        "value": "{colors.grape.800}",
-        "type": "color"
-      },
-      "tone": {
-        "value": "{colors.grape.700}",
-        "type": "color"
-      },
-      "default": {
-        "value": "{colors.grape.600}",
-        "type": "color"
-      },
-      "tint": {
-        "value": "{colors.grape.500}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{colors.grape.300}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{colors.grape.100}",
-        "type": "color"
-      }
-    },
     "primary": {
       "dark": {
         "value": "{colors.cranberry.800}",

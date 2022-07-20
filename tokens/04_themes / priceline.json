@@ -210,7 +210,7 @@
     }
   },
   "theme": {
-    "accent": {
+    "primary": {
       "dark": {
         "value": "{colors.primary.dark}",
         "type": "color"

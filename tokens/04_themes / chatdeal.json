@@ -130,19 +130,13 @@
     }
   },
   "theme": {
-    "accent": {
+    "primary": {
       "default": {
-        "value": "{colors.other.midnight}",
+        "value": "{colors.other.coral}",
         "type": "color"
       },
       "hover": {
         "value": "#252537",
-        "type": "color"
-      }
-    },
-    "primary": {
-      "default": {
-        "value": "{colors.other.coral}",
         "type": "color"
       }
     }
