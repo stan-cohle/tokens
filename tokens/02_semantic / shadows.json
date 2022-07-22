@@ -221,8 +221,8 @@
             "color": "{sys.shadow.dark}",
             "type": "dropShadow",
             "x": "0",
-            "y": "-16",
-            "blur": "24",
+            "y": "-8",
+            "blur": "36",
             "spread": "0"
           }
         ],
