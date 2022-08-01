@@ -25,6 +25,10 @@
         "type": "color",
         "value": "{colors.neutral-dark.900}"
       },
+      "inverse-tertiary": {
+        "type": "color",
+        "value": "{colors.neutral-dark.600}"
+      },
       "scrim": {
         "value": "rgba({colors.neutral-dark.900}, {opacity.64})",
         "type": "color"
