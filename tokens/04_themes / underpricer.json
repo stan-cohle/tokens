@@ -275,6 +275,24 @@
         "value": "{colors.neutral-dark.600}",
         "type": "color"
       }
+    },
+    "presets": {
+      "link": {
+        "value": "{colors.blue.600}",
+        "type": "color"
+      },
+      "header": {
+        "value": "{theme.bg.inverse-secondary}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      }
     }
   }
 }
