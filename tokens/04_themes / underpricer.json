@@ -294,5 +294,13 @@
         "type": "color"
       }
     }
+  },
+  "button": {
+    "x-large": {
+      "border-radius": {
+        "value": "{border-radius.12}",
+        "type": "borderRadius"
+      }
+    }
   }
 }

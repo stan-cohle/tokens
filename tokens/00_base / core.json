@@ -250,6 +250,10 @@
       "value": "8",
       "type": "borderRadius"
     },
+    "12": {
+      "value": "12",
+      "type": "borderRadius"
+    },
     "16": {
       "value": "16",
       "type": "borderRadius"
