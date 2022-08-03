@@ -196,12 +196,20 @@
       }
     },
     "presets": {
+      "header": {
+        "value": "{colors.neutral-dark.900}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{colors.neutral-dark.800}",
+        "type": "color"
+      },
       "footer": {
         "value": "{colors.neutral-dark.900}",
         "type": "color"
       },
-      "header": {
-        "value": "{colors.other.gradient-apricot}",
+      "controls": {
+        "value": "{colors.neutral-dark.900}",
         "type": "color"
       },
       "link": {
