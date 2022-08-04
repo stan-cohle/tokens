@@ -129,27 +129,27 @@
   "theme": {
     "primary": {
       "dark": {
-        "value": "{colors.cranberry.800}",
+        "value": "{colors.grape.800}",
         "type": "color"
       },
       "tone": {
-        "value": "{colors.cranberry.700}",
+        "value": "{colors.grape.700}",
         "type": "color"
       },
       "default": {
-        "value": "{colors.cranberry.600}",
+        "value": "{colors.grape.600}",
         "type": "color"
       },
       "tint": {
-        "value": "{colors.cranberry.500}",
+        "value": "{colors.grape.400}",
         "type": "color"
       },
       "muted": {
-        "value": "{colors.cranberry.300}",
+        "value": "{colors.grape.300}",
         "type": "color"
       },
       "subtle": {
-        "value": "{colors.cranberry.100}",
+        "value": "{colors.grape.200}",
         "type": "color"
       }
     }
