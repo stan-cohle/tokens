@@ -6,7 +6,7 @@
         "type": "color"
       },
       "dark": {
-        "value": "rgba({colors.base.black}, {opacity.32})",
+        "value": "rgba({colors.base.black}, {opacity.24})",
         "type": "color"
       },
       "primary": {
