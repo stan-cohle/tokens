@@ -409,7 +409,7 @@
       },
       "subheader": {
         "type": "color",
-        "value": "{theme.primary.default}"
+        "value": "{theme.primary.dark}"
       },
       "footer": {
         "value": "{theme.bg.inverse-primary}",
