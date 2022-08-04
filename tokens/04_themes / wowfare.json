@@ -3,27 +3,27 @@
     "primary": {
       "dark": {
         "type": "color",
-        "value": "{colors.rouge.800}"
+        "value": "{colors.mint.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{colors.rouge.700}"
+        "value": "{colors.mint.700}"
       },
       "default": {
         "type": "color",
-        "value": "{colors.rouge.600}"
+        "value": "{colors.mint.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{colors.rouge.500}"
+        "value": "{colors.mint.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{colors.rouge.400}"
+        "value": "{colors.mint.400}"
       },
       "subtle": {
-        "value": "rgba({colors.rouge.600}, {opacity.8})",
-        "type": "color"
+        "type": "color",
+        "value": "{colors.mint.50}"
       }
     },
     "success": {
@@ -56,6 +56,10 @@
       "footer": {
         "type": "color",
         "value": "{colors.other.mirage}"
+      },
+      "header": {
+        "type": "color",
+        "value": "{theme.primary.tone}"
       }
     }
   },
@@ -73,6 +77,11 @@
       },
       "mint-gradient": {
         "value": "linear-gradient(180deg, #25acaa 0%, #0da3a1 100%)",
+        "type": "color",
+        "description": "Sub Header"
+      },
+      "white-to-primary": {
+        "value": "linear-gradient(90deg, rgba({theme.primary.default}, 0) 0%, {theme.primary.default} 100%)",
         "type": "color",
         "description": "Sub Header"
       }
