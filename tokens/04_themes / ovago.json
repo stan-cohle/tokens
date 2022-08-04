@@ -117,11 +117,32 @@
     "other": {
       "grape-gradient": {
         "value": "linear-gradient(180deg, {colors.grape.600} 0%, {colors.grape.700} 100%)",
-        "type": "color",
-        "description": "Sub header"
+        "type": "color"
       },
       "midnight": {
         "value": "#1b1736",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "{colors.grape.700}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{colors.grape.600}",
+        "type": "color"
+      },
+      "controls": {
+        "value": "{colors.grape.600}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{colors.other.midnight}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{theme.info.tone}",
         "type": "color"
       }
     }
