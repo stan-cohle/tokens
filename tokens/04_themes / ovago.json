@@ -173,6 +173,32 @@
         "value": "{colors.grape.200}",
         "type": "color"
       }
+    },
+    "accent": {
+      "dark": {
+        "value": "{colors.cranberry.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.cranberry.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.cranberry.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.cranberry.400}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.cranberry.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.cranberry.200}",
+        "type": "color"
+      }
     }
   }
 }
