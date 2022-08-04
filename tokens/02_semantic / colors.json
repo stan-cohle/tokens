@@ -407,12 +407,20 @@
         "type": "color",
         "value": "{theme.primary.tone}"
       },
+      "subheader": {
+        "type": "color",
+        "value": "{theme.primary.default}"
+      },
       "footer": {
         "value": "{theme.bg.inverse-primary}",
         "type": "color"
       },
+      "controls": {
+        "type": "color",
+        "value": "{theme.primary.default}"
+      },
       "link": {
-        "value": "{colors.blue.800}",
+        "value": "{theme.primary.default}",
         "type": "color"
       }
     }
