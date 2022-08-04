@@ -59,7 +59,11 @@
       },
       "header": {
         "type": "color",
-        "value": "{theme.primary.tone}"
+        "value": "{theme.primary.default}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{colors.other.mint-gradient}"
       }
     }
   },
@@ -67,23 +71,19 @@
     "other": {
       "sunflower": {
         "value": "#ffe03c",
-        "type": "color",
-        "description": "Accent Elements"
+        "type": "color"
       },
       "mirage": {
         "value": "#1a2633",
-        "type": "color",
-        "description": "Footer"
+        "type": "color"
       },
       "mint-gradient": {
         "value": "linear-gradient(180deg, #25acaa 0%, #0da3a1 100%)",
-        "type": "color",
-        "description": "Sub Header"
+        "type": "color"
       },
       "white-to-primary": {
         "value": "linear-gradient(90deg, rgba({theme.primary.default}, 0) 0%, {theme.primary.default} 100%)",
-        "type": "color",
-        "description": "Sub Header"
+        "type": "color"
       }
     },
     "mint": {
