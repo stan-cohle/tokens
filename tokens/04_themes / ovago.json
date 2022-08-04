@@ -162,11 +162,11 @@
         "type": "color"
       },
       "tint": {
-        "value": "{colors.grape.400}",
+        "value": "{colors.grape.500}",
         "type": "color"
       },
       "muted": {
-        "value": "{colors.grape.300}",
+        "value": "{colors.grape.400}",
         "type": "color"
       },
       "subtle": {
@@ -188,11 +188,11 @@
         "type": "color"
       },
       "tint": {
-        "value": "{colors.cranberry.400}",
+        "value": "{colors.cranberry.500}",
         "type": "color"
       },
       "muted": {
-        "value": "{colors.cranberry.300}",
+        "value": "{colors.cranberry.400}",
         "type": "color"
       },
       "subtle": {
