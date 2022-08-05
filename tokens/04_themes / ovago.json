@@ -116,7 +116,7 @@
     },
     "other": {
       "grape-gradient": {
-        "value": "linear-gradient(180deg, {colors.grape.600} 0%, {colors.grape.700} 100%)",
+        "value": "linear-gradient(180deg, #5649A6 0%, {colors.grape.700} 100%)",
         "type": "color"
       },
       "midnight": {
