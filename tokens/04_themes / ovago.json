@@ -126,11 +126,11 @@
     },
     "presets": {
       "header": {
-        "value": "{colors.grape.700}",
+        "value": "{colors.grape.600}",
         "type": "color"
       },
       "subheader": {
-        "value": "{colors.grape.600}",
+        "value": "{colors.other.grape-gradient}",
         "type": "color"
       },
       "controls": {
