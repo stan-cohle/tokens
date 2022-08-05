@@ -53,10 +53,6 @@
       }
     },
     "presets": {
-      "footer": {
-        "type": "color",
-        "value": "{colors.other.mirage}"
-      },
       "header": {
         "type": "color",
         "value": "{theme.primary.default}"
@@ -64,6 +60,18 @@
       "subheader": {
         "type": "color",
         "value": "{colors.other.mint-gradient}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{colors.other.mirage}"
+      },
+      "controls": {
+        "type": "color",
+        "value": "{theme.primary.tone}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{theme.info.default}"
       }
     }
   },
@@ -78,7 +86,7 @@
         "type": "color"
       },
       "mint-gradient": {
-        "value": "linear-gradient(180deg, #25acaa 0%, #0da3a1 100%)",
+        "value": "linear-gradient(180deg, #4DC09E 0%, #42A9BC 100%)",
         "type": "color"
       },
       "white-to-primary": {
