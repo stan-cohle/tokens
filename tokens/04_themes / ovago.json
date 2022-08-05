@@ -2,7 +2,7 @@
   "colors": {
     "grape": {
       "100": {
-        "value": "#f5f4fa",
+        "value": "#f2f1f9",
         "type": "color"
       },
       "200": {
@@ -144,11 +144,11 @@
         "type": "color"
       },
       "muted": {
-        "value": "{colors.grape.400}",
+        "value": "{colors.grape.300}",
         "type": "color"
       },
       "subtle": {
-        "value": "{colors.grape.200}",
+        "value": "{colors.grape.100}",
         "type": "color"
       }
     },
