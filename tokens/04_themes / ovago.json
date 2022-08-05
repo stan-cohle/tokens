@@ -78,7 +78,7 @@
     },
     "cranberry": {
       "100": {
-        "value": "#fff5f9",
+        "value": "#fff0f6",
         "type": "color"
       },
       "200": {
@@ -212,7 +212,7 @@
         "type": "color"
       },
       "subtle": {
-        "value": "{colors.cranberry.200}",
+        "value": "{colors.cranberry.100}",
         "type": "color"
       }
     },
