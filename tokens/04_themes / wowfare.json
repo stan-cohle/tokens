@@ -23,7 +23,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.mint.50}"
+        "value": "{colors.mint.100}"
       }
     },
     "success": {
@@ -49,7 +49,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.mint.50}"
+        "value": "{colors.mint.100}"
       }
     },
     "presets": {
@@ -95,32 +95,24 @@
       }
     },
     "mint": {
-      "25": {
-        "value": "#f1fdfd",
-        "type": "color"
-      },
-      "50": {
-        "value": "#e8fcfb",
-        "type": "color"
-      },
       "100": {
-        "value": "#d1faf8",
+        "value": "#D4F7F6",
         "type": "color"
       },
       "200": {
-        "value": "#a6f4f0",
+        "value": "#A8F0EC",
         "type": "color"
       },
       "300": {
-        "value": "#68ded6",
+        "value": "#6ADCD6",
         "type": "color"
       },
       "400": {
-        "value": "#2ed1c7",
+        "value": "#2ED1C9",
         "type": "color"
       },
       "500": {
-        "value": "#13c3ba",
+        "value": "#2AC0B9",
         "type": "color"
       },
       "600": {
@@ -141,14 +133,6 @@
       }
     },
     "rouge": {
-      "25": {
-        "value": "#fffafc",
-        "type": "color"
-      },
-      "50": {
-        "value": "#fcf4f7",
-        "type": "color"
-      },
       "100": {
         "value": "#fae6ee",
         "type": "color"
