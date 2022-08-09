@@ -64,6 +64,32 @@
         "type": "color"
       }
     },
+    "success": {
+      "dark": {
+        "value": "{colors.cold-green.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.cold-green.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.cold-green.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.cold-green.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.cold-green.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.cold-green.100}",
+        "type": "color"
+      }
+    },
     "presets": {
       "header": {
         "value": "{colors.purple.600}",

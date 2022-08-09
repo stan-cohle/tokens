@@ -1,4 +1,106 @@
 {
+  "theme": {
+    "primary": {
+      "dark": {
+        "type": "color",
+        "value": "{colors.apricot.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{colors.apricot.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{colors.apricot.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{colors.apricot.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{colors.apricot.400}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{colors.apricot.200}"
+      }
+    },
+    "warning": {
+      "dark": {
+        "type": "color",
+        "value": "{colors.apricot.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{colors.apricot.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{colors.apricot.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{colors.apricot.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{colors.apricot.400}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{colors.apricot.200}"
+      }
+    },
+    "success": {
+      "dark": {
+        "type": "color",
+        "value": "{colors.green.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{colors.green.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{colors.green.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{colors.green.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{colors.green.400}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{colors.green.200}"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "{colors.neutral-dark.900}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{colors.neutral-dark.800}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{colors.neutral-dark.900}",
+        "type": "color"
+      },
+      "controls": {
+        "value": "{colors.neutral-dark.900}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{theme.info.tone}",
+        "type": "color"
+      }
+    }
+  },
   "colors": {
     "apricot": {
       "100": {
@@ -138,82 +240,6 @@
       },
       "900": {
         "value": "#8d8da2",
-        "type": "color"
-      }
-    }
-  },
-  "theme": {
-    "primary": {
-      "dark": {
-        "type": "color",
-        "value": "{colors.apricot.800}"
-      },
-      "tone": {
-        "type": "color",
-        "value": "{colors.apricot.700}"
-      },
-      "default": {
-        "type": "color",
-        "value": "{colors.apricot.600}"
-      },
-      "tint": {
-        "type": "color",
-        "value": "{colors.apricot.500}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{colors.apricot.400}"
-      },
-      "subtle": {
-        "type": "color",
-        "value": "{colors.apricot.200}"
-      }
-    },
-    "warning": {
-      "dark": {
-        "type": "color",
-        "value": "{colors.apricot.800}"
-      },
-      "tone": {
-        "type": "color",
-        "value": "{colors.apricot.700}"
-      },
-      "default": {
-        "type": "color",
-        "value": "{colors.apricot.600}"
-      },
-      "tint": {
-        "type": "color",
-        "value": "{colors.apricot.500}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{colors.apricot.400}"
-      },
-      "subtle": {
-        "type": "color",
-        "value": "{colors.apricot.200}"
-      }
-    },
-    "presets": {
-      "header": {
-        "value": "{colors.neutral-dark.900}",
-        "type": "color"
-      },
-      "subheader": {
-        "value": "{colors.neutral-dark.800}",
-        "type": "color"
-      },
-      "footer": {
-        "value": "{colors.neutral-dark.900}",
-        "type": "color"
-      },
-      "controls": {
-        "value": "{colors.neutral-dark.900}",
-        "type": "color"
-      },
-      "link": {
-        "value": "{theme.info.tone}",
         "type": "color"
       }
     }
