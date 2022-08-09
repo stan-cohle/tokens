@@ -105,7 +105,7 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.indigo.50}"
+        "value": "{colors.indigo.100}"
       },
       "onprimary": {
         "type": "color",

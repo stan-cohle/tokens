@@ -96,19 +96,19 @@
     },
     "mint": {
       "100": {
-        "value": "#D4F7F6",
+        "value": "#E5FAFA",
         "type": "color"
       },
       "200": {
-        "value": "#A8F0EC",
+        "value": "#C2F4F2",
         "type": "color"
       },
       "300": {
-        "value": "#6ADCD6",
+        "value": "#94E6E2",
         "type": "color"
       },
       "400": {
-        "value": "#2ED1C9",
+        "value": "#4FD8D2",
         "type": "color"
       },
       "500": {
