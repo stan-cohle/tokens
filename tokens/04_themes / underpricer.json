@@ -10,98 +10,6 @@
         "type": "color"
       }
     },
-    "green": {
-      "25": {
-        "value": "#f6fef9",
-        "type": "color"
-      },
-      "50": {
-        "value": "#ecfdf2",
-        "type": "color"
-      },
-      "100": {
-        "value": "#d1fae1",
-        "type": "color"
-      },
-      "200": {
-        "value": "#a6f4ca",
-        "type": "color"
-      },
-      "300": {
-        "value": "#6ce9b3",
-        "type": "color"
-      },
-      "400": {
-        "value": "#32d599",
-        "type": "color"
-      },
-      "500": {
-        "value": "#12b785",
-        "type": "color"
-      },
-      "600": {
-        "value": "#039875",
-        "type": "color"
-      },
-      "700": {
-        "value": "#027a62",
-        "type": "color"
-      },
-      "800": {
-        "value": "#056051",
-        "type": "color"
-      },
-      "900": {
-        "value": "#054f43",
-        "type": "color"
-      }
-    },
-    "blue": {
-      "25": {
-        "value": "#f5f8ff",
-        "type": "color"
-      },
-      "50": {
-        "value": "#eef3ff",
-        "type": "color"
-      },
-      "100": {
-        "value": "#e0e8ff",
-        "type": "color"
-      },
-      "200": {
-        "value": "#c7d6fe",
-        "type": "color"
-      },
-      "300": {
-        "value": "#a4bcfd",
-        "type": "color"
-      },
-      "400": {
-        "value": "#8098f9",
-        "type": "color"
-      },
-      "500": {
-        "value": "#6179f3",
-        "type": "color"
-      },
-      "600": {
-        "value": "#445fe7",
-        "type": "color"
-      },
-      "700": {
-        "value": "#354fcd",
-        "type": "color"
-      },
-      "800": {
-        "value": "#2d41a6",
-        "type": "color"
-      },
-      "900": {
-        "value": "#2d3b82",
-        "type": "color"
-      }
-    },
     "neutral-light": {
       "100": {
         "value": "#fafafb",
@@ -183,27 +91,27 @@
     "info": {
       "dark": {
         "type": "color",
-        "value": "{colors.blue.800}"
+        "value": "{colors.indigo.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{colors.blue.700}"
+        "value": "{colors.indigo.700}"
       },
       "default": {
         "type": "color",
-        "value": "{colors.blue.600}"
+        "value": "{colors.indigo.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{colors.blue.500}"
+        "value": "{colors.indigo.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{colors.blue.300}"
+        "value": "{colors.indigo.300}"
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.blue.100}"
+        "value": "{colors.indigo.100}"
       },
       "oninfo": {
         "type": "color",
@@ -213,27 +121,27 @@
     "success": {
       "dark": {
         "type": "color",
-        "value": "{colors.green.800}"
+        "value": "{colors.cold-green.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{colors.green.700}"
+        "value": "{colors.cold-green.700}"
       },
       "default": {
         "type": "color",
-        "value": "{colors.green.600}"
+        "value": "{colors.cold-green.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{colors.green.500}"
+        "value": "{colors.cold-green.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{colors.green.300}"
+        "value": "{colors.cold-green.300}"
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.green.100}"
+        "value": "{colors.cold-green.100}"
       },
       "onsuccess": {
         "type": "color",
@@ -277,10 +185,6 @@
       }
     },
     "presets": {
-      "link": {
-        "value": "{colors.blue.600}",
-        "type": "color"
-      },
       "header": {
         "value": "{theme.bg.inverse-secondary}",
         "type": "color"
@@ -291,6 +195,10 @@
       },
       "footer": {
         "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{colors.indigo.600}",
         "type": "color"
       }
     }
