@@ -1,19 +1,19 @@
 {
   "theme": {
-    "brand": {
+    "primary": {
+      "dark": {
+        "type": "color",
+        "value": "{colors.mint.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{colors.mint.700}"
+      },
       "default": {
         "type": "color",
         "value": "{colors.mint.600}"
       },
-      "hover": {
-        "type": "color",
-        "value": "{colors.mint.700}"
-      },
-      "active": {
-        "type": "color",
-        "value": "{colors.mint.800}"
-      },
-      "secondary": {
+      "tint": {
         "type": "color",
         "value": "{colors.mint.500}"
       },
@@ -23,49 +23,23 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.mint.50}"
-      }
-    },
-    "accent": {
-      "default": {
-        "type": "color",
-        "value": "{colors.rouge.600}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{colors.rouge.700}"
-      },
-      "active": {
-        "type": "color",
-        "value": "{colors.rouge.800}"
-      },
-      "secondary": {
-        "type": "color",
-        "value": "{colors.rouge.500}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{colors.rouge.400}"
-      },
-      "subtle": {
-        "value": "rgba({colors.rouge.600}, {opacity.8})",
-        "type": "color"
+        "value": "{colors.mint.100}"
       }
     },
     "success": {
+      "dark": {
+        "type": "color",
+        "value": "{colors.mint.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{colors.mint.700}"
+      },
       "default": {
         "type": "color",
         "value": "{colors.mint.600}"
       },
-      "hover": {
-        "type": "color",
-        "value": "{colors.mint.700}"
-      },
-      "active": {
-        "type": "color",
-        "value": "{colors.mint.800}"
-      },
-      "secondary": {
+      "tint": {
         "type": "color",
         "value": "{colors.mint.500}"
       },
@@ -75,71 +49,82 @@
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.mint.50}"
+        "value": "{colors.mint.100}"
       }
     },
     "presets": {
+      "header": {
+        "type": "color",
+        "value": "{colors.other.rhino-800}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{colors.other.rhino-900}"
+      },
       "footer": {
         "type": "color",
-        "value": "{colors.mirage.900}"
-      }
-    },
-    "border": {
-      "selected": {
+        "value": "{colors.other.rhino-1100}"
+      },
+      "controls": {
         "type": "color",
-        "value": "{theme.brand.hover}"
+        "value": "{theme.primary.tone}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{theme.info.tone}"
       }
     }
   },
   "colors": {
-    "sunflower": {
-      "500": {
-        "value": "#ffe03c",
-        "type": "color",
-        "description": "Accent Elements"
-      }
-    },
-    "mirage": {
-      "900": {
-        "value": "#1a2633",
-        "type": "color",
-        "description": "Footer"
-      }
-    },
     "other": {
-      "mint": {
-        "value": "linear-gradient(180deg, #25acaa 0%, #0da3a1 100%)",
-        "type": "color",
-        "description": "Sub Header"
+      "rhino-800": {
+        "value": "#2D4067",
+        "type": "color"
+      },
+      "rhino-900": {
+        "value": "#28395C",
+        "type": "color"
+      },
+      "rhino-1100": {
+        "value": "#192339",
+        "type": "color"
+      },
+      "mirage": {
+        "value": "#1a2633",
+        "type": "color"
+      },
+      "sunflower": {
+        "value": "#ffe03c",
+        "type": "color"
+      },
+      "mint-gradient": {
+        "value": "linear-gradient(180deg, #4DC09E 0%, #42A9BC 100%)",
+        "type": "color"
+      },
+      "white-to-primary": {
+        "value": "linear-gradient(90deg, rgba({theme.primary.default}, 0) 0%, {theme.primary.default} 100%)",
+        "type": "color"
       }
     },
     "mint": {
-      "25": {
-        "value": "#f1fdfd",
-        "type": "color"
-      },
-      "50": {
-        "value": "#e8fcfb",
-        "type": "color"
-      },
       "100": {
-        "value": "#d1faf8",
+        "value": "#D4F7F6",
         "type": "color"
       },
       "200": {
-        "value": "#a6f4f0",
+        "value": "#A8F0EC",
         "type": "color"
       },
       "300": {
-        "value": "#68ded6",
+        "value": "#6ADCD6",
         "type": "color"
       },
       "400": {
-        "value": "#2ed1c7",
+        "value": "#2ED1C9",
         "type": "color"
       },
       "500": {
-        "value": "#13c3ba",
+        "value": "#2AC0B9",
         "type": "color"
       },
       "600": {
@@ -160,14 +145,6 @@
       }
     },
     "rouge": {
-      "25": {
-        "value": "#fffafc",
-        "type": "color"
-      },
-      "50": {
-        "value": "#fcf4f7",
-        "type": "color"
-      },
       "100": {
         "value": "#fae6ee",
         "type": "color"

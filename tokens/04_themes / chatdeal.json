@@ -72,19 +72,21 @@
         "type": "color"
       }
     },
-    "rose": {
-      "value": "#fe2072",
-      "type": "color"
-    },
-    "coral": {
-      "value": "#fe6656",
-      "type": "color"
-    },
-    "midnight": {
-      "value": "#111827",
-      "type": "color"
-    },
     "other": {
+      "midnight": {
+        "value": "#111827",
+        "type": "color"
+      },
+      "rose": {
+        "value": "#fe2072",
+        "type": "color"
+      },
+      "coral": {
+        "value": "#fe6656",
+        "type": "color"
+      }
+    },
+    "gradient": {
       "orange-pink": {
         "value": "linear-gradient(270deg, #fea520 0%, #fe2072 98.65%)",
         "type": "color",
@@ -128,19 +130,13 @@
     }
   },
   "theme": {
-    "brand": {
+    "primary": {
       "default": {
-        "value": "{colors.midnight}",
+        "value": "{colors.other.coral}",
         "type": "color"
       },
       "hover": {
         "value": "#252537",
-        "type": "color"
-      }
-    },
-    "accent": {
-      "default": {
-        "value": "{colors.coral}",
         "type": "color"
       }
     }
