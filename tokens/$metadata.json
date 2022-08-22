@@ -1,0 +1,21 @@
+{
+  "tokenSetOrder": [
+    "00_base / archive",
+    "00_base / colors",
+    "00_base / core",
+    "02_semantic / colors",
+    "02_semantic / shadows-colors",
+    "02_semantic / shadows",
+    "02_semantic / tokens",
+    "03_components / button",
+    "04_themes / allsavingstravel",
+    "04_themes / arangrant",
+    "04_themes / chatdeal",
+    "04_themes / kayak",
+    "04_themes / ovago",
+    "04_themes / priceline",
+    "04_themes / underpricer",
+    "04_themes / volunteerhq",
+    "04_themes / wowfare"
+  ]
+}
