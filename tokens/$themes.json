@@ -21,7 +21,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -47,7 +48,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -73,7 +75,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -99,7 +102,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -125,7 +129,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -151,7 +156,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -177,7 +183,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:ad09327959002339163ae8c3a2eb57c3f15bd9db,",
@@ -338,7 +345,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:67b121b1b159e79ada661b9e1f684c8bd8498aa9,",
@@ -481,7 +489,8 @@
       "04_themes / wowfare": "disabled",
       "04_themes / underpricer": "enabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -507,7 +516,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {
       "colors.base.white": "S:420c82896300f863c65da610dc35ff554ef670b8,",
@@ -716,7 +726,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:36fb3011eee8f2e6dbcedf15750e349736aef81c,",
@@ -885,7 +896,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / hop2": "enabled",
-      "04_themes / gurufare": "disabled"
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -911,7 +923,8 @@
       "04_themes / volunteerhq": "enabled",
       "04_themes / underpricer": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "enabled"
+      "04_themes / gurufare": "enabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -937,7 +950,8 @@
       "04_themes / volunteerhq": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / hop2": "disabled",
-      "04_themes / gurufare": "enabled"
+      "04_themes / gurufare": "enabled",
+      "04_themes / myquilityflights": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:4fa1d50939b3aa843d14dbdfe20868bf7091f5b4,",
@@ -1070,6 +1084,155 @@
       "shadow.component.modal.mobile": "S:bb2c96e780b54b8e97744f3e4bccfd9b335c21ec,",
       "shadow.component.button.primary": "S:ac6496b03bbed54418c8aaee1cd444b61f6bbd80,",
       "shadow.component.button.success": "S:f2486e0411c4256f7070b6d5a92ae71323fc8340,"
+    }
+  },
+  {
+    "id": "02a07394e4a14227fc62749ff8ef82514916f413",
+    "name": "MyQuilityFlights",
+    "selectedTokenSets": {
+      "00_base / archive": "disabled",
+      "00_base / colors": "source",
+      "00_base / core": "enabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / shadows-colors": "source",
+      "02_semantic / shadows": "enabled",
+      "02_semantic / tokens": "enabled",
+      "03_components / button": "enabled",
+      "04_themes / allsavingstravel": "disabled",
+      "04_themes / arangrant": "disabled",
+      "04_themes / chatdeal": "disabled",
+      "04_themes / kayak": "disabled",
+      "04_themes / ovago": "disabled",
+      "04_themes / priceline": "disabled",
+      "04_themes / underpricer": "disabled",
+      "04_themes / volunteerhq": "disabled",
+      "04_themes / wowfare": "disabled",
+      "04_themes / hop2": "disabled",
+      "04_themes / gurufare": "disabled",
+      "04_themes / myquilityflights": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "theme.primary.dark": "S:43ed655cab00368b99f8f2a9bfb5a2cbffefe7a7,",
+      "theme.primary.tone": "S:99488c7f6602acc28ea9293242bb4029021c09a4,",
+      "theme.primary.default": "S:85100ae12d56e4382c7cd43e946c31de7d508e8a,",
+      "theme.primary.tint": "S:512f65ddb5b8f1faf4829f1c7b675ef7c92beaa8,",
+      "theme.primary.muted": "S:42f9cf37a02954d7b3c46e00585edbcc3bd08824,",
+      "theme.primary.subtle": "S:4e68e46474c8ee19e27f8efc076232500e14fb4d,",
+      "theme.success.dark": "S:6f9f2e3eb386d5a8534a85be556bef18be065534,",
+      "theme.success.tone": "S:8dafd5aa235496ab0d8c8e2faa139d3f3a2cc91c,",
+      "theme.success.default": "S:e5f1019635113bd0904322af2e5d65f00aedd908,",
+      "theme.success.tint": "S:fa4f178d54db08fb740a45856cc9e86920c15c86,",
+      "theme.success.muted": "S:44dbe68fdd2256c362af520fad6ec742b0f9b29a,",
+      "theme.success.subtle": "S:2410529996779b40baf431a46b5cc1acc9326eda,",
+      "theme.presets.header": "S:1131a759d73fbd74714404d765a29c7b3f5d006e,",
+      "theme.presets.subheader": "S:30bc810199757d79803f8561e750e8de71284ff2,",
+      "theme.presets.controls": "S:1835637e2ff772b5dc0bb9299a9a3f8ac2c7fdb9,",
+      "theme.presets.footer": "S:283d25d97a78263a6603bbcd64c57978ebdff56d,",
+      "theme.presets.link": "S:f696262297d74719ca6ba2460648e4a7286c55df,",
+      "colors.turquoise.100": "S:acd10c05855b7d79ffada6ec6c757af2f0b5b3e1,",
+      "colors.turquoise.200": "S:af4050d4d61b43049c4e8c03689344c21727bdec,",
+      "colors.turquoise.300": "S:c1ce60ed3da12ad34ce6116afc5ab0f93fbebe9c,",
+      "colors.turquoise.400": "S:accec4088ab07354f54638cc243fa71a1bf52a94,",
+      "colors.turquoise.500": "S:955a1dd6636dd634ee7f699bf6824c9c1dfe1cd0,",
+      "colors.turquoise.600": "S:d00e6cbdadc8d50c3bb3e528469a272358593db5,",
+      "colors.turquoise.700": "S:7180965bf1b2261c926fdb5d47342efb106f3dfb,",
+      "colors.turquoise.800": "S:cfe82016963741e8a5444c1a7559fee586255661,",
+      "colors.turquoise.900": "S:f39cb4f66b486c3cdc920c7fb5f431900584c14c,",
+      "theme.bg.primary": "S:10d6176c5278c7add68db37d2c7db5fcf5eec730,",
+      "theme.bg.secondary": "S:6b4e50f2ee59e35241974ff194c77bdf75e6df99,",
+      "theme.bg.tertiary": "S:66f9408f4eff0786ba9a0499d99cf6b36d9de48f,",
+      "theme.bg.disabled": "S:140437779e494f1f96e5d52f8f8698de66bef07d,",
+      "theme.bg.inverse-primary": "S:3c549f74ef466d4db9d278fae66151e1904ea3ca,",
+      "theme.bg.inverse-secondary": "S:c5009c6fb29209018337f890c89ed2f7e294fbbe,",
+      "theme.bg.inverse-tertiary": "S:3135f9c5fceb65cdb284292a6c12635de2774677,",
+      "theme.bg.scrim": "S:da6586a00d69b8240276653c326bddb1045cdbf4,",
+      "theme.content.primary": "S:035e465aba31845baff282dce6314cb57d379469,",
+      "theme.content.secondary": "S:bead9402ac3b7c2790da89322be3fce4bd821d30,",
+      "theme.content.tertiary": "S:59ca23f2d5cbae7070ecfe35725f1c929c24656b,",
+      "theme.content.disabled": "S:e191efb1bbe7a3d6e15c285d2f4288f38804817b,",
+      "theme.content.inverse-primary": "S:27f8a499159501f20bfb0fc4b0bb3a623998ffc7,",
+      "theme.content.inverse-secondary": "S:92ba1c650505d26f1f167089f74970db469a8224,",
+      "theme.content.inverse-tertiary": "S:5b5b9fa446531927a8b453a3bad7e8490b070650,",
+      "theme.border.light": "S:bca6fb30fb00b3771dbfca05312517639d90cb3e,",
+      "theme.border.medium": "S:56c27573d2e8099b9b5117545a0fe672ac7b2c6e,",
+      "theme.border.inverse-light": "S:4e5fb861b2ca6731f3f387faac5f3457064531a8,",
+      "theme.border.inverse-medium": "S:c9ddb737a5b5f623ef041d4b5c466597e515ff9e,",
+      "theme.primary.onprimary": "S:2b6038f82497f107ee2dca776d9901ba495416a8,",
+      "theme.secondary.dark": "S:b4f22a22f7287fcb45eb9aa8bf78f71763535af6,",
+      "theme.secondary.tone": "S:09c2b3813fd9fe1815ed64060ae1b4c5ac7d6de0,",
+      "theme.secondary.default": "S:d6a008e6896929762c46ab17bd876e945ccd35c3,",
+      "theme.secondary.onsecondary": "S:0082faeeddcd448aa8854e102ec3d902b66855fc,",
+      "theme.info.dark": "S:6a12887b9cb7f418558fbc1e5e3d9c7ddb11037c,",
+      "theme.info.tone": "S:43a50dda08d781a3543e327cb9a974d4ba06c1bd,",
+      "theme.info.default": "S:c64b952dec14b4a8254629867d30987943f882a7,",
+      "theme.info.tint": "S:dc3f613e2aece4b198d024e509c6e391a588acc2,",
+      "theme.info.muted": "S:331e5311db44e05f8ede4435107f0da3b80caf84,",
+      "theme.info.subtle": "S:f65b8c7f4a751ce391e8bb8abbda5c19b5c2df9f,",
+      "theme.info.oninfo": "S:cb405fb45abe9319d54e15dbebb498715244ac59,",
+      "theme.success.onsuccess": "S:7d3d38c4fccbf17f9be3e505483a354b6f2b28b0,",
+      "theme.warning.dark": "S:d03f0b9e7258236582282dbff4c7409d4c2d027f,",
+      "theme.warning.tone": "S:05c2a73ef3d8548ab2999cbb7480c23e358f4802,",
+      "theme.warning.default": "S:ed3e9d0eaf75f30fa7360915639a5824a84ea445,",
+      "theme.warning.tint": "S:3433d404b7beb43499ba0840031e058368b439a1,",
+      "theme.warning.muted": "S:b9800f0c2257b27e653c42089f9e10d0613d6a0b,",
+      "theme.warning.subtle": "S:5f365c0ea72195f5c53c997f478bebe9a03f99d5,",
+      "theme.warning.onwarning": "S:a3639524ed93a7b34f84d7b0e2de46e9195df2ee,",
+      "theme.danger.dark": "S:53072b09c9a2a5900bb64c46c5cb6a65956909f5,",
+      "theme.danger.tone": "S:c85c96ea418ae1c7ca8e14db911279cf81e5447d,",
+      "theme.danger.default": "S:18ec56697ba735d5369253360f5d700787c3b79e,",
+      "theme.danger.tint": "S:1a9219deade98a140560a2ec4fe271a8955da774,",
+      "theme.danger.muted": "S:a4a9556e190642e8cb009484efb22deffd0fbf5e,",
+      "theme.danger.subtle": "S:d5f6812fa58633c6e17b1fbde33ac717ad1a8c28,",
+      "theme.danger.ondanger": "S:e51958692fc905ed68d793b808a92b7e8d15d311,",
+      "theme.opacity.primary.8": "S:2ab7da0199a755d8f2f4082708536f3240b081c3,",
+      "theme.opacity.primary.16": "S:cff03d37a88e13a77fe51618cc5a6faf79c395cb,",
+      "theme.opacity.primary.24": "S:c28be99d4bd5c073e7ba75e122135733d1186210,",
+      "theme.opacity.primary.32": "S:40f83809ab1a3b34f922475084866186bb413b36,",
+      "theme.opacity.primary.40": "S:26a35026395838821c5f553d9a4bdc2989e80a1f,",
+      "theme.opacity.primary.48": "S:531cf42607635d794ea7392e38f5b93f980d6064,",
+      "theme.opacity.primary.56": "S:36960df90288342e38153e6d39add03dff60422a,",
+      "theme.opacity.primary.64": "S:61b4f8de28f8536eaac3a36471c269cabed2a604,",
+      "theme.opacity.primary.72": "S:94b4d70f6113050e0290c535ce9602db4a853b65,",
+      "theme.opacity.primary.80": "S:d9e742c99f867f600f3538c25e30a4077d5ae5ed,",
+      "theme.opacity.primary.88": "S:aa38198d339d31951314ec929fa5a19136b7e09e,",
+      "theme.opacity.primary.96": "S:101c48139ba685a5762908657ea22ace1442ee5d,",
+      "theme.opacity.black.8": "S:1ab142fb5019599bb8d4f274a68dfeed82acbb3b,",
+      "theme.opacity.black.16": "S:be942006b5ad56ae5586a3f5e72324eec68e3581,",
+      "theme.opacity.black.24": "S:694d3885cfd6780ee4e7307451e99f5a8922ed10,",
+      "theme.opacity.black.32": "S:b39d7bfcf7cfb1845630a864efe1cab5f45cebbc,",
+      "theme.opacity.black.40": "S:169002dc0e91b8dd4285e7958b768f617be8c901,",
+      "theme.opacity.black.48": "S:1a7f245547cd3688245da0420aff0cb5527ee5a1,",
+      "theme.opacity.black.56": "S:699adc674d8bbb2fe51db9cf313f42d100d32834,",
+      "theme.opacity.black.64": "S:43c347f49ab7d38fdb96c0bcec09f9a84c724b3d,",
+      "theme.opacity.black.72": "S:d249000e6904f90ad02266fc6b916e34442297ab,",
+      "theme.opacity.black.80": "S:07c99a672d27f70ca76955c5412a6c87652625a9,",
+      "theme.opacity.black.88": "S:e4dd9851b56add3319a0aee86ba89833380d4def,",
+      "theme.opacity.black.96": "S:358bddb92d8f50bbba468ba4b1b09640d9689f94,",
+      "theme.opacity.white.8": "S:4a6dd1b83118f460e09a4801144f5e58cdfb77c8,",
+      "theme.opacity.white.16": "S:8e262437879a926c8233c4f8072bf1f3a188446a,",
+      "theme.opacity.white.24": "S:d48b85c068246ebb8f88af90e23973e83693ab7b,",
+      "theme.opacity.white.32": "S:321ff895d65c6e0033bb3315177ecb818c1df328,",
+      "theme.opacity.white.40": "S:f27e97179ed5a239ab13cc4087210b7504424015,",
+      "theme.opacity.white.48": "S:4c9017e86c989ef9f335160df8f99e4ee7abcdf0,",
+      "theme.opacity.white.56": "S:297b6e7c901c40ff1ce126f31d7a47e17db675eb,",
+      "theme.opacity.white.64": "S:50f0810770c59ee91f9ccdb0ec15f948a9330cab,",
+      "theme.opacity.white.72": "S:88a4fc23781d5de706d1d522fe31246a0fb48687,",
+      "theme.opacity.white.80": "S:f904b0e3eaee1043f564e430b77a045858dda440,",
+      "theme.opacity.white.88": "S:09c1b401e81fa579973fdfd193c1c041fe94e518,",
+      "theme.opacity.white.96": "S:76faac601f42d469485388dbc7d3b1a8120f1fc3,",
+      "shadow.light.100": "S:1f83f6395b543a876e240af240d7536f94d918f7,",
+      "shadow.light.200": "S:34f90fda07f31bf93aca00f5e3fdd9b7d1ed860d,",
+      "shadow.light.300": "S:3a87c8d8f5d99c198004ffa32eada92254ec0432,",
+      "shadow.light.400": "S:f1bdc0d7932a833dc016e09edbef418f160a7400,",
+      "shadow.light.500": "S:cdde260360c178e6a98ed28f4b068ed700e7aa90,",
+      "shadow.dark.100": "S:b8baaf0ffae5318133bd05b3d7251a65ec5af706,",
+      "shadow.dark.200": "S:7f0ad5a35f7ee0e362d876aaef920bb24be379a7,",
+      "shadow.dark.300": "S:88afa69b2ddd38ffe841060f95cd0a40d29b16b1,",
+      "shadow.dark.400": "S:b7ca7e7b520a537afdcad75572b90de885c2a0d4,",
+      "shadow.dark.500": "S:e1ff44e27752dd28dc280ce2e9ee4ceae5b0b316,",
+      "shadow.component.modal.mobile": "S:8caa2c1beb927f7f92b9fcaa5595a3c0b0b7e27d,",
+      "shadow.component.button.primary": "S:46131196396def3a4aa13f165de070da1bf18aeb,",
+      "shadow.component.button.success": "S:49ac239c93111e35740398f9ea69f1589dcd3a86,"
     }
   }
 ]

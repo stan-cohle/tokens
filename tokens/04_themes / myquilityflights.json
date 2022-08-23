@@ -1,0 +1,118 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "value": "{colors.turquoise.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.turquoise.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.turquoise.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.turquoise.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.turquoise.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.turquoise.100}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "dark": {
+        "value": "{colors.turquoise.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.turquoise.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.turquoise.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.turquoise.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.turquoise.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.turquoise.100}",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "{colors.turquoise.700}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{colors.turquoise.600}",
+        "type": "color"
+      },
+      "controls": {
+        "value": "{colors.turquoise.600}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{colors.turquoise.800}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{colors.turquoise.600}",
+        "type": "color"
+      }
+    }
+  },
+  "colors": {
+    "turquoise": {
+      "100": {
+        "value": "#daf3f0",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c0ece6",
+        "type": "color"
+      },
+      "300": {
+        "value": "#a2e1d9",
+        "type": "color"
+      },
+      "400": {
+        "value": "#7dd4c8",
+        "type": "color"
+      },
+      "500": {
+        "value": "#46c3b2",
+        "type": "color"
+      },
+      "600": {
+        "value": "#29a393",
+        "type": "color"
+      },
+      "700": {
+        "value": "#008073",
+        "type": "color"
+      },
+      "800": {
+        "value": "#036860",
+        "type": "color"
+      },
+      "900": {
+        "value": "#005851",
+        "type": "color"
+      }
+    }
+  }
+}
