@@ -1,0 +1,142 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "value": "{colors.ball-blue.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.ball-blue.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.ball-blue.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.ball-blue.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.ball-blue.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.ball-blue.100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "dark": {
+        "value": "{colors.grass.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.grass.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.grass.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.grass.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.grass.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.grass.100}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "dark": {
+        "value": "{colors.ball-blue.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.ball-blue.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.ball-blue.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.ball-blue.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.ball-blue.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.ball-blue.100}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "dark": {
+        "value": "{colors.grass.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{colors.grass.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{colors.grass.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{colors.grass.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.grass.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.grass.100}",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "{colors.ball-blue.600}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{colors.ball-blue.500}",
+        "type": "color"
+      },
+      "controls": {
+        "value": "{colors.ball-blue.600}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{colors.asphalt.500}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{theme.info.tone}",
+        "type": "color"
+      }
+    }
+  },
+  "colors": {
+    "asphalt": {
+      "500": {
+        "value": "#42545d",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1e2c3a",
+        "type": "color"
+      }
+    }
+  }
+}
