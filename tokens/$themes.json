@@ -19,7 +19,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -43,7 +44,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -67,7 +69,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -91,7 +94,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -115,7 +119,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -139,7 +144,8 @@
       "04_themes / priceline": "enabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -163,7 +169,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "enabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:ad09327959002339163ae8c3a2eb57c3f15bd9db,",
@@ -322,7 +329,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -346,7 +354,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "enabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -370,7 +379,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / volunteerhq": "disabled",
       "04_themes / wowfare": "disabled",
-      "04_themes / underpricer": "enabled"
+      "04_themes / underpricer": "enabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -394,7 +404,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {
       "colors.base.white": "S:420c82896300f863c65da610dc35ff554ef670b8,",
@@ -601,7 +612,8 @@
       "04_themes / priceline": "disabled",
       "04_themes / wowfare": "disabled",
       "04_themes / volunteerhq": "disabled",
-      "04_themes / underpricer": "disabled"
+      "04_themes / underpricer": "disabled",
+      "04_themes / hop2": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:36fb3011eee8f2e6dbcedf15750e349736aef81c,",
@@ -747,5 +759,30 @@
       "shadow.dark.400": "S:00d08139db0c858ce67df195b7245faf98576144,",
       "shadow.dark.500": "S:d686c4fa4b4f1f0a29067fa865dad0d4013a70c4,"
     }
+  },
+  {
+    "id": "86fae8c696e520212262f0d1ae35b4ca2022678a",
+    "name": "Hop2",
+    "selectedTokenSets": {
+      "00_base / archive": "disabled",
+      "00_base / colors": "source",
+      "00_base / core": "enabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / shadows-colors": "source",
+      "02_semantic / shadows": "enabled",
+      "02_semantic / tokens": "enabled",
+      "03_components / button": "enabled",
+      "04_themes / allsavingstravel": "disabled",
+      "04_themes / arangrant": "disabled",
+      "04_themes / chatdeal": "disabled",
+      "04_themes / kayak": "disabled",
+      "04_themes / ovago": "disabled",
+      "04_themes / priceline": "disabled",
+      "04_themes / underpricer": "disabled",
+      "04_themes / volunteerhq": "disabled",
+      "04_themes / wowfare": "disabled",
+      "04_themes / hop2": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
