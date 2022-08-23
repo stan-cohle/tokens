@@ -2,7 +2,7 @@
   "theme": {
     "primary": {
       "dark": {
-        "value": "{colors.turquoise.800}",
+        "value": "{colors.turquoise.900}",
         "type": "color"
       },
       "tone": {
@@ -28,7 +28,7 @@
     },
     "success": {
       "dark": {
-        "value": "{colors.turquoise.800}",
+        "value": "{colors.turquoise.900}",
         "type": "color"
       },
       "tone": {
@@ -66,7 +66,7 @@
         "type": "color"
       },
       "footer": {
-        "value": "{colors.turquoise.800}",
+        "value": "{colors.turquoise.900}",
         "type": "color"
       },
       "link": {
