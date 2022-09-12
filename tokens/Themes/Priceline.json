@@ -1,5 +1,5 @@
 {
-  "colors": {
+  "base": {
     "primary": {
       "light": {
         "value": "#e8f2ff",
@@ -212,112 +212,112 @@
   "theme": {
     "primary": {
       "dark": {
-        "value": "{colors.primary.dark}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.dark}"
       },
       "tone": {
-        "value": "{colors.primary.tone}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.tone}"
       },
       "default": {
-        "value": "{colors.primary.base}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.base}"
       },
       "muted": {
-        "value": "{colors.primary.tint}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.tint}"
       },
       "subtle": {
-        "value": "{colors.primary.light}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.light}"
       }
     },
     "info": {
       "dark": {
-        "value": "{colors.primary.dark}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.dark}"
       },
       "tone": {
-        "value": "{colors.primary.tone}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.tone}"
       },
       "default": {
-        "value": "{colors.primary.base}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.base}"
       },
       "muted": {
-        "value": "{colors.primary.tint}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.tint}"
       },
       "subtle": {
-        "value": "{colors.primary.light}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.primary.light}"
       }
     },
     "success": {
       "dark": {
-        "value": "{colors.secondary.dark}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.secondary.dark}"
       },
       "tone": {
-        "value": "{colors.secondary.tone}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.secondary.tone}"
       },
       "default": {
-        "value": "{colors.secondary.base}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.secondary.base}"
       },
       "muted": {
-        "value": "{colors.secondary.tint}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.secondary.tint}"
       },
       "subtle": {
-        "value": "{colors.secondary.light}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.secondary.light}"
       }
     },
     "warning": {
       "dark": {
-        "value": "{colors.alert.dark}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.alert.dark}"
       },
       "tone": {
-        "value": "{colors.alert.tone}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.alert.tone}"
       },
       "default": {
-        "value": "{colors.alert.base}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.alert.base}"
       },
       "muted": {
-        "value": "{colors.alert.tint}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.alert.tint}"
       },
       "subtle": {
-        "value": "{colors.alert.light}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.alert.light}"
       }
     },
     "danger": {
       "dark": {
-        "value": "{colors.error.dark}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.error.dark}"
       },
       "tone": {
-        "value": "{colors.error.tone}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.error.tone}"
       },
       "default": {
-        "value": "{colors.error.base}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.error.base}"
       },
       "muted": {
-        "value": "{colors.error.tint}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.error.tint}"
       },
       "subtle": {
-        "value": "{colors.error.light}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.error.light}"
       }
     }
   }

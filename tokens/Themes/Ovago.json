@@ -2,106 +2,80 @@
   "theme": {
     "primary": {
       "dark": {
-        "value": "{colors.purple.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.purple.800}"
       },
       "tone": {
-        "value": "{colors.purple.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.purple.700}"
       },
       "default": {
-        "value": "{colors.purple.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.purple.600}"
       },
       "tint": {
-        "value": "{colors.purple.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.purple.500}"
       },
       "muted": {
-        "value": "{colors.purple.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.purple.300}"
       },
       "subtle": {
-        "value": "{colors.purple.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.purple.100}"
       }
     },
     "accent": {
       "dark": {
-        "value": "{colors.pink.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.pink.800}"
       },
       "tone": {
-        "value": "{colors.pink.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.pink.700}"
       },
       "default": {
-        "value": "{colors.pink.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.pink.600}"
       },
       "tint": {
-        "value": "{colors.pink.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.pink.500}"
       },
       "muted": {
-        "value": "{colors.pink.400}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.pink.400}"
       },
       "subtle": {
-        "value": "{colors.pink.100}",
-        "type": "color"
-      }
-    },
-    "success": {
-      "dark": {
-        "value": "{colors.emerald.800}",
-        "type": "color"
-      },
-      "tone": {
-        "value": "{colors.emerald.700}",
-        "type": "color"
-      },
-      "default": {
-        "value": "{colors.emerald.600}",
-        "type": "color"
-      },
-      "tint": {
-        "value": "{colors.emerald.500}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{colors.emerald.400}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{colors.emerald.100}",
-        "type": "color"
-      }
-    },
-    "presets": {
-      "header": {
-        "value": "{colors.purple.600}",
-        "type": "color"
-      },
-      "subheader": {
-        "value": "{colors.other.purple-gradient}",
-        "type": "color"
-      },
-      "controls": {
-        "value": "{colors.purple.600}",
-        "type": "color"
-      },
-      "footer": {
-        "value": "{colors.other.midnight}",
-        "type": "color"
-      },
-      "link": {
-        "value": "{theme.info.tone}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.pink.100}"
       }
     }
   },
-  "colors": {
+  "presets": {
+    "header": {
+      "type": "color",
+      "value": "{base.purple.600}"
+    },
+    "subheader": {
+      "type": "color",
+      "value": "{base.other.purple-gradient}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{base.purple.600}"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.other.midnight}"
+    },
+    "link": {
+      "value": "{theme.information.tone}",
+      "type": "color"
+    }
+  },
+  "base": {
     "pink": {
       "100": {
         "value": "#fff0f6",
@@ -180,7 +154,7 @@
     },
     "other": {
       "purple-gradient": {
-        "value": "linear-gradient(180deg, #5649A6 0%, {colors.purple.700} 100%)",
+        "value": "linear-gradient(180deg, #5649A6 0%, {base.purple.700} 100%)",
         "type": "color"
       },
       "midnight": {

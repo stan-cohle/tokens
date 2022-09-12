@@ -2,132 +2,106 @@
   "theme": {
     "primary": {
       "dark": {
-        "value": "{colors.ball-blue.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.800}"
       },
       "tone": {
-        "value": "{colors.ball-blue.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.700}"
       },
       "default": {
-        "value": "{colors.ball-blue.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.600}"
       },
       "tint": {
-        "value": "{colors.ball-blue.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.500}"
       },
       "muted": {
-        "value": "{colors.ball-blue.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.300}"
       },
       "subtle": {
-        "value": "{colors.ball-blue.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.100}"
       }
     },
     "accent": {
       "dark": {
-        "value": "{colors.grass.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.success.800}"
       },
       "tone": {
-        "value": "{colors.grass.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.success.700}"
       },
       "default": {
-        "value": "{colors.grass.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.success.600}"
       },
       "tint": {
-        "value": "{colors.grass.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.success.500}"
       },
       "muted": {
-        "value": "{colors.grass.400}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.success.400}"
       },
       "subtle": {
-        "value": "{colors.grass.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.success.100}"
       }
     },
     "info": {
       "dark": {
-        "value": "{colors.ball-blue.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.800}"
       },
       "tone": {
-        "value": "{colors.ball-blue.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.700}"
       },
       "default": {
-        "value": "{colors.ball-blue.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.600}"
       },
       "tint": {
-        "value": "{colors.ball-blue.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.500}"
       },
       "muted": {
-        "value": "{colors.ball-blue.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.300}"
       },
       "subtle": {
-        "value": "{colors.ball-blue.100}",
-        "type": "color"
-      }
-    },
-    "success": {
-      "dark": {
-        "value": "{colors.grass.800}",
-        "type": "color"
-      },
-      "tone": {
-        "value": "{colors.grass.700}",
-        "type": "color"
-      },
-      "default": {
-        "value": "{colors.grass.600}",
-        "type": "color"
-      },
-      "tint": {
-        "value": "{colors.grass.500}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{colors.grass.400}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{colors.grass.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.100}"
       }
     },
     "presets": {
       "header": {
-        "value": "{colors.ball-blue.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.600}"
       },
       "subheader": {
-        "value": "{colors.ball-blue.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.500}"
       },
       "controls": {
-        "value": "{colors.ball-blue.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ball-blue.600}"
       },
       "footer": {
-        "value": "{colors.asphalt.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.asphalt.500}"
       },
       "link": {
-        "value": "{theme.info.tone}",
-        "type": "color"
+        "type": "color",
+        "value": "{theme.info.tone}"
       }
     }
   },
-  "colors": {
+  "base": {
     "ball-blue": {
       "100": {
         "value": "#e9f5fa",

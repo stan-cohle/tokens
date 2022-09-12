@@ -2,54 +2,54 @@
   "theme": {
     "primary": {
       "dark": {
-        "value": "{colors.macaw-blue.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.macaw-blue.800}"
       },
       "tone": {
-        "value": "{colors.macaw-blue.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.macaw-blue.700}"
       },
       "default": {
-        "value": "{colors.macaw-blue.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.macaw-blue.600}"
       },
       "tint": {
-        "value": "{colors.macaw-blue.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.macaw-blue.500}"
       },
       "muted": {
-        "value": "{colors.macaw-blue.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.macaw-blue.300}"
       },
       "subtle": {
-        "value": "{colors.macaw-blue.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.macaw-blue.100}"
       }
     },
     "presets": {
       "header": {
-        "value": "{colors.ship.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ship.700}"
       },
       "subheader": {
-        "value": "{colors.ship.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ship.600}"
       },
       "controls": {
-        "value": "{colors.macaw-blue.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.macaw-blue.600}"
       },
       "footer": {
-        "value": "{colors.asphalt.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.asphalt.500}"
       },
       "link": {
-        "value": "{colors.ship.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.ship.700}"
       }
     }
   },
-  "colors": {
+  "base": {
     "macaw-blue": {
       "100": {
         "value": "#e4f7fb",

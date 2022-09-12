@@ -2,11 +2,11 @@
   "sys": {
     "shadow": {
       "light": {
-        "value": "rgba({colors.neutral-light.800}, {opacity.24})",
+        "value": "rgba({base.neutral.light.800}, {opacity.24})",
         "type": "color"
       },
       "dark": {
-        "value": "rgba({colors.base.black}, {opacity.24})",
+        "value": "rgba({base.mono.black}, {opacity.24})",
         "type": "color"
       },
       "primary": {

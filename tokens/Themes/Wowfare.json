@@ -3,67 +3,67 @@
     "primary": {
       "dark": {
         "type": "color",
-        "value": "{colors.mint.800}"
+        "value": "{base.mint.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{colors.mint.700}"
+        "value": "{base.mint.700}"
       },
       "default": {
         "type": "color",
-        "value": "{colors.mint.600}"
+        "value": "{base.mint.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{colors.mint.500}"
+        "value": "{base.mint.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{colors.mint.400}"
+        "value": "{base.mint.400}"
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.mint.100}"
+        "value": "{base.mint.100}"
       }
     },
     "success": {
       "dark": {
         "type": "color",
-        "value": "{colors.mint.800}"
+        "value": "{base.mint.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{colors.mint.700}"
+        "value": "{base.mint.700}"
       },
       "default": {
         "type": "color",
-        "value": "{colors.mint.600}"
+        "value": "{base.mint.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{colors.mint.500}"
+        "value": "{base.mint.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{colors.mint.400}"
+        "value": "{base.mint.400}"
       },
       "subtle": {
         "type": "color",
-        "value": "{colors.mint.100}"
+        "value": "{base.mint.100}"
       }
     },
     "presets": {
       "header": {
         "type": "color",
-        "value": "{colors.other.rhino-800}"
+        "value": "{base.other.rhino-800}"
       },
       "subheader": {
         "type": "color",
-        "value": "{colors.other.rhino-900}"
+        "value": "{base.other.rhino-900}"
       },
       "footer": {
         "type": "color",
-        "value": "{colors.other.rhino-1100}"
+        "value": "{base.other.rhino-1100}"
       },
       "controls": {
         "type": "color",
@@ -71,11 +71,11 @@
       },
       "link": {
         "type": "color",
-        "value": "{theme.info.tone}"
+        "value": "{theme.information.tone}"
       }
     }
   },
-  "colors": {
+  "base": {
     "other": {
       "rhino-800": {
         "value": "#2D4067",

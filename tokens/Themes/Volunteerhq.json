@@ -2,92 +2,84 @@
   "theme": {
     "primary": {
       "dark": {
-        "value": "{colors.forest-green.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.800}"
       },
       "tone": {
-        "value": "{colors.forest-green.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.700}"
       },
       "default": {
-        "value": "{colors.forest-green.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.600}"
       },
       "tint": {
-        "value": "{colors.forest-green.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.500}"
       },
       "muted": {
-        "value": "{colors.forest-green.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.300}"
       },
       "subtle": {
-        "value": "{colors.forest-green.100}",
-        "type": "color"
-      },
-      "onprimary": {
-        "value": "{colors.base.white}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.100}"
       }
     },
     "accent": {
       "dark": {
-        "value": "{colors.teal.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.info.800}"
       },
       "tone": {
-        "value": "{colors.teal.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.info.700}"
       },
       "default": {
-        "value": "{colors.teal.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.info.600}"
       },
       "tint": {
-        "value": "{colors.teal.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.info.500}"
       },
       "muted": {
-        "value": "{colors.teal.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.info.300}"
       },
       "subtle": {
-        "value": "{colors.teal.100}",
-        "type": "color"
-      },
-      "onaccent": {
-        "value": "{colors.base.white}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.info.100}"
       }
     },
     "success": {
       "dark": {
-        "value": "{colors.forest-green.800}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.800}"
       },
       "tone": {
-        "value": "{colors.forest-green.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.700}"
       },
       "default": {
-        "value": "{colors.forest-green.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.600}"
       },
       "tint": {
-        "value": "{colors.forest-green.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.500}"
       },
       "muted": {
-        "value": "{colors.forest-green.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.300}"
       },
       "subtle": {
-        "value": "{colors.forest-green.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.100}"
       },
       "onprimary": {
-        "value": "{colors.base.white}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.mono.white}"
       }
     },
     "presets": {
@@ -96,28 +88,28 @@
         "type": "color"
       },
       "subheader": {
-        "value": "{colors.other.grey-1}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.other.grey-1}"
       },
       "form": {
         "value": "#ffffff",
         "type": "color"
       },
       "footer": {
-        "value": "{colors.other.onyx}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.other.onyx}"
       },
       "link": {
-        "value": "{colors.blue.700}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.info.700}"
       },
       "controls": {
-        "value": "{colors.green.600}",
-        "type": "color"
+        "type": "color",
+        "value": "{base.forest-green.600}"
       }
     }
   },
-  "colors": {
+  "base": {
     "forest-green": {
       "100": {
         "value": "#eaf6ed",
