@@ -19,11 +19,11 @@
       },
       "inverse-primary": {
         "type": "color",
-        "value": "{base.neutral.dark.800}"
+        "value": "{base.neutral.dark.900}"
       },
       "inverse-secondary": {
         "type": "color",
-        "value": "{base.neutral.dark.900}"
+        "value": "{base.mono.black}"
       },
       "inverse-tertiary": {
         "type": "color",

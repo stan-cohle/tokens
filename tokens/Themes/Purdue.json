@@ -13,6 +13,20 @@
         "type": "color",
         "value": "{base.gold.100}"
       }
+    },
+    "content": {
+      "primary": {
+        "value": "{base.mono.black}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{base.neutral.dark.800}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{base.neutral.dark.500}",
+        "type": "color"
+      }
     }
   },
   "presets": {
