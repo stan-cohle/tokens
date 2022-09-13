@@ -85,27 +85,27 @@
     "primary": {
       "dark": {
         "type": "color",
-        "value": "{base.info.800}"
+        "value": "{colors.indigo.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.info.700}"
+        "value": "{colors.indigo.700}"
       },
       "default": {
         "type": "color",
-        "value": "{base.info.600}"
+        "value": "{colors.indigo.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{base.info.500}"
+        "value": "{colors.indigo.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.info.300}"
+        "value": "{colors.indigo.300}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.info.100}"
+        "value": "{colors.indigo.100}"
       }
     },
     "secondary": {
@@ -380,6 +380,160 @@
           "value": "rgba({base.mono.white}, {opacity.96})",
           "type": "color"
         }
+      }
+    }
+  },
+  "base": {
+    "info": {
+      "100": {
+        "value": "{colors.blue.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.blue.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.blue.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.blue.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.blue.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.blue.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.blue.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.blue.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.blue.900}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "100": {
+        "value": "{colors.green.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.green.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.green.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.green.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.green.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.green.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.green.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.green.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.green.900}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "100": {
+        "value": "{colors.orange.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.orange.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.orange.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.orange.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.orange.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.orange.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.orange.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.orange.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.orange.900}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "100": {
+        "value": "{colors.red.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.red.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.red.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.red.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.red.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.red.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.red.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.red.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.red.900}",
+        "type": "color"
       }
     }
   }
