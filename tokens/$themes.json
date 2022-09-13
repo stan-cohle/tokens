@@ -34,7 +34,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "disabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -73,7 +74,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "disabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -112,7 +114,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "disabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -151,7 +154,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "disabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -190,7 +194,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "disabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:7675929e444f3befbb7e424503cebc39a7f7426b,",
@@ -351,7 +356,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:bf005693b76c3ebad580ecb791e4230053c2bbd4,",
@@ -590,7 +596,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:0e54e11ee9bc9e0e556dd29d37977d22ae92357c,",
@@ -843,7 +850,8 @@
       "Base/Colors/Neutral/Dolphin": "enabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:36fb3011eee8f2e6dbcedf15750e349736aef81c,",
@@ -1025,7 +1033,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:237e4825f959fe30e22533aa16643ae17d0d2d5e,",
@@ -1232,7 +1241,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:6834b7f742396b44f89341fbdecc17cb6c3ff353,",
@@ -1471,7 +1481,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:c216a86f61ce096e8e86be0705fad7a2f1e799b8,",
@@ -1699,7 +1710,8 @@
       "Base/Colors/Neutral/Dolphin": "enabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:6c05811bac7b76f7103d091dda5c5c28a5df909b,",
@@ -1846,7 +1858,8 @@
       "Base/Colors/Neutral/Dolphin": "enabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -1885,7 +1898,8 @@
       "Base/Colors/Neutral/Dolphin": "disabled",
       "Base/Colors/Neutral/Grey": "disabled",
       "Base/Colors/Warning/Orange": "enabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {
       "colors.base.white": "S:420c82896300f863c65da610dc35ff554ef670b8,",
@@ -2152,7 +2166,8 @@
       "Themes/Underpricer": "disabled",
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
-      "Themes/Purdue": "enabled"
+      "Themes/Purdue": "enabled",
+      "Comp_themes/Ovago": "disabled"
     },
     "$figmaStyleReferences": {}
   }
