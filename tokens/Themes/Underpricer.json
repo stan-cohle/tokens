@@ -83,24 +83,24 @@
         "value": "{base.neutral.dark.600}",
         "type": "color"
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "value": "{theme.bg.inverse-secondary}",
+      "type": "color"
     },
-    "presets": {
-      "header": {
-        "value": "{theme.bg.inverse-secondary}",
-        "type": "color"
-      },
-      "subheader": {
-        "value": "{theme.bg.inverse-primary}",
-        "type": "color"
-      },
-      "footer": {
-        "value": "{theme.bg.inverse-primary}",
-        "type": "color"
-      },
-      "link": {
-        "value": "{base.info.600}",
-        "type": "color"
-      }
+    "subheader": {
+      "value": "{theme.bg.inverse-primary}",
+      "type": "color"
+    },
+    "footer": {
+      "value": "{theme.bg.inverse-primary}",
+      "type": "color"
+    },
+    "link": {
+      "value": "{base.info.600}",
+      "type": "color"
     }
   },
   "base": {

@@ -51,28 +51,28 @@
         "type": "color",
         "value": "{base.mint.100}"
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "type": "color",
+      "value": "{base.other.rhino-800}"
     },
-    "presets": {
-      "header": {
-        "type": "color",
-        "value": "{base.other.rhino-800}"
-      },
-      "subheader": {
-        "type": "color",
-        "value": "{base.other.rhino-900}"
-      },
-      "footer": {
-        "type": "color",
-        "value": "{base.other.rhino-1100}"
-      },
-      "controls": {
-        "type": "color",
-        "value": "{theme.primary.tone}"
-      },
-      "link": {
-        "type": "color",
-        "value": "{theme.information.tone}"
-      }
+    "subheader": {
+      "type": "color",
+      "value": "{base.other.rhino-900}"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.other.rhino-1100}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{theme.primary.tone}"
+    },
+    "link": {
+      "type": "color",
+      "value": "{theme.info.tone}"
     }
   },
   "base": {

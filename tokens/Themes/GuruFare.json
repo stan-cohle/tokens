@@ -25,28 +25,28 @@
         "type": "color",
         "value": "{base.macaw-blue.100}"
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "type": "color",
+      "value": "{base.ship.700}"
     },
-    "presets": {
-      "header": {
-        "type": "color",
-        "value": "{base.ship.700}"
-      },
-      "subheader": {
-        "type": "color",
-        "value": "{base.ship.600}"
-      },
-      "controls": {
-        "type": "color",
-        "value": "{base.macaw-blue.600}"
-      },
-      "footer": {
-        "type": "color",
-        "value": "{base.asphalt.500}"
-      },
-      "link": {
-        "type": "color",
-        "value": "{base.ship.700}"
-      }
+    "subheader": {
+      "type": "color",
+      "value": "{base.ship.600}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{base.macaw-blue.600}"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.asphalt.500}"
+    },
+    "link": {
+      "type": "color",
+      "value": "{base.ship.700}"
     }
   },
   "base": {

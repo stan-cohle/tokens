@@ -165,7 +165,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.primary.default}",
+          "value": "{button.primary.default.bg-color}",
           "type": "color"
         },
         "text-color": {

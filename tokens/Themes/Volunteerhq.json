@@ -81,32 +81,32 @@
         "type": "color",
         "value": "{base.mono.white}"
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "value": "#ffffff",
+      "type": "color"
     },
-    "presets": {
-      "header": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "subheader": {
-        "type": "color",
-        "value": "{base.other.grey-1}"
-      },
-      "form": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "footer": {
-        "type": "color",
-        "value": "{base.other.onyx}"
-      },
-      "link": {
-        "type": "color",
-        "value": "{base.info.700}"
-      },
-      "controls": {
-        "type": "color",
-        "value": "{base.forest-green.600}"
-      }
+    "subheader": {
+      "type": "color",
+      "value": "{base.other.grey-1}"
+    },
+    "form": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.other.onyx}"
+    },
+    "link": {
+      "type": "color",
+      "value": "{base.info.700}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{base.forest-green.600}"
     }
   },
   "base": {

@@ -51,28 +51,28 @@
         "type": "color",
         "value": "{base.turquoise.100}"
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "type": "color",
+      "value": "{base.turquoise.700}"
     },
-    "presets": {
-      "header": {
-        "type": "color",
-        "value": "{base.turquoise.700}"
-      },
-      "subheader": {
-        "type": "color",
-        "value": "{base.turquoise.600}"
-      },
-      "controls": {
-        "type": "color",
-        "value": "{base.turquoise.600}"
-      },
-      "footer": {
-        "type": "color",
-        "value": "{base.turquoise.900}"
-      },
-      "link": {
-        "type": "color",
-        "value": "{base.turquoise.600}"
-      }
+    "subheader": {
+      "type": "color",
+      "value": "{base.turquoise.600}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{base.turquoise.600}"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.turquoise.900}"
+    },
+    "link": {
+      "type": "color",
+      "value": "{base.turquoise.600}"
     }
   },
   "base": {
