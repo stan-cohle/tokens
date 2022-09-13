@@ -1,0 +1,82 @@
+{
+  "theme": {
+    "primary": {
+      "tone": {
+        "type": "color",
+        "value": "{base.gold.800}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.gold.500}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.gold.100}"
+      }
+    },
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{base.mono.black}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{base.mono.white}"
+      },
+      "controls": {
+        "type": "color",
+        "value": "{base.gold.800}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{base.mono.black}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{base.mono.black}"
+      }
+    }
+  },
+  "base": {
+    "yellow": {
+      "600": {
+        "value": "#e3ae24",
+        "type": "color"
+      }
+    },
+    "green": {
+      "500": {
+        "value": "#519c1f",
+        "type": "color"
+      },
+      "600": {
+        "value": "#44841a",
+        "type": "color"
+      }
+    },
+    "red": {
+      "600": {
+        "value": "#9e0000",
+        "type": "color"
+      },
+      "900": {
+        "value": "#6b0000",
+        "type": "color"
+      }
+    },
+    "gold": {
+      "100": {
+        "value": "#8e6f3e14",
+        "type": "color"
+      },
+      "500": {
+        "value": "#cfb991",
+        "type": "color"
+      },
+      "800": {
+        "value": "#8e6f3e",
+        "type": "color"
+      }
+    }
+  }
+}
