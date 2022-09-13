@@ -8,6 +8,10 @@
       "black": {
         "value": "#070708",
         "type": "color"
+      },
+      "transparent": {
+        "value": "rgba({base.mono.white}, 0)",
+        "type": "color"
       }
     }
   }
