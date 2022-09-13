@@ -152,6 +152,44 @@
         "type": "color"
       }
     },
+    "success": {
+      "100": {
+        "value": "{colors.emerald.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.emerald.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.emerald.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.emerald.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.emerald.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.emerald.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.emerald.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.emerald.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.emerald.900}",
+        "type": "color"
+      }
+    },
     "other": {
       "purple-gradient": {
         "value": "linear-gradient(180deg, #5649A6 0%, {base.purple.700} 100%)",
