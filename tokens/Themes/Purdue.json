@@ -13,28 +13,28 @@
         "type": "color",
         "value": "{base.gold.100}"
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "type": "color",
+      "value": "{base.mono.black}"
     },
-    "presets": {
-      "header": {
-        "type": "color",
-        "value": "{base.mono.black}"
-      },
-      "subheader": {
-        "type": "color",
-        "value": "{base.mono.white}"
-      },
-      "controls": {
-        "type": "color",
-        "value": "{base.gold.800}"
-      },
-      "footer": {
-        "type": "color",
-        "value": "{base.mono.black}"
-      },
-      "link": {
-        "type": "color",
-        "value": "{base.mono.black}"
-      }
+    "subheader": {
+      "type": "color",
+      "value": "{base.mono.white}"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.mono.black}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{base.gold.800}"
+    },
+    "link": {
+      "type": "color",
+      "value": "{base.mono.black}"
     }
   },
   "base": {
