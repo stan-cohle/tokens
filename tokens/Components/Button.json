@@ -221,7 +221,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{colors.base.transparent}",
+          "value": "{colors.basic.transparent}",
           "type": "color"
         },
         "text-color": {
@@ -293,7 +293,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{colors.base.transparent}",
+          "value": "{colors.basic.transparent}",
           "type": "color"
         },
         "text-color": {
@@ -365,7 +365,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{colors.base.transparent}",
+          "value": "{colors.basic.transparent}",
           "type": "color"
         },
         "text-color": {
