@@ -76,36 +76,6 @@
     }
   },
   "base": {
-    "other": {
-      "rhino-800": {
-        "value": "#2D4067",
-        "type": "color"
-      },
-      "rhino-900": {
-        "value": "#28395C",
-        "type": "color"
-      },
-      "rhino-1100": {
-        "value": "#192339",
-        "type": "color"
-      },
-      "mirage": {
-        "value": "#1a2633",
-        "type": "color"
-      },
-      "sunflower": {
-        "value": "#ffe03c",
-        "type": "color"
-      },
-      "mint-gradient": {
-        "value": "linear-gradient(180deg, #4DC09E 0%, #42A9BC 100%)",
-        "type": "color"
-      },
-      "white-to-primary": {
-        "value": "linear-gradient(90deg, rgba({theme.primary.default}, 0) 0%, {theme.primary.default} 100%)",
-        "type": "color"
-      }
-    },
     "mint": {
       "100": {
         "value": "#D4F7F6",
@@ -179,6 +149,36 @@
       },
       "900": {
         "value": "#850f40",
+        "type": "color"
+      }
+    },
+    "other": {
+      "rhino-800": {
+        "value": "#2D4067",
+        "type": "color"
+      },
+      "rhino-900": {
+        "value": "#28395C",
+        "type": "color"
+      },
+      "rhino-1100": {
+        "value": "#192339",
+        "type": "color"
+      },
+      "mirage": {
+        "value": "#1a2633",
+        "type": "color"
+      },
+      "sunflower": {
+        "value": "#ffe03c",
+        "type": "color"
+      },
+      "mint-gradient": {
+        "value": "linear-gradient(180deg, #4DC09E 0%, #42A9BC 100%)",
+        "type": "color"
+      },
+      "white-to-primary": {
+        "value": "linear-gradient(90deg, rgba({theme.primary.default}, 0) 0%, {theme.primary.default} 100%)",
         "type": "color"
       }
     }
