@@ -1,6 +1,6 @@
 {
   "colors": {
-    "base": {
+    "basic": {
       "white": {
         "value": "#ffffff",
         "type": "color"
@@ -10,7 +10,7 @@
         "type": "color"
       },
       "transparent": {
-        "value": "rgba({colors.base.white}, 0)",
+        "value": "rgba({colors.basic.white}, 0)",
         "type": "color"
       }
     },

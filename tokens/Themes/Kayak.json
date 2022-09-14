@@ -63,7 +63,7 @@
         "value": "{base.space.900}"
       },
       "onsecondary": {
-        "value": "{base.mono.white}",
+        "value": "{colors.basic.white}",
         "type": "color"
       }
     },
@@ -81,7 +81,7 @@
         "type": "color"
       },
       "inverse-primary": {
-        "value": "{base.mono.white}",
+        "value": "{colors.basic.white}",
         "type": "color"
       },
       "inverse-secondary": {

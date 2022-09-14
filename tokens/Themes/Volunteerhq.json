@@ -79,7 +79,7 @@
       },
       "onprimary": {
         "type": "color",
-        "value": "{colors.base.white}"
+        "value": "{colors.basic.white}"
       }
     }
   },
