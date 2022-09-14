@@ -179,7 +179,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.primary.tone}",
+          "value": "{button.primary.hover.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -193,7 +193,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.primary.tint}",
+          "value": "{button.primary.active.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -203,11 +203,11 @@
       },
       "loading": {
         "bg-color": {
-          "value": "{theme.primary.default}",
+          "value": "{button.primary.default.bg-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.primary.default}",
+          "value": "{button.primary.default.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -265,7 +265,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.primary.tint}",
+          "value": "{button.outlined.active.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -279,7 +279,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.primary.default}",
+          "value": "{button.outlined.loading.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -309,7 +309,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.success.default}",
+          "value": "{button.success.default.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -323,7 +323,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.success.tone}",
+          "value": "{button.success.hover.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -337,7 +337,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.success.tint}",
+          "value": "{button.success.active.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -347,11 +347,11 @@
       },
       "loading": {
         "bg-color": {
-          "value": "{theme.success.default}",
+          "value": "{button.success.default.bg-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.success.default}",
+          "value": "{button.success.default.bg-color}",
           "type": "color"
         },
         "text-color": {
