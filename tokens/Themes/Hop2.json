@@ -29,53 +29,27 @@
     "accent": {
       "dark": {
         "type": "color",
-        "value": "{base.success.800}"
+        "value": "{colors.green.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.success.700}"
+        "value": "{colors.green.700}"
       },
       "default": {
         "type": "color",
-        "value": "{base.success.600}"
+        "value": "{colors.green.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{base.success.500}"
+        "value": "{colors.green.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.success.400}"
+        "value": "{colors.green.400}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.success.100}"
-      }
-    },
-    "info": {
-      "dark": {
-        "type": "color",
-        "value": "{base.ball-blue.800}"
-      },
-      "tone": {
-        "type": "color",
-        "value": "{base.ball-blue.700}"
-      },
-      "default": {
-        "type": "color",
-        "value": "{base.ball-blue.600}"
-      },
-      "tint": {
-        "type": "color",
-        "value": "{base.ball-blue.500}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{base.ball-blue.300}"
-      },
-      "subtle": {
-        "type": "color",
-        "value": "{base.ball-blue.100}"
+        "value": "{colors.green.100}"
       }
     }
   },
@@ -137,6 +111,44 @@
       },
       "900": {
         "value": "#125a7c",
+        "type": "color"
+      }
+    },
+    "info": {
+      "100": {
+        "value": "{base.ball-blue.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.ball-blue.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.ball-blue.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.ball-blue.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.ball-blue.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.ball-blue.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.ball-blue.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.ball-blue.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.ball-blue.900}",
         "type": "color"
       }
     },
