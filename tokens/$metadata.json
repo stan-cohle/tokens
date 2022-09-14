@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
+    "Comp-themes/Ovago",
+    "Components/Button",
     "Base/Tokens",
     "Base/Colors",
     "Base/Archive",
@@ -7,7 +9,6 @@
     "Semantic/Shadows-colors",
     "Semantic/Shadows",
     "Semantic/Tokens",
-    "Components/Button",
     "Themes/Ovago",
     "Themes/Wowfare",
     "Themes/AranGrant",
@@ -20,7 +21,6 @@
     "Themes/Underpricer",
     "Themes/Volunteerhq",
     "Themes/MyQuility",
-    "Themes/Purdue",
-    "Comp-themes/Ovago"
+    "Themes/Purdue"
   ]
 }
