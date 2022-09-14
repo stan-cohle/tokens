@@ -220,12 +220,12 @@
           "value": "{theme.bg.disabled}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{theme.content.disabled}",
+        "border-color": {
+          "value": "{colors.base.transparent}",
           "type": "color"
         },
-        "border-color": {
-          "value": "{base.mono.transparent}",
+        "text-color": {
+          "value": "{theme.content.disabled}",
           "type": "color"
         }
       }
@@ -292,12 +292,12 @@
           "value": "{theme.bg.disabled}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{theme.content.disabled}",
+        "border-color": {
+          "value": "{colors.base.transparent}",
           "type": "color"
         },
-        "border-color": {
-          "value": "{base.mono.transparent}",
+        "text-color": {
+          "value": "{theme.content.disabled}",
           "type": "color"
         }
       }
@@ -365,7 +365,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{base.mono.transparent}",
+          "value": "{colors.base.transparent}",
           "type": "color"
         },
         "text-color": {
