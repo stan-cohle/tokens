@@ -1,14 +1,15 @@
 {
   "tokenSetOrder": [
     "Comp-themes/Ovago",
-    "Components/Button",
     "Base/Tokens",
     "Base/Colors",
     "Base/Archive",
-    "Semantic/Colors",
+    "Semantic/Designer-colors",
     "Semantic/Shadows-colors",
     "Semantic/Shadows",
     "Semantic/Tokens",
+    "Components/Semantic-colors",
+    "Components/Button",
     "Themes/Ovago",
     "Themes/Wowfare",
     "Themes/AranGrant",
