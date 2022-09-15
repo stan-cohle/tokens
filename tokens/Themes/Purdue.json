@@ -92,5 +92,33 @@
         "type": "color"
       }
     }
+  },
+  "sys": {
+    "font-family": {
+      "title": {
+        "value": "{font-family.oswald}",
+        "type": "fontFamilies"
+      },
+      "title-secondary": {
+        "value": "{font-family.inter}",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "{font-family.inter}",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "font-weight": {
+    "semi-bold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    }
+  },
+  "font-family": {
+    "oswald": {
+      "value": "Oswald",
+      "type": "fontFamilies"
+    }
   }
 }
