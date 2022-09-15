@@ -234,6 +234,10 @@
         "value": "{font-family.oswald}",
         "type": "fontFamilies"
       },
+      "title-secondary": {
+        "value": "{font-family.inter}",
+        "type": "fontFamilies"
+      },
       "body": {
         "value": "{font-family.inter}",
         "type": "fontFamilies"
