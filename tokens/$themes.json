@@ -24,7 +24,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -53,7 +56,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "source",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "source"
+      "Semantic/Shadow": "source",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -82,7 +88,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -111,7 +120,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -140,7 +152,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:7675929e444f3befbb7e424503cebc39a7f7426b,",
@@ -291,7 +306,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -320,7 +338,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.tone": "S:d464c196fb31c57d01cc437131780f35438bc499,",
@@ -555,7 +576,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "colors.base.white": "S:420c82896300f863c65da610dc35ff554ef670b8,",
@@ -879,7 +903,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:3e58ec5e42c3d6b743802318cc296b32e6ab66d9,",
@@ -1185,7 +1212,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:1f85539b52febaa7e291d676fdf84bbfb09008c3,",
@@ -1469,7 +1499,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:d888464e82df39e5e1cef400238c5df4b6d37412,",
@@ -1718,7 +1751,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:e8fe7116c4c78e7f09181c105b3cfeb954582224,",
@@ -1939,7 +1975,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:6834b7f742396b44f89341fbdecc17cb6c3ff353,",
@@ -2168,7 +2207,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:66df507a71b5a59cc9d948d1968defb3846e6ca3,",
@@ -2386,7 +2428,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "enabled",
       "Semantic/Shadow-colors": "source",
-      "Semantic/Shadow": "enabled"
+      "Semantic/Shadow": "enabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:9663c5902548f22e7e91b0eb8551f4fd41f5e5b1,",
@@ -2592,7 +2637,10 @@
       "Base/Archive": "disabled",
       "Semantic/Designer-colors": "source",
       "Semantic/Shadow-colors": "disabled",
-      "Semantic/Shadow": "disabled"
+      "Semantic/Shadow": "disabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "button.primary.default.bg-color": "S:8166c75dc40718fd8e9e91940599483ebe0e9f4a,",
@@ -2712,7 +2760,10 @@
       "Themes/Underpricer": "disabled",
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Fonts/Core": "disabled",
+      "Fonts/Typography": "disabled",
+      "Fonts/Semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "button.primary.default.bg-color": "S:0143b26243433f1f9bb68901ee1458a09043c87b,",

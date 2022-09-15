@@ -21,6 +21,9 @@
     "Themes/Underpricer",
     "Themes/Volunteerhq",
     "Themes/MyQuility",
-    "Themes/Purdue"
+    "Themes/Purdue",
+    "Fonts/Core",
+    "Fonts/Typography",
+    "Fonts/Semantic"
   ]
 }
