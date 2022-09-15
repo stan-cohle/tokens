@@ -3,8 +3,6 @@
     "id": "cd51684abcdd4befe0ab9eb1436ae4a20ea71e62",
     "name": "Kayak",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
@@ -24,8 +22,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "disabled",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -33,8 +32,6 @@
     "id": "8bbd6fac01dd89a9c9cad1e486c5835378c633cc",
     "name": "Ovago Styles",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "source",
       "Semantic/Tokens": "source",
       "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
@@ -54,8 +51,9 @@
       "Base/Tokens": "source",
       "Base/Colors": "disabled",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "source"
+      "Semantic/Designer-colors": "source",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -63,8 +61,6 @@
     "id": "473884322551d49f246b546b32d307ca1f6ea570",
     "name": "Priceline",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
@@ -84,8 +80,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "disabled",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -93,8 +90,6 @@
     "id": "3d8a0ed4850671de3a9e04f903d83d33b1b964a3",
     "name": "Underpricer",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
@@ -114,8 +109,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "disabled",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -123,8 +119,6 @@
     "id": "02a07394e4a14227fc62749ff8ef82514916f413",
     "name": "MyQuilityFlights",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
@@ -144,8 +138,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "disabled",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:7675929e444f3befbb7e424503cebc39a7f7426b,",
@@ -275,8 +270,6 @@
     "id": "a71bd2d5084fa0348274a3498a1d0c3b422a20a4",
     "name": "Volunteerhq",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
@@ -296,8 +289,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "disabled",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -305,8 +299,6 @@
     "id": "87a8981f0745d8d5a436015267ae2da5e1d77ddf",
     "name": "Purdue",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/Ovago": "disabled",
@@ -326,8 +318,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "disabled",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.tone": "S:d464c196fb31c57d01cc437131780f35438bc499,",
@@ -541,8 +534,6 @@
     "id": "aa719ce11562dd775f0300c0746586044ee64516",
     "name": "Default",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "disabled",
       "Themes/AllSavingsTravel": "disabled",
@@ -562,8 +553,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "colors.base.white": "S:420c82896300f863c65da610dc35ff554ef670b8,",
@@ -866,8 +858,6 @@
     "id": "7438e3798f0dbf50ead437e6652e591fdb1920dc",
     "name": "Ovago",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "disabled",
       "Themes/AllSavingsTravel": "disabled",
@@ -887,8 +877,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:3e58ec5e42c3d6b743802318cc296b32e6ab66d9,",
@@ -1173,8 +1164,6 @@
     "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
     "name": "Wowfare",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
@@ -1194,8 +1183,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:1f85539b52febaa7e291d676fdf84bbfb09008c3,",
@@ -1458,8 +1448,6 @@
     "id": "aa8f8636076ef1553eeded93c653980c3f45d5dc",
     "name": "AranGrant",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
@@ -1479,8 +1467,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:d888464e82df39e5e1cef400238c5df4b6d37412,",
@@ -1708,8 +1697,6 @@
     "id": "86fae8c696e520212262f0d1ae35b4ca2022678a",
     "name": "Hop2",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
@@ -1729,8 +1716,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:e8fe7116c4c78e7f09181c105b3cfeb954582224,",
@@ -1930,8 +1918,6 @@
     "id": "4c89e1177f4e23a5f8ba9ba5bdae04680751f904",
     "name": "Gurufare",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
@@ -1951,8 +1937,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:6834b7f742396b44f89341fbdecc17cb6c3ff353,",
@@ -2160,8 +2147,6 @@
     "id": "4ea711a8623168909dfd29b753d42cb41e3d1abb",
     "name": "ChatDeal",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
@@ -2181,8 +2166,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:66df507a71b5a59cc9d948d1968defb3846e6ca3,",
@@ -2379,8 +2365,6 @@
     "id": "38084a8afca95381886c1d2427a373f8014cca60",
     "name": "AllSavingsTravel",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "source",
-      "Semantic/Shadows": "enabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "source",
       "Themes/AllSavingsTravel": "enabled",
@@ -2400,8 +2384,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "enabled"
+      "Semantic/Designer-colors": "enabled",
+      "Semantic/Shadow-colors": "source",
+      "Semantic/Shadow": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:9663c5902548f22e7e91b0eb8551f4fd41f5e5b1,",
@@ -2586,8 +2571,6 @@
     "id": "cf59b0b94964c4c15af8e1ca27d6a0b9545f6f0b",
     "name": "Comp/Ovago",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "disabled",
-      "Semantic/Shadows": "disabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/Ovago": "source",
@@ -2607,8 +2590,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "source"
+      "Semantic/Designer-colors": "source",
+      "Semantic/Shadow-colors": "disabled",
+      "Semantic/Shadow": "disabled"
     },
     "$figmaStyleReferences": {
       "button.primary.default.bg-color": "S:de400b408b29e383558d9205fb902d8a86d5addf,",
@@ -2662,8 +2646,6 @@
     "id": "66baac5417ab2ff70c93c64326a63839d2c08fcd",
     "name": "Comp/Default",
     "selectedTokenSets": {
-      "Semantic/Shadows-colors": "disabled",
-      "Semantic/Shadows": "disabled",
       "Semantic/Tokens": "enabled",
       "Components/Button": "enabled",
       "Themes/Ovago": "disabled",
@@ -2683,8 +2665,9 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Archive": "disabled",
-      "Components/Semantic-colors": "disabled",
-      "Semantic/Designer-colors": "source"
+      "Semantic/Designer-colors": "source",
+      "Semantic/Shadow-colors": "disabled",
+      "Semantic/Shadow": "disabled"
     },
     "$figmaStyleReferences": {
       "button.primary.default.bg-color": "S:0143b26243433f1f9bb68901ee1458a09043c87b,",
