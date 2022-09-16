@@ -4,6 +4,10 @@
     "Base/Tokens",
     "Base/Colors",
     "Base/Archive",
+    "Fonts/Core",
+    "Fonts/Semantic",
+    "Fonts/Base",
+    "Fonts/Base-Secondary",
     "Semantic/Designer-colors",
     "Semantic/Shadow-colors",
     "Semantic/Shadow",
@@ -21,10 +25,6 @@
     "Themes/Underpricer",
     "Themes/Volunteerhq",
     "Themes/MyQuility",
-    "Themes/Purdue",
-    "Fonts/Core",
-    "Fonts/Semantic",
-    "Fonts/Typography",
-    "Fonts/Secondary-title"
+    "Themes/Purdue"
   ]
 }

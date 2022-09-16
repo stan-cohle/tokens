@@ -2,115 +2,115 @@
   "Typography": {
     "Display": {
       "X-Small": {
-        "value": "{Base-Primary.Display.X-Small.Default.Semi-bold}",
+        "value": "{Base.Display.X-Small.Default.Semi-bold}",
         "type": "typography",
         "description": "40 semibold"
       },
       "Small": {
-        "value": "{Base-Primary.Display.Small.Default.Semi-bold}",
+        "value": "{Base.Display.Small.Default.Semi-bold}",
         "type": "typography",
         "description": "48 semibold"
       },
       "Medium": {
-        "value": "{Base-Primary.Display.Medium.Default.Semi-bold}",
+        "value": "{Base.Display.Medium.Default.Semi-bold}",
         "type": "typography",
         "description": "56 semibold"
       },
       "Large": {
-        "value": "{Base-Primary.Display.Large.Default.Bold}",
+        "value": "{Base.Display.Large.Default.Bold}",
         "type": "typography",
         "description": "64 bold"
       },
       "X-Large": {
-        "value": "{Base-Primary.Display.X-Large.Default.Bold}",
+        "value": "{Base.Display.X-Large.Default.Bold}",
         "type": "typography",
         "description": "72 bold"
       },
       "XX-Large": {
-        "value": "{Base-Primary.Display.XX-Large.Default.Bold}",
+        "value": "{Base.Display.XX-Large.Default.Bold}",
         "type": "typography",
         "description": "80 bold"
       }
     },
     "Heading": {
       "X-Small": {
-        "value": "{Base-Primary.Heading.X-Small.Default.Semi-bold}",
+        "value": "{Base.Heading.X-Small.Default.Semi-bold}",
         "type": "typography",
         "description": "16 semibold"
       },
       "Small": {
-        "value": "{Base-Primary.Heading.Small.Default.Semi-bold}",
+        "value": "{Base.Heading.Small.Default.Semi-bold}",
         "type": "typography",
         "description": "18 semibold"
       },
       "Medium": {
-        "value": "{Base-Primary.Heading.Medium.Default.Semi-bold}",
+        "value": "{Base.Heading.Medium.Default.Semi-bold}",
         "type": "typography",
         "description": "20 semibold"
       },
       "Large": {
-        "value": "{Base-Primary.Heading.Large.Default.Semi-bold}",
+        "value": "{Base.Heading.Large.Default.Semi-bold}",
         "type": "typography",
         "description": "24 semibold"
       },
       "X-Large": {
-        "value": "{Base-Primary.Heading.X-Large.Default.Semi-bold}",
+        "value": "{Base.Heading.X-Large.Default.Semi-bold}",
         "type": "typography",
         "description": "28 semibold"
       },
       "XX-Large": {
-        "value": "{Base-Primary.Heading.XX-Large.Default.Semi-bold}",
+        "value": "{Base.Heading.XX-Large.Default.Semi-bold}",
         "type": "typography",
         "description": "32 semibold"
       }
     },
     "Label": {
       "Small": {
-        "value": "{Base-Primary.Label.Small.Default.Regular}",
+        "value": "{Base.Label.Small.Default.Regular}",
         "type": "typography",
         "description": "12 regular"
       },
       "Medium": {
-        "value": "{Base-Primary.Label.Medium.Default.Regular}",
+        "value": "{Base.Label.Medium.Default.Regular}",
         "type": "typography",
         "description": "13 regular"
       },
       "Large": {
-        "value": "{Base-Primary.Label.Large.Default.Semi-bold}",
+        "value": "{Base.Label.Large.Default.Semi-bold}",
         "type": "typography",
         "description": "14 semibold"
       }
     },
     "Caption": {
       "Small": {
-        "value": "{Base-Primary.Caption.Small.Default.Regular}",
+        "value": "{Base.Caption.Small.Default.Regular}",
         "type": "typography",
         "description": "11 regular"
       },
       "Medium": {
-        "value": "{Base-Primary.Caption.Medium.Default.Regular}",
+        "value": "{Base.Caption.Medium.Default.Regular}",
         "type": "typography",
         "description": "11 regular"
       }
     },
     "Paragraph": {
       "Small": {
-        "value": "{Base-Primary.Paragraph.Small.Default.Regular}",
+        "value": "{Base.Paragraph.Small.Default.Regular}",
         "type": "typography",
         "description": "12 regular"
       },
       "Medium": {
-        "value": "{Base-Primary.Paragraph.Medium.Default.Regular}",
+        "value": "{Base.Paragraph.Medium.Default.Regular}",
         "type": "typography",
         "description": "13 regular"
       },
       "Large": {
-        "value": "{Base-Primary.Paragraph.Large.Default.Regular}",
+        "value": "{Base.Paragraph.Large.Default.Regular}",
         "type": "typography",
         "description": "14 regular"
       },
       "X-Large": {
-        "value": "{Base-Primary.Paragraph.X-Large.Default.Regular}",
+        "value": "{Base.Paragraph.X-Large.Default.Regular}",
         "type": "typography",
         "description": "16 regular"
       }

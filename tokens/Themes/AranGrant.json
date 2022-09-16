@@ -231,11 +231,11 @@
   "sys": {
     "font-family": {
       "title": {
-        "value": "{font-family.oswald}",
+        "value": "{font-family.inter}",
         "type": "fontFamilies"
       },
       "title-secondary": {
-        "value": "{font-family.inter}",
+        "value": "{font-family.oswald}",
         "type": "fontFamilies"
       },
       "body": {
@@ -245,7 +245,7 @@
     }
   },
   "font-weight": {
-    "semi-bold": {
+    "semi-bold-secondary": {
       "value": "SemiBold",
       "type": "fontWeights"
     }
