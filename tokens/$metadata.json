@@ -1,14 +1,12 @@
 {
   "tokenSetOrder": [
-    "Comp-themes/Ovago",
     "Base/Tokens",
     "Base/Colors",
+    "Base/Fonts",
+    "Base/Secondary-Fonts",
     "Base/Archive",
-    "Fonts/Core",
-    "Fonts/Semantic",
-    "Fonts/Base",
-    "Fonts/Base-Secondary",
-    "Semantic/Designer-colors",
+    "Semantic/Typography",
+    "Semantic/Colors",
     "Semantic/Shadow-colors",
     "Semantic/Shadow",
     "Semantic/Tokens",

@@ -96,29 +96,33 @@
   "sys": {
     "font-family": {
       "title": {
-        "value": "{font-family.oswald}",
-        "type": "fontFamilies"
-      },
-      "title-secondary": {
-        "value": "{font-family.inter}",
+        "value": "{font-family.acumin-semicon}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{font-family.inter}",
+        "value": "{font-family.acumin-pro}",
         "type": "fontFamilies"
       }
     }
   },
-  "font-weight": {
-    "semi-bold": {
-      "value": "SemiBold",
-      "type": "fontWeights"
+  "font-family": {
+    "acumin-semicon": {
+      "value": "Acumin Pro SemiCondensed",
+      "type": "fontFamilies"
+    },
+    "united-sans": {
+      "value": "United Sans Reg",
+      "type": "fontFamilies"
+    },
+    "acumin-pro": {
+      "value": "Acumin Pro",
+      "type": "fontFamilies"
     }
   },
-  "font-family": {
-    "oswald": {
-      "value": "Oswald",
-      "type": "fontFamilies"
+  "font-weight": {
+    "semi-bold": {
+      "value": "Semibold",
+      "type": "fontWeights"
     }
   }
 }
