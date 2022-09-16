@@ -1,0 +1,51 @@
+{
+  "button": {
+    "primary": {
+      "default": {
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
+      }
+    },
+    "large": {
+      "label": {
+        "value": {
+          "fontFamily": "{font-family.united-sans}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.title.small}",
+          "fontSize": "{font-size.18}",
+          "letterSpacing": "{letter-spacing.title.small}",
+          "paragraphSpacing": "{paragraph-spacing.title.small}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.upper}"
+        },
+        "type": "typography"
+      },
+      "border-radius": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "padding-top": {
+        "value": "3px",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{space.500}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{space.500}",
+        "type": "spacing"
+      },
+      "border-width": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      }
+    }
+  }
+}

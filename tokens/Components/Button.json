@@ -112,6 +112,10 @@
       "border-width": {
         "value": "{border-width.1}",
         "type": "borderWidth"
+      },
+      "label": {
+        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "type": "typography"
       }
     },
     "x-large": {
@@ -539,7 +543,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{colors.basic.transparent}",
+          "value": "{button.ghost.hover.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -553,7 +557,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{colors.basic.transparent}",
+          "value": "{button.ghost.active.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -567,7 +571,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{colors.basic.transparent}",
+          "value": "{button.ghost.loading.bg-color}",
           "type": "color"
         },
         "text-color": {
@@ -581,7 +585,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{colors.basic.transparent}",
+          "value": "{theme.bg.disabled}",
           "type": "color"
         },
         "text-color": {

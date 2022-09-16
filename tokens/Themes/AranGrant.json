@@ -227,5 +227,33 @@
         "type": "borderRadius"
       }
     }
+  },
+  "sys": {
+    "font-family": {
+      "title": {
+        "value": "{font-family.inter}",
+        "type": "fontFamilies"
+      },
+      "title-secondary": {
+        "value": "{font-family.acumin-semicon}",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "{font-family.inter}",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "font-weight": {
+    "semi-bold-secondary": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    }
+  },
+  "font-family": {
+    "oswald": {
+      "value": "Oswald",
+      "type": "fontFamilies"
+    }
   }
 }
