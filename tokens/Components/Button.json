@@ -112,6 +112,10 @@
       "border-width": {
         "value": "{border-width.1}",
         "type": "borderWidth"
+      },
+      "label": {
+        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "type": "typography"
       }
     },
     "x-large": {
