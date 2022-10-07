@@ -240,9 +240,9 @@
       "bottom-sheet": {
         "value": {
           "x": "0",
-          "y": "-8",
-          "blur": "36",
-          "spread": "0",
+          "y": "-24",
+          "blur": "24",
+          "spread": "-8",
           "color": "{dark-shadow}",
           "type": "dropShadow"
         },
