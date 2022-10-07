@@ -1,11 +1,11 @@
 {
   "Effects": {
-    "dark-shadow": {
-      "value": "rgba(#23262C, 0.24)",
-      "type": "color"
-    },
     "light-shadow": {
       "value": "rgba(#8B93A4, 0.24)",
+      "type": "color"
+    },
+    "dark-shadow": {
+      "value": "rgba(#23262C, 0.24)",
       "type": "color"
     },
     "shadow": {
@@ -233,7 +233,7 @@
         "value": "{shadow.base.light.200}",
         "type": "boxShadow"
       },
-      "modal-desktop": {
+      "modal": {
         "value": "{shadow.base.light.300}",
         "type": "boxShadow"
       },
