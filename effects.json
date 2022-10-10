@@ -230,11 +230,11 @@
         "type": "boxShadow"
       },
       "overlay": {
-        "value": "{shadow.base.light.200}",
+        "value": "{shadow.base.light.300}",
         "type": "boxShadow"
       },
       "modal": {
-        "value": "{shadow.base.light.300}",
+        "value": "{shadow.base.light.500}",
         "type": "boxShadow"
       },
       "bottom-sheet": {
