@@ -1,12 +1,18 @@
 {
   "Effects": {
-    "light-shadow": {
-      "value": "rgba(#8B93A4, 0.24)",
+    "shadow-light": {
+      "value": "rgba({special-color.shadow}, {opacity-light})",
       "type": "color"
     },
-    "dark-shadow": {
-      "value": "rgba(#23262C, 0.24)",
+    "shadow-strong": {
+      "value": "rgba({special-color.shadow}, {opacity-strong})",
       "type": "color"
+    },
+    "special-color": {
+      "shadow": {
+        "value": "#060D26",
+        "type": "color"
+      }
     },
     "shadow": {
       "base": {
@@ -14,15 +20,15 @@
           "100": {
             "value": [
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "0.5",
+                "blur": "2",
                 "spread": "0"
               },
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "1",
@@ -35,15 +41,15 @@
           "200": {
             "value": [
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "0.5",
+                "blur": "2",
                 "spread": "0"
               },
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "2",
@@ -56,15 +62,15 @@
           "300": {
             "value": [
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "2",
+                "blur": "4",
                 "spread": "0"
               },
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "4",
@@ -77,15 +83,15 @@
           "400": {
             "value": [
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "4",
+                "blur": "6",
                 "spread": "0"
               },
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "8",
@@ -98,15 +104,15 @@
           "500": {
             "value": [
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "4",
+                "blur": "8",
                 "spread": "0"
               },
               {
-                "color": "{light-shadow}",
+                "color": "{shadow-light}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "16",
@@ -117,19 +123,19 @@
             "type": "boxShadow"
           }
         },
-        "dark": {
+        "strong": {
           "100": {
             "value": [
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "0.5",
+                "blur": "2",
                 "spread": "0"
               },
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "1",
@@ -142,15 +148,15 @@
           "200": {
             "value": [
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "0.5",
+                "blur": "2",
                 "spread": "0"
               },
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "2",
@@ -163,15 +169,15 @@
           "300": {
             "value": [
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "2",
+                "blur": "4",
                 "spread": "0"
               },
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "4",
@@ -184,15 +190,15 @@
           "400": {
             "value": [
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "4",
+                "blur": "8",
                 "spread": "0"
               },
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "8",
@@ -205,15 +211,15 @@
           "500": {
             "value": [
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
-                "y": "0",
-                "blur": "1",
+                "y": "4",
+                "blur": "8",
                 "spread": "0"
               },
               {
-                "color": "{dark-shadow}",
+                "color": "{shadow-strong}",
                 "type": "dropShadow",
                 "x": "0",
                 "y": "16",
@@ -243,11 +249,19 @@
           "y": "-24",
           "blur": "24",
           "spread": "-8",
-          "color": "{dark-shadow}",
+          "color": "{shadow-strong}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
       }
+    },
+    "opacity-light": {
+      "value": "8%",
+      "type": "opacity"
+    },
+    "opacity-strong": {
+      "value": "16%",
+      "type": "opacity"
     }
   },
   "$themes": [],
