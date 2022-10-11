@@ -656,16 +656,20 @@
   },
   "semantic": {
     "border-radius": {
-      "input": {
+      "square": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "softly-rounded": {
         "value": "{border-radius.4}",
         "type": "borderRadius"
       },
-      "card": {
-        "value": "{border-radius.4}",
+      "rounded": {
+        "value": "{border-radius.8}",
         "type": "borderRadius"
       },
-      "control": {
-        "value": "{border-radius.4}",
+      "pill": {
+        "value": "{border-radius.999}",
         "type": "borderRadius"
       }
     },
@@ -734,13 +738,47 @@
       }
     },
     "border-width": {
-      "input-focus": {
+      "no-border": {
+        "value": "{border-width.0}",
+        "type": "borderWidth"
+      },
+      "border-thin": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      },
+      "skinny": {
         "value": "{border-width.2}",
         "type": "borderWidth"
       },
-      "focus": {
+      "medium": {
         "value": "{border-width.3}",
         "type": "borderWidth"
+      }
+    },
+    "opacity": {
+      "zero": {
+        "value": "{opacity.0}",
+        "type": "opacity"
+      },
+      "bright": {
+        "value": "{opacity.8}",
+        "type": "opacity"
+      },
+      "light": {
+        "value": "{opacity.16}",
+        "type": "opacity"
+      },
+      "soft": {
+        "value": "{opacity.24}",
+        "type": "opacity"
+      },
+      "medium": {
+        "value": "{opacity.40}",
+        "type": "opacity"
+      },
+      "opaque": {
+        "value": "1",
+        "type": "opacity"
       }
     }
   },
