@@ -55,7 +55,7 @@
   },
   "presets": {
     "header": {
-      "value": "{colors.basic.white}",
+      "value": "{colors.white}",
       "type": "color"
     },
     "subheader": {

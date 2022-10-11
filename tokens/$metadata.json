@@ -1,15 +1,9 @@
 {
   "tokenSetOrder": [
-    "Base/Tokens",
-    "Base/Colors",
-    "Base/Fonts",
-    "Base/Secondary-Fonts",
-    "Base/Archive",
-    "Semantic/Typography",
-    "Semantic/Colors",
-    "Semantic/Shadow-colors",
-    "Semantic/Shadow",
-    "Semantic/Tokens",
+    "Foundation/Foundation",
+    "Foundation/Fonts",
+    "Foundation/Secondary-Fonts",
+    "Semantic/Aliases",
     "Components/Button",
     "Themes/Ovago",
     "Themes/Wowfare",
@@ -23,7 +17,6 @@
     "Themes/Underpricer",
     "Themes/Volunteerhq",
     "Themes/MyQuility",
-    "Themes/Purdue",
-    "Comp-Theme/Purdue"
+    "Themes/Purdue"
   ]
 }

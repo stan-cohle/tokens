@@ -87,15 +87,15 @@
   },
   "presets": {
     "header": {
-      "value": "{theme.bg.inverse-secondary}",
+      "value": "{theme.bg.secondary-inverse}",
       "type": "color"
     },
     "subheader": {
-      "value": "{theme.bg.inverse-primary}",
+      "value": "{theme.bg.primary-inverse}",
       "type": "color"
     },
     "footer": {
-      "value": "{theme.bg.inverse-primary}",
+      "value": "{theme.bg.primary-inverse}",
       "type": "color"
     },
     "link": {
