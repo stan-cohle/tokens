@@ -3,7 +3,6 @@
     "id": "cd51684abcdd4befe0ab9eb1436ae4a20ea71e62",
     "name": "Kayak",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -17,10 +16,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -28,7 +28,6 @@
     "id": "8bbd6fac01dd89a9c9cad1e486c5835378c633cc",
     "name": "Ovago Styles",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -42,10 +41,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "source",
-      "Foundation/Foundation": "source",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "source",
+      "Semantic": "source",
+      "Foundation": "source",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -53,7 +53,6 @@
     "id": "473884322551d49f246b546b32d307ca1f6ea570",
     "name": "Priceline",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -67,10 +66,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -78,7 +78,6 @@
     "id": "3d8a0ed4850671de3a9e04f903d83d33b1b964a3",
     "name": "Underpricer",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -92,10 +91,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -103,7 +103,6 @@
     "id": "02a07394e4a14227fc62749ff8ef82514916f413",
     "name": "MyQuilityFlights",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -117,10 +116,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "enabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:7675929e444f3befbb7e424503cebc39a7f7426b,",
@@ -250,7 +250,6 @@
     "id": "a71bd2d5084fa0348274a3498a1d0c3b422a20a4",
     "name": "Volunteerhq",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -264,10 +263,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -275,7 +275,6 @@
     "id": "aa719ce11562dd775f0300c0746586044ee64516",
     "name": "Default",
     "selectedTokenSets": {
-      "Components/Button": "disabled",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -289,10 +288,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "disabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "colors.base.white": "S:420c82896300f863c65da610dc35ff554ef670b8,",
@@ -595,7 +595,6 @@
     "id": "86fae8c696e520212262f0d1ae35b4ca2022678a",
     "name": "Hop2",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -609,10 +608,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "source",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:e8fe7116c4c78e7f09181c105b3cfeb954582224,",
@@ -812,7 +812,6 @@
     "id": "4c89e1177f4e23a5f8ba9ba5bdae04680751f904",
     "name": "Gurufare",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -826,10 +825,11 @@
       "Themes/GuruFare": "enabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "source",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:6834b7f742396b44f89341fbdecc17cb6c3ff353,",
@@ -1037,7 +1037,6 @@
     "id": "4ea711a8623168909dfd29b753d42cb41e3d1abb",
     "name": "ChatDeal",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "enabled",
@@ -1051,10 +1050,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "source",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.dark": "S:66df507a71b5a59cc9d948d1968defb3846e6ca3,",
@@ -1251,7 +1251,6 @@
     "id": "38084a8afca95381886c1d2427a373f8014cca60",
     "name": "AllSavingsTravel",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/AllSavingsTravel": "enabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -1265,10 +1264,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "source",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:9663c5902548f22e7e91b0eb8551f4fd41f5e5b1,",
@@ -1453,7 +1453,6 @@
     "id": "cf59b0b94964c4c15af8e1ca27d6a0b9545f6f0b",
     "name": "Comp/Ovago",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/Ovago": "source",
       "Themes/Wowfare": "disabled",
       "Themes/AranGrant": "disabled",
@@ -1467,10 +1466,11 @@
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "button.primary.default.bg-color": "S:8166c75dc40718fd8e9e91940599483ebe0e9f4a,",
@@ -1569,7 +1569,6 @@
     "id": "8e6041ba03669ccd264a84c64432490897e370cb",
     "name": "Comp/Default",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/Ovago": "disabled",
       "Themes/Wowfare": "disabled",
       "Themes/AranGrant": "disabled",
@@ -1583,10 +1582,11 @@
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "disabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "disabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "button.primary.default.bg-color": "S:0143b26243433f1f9bb68901ee1458a09043c87b,",
@@ -1685,7 +1685,6 @@
     "id": "b4932872256003f4e26b3c8bd245b65daada98fd",
     "name": "Wowfare",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -1699,10 +1698,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "enabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "source",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "enabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:2b73869d01696f93c2b542aadfbf9898aa017fe4,",
@@ -2154,7 +2154,6 @@
     "id": "aa8f8636076ef1553eeded93c653980c3f45d5dc",
     "name": "AranGrant",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "enabled",
       "Themes/ChatDeal": "disabled",
@@ -2168,10 +2167,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "enabled",
-      "Foundation/Secondary-Fonts": "enabled"
+      "Component": "source",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "enabled",
+      "Secondary-Fonts": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:08a319b3bdf2ef1d40bd65b5bbdf6981cf72d113,",
@@ -3058,7 +3058,6 @@
     "id": "7438e3798f0dbf50ead437e6652e591fdb1920dc",
     "name": "Ovago",
     "selectedTokenSets": {
-      "Components/Button": "disabled",
       "Themes/AllSavingsTravel": "disabled",
       "Themes/AranGrant": "disabled",
       "Themes/ChatDeal": "disabled",
@@ -3072,10 +3071,11 @@
       "Themes/GuruFare": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "enabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "disabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "enabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:74ed2d3f2ad1f60094ee8c62b058f52c3980c898,",
@@ -3570,7 +3570,6 @@
     "id": "87a8981f0745d8d5a436015267ae2da5e1d77ddf",
     "name": "Purdue",
     "selectedTokenSets": {
-      "Components/Button": "source",
       "Themes/Ovago": "disabled",
       "Themes/Wowfare": "disabled",
       "Themes/AranGrant": "disabled",
@@ -3584,10 +3583,11 @@
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "enabled",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "enabled",
-      "Foundation/Secondary-Fonts": "disabled"
+      "Component": "source",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "enabled",
+      "Secondary-Fonts": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.tone": "S:ee314882d819fa8778c3fd2a39ed530e15f27fff,",
@@ -4100,7 +4100,6 @@
     "id": "162a4e0f4f0fbc405147d84d0b1db613f11eab4a",
     "name": "Comp/Purdue",
     "selectedTokenSets": {
-      "Components/Button": "enabled",
       "Themes/Ovago": "disabled",
       "Themes/Wowfare": "disabled",
       "Themes/AranGrant": "disabled",
@@ -4114,10 +4113,11 @@
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "source",
-      "Semantic/Aliases": "enabled",
-      "Foundation/Foundation": "enabled",
-      "Foundation/Fonts": "source",
-      "Foundation/Secondary-Fonts": "source"
+      "Component": "enabled",
+      "Semantic": "enabled",
+      "Foundation": "enabled",
+      "Fonts": "source",
+      "Secondary-Fonts": "source"
     },
     "$figmaStyleReferences": {
       "button.primary.default.text-color": "S:7ef9e37ab35104cc49aa430e069a8cad711f62d3,",

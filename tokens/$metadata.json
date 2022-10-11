@@ -1,10 +1,10 @@
 {
   "tokenSetOrder": [
-    "Foundation/Foundation",
-    "Foundation/Fonts",
-    "Foundation/Secondary-Fonts",
-    "Semantic/Aliases",
-    "Components/Button",
+    "Foundation",
+    "Fonts",
+    "Secondary-Fonts",
+    "Semantic",
+    "Component",
     "Themes/Ovago",
     "Themes/Wowfare",
     "Themes/AranGrant",
