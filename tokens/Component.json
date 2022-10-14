@@ -169,7 +169,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{button.primary.default.bg-color}",
+          "value": "rgba({button.primary.default.bg-color}, {semantic.opacity.transparent})",
           "type": "color"
         },
         "text-color": {
@@ -183,11 +183,11 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{button.primary.hover.bg-color}",
+          "value": "rgba({button.primary.hover.bg-color}, {semantic.opacity.transparent})",
           "type": "color"
         },
         "text-color": {
-          "value": "{theme.content.default-inverse}",
+          "value": "{button.primary.default.text-color}",
           "type": "color"
         }
       },
@@ -197,11 +197,11 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{button.primary.active.bg-color}",
+          "value": "rgba({button.primary.active.bg-color}, {semantic.opacity.transparent})",
           "type": "color"
         },
         "text-color": {
-          "value": "{theme.content.default-inverse}",
+          "value": "{button.primary.default.text-color}",
           "type": "color"
         }
       },
@@ -211,17 +211,17 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{button.primary.default.bg-color}",
+          "value": "rgba({button.primary.loading.bg-color}, {semantic.opacity.transparent})",
           "type": "color"
         },
         "text-color": {
-          "value": "{theme.content.default-inverse}",
+          "value": "{button.primary.default.text-color}",
           "type": "color"
         }
       },
       "disabled": {
         "bg-color": {
-          "value": "{theme.bg.disabled}",
+          "value": "{theme.background.disabled}",
           "type": "color"
         },
         "border-color": {
