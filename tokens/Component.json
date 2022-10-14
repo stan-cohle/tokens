@@ -165,7 +165,7 @@
     "primary": {
       "default": {
         "bg-color": {
-          "value": "{theme.semantic.primary}",
+          "value": "{theme.primary.default}",
           "type": "color"
         },
         "border-color": {

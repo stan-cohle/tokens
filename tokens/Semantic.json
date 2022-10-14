@@ -3,7 +3,8 @@
     "background": {
       "surface": {
         "type": "color",
-        "value": "{colors.white}"
+        "value": "{colors.white}",
+        "description": "Background color for the top-most layer"
       },
       "muted": {
         "type": "color",
@@ -19,9 +20,10 @@
       },
       "surface-inverse": {
         "type": "color",
-        "value": "{base.neutral.dark.900}"
+        "value": "{base.neutral.dark.900}",
+        "description": "Inverted background color for the top-most layer"
       },
-      "subtle-inverse": {
+      "muted-inverse": {
         "type": "color",
         "value": "{base.neutral.dark.800}"
       },
@@ -33,15 +35,18 @@
     "content": {
       "default": {
         "type": "color",
-        "value": "{base.neutral.dark.900}"
+        "value": "{base.neutral.dark.900}",
+        "description": "Color for any primary texts such as titles"
       },
       "muted": {
         "type": "color",
-        "value": "{base.neutral.dark.600}"
+        "value": "{base.neutral.dark.600}",
+        "description": "Color for secondary texts such as subtitles and paragraphs"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.neutral.light.900}"
+        "value": "{base.neutral.light.900}",
+        "description": "Color for secondary texts such as captions"
       },
       "disabled": {
         "value": "{base.neutral.light.600}",
@@ -49,15 +54,18 @@
       },
       "default-inverse": {
         "value": "{colors.white}",
-        "type": "color"
+        "type": "color",
+        "description": "Inverse color for primary text such as titles"
       },
       "muted-inverse": {
         "value": "rgba({colors.white}, {semantic.opacity.high})",
-        "type": "color"
+        "type": "color",
+        "description": "Inverse color text for secondary texts such as subtitles and paragraphs"
       },
       "subtle-inverse": {
         "value": "rgba({colors.white}, {semantic.opacity.medium})",
-        "type": "color"
+        "type": "color",
+        "description": "Inverse color text for secondary texts such as captions"
       },
       "disabled-inverse": {
         "value": "rgba({base.neutral.light.600}, {semantic.opacity.soft})",
@@ -67,11 +75,13 @@
     "border": {
       "light": {
         "value": "{base.neutral.light.400}",
-        "type": "color"
+        "type": "color",
+        "description": "Smooth edge for discreet compositions. Used as a border or separator"
       },
       "medium": {
         "value": "{base.neutral.light.500}",
-        "type": "color"
+        "type": "color",
+        "description": "Pronounced edge. Used for general inputs and harder edges."
       },
       "strong": {
         "value": "{base.neutral.dark.600}",
@@ -87,38 +97,6 @@
       },
       "strong-inverse": {
         "value": "rgba({colors.white}, {opacity.80})",
-        "type": "color"
-      }
-    },
-    "brand-colors": {
-      "brand-dark": {
-        "type": "color",
-        "value": "{colors.indigo.800}"
-      },
-      "brand": {
-        "type": "color",
-        "value": "{colors.indigo.600}"
-      },
-      "brand-alt": {
-        "type": "color",
-        "value": "{colors.indigo.500}"
-      },
-      "brand-inverse": {
-        "type": "color",
-        "value": "{colors.white}"
-      }
-    },
-    "special-colors": {
-      "scrim": {
-        "value": "rgba({base.neutral.dark.900}, {opacity.64})",
-        "type": "color"
-      },
-      "highlight": {
-        "value": "{base.warning.200}",
-        "type": "color"
-      },
-      "shadow": {
-        "value": "{base.neutral.dark.900}",
         "type": "color"
       }
     },
@@ -187,7 +165,8 @@
       },
       "default": {
         "type": "color",
-        "value": "{base.info.600}"
+        "value": "{base.info.600}",
+        "description": "• Background color for information blocks\n• Text & Icon color for information messages\n• Border color for information state"
       },
       "tint": {
         "type": "color",
@@ -209,7 +188,8 @@
       },
       "default": {
         "type": "color",
-        "value": "{base.success.600}"
+        "value": "{base.success.600}",
+        "description": "• Background color for success blocks\n• Text & Icon color for success messages\n• Border color for success state"
       },
       "tint": {
         "type": "color",
@@ -227,11 +207,13 @@
     "warning": {
       "tone": {
         "type": "color",
-        "value": "{base.warning.700}"
+        "value": "{base.warning.700}",
+        "description": "Text and icon color for warning messages"
       },
       "default": {
         "type": "color",
-        "value": "{base.warning.600}"
+        "value": "{base.warning.600}",
+        "description": "• Background-color for warning blocks\n• Border-color for warning state"
       },
       "tint": {
         "type": "color",
@@ -253,7 +235,8 @@
       },
       "default": {
         "type": "color",
-        "value": "{base.danger.600}"
+        "value": "{base.danger.600}",
+        "description": "• Background color for danger blocks\n• Text & Icon color for error messages\n• Border color for error state"
       },
       "tint": {
         "type": "color",
@@ -266,6 +249,126 @@
       "subtle": {
         "type": "color",
         "value": "{base.danger.100}"
+      }
+    },
+    "opacity-black": {
+      "100": {
+        "value": "rgba({colors.black}, {opacity.8})",
+        "type": "color"
+      },
+      "200": {
+        "value": "rgba({colors.black}, {opacity.16})",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba({colors.black}, {opacity.24})",
+        "type": "color"
+      },
+      "400": {
+        "value": "rgba({colors.black}, {opacity.32})",
+        "type": "color"
+      },
+      "500": {
+        "value": "rgba({colors.black}, {opacity.40})",
+        "type": "color"
+      },
+      "600": {
+        "value": "rgba({colors.black}, {opacity.48})",
+        "type": "color"
+      },
+      "700": {
+        "value": "rgba({colors.black}, {opacity.56})",
+        "type": "color"
+      },
+      "800": {
+        "value": "rgba({colors.black}, {opacity.64})",
+        "type": "color"
+      },
+      "900": {
+        "value": "rgba({colors.black}, {opacity.72})",
+        "type": "color"
+      },
+      "1000": {
+        "value": "rgba({colors.black}, {opacity.80})",
+        "type": "color"
+      }
+    },
+    "opacity-white": {
+      "100": {
+        "value": "rgba({colors.white}, {opacity.8})",
+        "type": "color"
+      },
+      "200": {
+        "value": "rgba({colors.white}, {opacity.16})",
+        "type": "color"
+      },
+      "300": {
+        "value": "rgba({colors.white}, {opacity.24})",
+        "type": "color"
+      },
+      "400": {
+        "value": "rgba({colors.white}, {opacity.32})",
+        "type": "color"
+      },
+      "500": {
+        "value": "rgba({colors.white}, {opacity.40})",
+        "type": "color"
+      },
+      "600": {
+        "value": "rgba({colors.white}, {opacity.48})",
+        "type": "color"
+      },
+      "700": {
+        "value": "rgba({colors.white}, {opacity.56})",
+        "type": "color"
+      },
+      "800": {
+        "value": "rgba({colors.white}, {opacity.64})",
+        "type": "color"
+      },
+      "900": {
+        "value": "rgba({colors.white}, {opacity.72})",
+        "type": "color"
+      },
+      "1000": {
+        "value": "rgba({colors.white}, {opacity.80})",
+        "type": "color"
+      }
+    },
+    "brand-colors": {
+      "brand-dark": {
+        "type": "color",
+        "value": "{colors.indigo.800}"
+      },
+      "brand": {
+        "type": "color",
+        "value": "{colors.indigo.600}"
+      },
+      "brand-alt": {
+        "type": "color",
+        "value": "{colors.indigo.500}"
+      },
+      "brand-inverse": {
+        "type": "color",
+        "value": "{colors.white}"
+      }
+    },
+    "special-colors": {
+      "scrim": {
+        "value": "rgba({base.neutral.dark.900}, {opacity.64})",
+        "type": "color"
+      },
+      "highlight": {
+        "value": "{base.warning.200}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{base.primary.600}",
+        "type": "color"
+      },
+      "shadow": {
+        "value": "{base.neutral.dark.900}",
+        "type": "color"
       }
     }
   },
@@ -589,90 +692,6 @@
       },
       "900": {
         "value": "{colors.red.900}",
-        "type": "color"
-      }
-    },
-    "opacity-black": {
-      "100": {
-        "value": "rgba({colors.black}, {opacity.8})",
-        "type": "color"
-      },
-      "200": {
-        "value": "rgba({colors.black}, {opacity.16})",
-        "type": "color"
-      },
-      "300": {
-        "value": "rgba({colors.black}, {opacity.24})",
-        "type": "color"
-      },
-      "400": {
-        "value": "rgba({colors.black}, {opacity.32})",
-        "type": "color"
-      },
-      "500": {
-        "value": "rgba({colors.black}, {opacity.40})",
-        "type": "color"
-      },
-      "600": {
-        "value": "rgba({colors.black}, {opacity.48})",
-        "type": "color"
-      },
-      "700": {
-        "value": "rgba({colors.black}, {opacity.56})",
-        "type": "color"
-      },
-      "800": {
-        "value": "rgba({colors.black}, {opacity.64})",
-        "type": "color"
-      },
-      "900": {
-        "value": "rgba({colors.black}, {opacity.72})",
-        "type": "color"
-      },
-      "1000": {
-        "value": "rgba({colors.black}, {opacity.80})",
-        "type": "color"
-      }
-    },
-    "opacity-white": {
-      "100": {
-        "value": "rgba({colors.white}, {opacity.8})",
-        "type": "color"
-      },
-      "200": {
-        "value": "rgba({colors.white}, {opacity.16})",
-        "type": "color"
-      },
-      "300": {
-        "value": "rgba({colors.white}, {opacity.24})",
-        "type": "color"
-      },
-      "400": {
-        "value": "rgba({colors.white}, {opacity.32})",
-        "type": "color"
-      },
-      "500": {
-        "value": "rgba({colors.white}, {opacity.40})",
-        "type": "color"
-      },
-      "600": {
-        "value": "rgba({colors.white}, {opacity.48})",
-        "type": "color"
-      },
-      "700": {
-        "value": "rgba({colors.white}, {opacity.56})",
-        "type": "color"
-      },
-      "800": {
-        "value": "rgba({colors.white}, {opacity.64})",
-        "type": "color"
-      },
-      "900": {
-        "value": "rgba({colors.white}, {opacity.72})",
-        "type": "color"
-      },
-      "1000": {
-        "value": "rgba({colors.white}, {opacity.80})",
         "type": "color"
       }
     },
