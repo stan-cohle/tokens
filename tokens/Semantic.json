@@ -1,15 +1,15 @@
 {
-  "semantic": {
+  "theme": {
     "background": {
-      "primary": {
+      "surface": {
         "type": "color",
         "value": "{colors.white}"
       },
-      "secondary": {
+      "muted": {
         "type": "color",
         "value": "{base.neutral.light.200}"
       },
-      "tertiary": {
+      "subtle": {
         "type": "color",
         "value": "{base.neutral.light.300}"
       },
@@ -21,69 +21,25 @@
         "type": "color",
         "value": "{base.neutral.dark.900}"
       },
-      "secondary-inverse": {
+      "subtle-inverse": {
         "type": "color",
         "value": "{base.neutral.dark.800}"
       },
       "disabled": {
         "value": "{base.neutral.light.400}",
         "type": "color"
-      },
-      "accent": {
-        "type": "color",
-        "value": "{colors.indigo.600}"
-      },
-      "accent-alt": {
-        "type": "color",
-        "value": "{colors.indigo.500}"
-      },
-      "info": {
-        "type": "color",
-        "value": "{base.info.600}"
-      },
-      "success": {
-        "type": "color",
-        "value": "{base.success.600}"
-      },
-      "warning": {
-        "type": "color",
-        "value": "{base.warning.600}"
-      },
-      "danger": {
-        "type": "color",
-        "value": "{base.danger.600}"
-      },
-      "accent-subtle": {
-        "type": "color",
-        "value": "{colors.indigo.100}"
-      },
-      "info-subtle": {
-        "type": "color",
-        "value": "{base.info.100}"
-      },
-      "success-subtle": {
-        "type": "color",
-        "value": "{base.success.100}"
-      },
-      "warning-subtle": {
-        "type": "color",
-        "value": "{base.warning.100}"
-      },
-      "danger-subtle": {
-        "type": "color",
-        "value": "{base.danger.100}"
       }
     },
     "content": {
-      "primary": {
+      "default": {
         "type": "color",
         "value": "{base.neutral.dark.900}"
       },
-      "secondary": {
+      "muted": {
         "type": "color",
         "value": "{base.neutral.dark.600}"
       },
-      "tertiary": {
+      "subtle": {
         "type": "color",
         "value": "{base.neutral.light.900}"
       },
@@ -91,45 +47,21 @@
         "value": "{base.neutral.light.600}",
         "type": "color"
       },
-      "primary-inverse": {
+      "default-inverse": {
         "value": "{colors.white}",
         "type": "color"
       },
-      "secondary-inverse": {
+      "muted-inverse": {
         "value": "rgba({colors.white}, {semantic.opacity.high})",
         "type": "color"
       },
-      "tertiary-inverse": {
+      "subtle-inverse": {
         "value": "rgba({colors.white}, {semantic.opacity.medium})",
         "type": "color"
       },
       "disabled-inverse": {
         "value": "rgba({base.neutral.light.600}, {semantic.opacity.soft})",
         "type": "color"
-      },
-      "accent": {
-        "type": "color",
-        "value": "{colors.indigo.600}"
-      },
-      "accent-alt": {
-        "type": "color",
-        "value": "{colors.indigo.500}"
-      },
-      "info": {
-        "type": "color",
-        "value": "{base.info.600}"
-      },
-      "success": {
-        "type": "color",
-        "value": "{base.success.600}"
-      },
-      "warning": {
-        "type": "color",
-        "value": "{base.warning.700}"
-      },
-      "danger": {
-        "type": "color",
-        "value": "{base.danger.600}"
       }
     },
     "border": {
@@ -156,46 +88,6 @@
       "strong-inverse": {
         "value": "rgba({colors.white}, {opacity.80})",
         "type": "color"
-      },
-      "accent": {
-        "type": "color",
-        "value": "{colors.indigo.600}"
-      },
-      "accent-alt": {
-        "type": "color",
-        "value": "{colors.indigo.500}"
-      },
-      "active": {
-        "value": "{base.info.600}",
-        "type": "color"
-      },
-      "success": {
-        "type": "color",
-        "value": "{base.success.600}"
-      },
-      "warning": {
-        "type": "color",
-        "value": "{base.warning.600}"
-      },
-      "danger": {
-        "type": "color",
-        "value": "{base.danger.600}"
-      },
-      "info-inverse": {
-        "value": "{base.info.500}",
-        "type": "color"
-      },
-      "success-inverse": {
-        "type": "color",
-        "value": "{base.success.500}"
-      },
-      "danger-inverse": {
-        "type": "color",
-        "value": "{base.danger.500}"
-      },
-      "warning-inverse": {
-        "type": "color",
-        "value": "{base.warning.500}"
       }
     },
     "brand-colors": {
@@ -230,12 +122,154 @@
         "type": "color"
       }
     },
-    "neutral": {
+    "cta": {
+      "tone": {
+        "type": "color",
+        "value": "{base.success.700}"
+      },
       "default": {
-        "value": "rgba({base.neutral.light.800}, {opacity.16})",
+        "type": "color",
+        "value": "{base.success.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.success.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.success.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.success.100}"
+      }
+    },
+    "primary": {
+      "tone": {
+        "type": "color",
+        "value": "{colors.indigo.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{colors.indigo.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{colors.indigo.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{colors.indigo.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{colors.indigo.100}"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "rgba({base.neutral.light.800}, {semantic.opacity.light})",
+        "type": "color"
+      },
+      "dark": {
+        "value": "rgba({base.neutral.light.800}, {opacity.32})",
+        "type": "color"
+      },
+      "tone": {
+        "value": "rgba({base.neutral.light.700}, {opacity.32})",
         "type": "color"
       }
     },
+    "info": {
+      "tone": {
+        "type": "color",
+        "value": "{base.info.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.info.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.info.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.info.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.info.100}"
+      }
+    },
+    "success": {
+      "tone": {
+        "type": "color",
+        "value": "{base.success.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.success.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.success.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.success.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.success.100}"
+      }
+    },
+    "warning": {
+      "tone": {
+        "type": "color",
+        "value": "{base.warning.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.warning.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.warning.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.warning.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.warning.100}"
+      }
+    },
+    "danger": {
+      "tone": {
+        "type": "color",
+        "value": "{base.danger.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.danger.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.danger.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.danger.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.danger.100}"
+      }
+    }
+  },
+  "semantic": {
     "border-radius": {
       "square": {
         "value": "{border-radius.0}",
@@ -337,7 +371,7 @@
       }
     },
     "opacity": {
-      "zero": {
+      "transparent": {
         "value": "{opacity.0}",
         "type": "opacity"
       },
