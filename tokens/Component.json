@@ -656,21 +656,49 @@
       "value": "{semantic.spacing.none}",
       "type": "spacing"
     },
-    "default": {
-      "empty": {
-        "bg-color": {
-          "value": "{theme.background.surface}",
-          "type": "color"
-        },
-        "border-color": {
-          "value": "{theme.border.light}",
-          "type": "color"
-        },
-        "helper-text-color": {
-          "value": "{theme.content.default}",
-          "type": "color"
-        }
-      }
+    "background-color": {
+      "value": "{theme.background.surface}",
+      "type": "color"
+    },
+    "background-color-alt": {
+      "value": "{theme.background.muted}",
+      "type": "color"
+    },
+    "border-color": {
+      "value": "{theme.border.medium}",
+      "type": "color"
+    },
+    "label-text-color": {
+      "value": "{theme.content.strong}",
+      "type": "color"
+    },
+    "entry-text-color": {
+      "value": "{theme.content.strong}",
+      "type": "color"
+    },
+    "helper-text-color": {
+      "value": "{theme.content.default}",
+      "type": "color"
+    },
+    "error-text-color": {
+      "value": "{theme.danger.default}",
+      "type": "color"
+    },
+    "placeholder-text-color": {
+      "value": "{theme.content.disabled}",
+      "type": "color"
+    },
+    "icon-color": {
+      "value": "{theme.content.default}",
+      "type": "color"
+    },
+    "border-focus": {
+      "value": "{theme.primary.default}",
+      "type": "color"
+    },
+    "border-error": {
+      "value": "{theme.danger.default}",
+      "type": "color"
     }
   }
 }
