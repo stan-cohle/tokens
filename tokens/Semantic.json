@@ -14,9 +14,9 @@
         "type": "color",
         "value": "{base.neutral.light.300}"
       },
-      "canvas": {
-        "type": "color",
-        "value": "{base.neutral.light.300}"
+      "disabled": {
+        "value": "{base.neutral.light.400}",
+        "type": "color"
       },
       "surface-inverse": {
         "type": "color",
@@ -27,7 +27,11 @@
         "type": "color",
         "value": "{base.neutral.dark.800}"
       },
-      "disabled": {
+      "subtle-inverse": {
+        "type": "color",
+        "value": "{base.neutral.dark.700}"
+      },
+      "disabled-inverse": {
         "value": "{base.neutral.light.400}",
         "type": "color"
       }
@@ -322,6 +326,10 @@
       }
     },
     "special-colors": {
+      "canvas": {
+        "type": "color",
+        "value": "{base.neutral.light.300}"
+      },
       "neutral": {
         "value": "rgba({base.neutral.light.800}, {semantic.opacity.light})",
         "type": "color"
