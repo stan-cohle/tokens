@@ -32,7 +32,7 @@
         "value": "{base.neutral.dark.700}"
       },
       "disabled-inverse": {
-        "value": "{base.neutral.light.400}",
+        "value": "rgba({base.neutral.light.900}, {semantic.opacity.medium})",
         "type": "color"
       }
     },
@@ -72,7 +72,7 @@
         "description": "Inverse color text for secondary texts such as captions"
       },
       "disabled-inverse": {
-        "value": "rgba({base.neutral.light.600}, {semantic.opacity.soft})",
+        "value": "rgba({base.neutral.light.600}, {semantic.opacity.light})",
         "type": "color"
       }
     },
@@ -354,15 +354,15 @@
     "brand-colors": {
       "brand-dark": {
         "type": "color",
-        "value": "{colors.indigo.800}"
+        "value": "{base.primary.800}"
       },
       "brand": {
         "type": "color",
-        "value": "{colors.indigo.600}"
+        "value": "{base.primary.600}"
       },
       "brand-alt": {
         "type": "color",
-        "value": "{colors.indigo.500}"
+        "value": "{base.primary.500}"
       },
       "brand-inverse": {
         "type": "color",
