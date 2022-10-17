@@ -176,6 +176,78 @@
         "type": "borderWidth"
       }
     },
+    "cta": {
+      "default": {
+        "bg-color": {
+          "value": "{theme.success.default}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "rgba({button.success.default.bg-color}, {semantic.opacity.transparent})",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.strong-inverse}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "bg-color": {
+          "value": "{theme.success.tone}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "rgba({button.success.hover.bg-color}, {semantic.opacity.transparent})",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.strong-inverse}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "bg-color": {
+          "value": "{theme.success.tint}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "rgba({button.success.active.bg-color}, {semantic.opacity.transparent})",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.strong-inverse}",
+          "type": "color"
+        }
+      },
+      "loading": {
+        "bg-color": {
+          "value": "{button.success.default.bg-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "rgba({button.success.loading.bg-color}, {semantic.opacity.transparent})",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.strong-inverse}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "bg-color": {
+          "value": "{theme.background.disabled}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{colors.transparent}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.disabled}",
+          "type": "color"
+        }
+      }
+    },
     "primary": {
       "default": {
         "bg-color": {
