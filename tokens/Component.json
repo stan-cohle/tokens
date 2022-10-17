@@ -112,8 +112,22 @@
       "border-width": {
         "value": "{border-width.1}",
         "type": "borderWidth"
+      }
+    },
+    "label": {
+      "large": {
+        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "type": "typography"
       },
-      "label": {
+      "x-large": {
+        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "medium": {
+        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "small": {
         "value": "{Base.Label.Large.Default.Semi-bold}",
         "type": "typography"
       }
@@ -648,13 +662,15 @@
     }
   },
   "input": {
-    "label-spacing": {
-      "value": "{semantic.spacing.small}",
-      "type": "spacing"
-    },
-    "helper-spacing": {
-      "value": "{semantic.spacing.none}",
-      "type": "spacing"
+    "medium": {
+      "label-spacing": {
+        "value": "{semantic.spacing.x-small}",
+        "type": "spacing"
+      },
+      "helper-spacing": {
+        "value": "{semantic.spacing.none}",
+        "type": "spacing"
+      }
     },
     "background-color": {
       "value": "{theme.background.surface}",
@@ -699,6 +715,16 @@
     "border-error": {
       "value": "{theme.danger.default}",
       "type": "color"
+    },
+    "large": {
+      "label-spacing": {
+        "value": "{semantic.spacing.small}",
+        "type": "spacing"
+      },
+      "helper-spacing": {
+        "value": "{semantic.spacing.none}",
+        "type": "spacing"
+      }
     }
   }
 }
