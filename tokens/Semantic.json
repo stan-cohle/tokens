@@ -27,7 +27,7 @@
         "type": "color",
         "value": "{base.neutral.dark.800}"
       },
-      "subtle-inverse": {
+      "tertiary-inverse": {
         "type": "color",
         "value": "{base.neutral.dark.700}"
       },
@@ -37,17 +37,17 @@
       }
     },
     "content": {
-      "strong": {
+      "primary": {
         "type": "color",
         "value": "{base.neutral.dark.900}",
         "description": "Color for any primary texts such as titles"
       },
-      "default": {
+      "secondary": {
         "type": "color",
         "value": "{base.neutral.dark.600}",
         "description": "Color for secondary texts such as subtitles and paragraphs"
       },
-      "muted": {
+      "tertiary": {
         "type": "color",
         "value": "{base.neutral.light.900}",
         "description": "Color for secondary texts such as captions"
@@ -56,17 +56,17 @@
         "value": "{base.neutral.light.600}",
         "type": "color"
       },
-      "strong-inverse": {
+      "primary-inverse": {
         "value": "{colors.white}",
         "type": "color",
         "description": "Inverse color for primary text such as titles"
       },
-      "default-inverse": {
+      "secondary-inverse": {
         "value": "rgba({colors.white}, {semantic.opacity.high})",
         "type": "color",
         "description": "Inverse color text for secondary texts such as subtitles and paragraphs"
       },
-      "muted-inverse": {
+      "tertiary-inverse": {
         "value": "rgba({colors.white}, {semantic.opacity.medium})",
         "type": "color",
         "description": "Inverse color text for secondary texts such as captions"
