@@ -330,10 +330,6 @@
         "type": "color",
         "value": "{base.neutral.light.300}"
       },
-      "neutral": {
-        "value": "rgba({base.neutral.light.800}, {semantic.opacity.light})",
-        "type": "color"
-      },
       "scrim": {
         "value": "rgba({base.neutral.dark.900}, {opacity.64})",
         "type": "color"
