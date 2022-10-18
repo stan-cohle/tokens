@@ -745,7 +745,7 @@
       }
     },
     "background-color": {
-      "value": "{theme.background.surface}",
+      "value": "{theme.background.primary}",
       "type": "color"
     },
     "background-color-alt": {

@@ -1,7 +1,7 @@
 {
   "theme": {
     "background": {
-      "surface": {
+      "primary": {
         "type": "color",
         "value": "{colors.white}",
         "description": "Background color for the top-most layer"
