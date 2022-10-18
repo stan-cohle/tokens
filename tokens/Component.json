@@ -749,7 +749,7 @@
       "type": "color"
     },
     "background-color-alt": {
-      "value": "{theme.background.muted}",
+      "value": "{theme.background.secondary}",
       "type": "color"
     },
     "border-color": {

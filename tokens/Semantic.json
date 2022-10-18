@@ -6,11 +6,11 @@
         "value": "{colors.white}",
         "description": "Background color for the top-most layer"
       },
-      "muted": {
+      "secondary": {
         "type": "color",
         "value": "{base.neutral.light.200}"
       },
-      "subtle": {
+      "tertiary": {
         "type": "color",
         "value": "{base.neutral.light.300}"
       },
@@ -18,12 +18,12 @@
         "value": "{base.neutral.light.400}",
         "type": "color"
       },
-      "surface-inverse": {
+      "primary-inverse": {
         "type": "color",
         "value": "{base.neutral.dark.900}",
         "description": "Inverted background color for the top-most layer"
       },
-      "muted-inverse": {
+      "secondary-inverse": {
         "type": "color",
         "value": "{base.neutral.dark.800}"
       },

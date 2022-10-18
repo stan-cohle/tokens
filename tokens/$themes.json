@@ -4297,7 +4297,9 @@
       "theme.brand-colors.brand-inverse": "S:37aa9b6457fd7425f59ab58693e164e0e0883400,",
       "theme.special-colors.canvas": "S:99ce05d9b5388f448082fb5e4688571d7edb9868,",
       "theme.background.subtle-inverse": "S:8d31a3d20bfcb70e1ac5368bf9e289366d76afe8,",
-      "theme.background.disabled-inverse": "S:833a78ccb3e578fb4c9c185c8bd48c9fb833cfef,"
+      "theme.background.disabled-inverse": "S:833a78ccb3e578fb4c9c185c8bd48c9fb833cfef,",
+      "theme.background.primary": "S:eb081d4099b2c638f630e35d33e745de46603d91,",
+      "theme.background.secondary": "S:4a67755fcd84d730d1fb1ba15cc0228d069df16a,"
     }
   },
   {
