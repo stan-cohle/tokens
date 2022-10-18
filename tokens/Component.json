@@ -115,20 +115,20 @@
       }
     },
     "label": {
+      "x-large": {
+        "value": "{Base.Heading.X-Small.Default.Semi-bold}",
+        "type": "typography"
+      },
       "large": {
         "value": "{Base.Label.Large.Default.Semi-bold}",
         "type": "typography"
       },
-      "x-large": {
-        "value": "{Base.Label.Large.Default.Semi-bold}",
-        "type": "typography"
-      },
       "medium": {
-        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "value": "{Base.Label.Medium.Default.Medium}",
         "type": "typography"
       },
       "small": {
-        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "value": "{Base.Label.Small.Uppercase.Medium}",
         "type": "typography"
       }
     },
