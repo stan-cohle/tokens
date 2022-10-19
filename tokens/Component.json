@@ -36,6 +36,10 @@
       "border-width": {
         "value": "{border-width.1}",
         "type": "borderWidth"
+      },
+      "label": {
+        "value": "{Base.Label.Small.Uppercase.Medium}",
+        "type": "typography"
       }
     },
     "medium": {
@@ -74,6 +78,10 @@
       "border-width": {
         "value": "{border-width.1}",
         "type": "borderWidth"
+      },
+      "label": {
+        "value": "{Base.Label.Medium.Default.Medium}",
+        "type": "typography"
       }
     },
     "large": {
@@ -112,27 +120,17 @@
       "border-width": {
         "value": "{border-width.1}",
         "type": "borderWidth"
-      }
-    },
-    "label": {
-      "x-large": {
-        "value": "{Base.Heading.X-Small.Default.Semi-bold}",
-        "type": "typography"
       },
-      "large": {
+      "label": {
         "value": "{Base.Label.Large.Default.Semi-bold}",
-        "type": "typography"
-      },
-      "medium": {
-        "value": "{Base.Label.Medium.Default.Medium}",
-        "type": "typography"
-      },
-      "small": {
-        "value": "{Base.Label.Small.Uppercase.Medium}",
         "type": "typography"
       }
     },
     "x-large": {
+      "label": {
+        "value": "{Base.Heading.X-Small.Default.Semi-bold}",
+        "type": "typography"
+      },
       "border-radius": {
         "value": "{border-radius.8}",
         "type": "borderRadius"
@@ -1074,6 +1072,18 @@
       "helper-spacing": {
         "value": "{semantic.spacing.none}",
         "type": "spacing"
+      },
+      "label": {
+        "value": "{Typography.Label.Medium}",
+        "type": "typography"
+      },
+      "entry": {
+        "value": "{Base.Label.Large.Default.Regular}",
+        "type": "typography"
+      },
+      "helper": {
+        "value": "{Typography.Label.Small}",
+        "type": "typography"
       }
     },
     "large": {
@@ -1084,6 +1094,18 @@
       "helper-spacing": {
         "value": "{semantic.spacing.none}",
         "type": "spacing"
+      },
+      "label": {
+        "value": "{Typography.Label.Medium}",
+        "type": "typography"
+      },
+      "entry": {
+        "value": "{Base.Label.Large.Default.Regular}",
+        "type": "typography"
+      },
+      "helper": {
+        "value": "{Typography.Label.Small}",
+        "type": "typography"
       }
     }
   }
