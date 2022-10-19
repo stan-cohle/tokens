@@ -193,7 +193,18 @@
       "button.label.x-large": "S:8b2afad0db31977c49213a5599d46239aa09d195,",
       "button.label.large": "S:e05fbee06f29cc7c174893974e0a98e404b3f6ec,",
       "button.label.medium": "S:7ec0d32408f7378b9a4b41a3463f1fc177be93c8,",
-      "button.label.small": "S:bfa928d201fc02e489df90f928b52da9aa8e647d,"
+      "button.label.small": "S:bfa928d201fc02e489df90f928b52da9aa8e647d,",
+      "input.background-color": "S:187827cde5a55a895c05e36f9e7091634d5fa723,",
+      "input.background-color-alt": "S:c0705d6f6159a63ca7349d3412ce264b75f47d71,",
+      "input.border-color": "S:5953d6fa8734f5a59b2fa762e79110683d02e27f,",
+      "input.label-text-color": "S:df41430e5228102a06e4b0c3b85c021846fdde05,",
+      "input.entry-text-color": "S:6fdb6713b120ddd2dfe9c369137ba81d02fe1199,",
+      "input.helper-text-color": "S:8fda4b17799006a8f81f586dcfc5b230ed426752,",
+      "input.error-text-color": "S:5571e76defe2aa535645d93cac6ac36451851977,",
+      "input.placeholder-text-color": "S:3099c445f6cc691e9ba4b0f09714f029193a92c3,",
+      "input.icon-color": "S:e3b5f558c9c1a4f4e94abc0991b8e1e68b6762d3,",
+      "input.border-focus": "S:b246fe6ba636c1bd5f93c64d565284b7a3eb8a4f,",
+      "input.border-error": "S:0ed8c708c4cab22fe58887a0a69c054474192e9c,"
     }
   },
   {
