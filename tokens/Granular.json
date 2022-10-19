@@ -147,52 +147,6 @@
           "type": "color"
         }
       }
-    },
-    "input": {
-      "background-color": {
-        "value": "{theme.background.primary}",
-        "type": "color"
-      },
-      "background-color-alt": {
-        "value": "{theme.background.secondary}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{theme.border.medium}",
-        "type": "color"
-      },
-      "label-text-color": {
-        "value": "{theme.content.primary}",
-        "type": "color"
-      },
-      "entry-text-color": {
-        "value": "{theme.content.primary}",
-        "type": "color"
-      },
-      "helper-text-color": {
-        "value": "{theme.content.secondary}",
-        "type": "color"
-      },
-      "error-text-color": {
-        "value": "{theme.danger.base}",
-        "type": "color"
-      },
-      "placeholder-text-color": {
-        "value": "{theme.content.disabled}",
-        "type": "color"
-      },
-      "icon-color": {
-        "value": "{theme.content.secondary}",
-        "type": "color"
-      },
-      "border-focus": {
-        "value": "{theme.primary.base}",
-        "type": "color"
-      },
-      "border-error": {
-        "value": "{theme.danger.base}",
-        "type": "color"
-      }
     }
   }
 }
