@@ -4,7 +4,6 @@
     "name": "Comp / Default",
     "selectedTokenSets": {
       "Colors": "source",
-      "Foundation": "source",
       "Fonts": "source",
       "Secondary-Fonts": "source",
       "Semantic": "source",
@@ -22,7 +21,8 @@
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Granular": "enabled"
+      "Granular": "enabled",
+      "Core": "source"
     },
     "$figmaStyleReferences": {
       "button.cta.default.bg-color": "S:6ab58b01958850cc322fe56188e5b8fad0fa9bc2,",
@@ -398,7 +398,6 @@
     "name": "Theme / Default",
     "selectedTokenSets": {
       "Colors": "source",
-      "Foundation": "enabled",
       "Fonts": "disabled",
       "Secondary-Fonts": "disabled",
       "Semantic": "enabled",
@@ -416,7 +415,8 @@
       "Themes/Underpricer": "disabled",
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
-      "Themes/Purdue": "disabled"
+      "Themes/Purdue": "disabled",
+      "Core": "enabled"
     },
     "$figmaStyleReferences": {
       "base.primary.100": "S:3f80e8b74e3fa74441c5187c79eca8719a3f6ce7,",

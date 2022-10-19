@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "Colors",
-    "Foundation",
+    "Core",
     "Fonts",
     "Secondary-Fonts",
     "Semantic",
