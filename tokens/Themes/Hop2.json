@@ -72,7 +72,7 @@
     },
     "link": {
       "type": "color",
-      "value": "{theme.info.tone}"
+      "value": "{theme.help.tone}"
     }
   },
   "base": {

@@ -3,27 +3,27 @@
     "info": {
       "dark": {
         "type": "color",
-        "value": "{base.info.800}"
+        "value": "{base.help.800}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.info.700}"
+        "value": "{base.help.700}"
       },
       "default": {
         "type": "color",
-        "value": "{base.info.600}"
+        "value": "{base.help.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{base.info.500}"
+        "value": "{base.help.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.info.300}"
+        "value": "{base.help.300}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.info.100}"
+        "value": "{base.help.100}"
       }
     },
     "success": {
@@ -99,7 +99,7 @@
       "type": "color"
     },
     "link": {
-      "value": "{base.info.600}",
+      "value": "{base.help.600}",
       "type": "color"
     }
   },

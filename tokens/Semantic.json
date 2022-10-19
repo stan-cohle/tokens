@@ -109,7 +109,7 @@
         "type": "color",
         "value": "{base.success.700}"
       },
-      "default": {
+      "base": {
         "type": "color",
         "value": "{base.success.600}"
       },
@@ -131,7 +131,7 @@
         "type": "color",
         "value": "{colors.indigo.700}"
       },
-      "default": {
+      "base": {
         "type": "color",
         "value": "{colors.indigo.600}"
       },
@@ -148,27 +148,27 @@
         "value": "{colors.indigo.100}"
       }
     },
-    "info": {
+    "help": {
       "tone": {
         "type": "color",
-        "value": "{base.info.700}"
+        "value": "{base.help.700}"
       },
       "default": {
         "type": "color",
-        "value": "{base.info.600}",
+        "value": "{base.help.600}",
         "description": "• Background color for information blocks\n• Text & Icon color for information messages\n• Border color for information state"
       },
       "tint": {
         "type": "color",
-        "value": "{base.info.500}"
+        "value": "{base.help.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.info.300}"
+        "value": "{base.help.300}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.info.100}"
+        "value": "{base.help.100}"
       }
     },
     "success": {
@@ -176,7 +176,7 @@
         "type": "color",
         "value": "{base.success.700}"
       },
-      "default": {
+      "base": {
         "type": "color",
         "value": "{base.success.600}",
         "description": "• Background color for success blocks\n• Text & Icon color for success messages\n• Border color for success state"
@@ -200,7 +200,7 @@
         "value": "{base.warning.700}",
         "description": "Text and icon color for warning messages"
       },
-      "default": {
+      "base": {
         "type": "color",
         "value": "{base.warning.600}",
         "description": "• Background-color for warning blocks\n• Border-color for warning state"
@@ -223,7 +223,7 @@
         "type": "color",
         "value": "{base.danger.700}"
       },
-      "default": {
+      "base": {
         "type": "color",
         "value": "{base.danger.600}",
         "description": "• Background color for danger blocks\n• Text & Icon color for error messages\n• Border color for error state"

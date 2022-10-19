@@ -71,7 +71,7 @@
       "value": "{base.other.midnight}"
     },
     "link": {
-      "value": "{theme.info.tone}",
+      "value": "{theme.help.tone}",
       "type": "color"
     }
   },

@@ -71,7 +71,7 @@
       "value": "{base.neutral.dark.900}"
     },
     "link": {
-      "value": "{theme.info.tone}",
+      "value": "{theme.help.tone}",
       "type": "color"
     }
   },
