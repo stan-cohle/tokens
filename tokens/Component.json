@@ -1031,6 +1031,16 @@
         "value": "{semantic.spacing.none}",
         "type": "spacing"
       }
+    },
+    "large": {
+      "label-spacing": {
+        "value": "{semantic.spacing.small}",
+        "type": "spacing"
+      },
+      "helper-spacing": {
+        "value": "{semantic.spacing.none}",
+        "type": "spacing"
+      }
     }
   }
 }

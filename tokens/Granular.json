@@ -182,16 +182,6 @@
       "border-error": {
         "value": "{theme.danger.base}",
         "type": "color"
-      },
-      "large": {
-        "label-spacing": {
-          "value": "{semantic.spacing.small}",
-          "type": "spacing"
-        },
-        "helper-spacing": {
-          "value": "{semantic.spacing.none}",
-          "type": "spacing"
-        }
       }
     }
   }
