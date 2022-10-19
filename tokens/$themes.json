@@ -433,10 +433,11 @@
     }
   },
   {
-    "id": "8a53d682f0559df72ef12d90a815009bd16a98db",
+    "id": "b64b377afeef13fa79e92f22f53ffc6c038b708a",
     "name": "Theme / Default",
     "selectedTokenSets": {
       "Colors": "source",
+      "Core": "enabled",
       "Fonts": "disabled",
       "Secondary-Fonts": "disabled",
       "Semantic": "enabled",
@@ -454,8 +455,7 @@
       "Themes/Underpricer": "disabled",
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
-      "Themes/Purdue": "disabled",
-      "Core": "enabled"
+      "Themes/Purdue": "disabled"
     },
     "$figmaStyleReferences": {
       "base.primary.100": "S:3f80e8b74e3fa74441c5187c79eca8719a3f6ce7,",
