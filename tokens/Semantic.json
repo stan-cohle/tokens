@@ -30,10 +30,6 @@
       "tertiary-inverse": {
         "type": "color",
         "value": "{base.neutral.dark.700}"
-      },
-      "disabled-inverse": {
-        "value": "rgba({base.neutral.light.900}, {semantic.opacity.medium})",
-        "type": "color"
       }
     },
     "content": {
@@ -70,10 +66,6 @@
         "value": "rgba({colors.white}, {semantic.opacity.medium})",
         "type": "color",
         "description": "Inverse color text for secondary texts such as captions"
-      },
-      "disabled-inverse": {
-        "value": "rgba({base.neutral.light.600}, {semantic.opacity.light})",
-        "type": "color"
       }
     },
     "border": {
