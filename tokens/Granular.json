@@ -39,7 +39,7 @@
       },
       "help": {
         "default": {
-          "value": "{theme.help.default}",
+          "value": "{theme.help.base}",
           "type": "color"
         },
         "hover": {
@@ -134,6 +134,16 @@
         },
         "on-disabled": {
           "value": "{theme.content.disabled}",
+          "type": "color"
+        }
+      },
+      "link": {
+        "default": {
+          "value": "{theme.help.base}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.help.tone}",
           "type": "color"
         }
       }
