@@ -318,6 +318,10 @@
       }
     },
     "special-colors": {
+      "link": {
+        "value": "{base.primary.600}",
+        "type": "color"
+      },
       "canvas": {
         "type": "color",
         "value": "{base.neutral.light.300}"
@@ -326,12 +330,12 @@
         "value": "rgba({base.neutral.dark.900}, {opacity.64})",
         "type": "color"
       },
+      "neutral": {
+        "type": "color",
+        "value": "rgba({base.neutral.light.800}, {semantic.opacity.light})"
+      },
       "highlight": {
         "value": "{base.warning.200}",
-        "type": "color"
-      },
-      "link": {
-        "value": "{base.primary.600}",
         "type": "color"
       }
     },

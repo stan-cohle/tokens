@@ -21,7 +21,6 @@
       "Themes/Volunteerhq": "disabled",
       "Themes/MyQuility": "disabled",
       "Themes/Purdue": "disabled",
-      "Granular": "source",
       "Core": "source"
     },
     "$figmaStyleReferences": {
@@ -438,10 +437,9 @@
     "selectedTokenSets": {
       "Colors": "source",
       "Core": "enabled",
-      "Fonts": "disabled",
-      "Secondary-Fonts": "disabled",
+      "Fonts": "source",
+      "Secondary-Fonts": "source",
       "Semantic": "enabled",
-      "Granular": "enabled",
       "Component": "source",
       "Themes/Ovago": "disabled",
       "Themes/Wowfare": "disabled",
