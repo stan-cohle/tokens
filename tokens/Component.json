@@ -881,93 +881,105 @@
       }
     },
     "input": {
-      "background-color": {
-        "value": "{theme.background.primary}",
-        "type": "color"
-      },
-      "background-color-alt": {
-        "value": "{theme.background.secondary}",
-        "type": "color"
+      "bg-color": {
+        "default": {
+          "value": "{theme.background.primary}",
+          "type": "color"
+        },
+        "alt": {
+          "value": "{theme.background.secondary}",
+          "type": "color"
+        }
       },
       "border-color": {
-        "value": "{theme.border.medium}",
-        "type": "color"
+        "default": {
+          "value": "{theme.border.medium}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{theme.primary.base}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{theme.danger.base}",
+          "type": "color"
+        }
       },
-      "label-text-color": {
-        "value": "{theme.content.primary}",
-        "type": "color"
-      },
-      "entry-text-color": {
-        "value": "{theme.content.primary}",
-        "type": "color"
-      },
-      "helper-text-color": {
-        "value": "{theme.content.secondary}",
-        "type": "color"
-      },
-      "alt-text-color": {
-        "value": "{theme.content.tertiary}",
-        "type": "color"
-      },
-      "placeholder-text-color": {
-        "value": "{theme.content.disabled}",
-        "type": "color"
-      },
-      "error-text-color": {
-        "value": "{theme.danger.base}",
-        "type": "color"
+      "text-color": {
+        "label": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "placeholder": {
+          "value": "{theme.content.disabled}",
+          "type": "color"
+        },
+        "entry": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "helper": {
+          "value": "{theme.content.secondary}",
+          "type": "color"
+        },
+        "alt": {
+          "value": "{theme.content.tertiary}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{theme.danger.base}",
+          "type": "color"
+        }
       },
       "icon-color": {
-        "value": "{theme.content.secondary}",
-        "type": "color"
-      },
-      "help-icon-color": {
-        "value": "{theme.help.base}",
-        "type": "color"
-      },
-      "success-icon-color": {
-        "value": "{theme.success.base}",
-        "type": "color"
-      },
-      "focus-border-color": {
-        "value": "{theme.primary.base}",
-        "type": "color"
-      },
-      "error-border-color": {
-        "value": "{theme.danger.base}",
-        "type": "color"
-      },
-      "medium": {
-        "label-spacing": {
-          "value": "{semantic.spacing.x-small}",
-          "type": "spacing"
+        "default": {
+          "value": "{theme.content.secondary}",
+          "type": "color"
         },
-        "helper-spacing": {
-          "value": "{semantic.spacing.none}",
-          "type": "spacing"
-        }
-      },
-      "label": {
-        "value": "{Typography.Label.Medium}",
-        "type": "typography"
-      },
-      "entry": {
-        "value": "{Base.Label.Large.Default.Regular}",
-        "type": "typography"
-      },
-      "helper": {
-        "value": "{Typography.Label.Small}",
-        "type": "typography"
-      },
-      "large": {
-        "label-spacing": {
-          "value": "{semantic.spacing.small}",
-          "type": "spacing"
+        "help": {
+          "value": "{theme.help.base}",
+          "type": "color"
         },
-        "helper-spacing": {
-          "value": "{semantic.spacing.none}",
-          "type": "spacing"
+        "success": {
+          "value": "{theme.success.base}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{theme.danger.base}",
+          "type": "color"
         }
+      }
+    },
+    "medium": {
+      "label-spacing": {
+        "value": "{semantic.spacing.x-small}",
+        "type": "spacing"
+      },
+      "helper-spacing": {
+        "value": "{semantic.spacing.none}",
+        "type": "spacing"
+      }
+    },
+    "label": {
+      "value": "{Typography.Label.Medium}",
+      "type": "typography"
+    },
+    "entry": {
+      "value": "{Base.Label.Large.Default.Regular}",
+      "type": "typography"
+    },
+    "helper": {
+      "value": "{Typography.Label.Small}",
+      "type": "typography"
+    },
+    "large": {
+      "label-spacing": {
+        "value": "{semantic.spacing.small}",
+        "type": "spacing"
+      },
+      "helper-spacing": {
+        "value": "{semantic.spacing.none}",
+        "type": "spacing"
       }
     }
   }
