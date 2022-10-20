@@ -631,7 +631,30 @@
       "granular.actions.link.visited": "S:ccc8b82cd62dcf81ec054b49e83e6bd3845fd0f3,",
       "theme.special-colors.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
       "theme.special-colors.neutral": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
-      "theme.special-colors.shadow": "S:b5932d4309dca8e948ff447736310eef657b3a6f,"
+      "theme.special-colors.shadow": "S:b5932d4309dca8e948ff447736310eef657b3a6f,",
+      "base.black-alpha.100": "S:fa2308b24bdf3550ce7373328ae52e0a99311460,",
+      "base.black-alpha.200": "S:ee969ad4c6d7d3507c32ca28e48361f415839c68,",
+      "base.black-alpha.300": "S:d1c14a7b232722853c0f3beb848d63971f85a174,",
+      "base.black-alpha.400": "S:ae6043e1885ce8e7d3b296162476c2c9a1d407dd,",
+      "base.black-alpha.500": "S:02386c25375b5fa04b48f85be532381047f93e7f,",
+      "base.black-alpha.600": "S:37952f4a06cf542d3b017cce4e24afc8229a8911,",
+      "base.black-alpha.700": "S:ce69aa64893734d233aa34679532563c47c55652,",
+      "base.black-alpha.800": "S:6d6a1f149e5b8c97ad639f4f417a431fb960e80f,",
+      "base.black-alpha.900": "S:ad3280d700d3de651c6963600944ebf06af23bfd,",
+      "base.black-alpha.1000": "S:dd3c78e465a24ff3f1c90462f8706091416bbcc2,",
+      "base.white-alpha.100": "S:aed1ed788428bb3d0b05e4afa0c840ad167287f5,",
+      "base.white-alpha.200": "S:cdb80c5029b1659b37905aa9f9ab3a552e288d0c,",
+      "base.white-alpha.300": "S:2c507aa0b65a854c03228167f11606fd004be403,",
+      "base.white-alpha.400": "S:e97887b67c92d6a1cba072df5a1b351974a14abe,",
+      "base.white-alpha.500": "S:8131791e863a2a12e7e84c276518768ab181010c,",
+      "base.white-alpha.600": "S:f5ad90ba42774d80092f92383f1e6355a14ccfe5,",
+      "base.white-alpha.700": "S:5cfdfcacf4d11840d13c31d19dd56fc5a6d155ce,",
+      "base.white-alpha.800": "S:d8aeafa86f9b46333fc5de9557ba33a0b079f6d5,",
+      "base.white-alpha.900": "S:83635bf471360bd74f48791a274d1b94ec50ae47,",
+      "base.white-alpha.1000": "S:debe2d7038e008668ac4b95804b6467c07b0cf4f,",
+      "base.white": "S:d0a02835cbabd7918138a58391fe3455e81d4991,",
+      "base.black": "S:dc9c08e60703ff0d4fb9c339fb3e08aad77185d8,",
+      "base.transparent": "S:1857b4f0f384805c7582fef6d224f101f3f85801,"
     }
   }
 ]
