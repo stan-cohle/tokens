@@ -337,6 +337,10 @@
       "highlight": {
         "value": "{base.warning.200}",
         "type": "color"
+      },
+      "shadow": {
+        "value": "#060D26",
+        "type": "color"
       }
     },
     "brand-colors": {

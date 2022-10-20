@@ -628,7 +628,10 @@
       "granular.actions.disabled.on-disabled": "S:3b630af1f5374017e34669b5230bfc6bcda954e8,",
       "granular.actions.link.default": "S:ad0f9c319743e8361d236128e399f1cc05c67bb2,",
       "granular.actions.link.hover": "S:7d48c344a580e0b9495a2d1b402d1d98421dee6a,",
-      "granular.actions.link.visited": "S:ccc8b82cd62dcf81ec054b49e83e6bd3845fd0f3,"
+      "granular.actions.link.visited": "S:ccc8b82cd62dcf81ec054b49e83e6bd3845fd0f3,",
+      "theme.special-colors.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
+      "theme.special-colors.neutral": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
+      "theme.special-colors.shadow": "S:b5932d4309dca8e948ff447736310eef657b3a6f,"
     }
   }
 ]
