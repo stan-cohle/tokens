@@ -329,6 +329,10 @@
       "highlight": {
         "value": "{base.warning.200}",
         "type": "color"
+      },
+      "link": {
+        "value": "{base.primary.600}",
+        "type": "color"
       }
     },
     "brand-colors": {
