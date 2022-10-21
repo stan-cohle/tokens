@@ -948,6 +948,18 @@
           "value": "{theme.danger.base}",
           "type": "color"
         }
+      },
+      "label": {
+        "value": "{Typography.Label.Medium}",
+        "type": "typography"
+      },
+      "entry": {
+        "value": "{Base.Label.Large.Default.Regular}",
+        "type": "typography"
+      },
+      "helper": {
+        "value": "{Typography.Label.Small}",
+        "type": "typography"
       }
     },
     "medium": {
@@ -959,18 +971,6 @@
         "value": "{semantic.spacing.none}",
         "type": "spacing"
       }
-    },
-    "label": {
-      "value": "{Typography.Label.Medium}",
-      "type": "typography"
-    },
-    "entry": {
-      "value": "{Base.Label.Large.Default.Regular}",
-      "type": "typography"
-    },
-    "helper": {
-      "value": "{Typography.Label.Small}",
-      "type": "typography"
     },
     "large": {
       "label-spacing": {

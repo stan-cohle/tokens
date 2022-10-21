@@ -366,7 +366,7 @@
         "value": "{border-width.0}",
         "type": "borderWidth"
       },
-      "border-thin": {
+      "thin": {
         "value": "{border-width.1}",
         "type": "borderWidth"
       },
