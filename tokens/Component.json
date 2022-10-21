@@ -1004,11 +1004,11 @@
     },
     "large": {
       "label-spacing": {
-        "value": "{semantic.spacing.small}",
+        "value": "{semantic.spacing.x-small}",
         "type": "spacing"
       },
       "helper-spacing": {
-        "value": "{semantic.spacing.none}",
+        "value": "{semantic.spacing.x-small}",
         "type": "spacing"
       }
     }
