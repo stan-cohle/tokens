@@ -886,8 +886,16 @@
           "value": "{theme.background.primary}",
           "type": "color"
         },
-        "alt": {
+        "default-alt": {
           "value": "{theme.background.secondary}",
+          "type": "color"
+        },
+        "locked": {
+          "value": "{theme.background.disabled}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{theme.background.disabled}",
           "type": "color"
         }
       },
@@ -916,6 +924,10 @@
         },
         "entry": {
           "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{theme.content.disabled}",
           "type": "color"
         },
         "helper": {
@@ -947,6 +959,10 @@
         "error": {
           "value": "{theme.danger.base}",
           "type": "color"
+        },
+        "disabled": {
+          "value": "{theme.content.disabled}",
+          "type": "color"
         }
       },
       "label": {
@@ -960,6 +976,20 @@
       "helper": {
         "value": "{Typography.Label.Small}",
         "type": "typography"
+      },
+      "border-radius": {
+        "value": "{semantic.border-radius.softly-rounded}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "resting": {
+          "value": "{semantic.border-width.thin}",
+          "type": "borderWidth"
+        },
+        "focus": {
+          "value": "{semantic.border-width.skinny}",
+          "type": "borderWidth"
+        }
       }
     },
     "medium": {
