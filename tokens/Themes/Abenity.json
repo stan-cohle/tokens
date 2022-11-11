@@ -1,0 +1,130 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "type": "color",
+        "value": "{base.blue-jay.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.blue-jay.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.blue-jay.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.blue-jay.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.blue-jay.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.blue-jay.100}"
+      }
+    }
+  },
+  "presets": {
+    "header": {
+      "type": "color",
+      "value": "{base.blue-jay.600}"
+    },
+    "subheader": {
+      "type": "color",
+      "value": "{base.other.purple-gradient}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{base.blue-jay.600}"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.other.midnight}"
+    },
+    "link": {
+      "value": "{theme.help.tone}",
+      "type": "color"
+    }
+  },
+  "base": {
+    "blue-jay": {
+      "100": {
+        "value": "#F1F5F9",
+        "type": "color"
+      },
+      "200": {
+        "value": "#E2EAF3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#C6D5E6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#9BB5D4",
+        "type": "color"
+      },
+      "500": {
+        "value": "#628ABC",
+        "type": "color"
+      },
+      "600": {
+        "value": "#4670A3",
+        "type": "color"
+      },
+      "700": {
+        "value": "#3A5D87",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2D4869",
+        "type": "color"
+      },
+      "900": {
+        "value": "#253B56",
+        "type": "color"
+      }
+    },
+    "success": {
+      "100": {
+        "value": "{colors.grass.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.grass.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.grass.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.grass.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.grass.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.grass.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.grass.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.grass.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.grass.900}",
+        "type": "color"
+      }
+    }
+  }
+}
