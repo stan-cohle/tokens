@@ -235,7 +235,7 @@
     },
     "special-colors": {
       "link": {
-        "value": "{base.primary.600}",
+        "value": "{base.blue-jay.600}",
         "type": "color"
       },
       "canvas": {
@@ -262,15 +262,15 @@
     "brand-colors": {
       "brand-dark": {
         "type": "color",
-        "value": "{base.primary.800}"
+        "value": "{base.blue-jay.800}"
       },
       "brand": {
         "type": "color",
-        "value": "{base.primary.600}"
+        "value": "{base.blue-jay.600}"
       },
       "brand-alt": {
         "type": "color",
-        "value": "{base.primary.500}"
+        "value": "{base.blue-jay.500}"
       },
       "brand-inverse": {
         "type": "color",
