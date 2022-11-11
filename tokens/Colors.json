@@ -324,7 +324,7 @@
     },
     "grass": {
       "100": {
-        "value": "#e4f7e7",
+        "value": "#EBFBEE",
         "type": "color"
       },
       "200": {
