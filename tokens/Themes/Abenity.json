@@ -41,7 +41,7 @@
       },
       "link": {
         "type": "color",
-        "value": "{colors.blue-jay.600}"
+        "value": "{colors.blue-jay.700}"
       }
     }
   },
