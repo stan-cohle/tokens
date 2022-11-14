@@ -158,9 +158,6 @@
       "theme.opacity-white.800": "S:d8aeafa86f9b46333fc5de9557ba33a0b079f6d5,",
       "theme.opacity-white.900": "S:83635bf471360bd74f48791a274d1b94ec50ae47,",
       "theme.opacity-white.1000": "S:debe2d7038e008668ac4b95804b6467c07b0cf4f,",
-      "theme.special-colors.canvas": "S:99ce05d9b5388f448082fb5e4688571d7edb9868,",
-      "theme.special-colors.scrim": "S:0cf139f9e1f7d0aaaca2dc3482d6a99c250b6cba,",
-      "theme.special-colors.highlight": "S:2edfa0e1f8199bfe148ed5e113f172e48a4fc819,",
       "theme.brand-colors.brand-dark": "S:1dbb4ad5e57b51e4ef7f84f1873e52f527daba0b,",
       "theme.brand-colors.brand": "S:ea595c19535b7f9cc1ca38fd511449dd5a24bb01,",
       "theme.brand-colors.brand-alt": "S:0036404b6a9b88a9c8aa54c4d3d09db0d963d7ff,",
@@ -198,9 +195,6 @@
       "granular.actions.link.default": "S:ad0f9c319743e8361d236128e399f1cc05c67bb2,",
       "granular.actions.link.hover": "S:7d48c344a580e0b9495a2d1b402d1d98421dee6a,",
       "granular.actions.link.visited": "S:ccc8b82cd62dcf81ec054b49e83e6bd3845fd0f3,",
-      "theme.special-colors.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
-      "theme.special-colors.neutral": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
-      "theme.special-colors.shadow": "S:b5932d4309dca8e948ff447736310eef657b3a6f,",
       "base.black-alpha.100": "S:fa2308b24bdf3550ce7373328ae52e0a99311460,",
       "base.black-alpha.200": "S:ee969ad4c6d7d3507c32ca28e48361f415839c68,",
       "base.black-alpha.300": "S:d1c14a7b232722853c0f3beb848d63971f85a174,",
@@ -223,7 +217,10 @@
       "base.white-alpha.1000": "S:debe2d7038e008668ac4b95804b6467c07b0cf4f,",
       "base.white": "S:d0a02835cbabd7918138a58391fe3455e81d4991,",
       "base.black": "S:dc9c08e60703ff0d4fb9c339fb3e08aad77185d8,",
-      "base.transparent": "S:1857b4f0f384805c7582fef6d224f101f3f85801,"
+      "base.transparent": "S:1857b4f0f384805c7582fef6d224f101f3f85801,",
+      "theme.background.scrim": "S:0cf139f9e1f7d0aaaca2dc3482d6a99c250b6cba,",
+      "theme.background.neutral": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
+      "theme.presets.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,"
     }
   },
   {
@@ -992,16 +989,13 @@
       "theme.danger.tint": "S:b63a3126f9b6a5891679bbbe1b7a45ea164c7e7c,",
       "theme.danger.muted": "S:d762bd51d80be5ab8fba858aaf3caff684eb3aa1,",
       "theme.danger.subtle": "S:35f4e84d44cf3c5a5a37a179111bfb4b1596f071,",
-      "theme.special-colors.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
-      "theme.special-colors.canvas": "S:99ce05d9b5388f448082fb5e4688571d7edb9868,",
-      "theme.special-colors.scrim": "S:0cf139f9e1f7d0aaaca2dc3482d6a99c250b6cba,",
-      "theme.special-colors.neutral": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
-      "theme.special-colors.highlight": "S:2edfa0e1f8199bfe148ed5e113f172e48a4fc819,",
-      "theme.special-colors.shadow": "S:b5932d4309dca8e948ff447736310eef657b3a6f,",
       "theme.brand-colors.brand-dark": "S:1dbb4ad5e57b51e4ef7f84f1873e52f527daba0b,",
       "theme.brand-colors.brand": "S:ea595c19535b7f9cc1ca38fd511449dd5a24bb01,",
       "theme.brand-colors.brand-alt": "S:0036404b6a9b88a9c8aa54c4d3d09db0d963d7ff,",
-      "theme.brand-colors.brand-inverse": "S:37aa9b6457fd7425f59ab58693e164e0e0883400,"
+      "theme.brand-colors.brand-inverse": "S:37aa9b6457fd7425f59ab58693e164e0e0883400,",
+      "theme.background.scrim": "S:0cf139f9e1f7d0aaaca2dc3482d6a99c250b6cba,",
+      "theme.background.neutral": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
+      "theme.presets.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,"
     }
   }
 ]

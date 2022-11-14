@@ -1,15 +1,11 @@
 {
   "theme": {
     "primary": {
-      "dark": {
-        "type": "color",
-        "value": "{base.primary.800}"
-      },
       "tone": {
         "type": "color",
         "value": "{base.primary.700}"
       },
-      "default": {
+      "base": {
         "type": "color",
         "value": "{base.primary.600}"
       },
@@ -25,28 +21,28 @@
         "type": "color",
         "value": "{base.primary.100}"
       }
-    }
-  },
-  "presets": {
-    "header": {
-      "type": "color",
-      "value": "{colors.blue-jay.600}"
     },
-    "subheader": {
-      "type": "color",
-      "value": "{colors.blue-jay.600}"
-    },
-    "controls": {
-      "type": "color",
-      "value": "{colors.blue-jay.600}"
-    },
-    "footer": {
-      "type": "color",
-      "value": "#f4f4f4"
-    },
-    "link": {
-      "type": "color",
-      "value": "{colors.blue-jay.600}"
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{colors.blue-jay.600}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{colors.blue-jay.600}"
+      },
+      "controls": {
+        "type": "color",
+        "value": "{colors.blue-jay.600}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "#f4f4f4"
+      },
+      "link": {
+        "type": "color",
+        "value": "{colors.blue-jay.600}"
+      }
     }
   },
   "base": {
