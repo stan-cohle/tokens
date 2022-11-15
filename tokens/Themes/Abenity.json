@@ -25,11 +25,11 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{colors.blue-jay.600}"
+        "value": "{colors.blue-jay.800}"
       },
       "subheader": {
         "type": "color",
-        "value": "{colors.blue-jay.700}"
+        "value": "{colors.blue-jay.800}"
       },
       "controls": {
         "type": "color",
