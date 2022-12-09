@@ -3,23 +3,23 @@
     "primary": {
       "tone": {
         "type": "color",
-        "value": "{base.primary.700}"
+        "value": "{base.cta.700}"
       },
       "base": {
         "type": "color",
-        "value": "{base.primary.600}"
+        "value": "{base.cta.600}"
       },
       "tint": {
         "type": "color",
-        "value": "{base.primary.500}"
+        "value": "{base.cta.500}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.primary.300}"
+        "value": "{base.cta.300}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.primary.100}"
+        "value": "{base.cta.100}"
       }
     },
     "presets": {

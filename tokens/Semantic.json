@@ -243,23 +243,23 @@
     },
     "presets": {
       "link": {
-        "value": "{base.primary.600}",
+        "value": "{base.cta.600}",
         "type": "color"
       },
       "header": {
-        "value": "{base.primary.600}",
+        "value": "{base.cta.600}",
         "type": "color"
       },
       "subheader": {
-        "value": "{base.primary.600}",
+        "value": "{base.cta.600}",
         "type": "color"
       },
       "controls": {
-        "value": "{base.primary.600}",
+        "value": "{base.cta.600}",
         "type": "color"
       },
       "footer": {
-        "value": "{base.primary.600}",
+        "value": "{base.cta.600}",
         "type": "color"
       }
     }

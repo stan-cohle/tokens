@@ -1,18 +1,66 @@
 {
   "theme": {
+    "primary": {
+      "tone": {
+        "type": "color",
+        "value": "{colors.other.sky-blue}"
+      },
+      "base": {
+        "type": "color",
+        "value": "{colors.other.sky-blue}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{colors.other.azure}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{colors.other.geyser}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{colors.other.mabel}"
+      }
+    },
     "presets": {
       "footer": {
         "value": "#333333",
+        "type": "color"
+      },
+      "link": {
+        "value": "{colors.other.sky-blue}",
         "type": "color"
       },
       "subheader": {
         "value": "{base.other.gradient-dark}",
         "type": "color"
       }
+    },
+    "cta": {
+      "tone": {
+        "type": "color",
+        "value": "{base.cta.700}"
+      },
+      "base": {
+        "type": "color",
+        "value": "{base.cta.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.cta.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.cta.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.cta.100}"
+      }
     }
   },
   "base": {
-    "primary": {
+    "cta": {
       "100": {
         "value": "{colors.mango-tango.100}",
         "type": "color"
@@ -90,11 +138,11 @@
     },
     "other": {
       "gradient-light": {
-        "value": "linear-gradient(90deg, #c7dffe 0%, #d8f2ff 100%)",
+        "value": "linear-gradient(90deg, {colors.other.geyser} 0%, {colors.other.mabel} 100%)",
         "type": "color"
       },
       "gradient-dark": {
-        "value": "linear-gradient(90deg, #2f80ed 0%, #56ccf2 100%)",
+        "value": "linear-gradient(90deg, {colors.other.sky-blue} 0%, {colors.other.malibu} 100%)",
         "type": "color"
       }
     }
@@ -135,6 +183,28 @@
       },
       "1000": {
         "value": "#7D3216",
+        "type": "color"
+      }
+    },
+    "other": {
+      "malibu": {
+        "value": "#56ccf2",
+        "type": "color"
+      },
+      "azure": {
+        "value": "#2196f3",
+        "type": "color"
+      },
+      "sky-blue": {
+        "value": "#2f80ed",
+        "type": "color"
+      },
+      "geyser": {
+        "value": "#c7dffe",
+        "type": "color"
+      },
+      "mabel": {
+        "value": "#d8f2ff",
         "type": "color"
       }
     }
