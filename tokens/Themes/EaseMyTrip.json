@@ -169,6 +169,10 @@
         "value": "#F6754D",
         "type": "color"
       },
+      "600": {
+        "value": "#EF6614",
+        "type": "color"
+      },
       "700": {
         "value": "#E25B18",
         "type": "color"
@@ -187,16 +191,16 @@
       }
     },
     "other": {
+      "sky-blue": {
+        "value": "#2f80ed",
+        "type": "color"
+      },
       "malibu": {
         "value": "#56ccf2",
         "type": "color"
       },
       "azure": {
         "value": "#2196f3",
-        "type": "color"
-      },
-      "sky-blue": {
-        "value": "#2f80ed",
         "type": "color"
       },
       "geyser": {
