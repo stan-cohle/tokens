@@ -23,16 +23,24 @@
       }
     },
     "presets": {
-      "footer": {
-        "value": "#333333",
-        "type": "color"
-      },
-      "link": {
-        "value": "{colors.other.sky-blue}",
+      "header": {
+        "value": "{theme.background.primary}",
         "type": "color"
       },
       "subheader": {
         "value": "{base.other.gradient-dark}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "controls": {
+        "value": "{theme.primary.base}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{theme.primary.base}",
         "type": "color"
       }
     },
