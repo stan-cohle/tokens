@@ -1,0 +1,75 @@
+{
+  "input": {
+    "label": {
+      "value": "{typography.text.Medium}",
+      "type": "typography"
+    },
+    "error": {
+      "value": "{Base.Label.Medium.Default.Medium}",
+      "type": "typography"
+    },
+    "entry": {
+      "value": "{Base.Label.Large.Default.Regular}",
+      "type": "typography"
+    },
+    "helper": {
+      "value": "{typography.text.Small}",
+      "type": "typography"
+    }
+  },
+  "text-input": {
+    "base": {
+      "medium": {
+        "icon-lead": {
+          "value": {
+            "height": "{semantic.size.component.medium}",
+            "horizontalPadding": "{semantic.spacing.small}",
+            "itemSpacing": "{semantic.spacing.small}",
+            "borderWidth": "{semantic.border-width.thin}",
+            "borderRadius": "{semantic.border-radius.softly-rounded}"
+          },
+          "type": "composition"
+        },
+        "no-icon": {
+          "value": {
+            "height": "{semantic.size.component.medium}",
+            "itemSpacing": "{semantic.spacing.small}",
+            "borderWidth": "{semantic.border-width.thin}",
+            "borderRadius": "{semantic.border-radius.softly-rounded}",
+            "paddingLeft": "{semantic.spacing.medium}",
+            "paddingRight": "{semantic.spacing.small}"
+          },
+          "type": "composition"
+        }
+      },
+      "large": {
+        "value": {
+          "height": "{semantic.size.component.large}",
+          "horizontalPadding": "{semantic.spacing.small}",
+          "itemSpacing": "{semantic.spacing.small}",
+          "borderWidth": "{semantic.border-width.thin}",
+          "borderRadius": "{semantic.border-radius.softly-rounded}"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "input-label": {
+    "base": {
+      "value": {
+        "itemSpacing": "{semantic.spacing.x-small}",
+        "paddingBottom": "{semantic.spacing.x-small}"
+      },
+      "type": "composition"
+    }
+  },
+  "input-error": {
+    "base": {
+      "value": {
+        "itemSpacing": "{semantic.spacing.x-small}",
+        "paddingTop": "{semantic.spacing.xx-small}"
+      },
+      "type": "composition"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "badge": {
+    "space-between": {
+      "value": "{semantic.spacing.x-small}",
+      "type": "spacing"
+    },
+    "no-space": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "icon-size": {
+      "value": "{semantic.size.icon.small}",
+      "type": "sizing"
+    },
+    "shape": {
+      "brick": {
+        "value": "{semantic.border-radius.softly-rounded}",
+        "type": "borderRadius"
+      },
+      "pill": {
+        "value": "{semantic.border-radius.pill}",
+        "type": "borderRadius"
+      }
+    },
+    "small": {
+      "with-icon": {
+        "padding-left": {
+          "value": "4",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "6",
+          "type": "spacing"
+        }
+      },
+      "height": {
+        "value": "{semantic.size.component.xx-small}",
+        "type": "sizing"
+      },
+      "typo": {
+        "regular": {
+          "value": "{Base.Caption.Medium.Default.Medium}",
+          "type": "typography"
+        },
+        "uppercase": {
+          "value": "{Base.Caption.Medium.Uppercase.Medium}",
+          "type": "typography"
+        }
+      },
+      "no-icon": {
+        "padding-left": {
+          "value": "6",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "6",
+          "type": "spacing"
+        }
+      }
+    },
+    "medium": {
+      "height": {
+        "value": "{semantic.size.component.x-small}",
+        "type": "sizing"
+      },
+      "with-icon": {
+        "padding-left": {
+          "value": "6",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "8",
+          "type": "spacing"
+        }
+      },
+      "no-icon": {
+        "padding-left": {
+          "value": "8",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "8",
+          "type": "spacing"
+        }
+      },
+      "typo": {
+        "regular": {
+          "value": "{Base.Label.Medium.Default.Medium}",
+          "type": "typography"
+        },
+        "uppercase": {
+          "value": "{Base.Label.Medium.Uppercase.Medium}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

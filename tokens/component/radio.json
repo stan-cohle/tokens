@@ -1,0 +1,70 @@
+{
+  "radio": {
+    "small": {
+      "base": {
+        "value": {
+          "width": "18",
+          "height": "20"
+        },
+        "type": "composition"
+      },
+      "unselected": {
+        "shape": {
+          "value": {
+            "sizing": "18",
+            "borderRadius": "{semantic.border-radius.pill}",
+            "borderWidth": "1.68"
+          },
+          "type": "composition"
+        }
+      },
+      "selected": {
+        "shape": {
+          "value": {
+            "sizing": "18",
+            "borderRadius": "{semantic.border-radius.pill}",
+            "borderWidth": "5"
+          },
+          "type": "composition"
+        }
+      },
+      "space-between": {
+        "value": "{semantic.spacing.small}",
+        "type": "spacing"
+      }
+    },
+    "medium": {
+      "space-between": {
+        "value": "{semantic.spacing.small}",
+        "type": "spacing"
+      },
+      "base": {
+        "value": {
+          "width": "22",
+          "height": "24"
+        },
+        "type": "composition"
+      },
+      "unselected": {
+        "shape": {
+          "value": {
+            "sizing": "{semantic.size.icon.medium}",
+            "borderRadius": "{semantic.border-radius.pill}",
+            "borderWidth": "{semantic.border-width.skinny}"
+          },
+          "type": "composition"
+        }
+      },
+      "selected": {
+        "shape": {
+          "value": {
+            "sizing": "{semantic.size.icon.medium}",
+            "borderRadius": "{semantic.border-radius.pill}",
+            "borderWidth": "6"
+          },
+          "type": "composition"
+        }
+      }
+    }
+  }
+}

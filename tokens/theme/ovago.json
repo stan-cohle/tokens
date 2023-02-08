@@ -1,82 +1,6 @@
 {
-  "theme": {
-    "primary": {
-      "dark": {
-        "type": "color",
-        "value": "{base.purple.800}"
-      },
-      "tone": {
-        "type": "color",
-        "value": "{base.purple.700}"
-      },
-      "default": {
-        "type": "color",
-        "value": "{base.purple.600}"
-      },
-      "tint": {
-        "type": "color",
-        "value": "{base.purple.500}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{base.purple.300}"
-      },
-      "subtle": {
-        "type": "color",
-        "value": "{base.purple.100}"
-      }
-    },
-    "accent": {
-      "dark": {
-        "type": "color",
-        "value": "{base.pink.800}"
-      },
-      "tone": {
-        "type": "color",
-        "value": "{base.pink.700}"
-      },
-      "default": {
-        "type": "color",
-        "value": "{base.pink.600}"
-      },
-      "tint": {
-        "type": "color",
-        "value": "{base.pink.500}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{base.pink.400}"
-      },
-      "subtle": {
-        "type": "color",
-        "value": "{base.pink.100}"
-      }
-    }
-  },
-  "presets": {
-    "header": {
-      "type": "color",
-      "value": "{base.purple.600}"
-    },
-    "subheader": {
-      "type": "color",
-      "value": "{base.other.purple-gradient}"
-    },
-    "controls": {
-      "type": "color",
-      "value": "{base.purple.600}"
-    },
-    "footer": {
-      "type": "color",
-      "value": "{base.other.midnight}"
-    },
-    "link": {
-      "value": "{theme.help.tone}",
-      "type": "color"
-    }
-  },
   "base": {
-    "pink": {
+    "accent": {
       "100": {
         "value": "#fff0f6",
         "type": "color"
@@ -114,7 +38,7 @@
         "type": "color"
       }
     },
-    "purple": {
+    "primary": {
       "100": {
         "value": "#f2f1f9",
         "type": "color"
@@ -192,13 +116,31 @@
     },
     "other": {
       "purple-gradient": {
-        "value": "linear-gradient(180deg, #5649A6 0%, {base.purple.700} 100%)",
+        "value": "linear-gradient(180deg, #5649A6 0%, {base.primary.700} 100%)",
         "type": "color"
       },
       "midnight": {
         "value": "#1b1736",
         "type": "color"
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "type": "color",
+      "value": "{base.primary.600}"
+    },
+    "subheader": {
+      "type": "color",
+      "value": "{base.other.purple-gradient}"
+    },
+    "controls": {
+      "type": "color",
+      "value": "{base.primary.600}"
+    },
+    "footer": {
+      "type": "color",
+      "value": "{base.other.midnight}"
     }
   }
 }

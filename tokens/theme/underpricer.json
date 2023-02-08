@@ -1,0 +1,106 @@
+{
+  "theme": {
+    "bg": {
+      "inverse-tertiary": {
+        "value": "{base.neutral.dark.600}",
+        "type": "color"
+      }
+    }
+  },
+  "presets": {
+    "header": {
+      "value": "{theme.bg.secondary-inverse}",
+      "type": "color"
+    },
+    "subheader": {
+      "value": "{theme.bg.primary-inverse}",
+      "type": "color"
+    },
+    "footer": {
+      "value": "{theme.bg.primary-inverse}",
+      "type": "color"
+    }
+  },
+  "base": {
+    "other": {
+      "yellow-gradient": {
+        "value": "linear-gradient(180deg, #ffc63a 0%, #fea538 100%)",
+        "type": "color"
+      },
+      "alice-blue": {
+        "value": "#eef3ff",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "100": {
+        "value": "{colors.orange.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.orange.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.orange.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.orange.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.orange.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.orange.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.orange.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.orange.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.orange.900}",
+        "type": "color"
+      }
+    }
+  },
+  "button": {
+    "x-large": {
+      "border-radius": {
+        "value": "{border-radius.12}",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "sys": {
+    "font-family": {
+      "title": {
+        "value": "{font-family.montserrat}",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "{font-family.inter}",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "font-weight": {
+    "semi-bold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    }
+  },
+  "font-family": {
+    "montserrat": {
+      "value": "Helvetica Now Display",
+      "type": "fontFamilies"
+    }
+  }
+}

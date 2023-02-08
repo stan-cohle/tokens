@@ -1,0 +1,58 @@
+{
+  "checkbox": {
+    "small": {
+      "base": {
+        "value": {
+          "width": "16",
+          "height": "20"
+        },
+        "type": "composition"
+      },
+      "shape": {
+        "value": {
+          "sizing": "{semantic.size.icon.small}",
+          "borderRadius": "{semantic.border-radius.softly-rounded}",
+          "borderWidth": "1.68"
+        },
+        "type": "composition"
+      },
+      "icon": {
+        "value": {
+          "sizing": "{semantic.size.icon.medium}"
+        },
+        "type": "composition"
+      },
+      "space-between": {
+        "value": "{semantic.spacing.small}",
+        "type": "spacing"
+      }
+    },
+    "medium": {
+      "base": {
+        "value": {
+          "width": "20",
+          "height": "24"
+        },
+        "type": "composition"
+      },
+      "shape": {
+        "value": {
+          "sizing": "{semantic.size.icon.medium}",
+          "borderRadius": "{semantic.border-radius.softly-rounded}",
+          "borderWidth": "2"
+        },
+        "type": "composition"
+      },
+      "icon": {
+        "value": {
+          "sizing": "{semantic.size.icon.large}"
+        },
+        "type": "composition"
+      },
+      "space-between": {
+        "value": "{semantic.spacing.small}",
+        "type": "spacing"
+      }
+    }
+  }
+}

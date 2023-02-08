@@ -1,5 +1,5 @@
 {
-  "base": {
+  "colors": {
     "primary": {
       "light": {
         "value": "#e8f2ff",
@@ -213,111 +213,111 @@
     "primary": {
       "dark": {
         "type": "color",
-        "value": "{base.primary.dark}"
+        "value": "{colors.primary.dark}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.primary.tone}"
+        "value": "{colors.primary.tone}"
       },
       "default": {
         "type": "color",
-        "value": "{base.primary.base}"
+        "value": "{colors.primary.base}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.primary.tint}"
+        "value": "{colors.primary.tint}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.primary.light}"
+        "value": "{colors.primary.light}"
       }
     },
     "info": {
       "dark": {
         "type": "color",
-        "value": "{base.primary.dark}"
+        "value": "{colors.primary.dark}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.primary.tone}"
+        "value": "{colors.primary.tone}"
       },
       "default": {
         "type": "color",
-        "value": "{base.primary.base}"
+        "value": "{colors.primary.base}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.primary.tint}"
+        "value": "{colors.primary.tint}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.primary.light}"
+        "value": "{colors.primary.light}"
       }
     },
     "success": {
       "dark": {
         "type": "color",
-        "value": "{base.secondary.dark}"
+        "value": "{colors.secondary.dark}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.secondary.tone}"
+        "value": "{colors.secondary.tone}"
       },
       "default": {
         "type": "color",
-        "value": "{base.secondary.base}"
+        "value": "{colors.secondary.base}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.secondary.tint}"
+        "value": "{colors.secondary.tint}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.secondary.light}"
+        "value": "{colors.secondary.light}"
       }
     },
     "warning": {
       "dark": {
         "type": "color",
-        "value": "{base.alert.dark}"
+        "value": "{colors.alert.dark}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.alert.tone}"
+        "value": "{colors.alert.tone}"
       },
       "default": {
         "type": "color",
-        "value": "{base.alert.base}"
+        "value": "{colors.alert.base}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.alert.tint}"
+        "value": "{colors.alert.tint}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.alert.light}"
+        "value": "{colors.alert.light}"
       }
     },
     "danger": {
       "dark": {
         "type": "color",
-        "value": "{base.error.dark}"
+        "value": "{colors.error.dark}"
       },
       "tone": {
         "type": "color",
-        "value": "{base.error.tone}"
+        "value": "{colors.error.tone}"
       },
       "default": {
         "type": "color",
-        "value": "{base.error.base}"
+        "value": "{colors.error.base}"
       },
       "muted": {
         "type": "color",
-        "value": "{base.error.tint}"
+        "value": "{colors.error.tint}"
       },
       "subtle": {
         "type": "color",
-        "value": "{base.error.light}"
+        "value": "{colors.error.light}"
       }
     }
   },

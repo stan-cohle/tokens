@@ -1,40 +1,29 @@
 {
-  "theme": {
+  "base": {
     "primary": {
-      "dark": {
+      "50": {
         "type": "color",
-        "description": "content, icon, text",
-        "value": "{base.pumpkin.700}"
+        "value": "{colors.pumpkin.50}"
       },
-      "tone": {
+      "300": {
         "type": "color",
-        "description": "content, icon, text",
-        "value": "{base.pumpkin.700}"
+        "value": "{colors.pumpkin.300}"
       },
-      "default": {
+      "500": {
         "type": "color",
-        "value": "{base.chill.600}"
+        "value": "{colors.pumpkin.500}"
       },
-      "tint": {
+      "600": {
         "type": "color",
-        "description": "content, icon, text",
-        "value": "{base.pumpkin.500}"
+        "value": "{colors.pumpkin.600}"
       },
-      "muted": {
+      "700": {
         "type": "color",
-        "description": "content, icon, text",
-        "value": "{base.pumpkin.300}"
-      },
-      "subtle": {
-        "type": "color",
-        "description": "content, icon, text",
-        "value": "{base.pumpkin.50}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{base.chill.700}"
+        "value": "{colors.pumpkin.700}"
       }
-    },
+    }
+  },
+  "theme": {
     "bg": {
       "secondary": {
         "value": "#F3F5F7",
@@ -52,15 +41,15 @@
     "secondary": {
       "default": {
         "type": "color",
-        "value": "{base.space.700}"
+        "value": "{colors.space.700}"
       },
       "hover": {
         "type": "color",
-        "value": "{base.space.800}"
+        "value": "{colors.space.800}"
       },
       "active": {
         "type": "color",
-        "value": "{base.space.900}"
+        "value": "{colors.space.900}"
       },
       "onsecondary": {
         "value": "{colors.white}",
@@ -136,15 +125,15 @@
         "value": "#DCF5FC",
         "type": "color"
       }
+    },
+    "fg": {
+      "link": {
+        "type": "color",
+        "value": "{colors.chill.600}"
+      }
     }
   },
-  "presets": {
-    "link": {
-      "type": "color",
-      "value": "{base.chill.600}"
-    }
-  },
-  "base": {
+  "colors": {
     "pumpkin": {
       "50": {
         "value": "#FFECE0",
