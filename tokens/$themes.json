@@ -644,10 +644,8 @@
       "theme.action-primary.fg": "S:7f2a248e9e4ba9d44c1b7ea71d43a2d3cc93fe03,",
       "theme.action-secondary.border": "S:2f76429d8218e21d02b77fa2b84ba08dc9e625b5,",
       "theme.action-secondary.fg": "S:7967be8c150ba6564baf522fe1192f67365e7e5f,",
-      "theme.action-default.bg-default": "S:63737aefa84cdbaa09db87522a279494643cc722,",
       "theme.action-default.bg-hovered": "S:00c82af9b0e4c08fd32c505188cc6a376baad213,",
       "theme.action-default.bg-pressed": "S:7afa98a5d2e7d6aa2f453b80580766624c35e8fe,",
-      "theme.action-default.fg-subtle": "S:b83b0c3f32ad18a4f444973e03d0e260bfbc9654,",
       "theme.action-danger.bg": "S:7f7ea2c3994af885bc621a4ae0000318a65d8692,",
       "theme.action-danger.bg-hovered": "S:420dd857bfccd70dce9a6cf3b5322e565af78e70,",
       "theme.action-danger.bg-pressed": "S:061c33e3613a8cf6bd0bc1eee7bef70ba5f17a39,",
@@ -655,7 +653,9 @@
       "theme.action-success.bg": "S:146539811dd8cdd9a36225e11315802de191ae8c,",
       "theme.action-success.bg-hovered": "S:caa112bd18841fee07817d76feb1e18007ecc847,",
       "theme.action-success.bg-pressed": "S:edbfcc26ad936c5e6d71a1d4ee190fdec2217756,",
-      "theme.action-success.fg": "S:884f112b477a90427ee9a19fe41b03fcd4d24dc0,"
+      "theme.action-success.fg": "S:884f112b477a90427ee9a19fe41b03fcd4d24dc0,",
+      "theme.action-default.bg": "S:63737aefa84cdbaa09db87522a279494643cc722,",
+      "theme.action-default.fg": "S:b83b0c3f32ad18a4f444973e03d0e260bfbc9654,"
     }
   },
   {
