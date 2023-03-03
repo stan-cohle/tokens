@@ -234,7 +234,7 @@
         "type": "color",
         "value": "{colors.indigo.600}"
       },
-      "focused": {
+      "focus": {
         "type": "color",
         "value": "{colors.indigo.600}",
         "description": "Use for focus rings of elements in a focus state."
@@ -541,6 +541,24 @@
         "value": "#FA11F2",
         "type": "color"
       }
+    },
+    "input": {
+      "bg-default": {
+        "value": "{theme.bg.default}",
+        "type": "color"
+      },
+      "bg-cloudy": {
+        "value": "{theme.bg.muted}",
+        "type": "color"
+      },
+      "border-default": {
+        "value": "{theme.border.default}",
+        "type": "color"
+      },
+      "border-focused": {
+        "value": "{theme.border.focus}",
+        "type": "color"
+      }
     }
   },
   "semantic": {
@@ -694,7 +712,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.border.focused}, {opacity.300})",
+            "color": "rgba({theme.border.focus}, {opacity.300})",
             "type": "dropShadow"
           }
         ],
