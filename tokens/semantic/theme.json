@@ -1,82 +1,5 @@
 {
   "theme": {
-    "fg": {
-      "default": {
-        "type": "color",
-        "value": "{base.neutral.1100}",
-        "description": "default text"
-      },
-      "strong": {
-        "type": "color",
-        "value": "{base.neutral.900}",
-        "description": "secondary text, icons when requires strong, bold"
-      },
-      "weak": {
-        "type": "color",
-        "value": "{base.neutral.700}",
-        "description": "default icon, help text/ secondary text which need more contrast with default text"
-      },
-      "disabled": {
-        "value": "{base.neutral.500}",
-        "type": "color",
-        "description": "place holder/ disabled text"
-      },
-      "inversed": {
-        "value": "{base.white}",
-        "type": "color",
-        "description": "text or icon on accent/ primary color"
-      },
-      "strong-inversed": {
-        "value": "rgba({base.white}, {opacity.1000})",
-        "type": "color"
-      },
-      "on-accent": {
-        "value": "{base.white}",
-        "type": "color",
-        "description": "icon, text color on emphasis color"
-      },
-      "success": {
-        "type": "color",
-        "value": "{base.success.600}"
-      },
-      "warning": {
-        "type": "color",
-        "value": "{base.warning.700}"
-      },
-      "danger": {
-        "type": "color",
-        "value": "{base.danger.600}"
-      },
-      "info": {
-        "type": "color",
-        "value": "{base.info.600}"
-      },
-      "link": {
-        "type": "color",
-        "value": "{base.info.600}"
-      },
-      "link-active": {
-        "type": "color",
-        "value": "{base.info.600}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "brand": {
-        "type": "color",
-        "value": "{base.primary.600}"
-      },
-      "promo": {
-        "type": "color",
-        "value": "{base.primary.600}"
-      }
-    },
     "bg": {
       "default": {
         "type": "color",
@@ -157,6 +80,83 @@
       "promo-subtle": {
         "value": "{base.primary.100}",
         "type": "color"
+      }
+    },
+    "fg": {
+      "default": {
+        "type": "color",
+        "value": "{base.neutral.1100}",
+        "description": "default text"
+      },
+      "strong": {
+        "type": "color",
+        "value": "{base.neutral.900}",
+        "description": "secondary text, icons when requires strong, bold"
+      },
+      "weak": {
+        "type": "color",
+        "value": "{base.neutral.700}",
+        "description": "default icon, help text/ secondary text which need more contrast with default text"
+      },
+      "disabled": {
+        "value": "{base.neutral.500}",
+        "type": "color",
+        "description": "place holder/ disabled text"
+      },
+      "inversed": {
+        "value": "{base.white}",
+        "type": "color",
+        "description": "text or icon on accent/ primary color"
+      },
+      "strong-inversed": {
+        "value": "rgba({base.white}, {opacity.1000})",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "{base.white}",
+        "type": "color",
+        "description": "icon, text color on emphasis color"
+      },
+      "success": {
+        "type": "color",
+        "value": "{base.success.600}"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{base.warning.700}"
+      },
+      "danger": {
+        "type": "color",
+        "value": "{base.danger.600}"
+      },
+      "info": {
+        "type": "color",
+        "value": "{base.info.600}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{base.info.600}"
+      },
+      "link-active": {
+        "type": "color",
+        "value": "{base.info.600}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "brand": {
+        "type": "color",
+        "value": "{base.primary.600}"
+      },
+      "promo": {
+        "type": "color",
+        "value": "{base.primary.600}"
       }
     },
     "border": {
@@ -331,12 +331,16 @@
       }
     },
     "action-secondary": {
-      "border": {
-        "value": "{base.primary.600}",
+      "bg": {
+        "value": "{theme.utility.transparent}",
         "type": "color"
       },
       "fg": {
         "value": "{theme.fg.brand}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{base.primary.600}",
         "type": "color"
       }
     },
@@ -394,6 +398,10 @@
             }
           }
         }
+      },
+      "border": {
+        "value": "{theme.utility.transparent}",
+        "type": "color"
       },
       "fg": {
         "type": "color",

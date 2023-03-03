@@ -661,7 +661,9 @@
       "theme.action-primary.bg-loading": "S:73f2678f8198536380a0a820af04f04fad28d44e,",
       "theme.action-default.bg-loading": "S:54ff022849ffadefc2bcc78a465bd2ef3f532648,",
       "theme.action-danger.bg-loading": "S:22d85ac2137ff43fee6f5ea450623bf9af459886,",
-      "theme.action-success.bg-loading": "S:d48a000768b103d881e7de399fbfce374d64670e,"
+      "theme.action-success.bg-loading": "S:d48a000768b103d881e7de399fbfce374d64670e,",
+      "theme.action-secondary.bg": "S:1360294b12b4894fa8f199df6d389148b08884af,",
+      "theme.action-default.border": "S:441dee3d650277342c31724b76f18516d19a3b37,"
     }
   },
   {
