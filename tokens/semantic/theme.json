@@ -1,177 +1,92 @@
 {
   "theme": {
     "fg": {
-      "emphasis": {
-        "type": "color",
-        "value": "{base.neutral.1100}",
-        "description": "Color for any primary texts such as titles"
-      },
       "default": {
         "type": "color",
-        "value": "{base.neutral.900}",
-        "description": "Color for secondary texts such as subtitles and paragraphs"
+        "value": "{base.neutral.1100}",
+        "description": "default text"
       },
-      "subtle": {
+      "strong": {
+        "type": "color",
+        "value": "{base.neutral.900}",
+        "description": "secondary text, icons when requires strong, bold"
+      },
+      "weak": {
         "type": "color",
         "value": "{base.neutral.700}",
-        "description": "Color for secondary texts such as captions"
+        "description": "default icon, help text/ secondary text which need more contrast with default text"
       },
       "disabled": {
         "value": "{base.neutral.500}",
-        "type": "color"
+        "type": "color",
+        "description": "place holder/ disabled text"
       },
-      "placeholder": {
-        "value": "{base.neutral.500}",
-        "type": "color"
-      },
-      "inverse": {
+      "inversed": {
         "value": "{base.white}",
         "type": "color",
-        "description": "Inverse color for primary text such as titles"
+        "description": "text or icon on accent/ primary color"
       },
-      "muted-inverse": {
+      "strong-inversed": {
         "value": "rgba({base.white}, {opacity.1000})",
-        "type": "color",
-        "description": "Inverse color text for secondary texts such as subtitles and paragraphs"
+        "type": "color"
       },
-      "subtle-inverse": {
-        "value": "rgba({base.white}, {opacity.500})",
+      "on-accent": {
+        "value": "{base.white}",
         "type": "color",
-        "description": "Inverse color text for secondary texts such as captions"
+        "description": "icon, text color on emphasis color"
       },
-      "semantic": {
-        "brand": {
-          "type": "color",
-          "value": "{base.primary.600}"
-        },
-        "info": {
-          "type": "color",
-          "value": "{base.info.600}"
-        },
-        "success": {
-          "type": "color",
-          "value": "{base.success.600}"
-        },
-        "warning": {
-          "type": "color",
-          "value": "{base.warning.700}"
-        },
-        "danger": {
-          "type": "color",
-          "value": "{base.danger.600}"
-        },
-        "accent": {
-          "type": "color",
-          "value": "{base.primary.600}"
-        },
-        "link": {
-          "type": "color",
-          "value": "{base.info.600}"
-        },
-        "link-selected": {
-          "type": "color",
-          "value": "{base.info.700}"
+      "success": {
+        "type": "color",
+        "value": "{base.success.600}"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{base.warning.700}"
+      },
+      "danger": {
+        "type": "color",
+        "value": "{base.danger.600}"
+      },
+      "info": {
+        "type": "color",
+        "value": "{base.info.600}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{base.info.600}"
+      },
+      "link-active": {
+        "type": "color",
+        "value": "{base.info.600}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-lightness}",
+              "space": "lch"
+            }
+          }
         }
-      }
-    },
-    "border": {
-      "default": {
-        "value": "{base.neutral.300}",
+      },
+      "brand": {
         "type": "color",
-        "description": "Pronounced edge. Used for general inputs and harder edges."
+        "value": "{base.primary.600}"
       },
-      "muted": {
-        "value": "{base.neutral.200}",
+      "promo": {
         "type": "color",
-        "description": "Smooth edge for discreet compositions. Use for dividers to emphasize the separation between items, columns or sections."
-      },
-      "strong": {
-        "value": "{base.neutral.700}",
-        "type": "color"
-      },
-      "inverse": {
-        "value": "rgba({base.white}, {opacity.200})",
-        "type": "color"
-      },
-      "subtle-inverse": {
-        "value": "rgba({base.white}, {opacity.100})",
-        "type": "color"
-      },
-      "strong-inverse": {
-        "value": "rgba({base.white}, {opacity.400})",
-        "type": "color"
-      },
-      "semantic": {
-        "brand": {
-          "type": "color",
-          "value": "{colors.indigo.600}"
-        },
-        "brand-subtle": {
-          "type": "color",
-          "value": "{colors.indigo.300}"
-        },
-        "info": {
-          "type": "color",
-          "value": "{base.info.600}"
-        },
-        "info-subtle": {
-          "type": "color",
-          "value": "{base.info.300}"
-        },
-        "success": {
-          "type": "color",
-          "value": "{base.success.600}"
-        },
-        "success-subtle": {
-          "type": "color",
-          "value": "{base.success.300}",
-          "description": "Use to highlight a positive message."
-        },
-        "warning": {
-          "type": "color",
-          "value": "{base.warning.600}"
-        },
-        "warning-subtle": {
-          "type": "color",
-          "value": "{base.warning.300}",
-          "description": "Use to highlight elements that require a users attention or pending statuses."
-        },
-        "danger": {
-          "type": "color",
-          "value": "{base.danger.600}",
-          "description": "Use for borders communicating critical information, such as the borders on invalid text fields."
-        },
-        "danger-subtle": {
-          "type": "color",
-          "value": "{base.danger.300}",
-          "description": "Use to emphasize an error or a blocking status."
-        },
-        "accent": {
-          "type": "color",
-          "value": "{colors.indigo.600}"
-        },
-        "selected": {
-          "type": "color",
-          "value": "{colors.indigo.600}",
-          "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
-        },
-        "focused": {
-          "type": "color",
-          "value": "{colors.indigo.600}",
-          "description": "Use for focus rings of elements in a focus state."
-        }
+        "value": "{base.primary.600}"
       }
     },
     "bg": {
-      "primary": {
+      "default": {
         "type": "color",
         "value": "{base.white}"
       },
-      "secondary": {
+      "muted": {
         "type": "color",
         "value": "{base.neutral.50}"
       },
-      "tertiary": {
+      "inset": {
         "type": "color",
         "value": "{base.neutral.100}"
       },
@@ -179,316 +94,245 @@
         "value": "{base.neutral.200}",
         "type": "color"
       },
+      "strong": {
+        "value": "{base.neutral.500}",
+        "type": "color"
+      },
       "canvas": {
         "type": "color",
         "value": "{base.neutral.200}"
       },
-      "emphasis": {
+      "inversed": {
         "type": "color",
         "value": "{base.neutral.1000}"
       },
-      "primary-inverse": {
-        "type": "color",
-        "value": "{base.neutral.1000}",
-        "description": "Inverted background color for the top-most layer"
-      },
-      "secondary-inverse": {
+      "muted-inversed": {
         "type": "color",
         "value": "{base.neutral.900}"
       },
-      "canvas-inverse": {
-        "type": "color",
-        "value": "{base.neutral.1100}"
-      },
-      "semantic": {
-        "brand": {
-          "value": "{base.primary.600}",
-          "type": "color"
-        },
-        "brand-subtle": {
-          "value": "{base.primary.100}",
-          "type": "color"
-        },
-        "brand-muted": {
-          "value": "{base.primary.400}",
-          "type": "color"
-        },
-        "neutral": {
-          "type": "color",
-          "value": "{base.neutral.800}"
-        },
-        "neutral-subtle": {
-          "type": "color",
-          "value": "{base.alpha.neutral.300}"
-        },
-        "info": {
-          "value": "{base.info.600}",
-          "type": "color"
-        },
-        "info-subtle": {
-          "value": "{base.info.100}",
-          "type": "color"
-        },
-        "info-muted": {
-          "value": "{base.info.400}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{base.success.600}",
-          "type": "color"
-        },
-        "success-subtle": {
-          "value": "{base.success.100}",
-          "type": "color"
-        },
-        "success-muted": {
-          "value": "{base.success.400}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{base.warning.600}",
-          "type": "color"
-        },
-        "warning-subtle": {
-          "value": "{base.warning.100}",
-          "type": "color"
-        },
-        "warning-muted": {
-          "value": "{base.warning.400}",
-          "type": "color"
-        },
-        "danger": {
-          "value": "{base.danger.600}",
-          "type": "color"
-        },
-        "danger-subtle": {
-          "value": "{base.danger.100}",
-          "type": "color"
-        },
-        "danger-muted": {
-          "value": "{base.danger.400}",
-          "type": "color"
-        }
-      }
-    },
-    "action": {
-      "brand": {
-        "bold": {
-          "value": "{base.primary.600}",
-          "type": "color"
-        },
-        "bold-hovered": {
-          "value": "{base.primary.700}",
-          "type": "color"
-        },
-        "bold-pressed": {
-          "value": "{base.primary.800}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{base.primary.100}",
-          "type": "color"
-        },
-        "subtle-hovered": {
-          "value": "{base.primary.200}",
-          "type": "color"
-        },
-        "subtle-pressed": {
-          "value": "{base.primary.300}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{base.primary.400}",
-          "type": "color"
-        }
-      },
-      "neutral": {
-        "bold": {
-          "type": "color",
-          "value": "{base.neutral.800}"
-        },
-        "bold-hovered": {
-          "type": "color",
-          "value": "{base.neutral.900}"
-        },
-        "bold-pressed": {
-          "type": "color",
-          "value": "{base.neutral.1000}"
-        },
-        "secondary": {
-          "type": "color",
-          "value": "{base.alpha.neutral.300}"
-        },
-        "secondary-hovered": {
-          "type": "color",
-          "value": "{base.alpha.neutral.400}"
-        },
-        "secondary-pressed": {
-          "type": "color",
-          "value": "{base.alpha.neutral.500}"
-        },
-        "subtle": {
-          "type": "color",
-          "value": "{theme.utility.transparent}"
-        },
-        "subtle-hovered": {
-          "type": "color",
-          "value": "{base.alpha.neutral.200}"
-        },
-        "subtle-pressed": {
-          "type": "color",
-          "value": "{base.alpha.neutral.300}"
-        }
-      },
-      "info": {
-        "bold": {
-          "value": "{base.info.600}",
-          "type": "color"
-        },
-        "bold-hovered": {
-          "value": "{base.info.700}",
-          "type": "color"
-        },
-        "bold-pressed": {
-          "value": "{base.info.700}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{base.info.100}",
-          "type": "color"
-        },
-        "subtle-hovered": {
-          "value": "{base.info.200}",
-          "type": "color"
-        },
-        "subtle-pressed": {
-          "value": "{base.info.200}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{base.info.400}",
-          "type": "color"
-        }
-      },
       "success": {
-        "bold": {
-          "value": "{base.success.600}",
-          "type": "color"
-        },
-        "bold-hovered": {
-          "value": "{base.success.700}",
-          "type": "color"
-        },
-        "bold-pressed": {
-          "value": "{base.success.800}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{base.success.100}",
-          "type": "color"
-        },
-        "subtle-hovered": {
-          "value": "{base.success.200}",
-          "type": "color"
-        },
-        "subtle-pressed": {
-          "value": "{base.success.300}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{base.success.400}",
-          "type": "color"
-        }
+        "value": "{base.success.600}",
+        "type": "color"
+      },
+      "success-subtle": {
+        "value": "{base.success.100}",
+        "type": "color"
       },
       "warning": {
-        "bold": {
-          "value": "{base.warning.600}",
-          "type": "color"
-        },
-        "bold-hovered": {
-          "value": "{base.warning.700}",
-          "type": "color"
-        },
-        "bold-pressed": {
-          "value": "{base.warning.700}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{base.warning.100}",
-          "type": "color"
-        },
-        "subtle-hovered": {
-          "value": "{base.warning.200}",
-          "type": "color"
-        },
-        "subtle-pressed": {
-          "value": "{base.warning.300}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{base.warning.400}",
-          "type": "color"
-        }
+        "value": "{base.warning.600}",
+        "type": "color"
+      },
+      "warning-subtle": {
+        "value": "{base.warning.100}",
+        "type": "color"
       },
       "danger": {
-        "bold": {
-          "value": "{base.danger.600}",
-          "type": "color"
-        },
-        "bold-hovered": {
-          "value": "{base.danger.700}",
-          "type": "color"
-        },
-        "bold-pressed": {
-          "value": "{base.danger.700}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{base.danger.100}",
-          "type": "color"
-        },
-        "subtle-hovered": {
-          "value": "{base.danger.200}",
-          "type": "color"
-        },
-        "subtle-pressed": {
-          "value": "{base.danger.300}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{base.danger.400}",
-          "type": "color"
+        "value": "{base.danger.600}",
+        "type": "color"
+      },
+      "danger-subtle": {
+        "value": "{base.danger.100}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.info.600}",
+        "type": "color"
+      },
+      "info-subtle": {
+        "value": "{base.info.100}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{base.primary.600}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.primary.100}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "value": "{base.neutral.300}",
+        "type": "color",
+        "description": "default border"
+      },
+      "muted": {
+        "value": "{base.neutral.200}",
+        "type": "color",
+        "description": "used for dividers to emphasize the separation between items, columns or sections."
+      },
+      "strong": {
+        "value": "{base.neutral.500}",
+        "type": "color"
+      },
+      "inversed": {
+        "value": "rgba({base.white}, {opacity.200})",
+        "type": "color"
+      },
+      "muted-inversed": {
+        "value": "rgba({base.white}, {opacity.100})",
+        "type": "color"
+      },
+      "strong-inversed": {
+        "value": "rgba({base.white}, {opacity.400})",
+        "type": "color"
+      },
+      "success": {
+        "type": "color",
+        "value": "{base.success.600}"
+      },
+      "success-subtle": {
+        "type": "color",
+        "value": "{base.success.300}",
+        "description": "Use to highlight a positive message."
+      },
+      "warning": {
+        "type": "color",
+        "value": "{base.warning.600}"
+      },
+      "warning-subtle": {
+        "type": "color",
+        "value": "{base.warning.300}",
+        "description": "Use to highlight elements that require a users attention or pending statuses."
+      },
+      "danger": {
+        "type": "color",
+        "value": "{base.danger.600}",
+        "description": "Use for borders communicating critical information, such as the borders on invalid text fields."
+      },
+      "danger-subtle": {
+        "type": "color",
+        "value": "{base.danger.300}",
+        "description": "Use to emphasize an error or a blocking status."
+      },
+      "info": {
+        "type": "color",
+        "value": "{base.info.600}"
+      },
+      "info-subtle": {
+        "type": "color",
+        "value": "{base.info.300}"
+      },
+      "brand-subtle": {
+        "type": "color",
+        "value": "{colors.indigo.300}"
+      },
+      "brand": {
+        "type": "color",
+        "value": "{colors.indigo.600}"
+      },
+      "promo": {
+        "type": "color",
+        "value": "{colors.indigo.600}"
+      },
+      "selected": {
+        "type": "color",
+        "value": "{colors.indigo.600}",
+        "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
+      },
+      "focused": {
+        "type": "color",
+        "value": "{colors.indigo.600}",
+        "description": "Use for focus rings of elements in a focus state."
+      }
+    },
+    "interactive": {
+      "default": {
+        "type": "color",
+        "value": "{colors.indigo.600}"
+      },
+      "hovered": {
+        "type": "color",
+        "value": "{theme.interactive.default}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "pressed": {
+        "type": "color",
+        "value": "{colors.indigo.600}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "lch"
+            }
+          }
         }
       },
       "selected": {
-        "bold": {
-          "value": "{base.primary.600}",
-          "type": "color"
-        },
-        "bold-hovered": {
-          "value": "{base.primary.700}",
-          "type": "color"
-        },
-        "bold-pressed": {
-          "value": "{base.primary.800}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{base.primary.100}",
-          "type": "color"
-        },
-        "subtle-hovered": {
-          "value": "{base.primary.200}",
-          "type": "color"
-        },
-        "subtle-pressed": {
-          "value": "{base.primary.300}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{base.primary.400}",
-          "type": "color"
+        "type": "color",
+        "value": "{colors.indigo.300}"
+      }
+    },
+    "action-primary": {
+      "bg": {
+        "value": "{base.primary.600}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{base.primary.600}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{theme.fg.on-accent}",
+        "type": "color"
+      }
+    },
+    "action-default": {
+      "bg-subtle": {
+        "type": "color",
+        "value": "E5E5E5"
+      },
+      "bg-hovered": {
+        "type": "color",
+        "value": "{theme.action-default.bg-subtle}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.2",
+              "space": "srgb",
+              "color": "#000000"
+            }
+          }
         }
+      },
+      "fg-subtle": {
+        "type": "color",
+        "value": "{theme.fg.default}"
+      }
+    },
+    "action-danger": {
+      "bg": {
+        "value": "{base.danger.600}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{theme.fg.on-accent}",
+        "type": "color"
+      }
+    },
+    "action-success": {
+      "bg": {
+        "value": "{base.success.600}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{theme.border.success}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{theme.fg.on-accent}",
+        "type": "color"
       }
     },
     "blanket": {
@@ -497,27 +341,23 @@
         "type": "color"
       },
       "brand": {
-        "value": "rgba({theme.bg.semantic.brand}, {opacity.300})",
+        "value": "rgba({theme.bg.brand}, {opacity.300})",
         "type": "color"
       },
       "info": {
-        "value": "rgba({theme.action.info.bold}, {opacity.300})",
+        "value": "rgba({theme.bg.info}, {opacity.300})",
         "type": "color"
       },
       "success": {
-        "value": "rgba({theme.action.success.bold}, {opacity.300})",
+        "value": "rgba({theme.action-success.bg}, {opacity.300})",
         "type": "color"
       },
       "warning": {
-        "value": "rgba({theme.action.warning.bold}, {opacity.300})",
+        "value": "rgba({theme.bg.warning}, {opacity.300})",
         "type": "color"
       },
       "danger": {
-        "value": "rgba({theme.action.danger.bold}, {opacity.300})",
-        "type": "color"
-      },
-      "selected": {
-        "value": "rgba({theme.action.selected.bold}, {opacity.300})",
+        "value": "rgba({theme.action-danger.bg}, {opacity.300})",
         "type": "color"
       }
     },
@@ -528,6 +368,16 @@
       },
       "missing-token": {
         "value": "#FA11F2",
+        "type": "color"
+      }
+    },
+    "action-secondary": {
+      "border": {
+        "value": "{base.primary.600}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{theme.fg.inversed}",
         "type": "color"
       }
     }
@@ -683,7 +533,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.border.semantic.focused}, {opacity.300})",
+            "color": "rgba({theme.border.focused}, {opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -964,6 +814,30 @@
           "fontSize": "{font-size.text.sm}"
         },
         "type": "typography"
+      }
+    }
+  },
+  "base": {
+    "color": {
+      "modifiers": {
+        "mix-delta": {
+          "value": "0.15",
+          "type": "other"
+        },
+        "lightness-delta": {
+          "value": "0.15",
+          "type": "other"
+        },
+        "button": {
+          "hover-mod": {
+            "value": "{base.color.modifiers.mix-delta}",
+            "type": "other"
+          },
+          "pressed-mod": {
+            "value": "{base.color.modifiers.mix-delta}*2",
+            "type": "other"
+          }
+        }
       }
     }
   }
