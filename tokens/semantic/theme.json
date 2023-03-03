@@ -62,8 +62,8 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-lightness}",
-              "space": "lch"
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "hsl"
             }
           }
         }
@@ -226,11 +226,6 @@
         "type": "color",
         "value": "{colors.indigo.600}"
       },
-      "selected": {
-        "type": "color",
-        "value": "{colors.indigo.600}",
-        "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
-      },
       "focused": {
         "type": "color",
         "value": "{colors.indigo.600}",
@@ -238,13 +233,13 @@
       }
     },
     "interactive": {
-      "default": {
+      "bg": {
         "type": "color",
         "value": "{colors.indigo.600}"
       },
-      "hovered": {
+      "bg-hovered": {
         "type": "color",
-        "value": "{theme.interactive.default}",
+        "value": "{theme.interactive.bg}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -255,9 +250,9 @@
           }
         }
       },
-      "pressed": {
+      "bg-pressed": {
         "type": "color",
-        "value": "{colors.indigo.600}",
+        "value": "{theme.interactive.bg}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -271,6 +266,11 @@
       "selected": {
         "type": "color",
         "value": "{colors.indigo.300}"
+      },
+      "border": {
+        "type": "color",
+        "value": "{colors.indigo.600}",
+        "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
       }
     },
     "action-primary": {
@@ -278,30 +278,85 @@
         "value": "{base.primary.600}",
         "type": "color"
       },
-      "border": {
-        "value": "{base.primary.600}",
-        "type": "color"
+      "bg-hovered": {
+        "value": "{theme.action-primary.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "bg-pressed": {
+        "value": "{theme.action-primary.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "fg": {
         "value": "{theme.fg.on-accent}",
         "type": "color"
       }
     },
+    "action-secondary": {
+      "border": {
+        "value": "{base.primary.600}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{theme.fg.inversed}",
+        "type": "color"
+      }
+    },
     "action-default": {
-      "bg-subtle": {
+      "bg-default": {
         "type": "color",
-        "value": "E5E5E5"
+        "value": "{theme.fg.weak}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{opacity.200}",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "bg-hovered": {
         "type": "color",
-        "value": "{theme.action-default.bg-subtle}",
+        "value": "{theme.action-default.bg-default}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.1",
+              "space": "srgb",
+              "color": "{theme.fg.default}"
+            }
+          }
+        }
+      },
+      "bg-pressed": {
+        "type": "color",
+        "value": "{theme.action-default.bg-default}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "mix",
               "value": "0.2",
               "space": "srgb",
-              "color": "#000000"
+              "color": "{theme.fg.default}"
             }
           }
         }
@@ -316,6 +371,32 @@
         "value": "{base.danger.600}",
         "type": "color"
       },
+      "bg-hovered": {
+        "value": "{base.danger.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "bg-pressed": {
+        "value": "{base.danger.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
       "fg": {
         "value": "{theme.fg.on-accent}",
         "type": "color"
@@ -326,9 +407,31 @@
         "value": "{base.success.600}",
         "type": "color"
       },
-      "border": {
-        "value": "{theme.border.success}",
-        "type": "color"
+      "bg-hovered": {
+        "value": "{theme.action-success.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "bg-pressed": {
+        "value": "{theme.action-success.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "fg": {
         "value": "{theme.fg.on-accent}",
@@ -368,16 +471,6 @@
       },
       "missing-token": {
         "value": "#FA11F2",
-        "type": "color"
-      }
-    },
-    "action-secondary": {
-      "border": {
-        "value": "{base.primary.600}",
-        "type": "color"
-      },
-      "fg": {
-        "value": "{theme.fg.inversed}",
         "type": "color"
       }
     }
@@ -821,7 +914,7 @@
     "color": {
       "modifiers": {
         "mix-delta": {
-          "value": "0.15",
+          "value": "0.1",
           "type": "other"
         },
         "lightness-delta": {
