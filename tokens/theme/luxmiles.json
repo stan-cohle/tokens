@@ -117,6 +117,44 @@
         "value": "rgba({base.other.magic-mint}, 0.24)",
         "type": "color"
       }
+    },
+    "success": {
+      "100": {
+        "value": "{colors.pine-green.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.pine-green.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.pine-green.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.pine-green.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.pine-green.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.pine-green.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.pine-green.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.pine-green.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.pine-green.900}",
+        "type": "color"
+      }
     }
   },
   "font-family": {

@@ -561,7 +561,6 @@
       "theme.bg.semantic.danger-muted": "S:36cbac8181ad9e5180fe1226ef21de089fe29e48,",
       "theme.action.selected.bold": "S:e0925bfadf7c039d3d5ed83bff84c58349738360,",
       "theme.action.selected.subtle": "S:35dfc3c892a9f8a327a1c8cfe7594dd72ff3a30e,",
-      "theme.blanket.scrim": "S:f5bd19b460c56b2ae5f620a30a8e914e07bb7993,",
       "theme.blanket.brand": "S:c311133aa85144dfcf0336022f1cd77365cd605f,",
       "theme.blanket.info": "S:cc41cd0075b2224a3ffbbed5da81bfbf7f67e1fb,",
       "theme.blanket.success": "S:b1d422e0faab1cc84ac352065ec904090bd2992e,",
@@ -663,7 +662,8 @@
       "theme.action-success.bg-loading": "S:d48a000768b103d881e7de399fbfce374d64670e,",
       "theme.action-secondary.bg": "S:1360294b12b4894fa8f199df6d389148b08884af,",
       "theme.action-default.border": "S:441dee3d650277342c31724b76f18516d19a3b37,",
-      "theme.border.focus": "S:16a4d9651c02839324d310a45c62738e5b892cc2,"
+      "theme.border.focus": "S:16a4d9651c02839324d310a45c62738e5b892cc2,",
+      "theme.bg.scrim": "S:f5bd19b460c56b2ae5f620a30a8e914e07bb7993,"
     }
   },
   {

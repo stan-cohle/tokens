@@ -243,5 +243,13 @@
         "type": "color"
       }
     }
+  },
+  "theme": {
+    "action-primary": {
+      "bg": {
+        "value": "{theme.action-success.bg}",
+        "type": "color"
+      }
+    }
   }
 }

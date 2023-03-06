@@ -80,6 +80,11 @@
       "promo-subtle": {
         "value": "{base.primary.100}",
         "type": "color"
+      },
+      "scrim": {
+        "value": "rgba({base.neutral.900}, {opacity.800})",
+        "type": "color",
+        "description": "Scrim, Backdrop, Modal background"
       }
     },
     "fg": {
@@ -336,11 +341,11 @@
         "type": "color"
       },
       "fg": {
-        "value": "{theme.fg.brand}",
+        "value": "{theme.action-primary.bg}",
         "type": "color"
       },
       "border": {
-        "value": "{base.primary.600}",
+        "value": "{theme.action-primary.bg}",
         "type": "color"
       }
     },
@@ -525,10 +530,6 @@
       },
       "brand": {
         "value": "rgba({theme.bg.brand}, {opacity.300})",
-        "type": "color"
-      },
-      "scrim": {
-        "value": "rgba({base.neutral.900}, {opacity.800})",
         "type": "color"
       }
     },
