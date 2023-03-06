@@ -142,5 +142,13 @@
       "type": "color",
       "value": "{base.other.midnight}"
     }
+  },
+  "theme": {
+    "action-primary": {
+      "bg": {
+        "value": "{theme.action-success.bg}",
+        "type": "color"
+      }
+    }
   }
 }

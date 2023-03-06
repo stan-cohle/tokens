@@ -23,7 +23,7 @@
       },
       "canvas": {
         "type": "color",
-        "value": "{base.neutral.200}"
+        "value": "{base.neutral.100}"
       },
       "inversed": {
         "type": "color",
@@ -326,6 +326,10 @@
           }
         }
       },
+      "border": {
+        "value": "{theme.action-primary.bg}",
+        "type": "color"
+      },
       "fg": {
         "value": "{theme.fg.on-accent}",
         "type": "color"
@@ -353,11 +357,15 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.300}",
+              "value": "{opacity.200}",
               "space": "hsl"
             }
           }
         }
+      },
+      "border": {
+        "value": "{theme.utility.transparent}",
+        "type": "color"
       },
       "bg-hovered": {
         "type": "color",
@@ -386,10 +394,6 @@
             }
           }
         }
-      },
-      "border": {
-        "value": "{theme.utility.transparent}",
-        "type": "color"
       },
       "fg": {
         "type": "color",

@@ -12,6 +12,7 @@
     "component/radio",
     "component/badge",
     "component/alert",
+    "section/nav",
     "theme/ovago",
     "theme/wowfare",
     "theme/aran-grant",
