@@ -81,6 +81,10 @@
         "value": "{base.primary.100}",
         "type": "color"
       },
+      "highlight": {
+        "value": "rgba({theme.bg.warning}, {opacity.300})",
+        "type": "color"
+      },
       "scrim": {
         "value": "rgba({base.neutral.900}, {opacity.800})",
         "type": "color",
@@ -138,13 +142,21 @@
         "type": "color",
         "value": "{base.info.600}"
       },
+      "brand": {
+        "type": "color",
+        "value": "{base.primary.600}"
+      },
+      "promo": {
+        "type": "color",
+        "value": "{base.primary.600}"
+      },
       "link": {
         "type": "color",
         "value": "{base.info.600}"
       },
       "link-active": {
         "type": "color",
-        "value": "{base.info.600}",
+        "value": "{theme.fg.link}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -154,14 +166,6 @@
             }
           }
         }
-      },
-      "brand": {
-        "type": "color",
-        "value": "{base.primary.600}"
-      },
-      "promo": {
-        "type": "color",
-        "value": "{base.primary.600}"
       }
     },
     "border": {
@@ -276,13 +280,18 @@
           }
         }
       },
-      "selected": {
+      "bg-selected": {
         "type": "color",
-        "value": "{colors.indigo.300}"
+        "value": "{base.primary.100}"
       },
       "border": {
         "type": "color",
-        "value": "{colors.indigo.600}",
+        "value": "{theme.bg.brand}",
+        "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
+      },
+      "fg": {
+        "type": "color",
+        "value": "{theme.border.brand}",
         "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
       }
     },
@@ -317,25 +326,12 @@
           }
         }
       },
-      "bg-loading": {
-        "value": "{theme.action-primary.bg}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
       "fg": {
         "value": "{theme.fg.on-accent}",
         "type": "color"
       }
     },
-    "action-secondary": {
+    "action-promo": {
       "bg": {
         "value": "{theme.utility.transparent}",
         "type": "color"
@@ -349,15 +345,15 @@
         "type": "color"
       }
     },
-    "action-default": {
+    "action-secondary": {
       "bg": {
         "type": "color",
-        "value": "{theme.fg.weak}",
+        "value": "{theme.bg.strong}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.200}",
+              "value": "{opacity.300}",
               "space": "hsl"
             }
           }
@@ -365,7 +361,7 @@
       },
       "bg-hovered": {
         "type": "color",
-        "value": "{theme.action-default.bg}",
+        "value": "{theme.action-secondary.bg}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -379,7 +375,7 @@
       },
       "bg-pressed": {
         "type": "color",
-        "value": "{theme.action-default.bg}",
+        "value": "{theme.action-secondary.bg}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -391,15 +387,44 @@
           }
         }
       },
-      "bg-loading": {
+      "border": {
+        "value": "{theme.utility.transparent}",
+        "type": "color"
+      },
+      "fg": {
         "type": "color",
-        "value": "{theme.fg.weak}",
+        "value": "{theme.fg.default}"
+      }
+    },
+    "action-tertiary": {
+      "bg": {
+        "type": "color",
+        "value": "{theme.bg.default}"
+      },
+      "bg-hovered": {
+        "type": "color",
+        "value": "{theme.action-secondary.bg}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "alpha",
-              "value": "{opacity.200}",
-              "space": "hsl"
+              "type": "mix",
+              "value": "0.1",
+              "space": "srgb",
+              "color": "{theme.fg.default}"
+            }
+          }
+        }
+      },
+      "bg-pressed": {
+        "type": "color",
+        "value": "{theme.action-secondary.bg}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "0.2",
+              "space": "srgb",
+              "color": "{theme.fg.default}"
             }
           }
         }
@@ -444,19 +469,6 @@
           }
         }
       },
-      "bg-loading": {
-        "value": "{theme.action-danger.bg}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
       "fg": {
         "value": "{theme.fg.on-accent}",
         "type": "color"
@@ -493,19 +505,6 @@
           }
         }
       },
-      "bg-loading": {
-        "value": "{theme.action-success.bg}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
       "fg": {
         "value": "{theme.fg.on-accent}",
         "type": "color"
@@ -514,10 +513,6 @@
     "blanket": {
       "success": {
         "value": "rgba({theme.action-success.bg}, {opacity.300})",
-        "type": "color"
-      },
-      "warning": {
-        "value": "rgba({theme.bg.warning}, {opacity.300})",
         "type": "color"
       },
       "danger": {
@@ -540,24 +535,6 @@
       },
       "missing-token": {
         "value": "#FA11F2",
-        "type": "color"
-      }
-    },
-    "input": {
-      "bg-default": {
-        "value": "{theme.bg.default}",
-        "type": "color"
-      },
-      "bg-cloudy": {
-        "value": "{theme.bg.muted}",
-        "type": "color"
-      },
-      "border-default": {
-        "value": "{theme.border.default}",
-        "type": "color"
-      },
-      "border-focused": {
-        "value": "{theme.border.focus}",
         "type": "color"
       }
     }
