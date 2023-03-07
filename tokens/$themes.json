@@ -15,8 +15,7 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/aran-grant": "enabled",
-      "semantic/base-fonts": "enabled",
-      "section/nav": "disabled"
+      "semantic/base-fonts": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -36,8 +35,7 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/luxmiles": "enabled",
-      "semantic/base-fonts": "enabled",
-      "section/nav": "disabled"
+      "semantic/base-fonts": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -57,8 +55,7 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/wowfare": "enabled",
-      "section/nav": "disabled"
+      "theme/wowfare": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -77,8 +74,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/badge": "source",
-      "component/alert": "source",
-      "section/nav": "disabled"
+      "component/alert": "source"
     },
     "$figmaStyleReferences": {
       "theme.fg.disabled": "S:c7b4ff52f90797df9434e7b4a721b6e068f29438,",
@@ -682,8 +678,7 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/ovago": "enabled",
-      "section/nav": "disabled"
+      "theme/ovago": "enabled"
     },
     "$figmaStyleReferences": {}
   }
