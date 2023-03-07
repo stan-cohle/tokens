@@ -15,8 +15,7 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/aran-grant": "enabled",
-      "semantic/base-fonts": "enabled",
-      "theme/ovago_classic": "disabled"
+      "semantic/base-fonts": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -36,8 +35,7 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/luxmiles": "enabled",
-      "semantic/base-fonts": "enabled",
-      "theme/ovago_classic": "disabled"
+      "semantic/base-fonts": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -57,8 +55,7 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/wowfare": "enabled",
-      "theme/ovago_classic": "disabled"
+      "theme/wowfare": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -77,8 +74,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/badge": "source",
-      "component/alert": "source",
-      "theme/ovago_classic": "disabled"
+      "component/alert": "source"
     },
     "$figmaStyleReferences": {
       "theme.fg.disabled": "S:c7b4ff52f90797df9434e7b4a721b6e068f29438,",
@@ -594,7 +590,7 @@
       "theme.fg.default": "S:053afc694a20d17f0d33f817cc03ce1abae71a4a,",
       "theme.fg.weak": "S:3033c9b36dcc928e710d3113989ba332a5d27d45,",
       "theme.fg.brand": "S:5fdaac297d5c080ea36cbb5860cc02e60923bcc0,",
-      "theme.fg.info": "S:cc5af8fb8bee16b53d5305f1b511058c62043537,",
+      "theme.fg.info": "S:d1710f752b9e94d9db0ba5ee1146480581d235c3,",
       "theme.fg.success": "S:06ab663fee06d7ccba78603a3d8b3f354b1db3f0,",
       "theme.fg.warning": "S:f591372bf44892f926011d6d2ccbbe6c19ccf05b,",
       "theme.fg.danger": "S:ea28e32445b1295ad1b0912613daff98495debc5,",
@@ -608,7 +604,6 @@
       "theme.bg.muted-inversed": "S:e92ad52808c5074594deed4b649574768fd3338f,",
       "theme.bg.brand": "S:a12372909367bfe58ad5f5751f3f618d441ab886,",
       "theme.bg.brand-subtle": "S:d2bef697c9879259b2d6969f51f5808ef3f35d31,",
-      "theme.bg.info": "S:d1710f752b9e94d9db0ba5ee1146480581d235c3,",
       "theme.bg.info-subtle": "S:3ecbf4994b9df850cb59c2b1e4eeecbf44d3f2ab,",
       "theme.bg.success": "S:8cc2a77e752056cf00984acb7d396c6a1721a46d,",
       "theme.bg.success-subtle": "S:9afe8b7c0f1d7b8e0bf83ea3381733c0af5f2c40,",
@@ -663,7 +658,7 @@
       "theme.bg.highlight": "S:917f802124def08b1e2fe552a6c0760c445bf8d1,",
       "theme.fg.link": "S:d17b25094bff717b91c9492c8b57b877369fe290,",
       "theme.fg.link-active": "S:0cc76f5e0fab2bb6f78038c4bca5f6de7d6f9ce2,",
-      "theme.bg.strong": "S:113e0449445d6740a339c0b8dcb3dc21519f5dd5,"
+      "theme.bg.neutral": "S:113e0449445d6740a339c0b8dcb3dc21519f5dd5,"
     }
   },
   {
@@ -682,8 +677,7 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/ovago": "enabled",
-      "theme/ovago_classic": "disabled"
+      "theme/ovago": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -703,8 +697,7 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/priceline": "enabled",
-      "theme/ovago_classic": "disabled"
+      "theme/priceline": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -725,6 +718,26 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/ovago_classic": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a9833be0e7d2c92a63686a35d4d5ecc242681e58",
+    "name": "Kayak",
+    "selectedTokenSets": {
+      "core": "source",
+      "semantic/base-colors": "source",
+      "semantic/base-fonts": "enabled",
+      "semantic/theme": "enabled",
+      "component/button": "source",
+      "component/icon-button": "source",
+      "component/text-input": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/badge": "source",
+      "component/alert": "source",
+      "theme/kayak": "enabled"
     },
     "$figmaStyleReferences": {}
   }

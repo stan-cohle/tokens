@@ -160,6 +160,12 @@
         "value": "{base.color.accent.600}",
         "type": "color"
       }
+    },
+    "bg": {
+      "promo": {
+        "value": "{base.color.accent.600}",
+        "type": "color"
+      }
     }
   }
 }

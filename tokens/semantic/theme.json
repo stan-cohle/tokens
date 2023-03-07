@@ -17,10 +17,6 @@
         "value": "{base.color.neutral.200}",
         "type": "color"
       },
-      "strong": {
-        "value": "{base.color.neutral.500}",
-        "type": "color"
-      },
       "canvas": {
         "type": "color",
         "value": "{base.color.neutral.100}"
@@ -63,6 +59,10 @@
       },
       "info-subtle": {
         "value": "{base.color.info.100}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{base.color.neutral.700}",
         "type": "color"
       },
       "brand": {
@@ -309,7 +309,7 @@
       },
       "fg": {
         "type": "color",
-        "value": "{theme.border.brand}",
+        "value": "{theme.fg.brand}",
         "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
       }
     },
@@ -397,12 +397,12 @@
     "action-secondary": {
       "bg": {
         "type": "color",
-        "value": "{theme.bg.strong}",
+        "value": "{theme.bg.neutral}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{core.opacity.200}",
+              "value": "{core.opacity.150}",
               "space": "hsl"
             }
           }
@@ -569,7 +569,7 @@
         "type": "color"
       },
       "info": {
-        "value": "rgba({theme.bg.info}, {core.opacity.300})",
+        "value": "rgba({theme.fg.info}, {core.opacity.300})",
         "type": "color"
       },
       "brand": {
@@ -1045,6 +1045,29 @@
           }
         }
       }
+    }
+  },
+  "presets": {
+    "header": {
+      "value": "{theme.bg.brand}",
+      "type": "color"
+    },
+    "subheader": {
+      "value": "{presets.header}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "{base.color.modifiers.mix-delta}",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "footer": {
+      "value": "{base.color.neutral.1100}",
+      "type": "color"
     }
   }
 }

@@ -157,6 +157,12 @@
         "value": "{theme.action-success.bg}",
         "type": "color"
       }
+    },
+    "bg": {
+      "promo": {
+        "value": "{base.color.accent.600}",
+        "type": "color"
+      }
     }
   }
 }
