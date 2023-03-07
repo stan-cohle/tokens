@@ -82,13 +82,31 @@
         "type": "color"
       },
       "highlight": {
-        "value": "rgba({theme.bg.warning}, {core.opacity.300})",
-        "type": "color"
+        "value": "{theme.bg.warning}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.300}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "scrim": {
-        "value": "rgba({base.color.neutral.900}, {core.opacity.800})",
+        "value": "{base.color.neutral.900}",
         "type": "color",
-        "description": "Scrim, Backdrop, Modal background"
+        "description": "Scrim, Backdrop, Modal background",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": " {core.opacity.800}",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "fg": {
@@ -233,19 +251,19 @@
       },
       "brand": {
         "type": "color",
-        "value": "{core.color.indigo.600}"
+        "value": "{base.color.primary.600}"
       },
       "brand-subtle": {
         "type": "color",
-        "value": "{core.color.indigo.300}"
+        "value": "{base.color.primary.300}"
       },
       "promo": {
         "type": "color",
-        "value": "{core.color.indigo.600}"
+        "value": "{base.color.primary.600}"
       },
       "focus": {
         "type": "color",
-        "value": "{core.color.indigo.600}",
+        "value": "{base.color.primary.600}",
         "description": "Use for focus rings of elements in a focus state."
       }
     },
@@ -341,15 +359,34 @@
         "type": "color"
       },
       "bg-hovered": {
-        "value": "{theme.action-primary.bg-hovered}",
-        "type": "color"
+        "value": "{theme.action-promo.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "srgb",
+              "color": "{base.color.modifiers.button.hover-mod}"
+            }
+          }
+        }
       },
       "bg-pressed": {
-        "value": "{theme.action-primary.bg-pressed}",
-        "type": "color"
+        "value": "{theme.action-promo.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "srgb"
+            }
+          }
+        }
       },
       "border": {
-        "value": "{theme.action-primary.border}",
+        "value": "{theme.action-promo.bg}",
         "type": "color"
       },
       "fg": {

@@ -134,7 +134,16 @@
     },
     "subheader": {
       "type": "color",
-      "value": "{base.color.other.purple-gradient}"
+      "value": "{presets.header}",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "lch"
+          }
+        }
+      }
     },
     "controls": {
       "type": "color",
@@ -146,15 +155,9 @@
     }
   },
   "theme": {
-    "action-primary": {
-      "bg": {
-        "value": "{theme.action-success.bg}",
-        "type": "color"
-      }
-    },
     "action-promo": {
       "bg": {
-        "value": "{theme.action-success.bg}",
+        "value": "{base.color.accent.600}",
         "type": "color"
       }
     }
