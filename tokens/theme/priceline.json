@@ -210,28 +210,6 @@
     }
   },
   "theme": {
-    "primary": {
-      "dark": {
-        "type": "color",
-        "value": "{colors.primary.dark}"
-      },
-      "tone": {
-        "type": "color",
-        "value": "{colors.primary.tone}"
-      },
-      "default": {
-        "type": "color",
-        "value": "{colors.primary.base}"
-      },
-      "muted": {
-        "type": "color",
-        "value": "{colors.primary.tint}"
-      },
-      "subtle": {
-        "type": "color",
-        "value": "{colors.primary.light}"
-      }
-    },
     "info": {
       "dark": {
         "type": "color",
@@ -319,30 +297,32 @@
         "type": "color",
         "value": "{colors.error.light}"
       }
-    }
-  },
-  "sys": {
-    "font-family": {
-      "title": {
-        "value": "{font-family.montserrat}",
-        "type": "fontFamilies"
-      },
-      "body": {
-        "value": "{font-family.inter}",
-        "type": "fontFamilies"
+    },
+    "action-primary": {
+      "bg": {
+        "value": "{colors.primary.base}",
+        "type": "color"
       }
-    }
-  },
-  "font-weight": {
-    "semi-bold": {
-      "value": "SemiBold",
-      "type": "fontWeights"
     }
   },
   "font-family": {
     "montserrat": {
       "value": "Montserrat",
       "type": "fontFamilies"
+    },
+    "primary": {
+      "value": "{font-family.montserrat}",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "{font-family.montserrat}",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "semi-bold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
     }
   }
 }

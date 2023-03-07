@@ -628,7 +628,6 @@
       "theme.border.promo": "S:9f29fcb63e95f8493bd68f243372972820c5bad4,",
       "theme.interactive.border": "S:15484604d87b3f82c625ef9bbada669b3f143694,",
       "theme.fg.on-accent": "S:031ce3734859ddf3b1541074a241bd398f76ab01,",
-      "theme.bg.strong": "S:113e0449445d6740a339c0b8dcb3dc21519f5dd5,",
       "theme.interactive.bg": "S:e388f8fa30f651000274e8ce6cd420a15f51b64e,",
       "theme.interactive.bg-hovered": "S:b0e22e203ff69a4c35217ecbb7ef075e3523a34c,",
       "theme.interactive.bg-pressed": "S:12243ea6ea962166ebcb5b8427cb2f06cc1f227e,",
@@ -659,7 +658,8 @@
       "theme.interactive.bg-selected": "S:d8466fd019790bf0641e96f155c68eed38613b70,",
       "theme.bg.highlight": "S:917f802124def08b1e2fe552a6c0760c445bf8d1,",
       "theme.fg.link": "S:d17b25094bff717b91c9492c8b57b877369fe290,",
-      "theme.fg.link-active": "S:0cc76f5e0fab2bb6f78038c4bca5f6de7d6f9ce2,"
+      "theme.fg.link-active": "S:0cc76f5e0fab2bb6f78038c4bca5f6de7d6f9ce2,",
+      "theme.bg.strong": "S:113e0449445d6740a339c0b8dcb3dc21519f5dd5,"
     }
   },
   {
@@ -679,6 +679,26 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/ovago": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4774e58738d3b52dd250acbc09d7cd5f4749e894",
+    "name": "Priceline",
+    "selectedTokenSets": {
+      "core": "source",
+      "semantic/base-colors": "source",
+      "semantic/base-fonts": "enabled",
+      "semantic/theme": "enabled",
+      "component/button": "source",
+      "component/icon-button": "source",
+      "component/text-input": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/badge": "source",
+      "component/alert": "source",
+      "theme/priceline": "enabled"
     },
     "$figmaStyleReferences": {}
   }

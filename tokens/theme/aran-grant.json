@@ -40,85 +40,85 @@
     },
     "warning": {
       "100": {
-        "value": "{base.primary.100}",
+        "value": "{base.color.primary.100}",
         "type": "color"
       },
       "200": {
-        "value": "{base.primary.200}",
+        "value": "{base.color.primary.200}",
         "type": "color"
       },
       "300": {
-        "value": "{base.primary.300}",
+        "value": "{base.color.primary.300}",
         "type": "color"
       },
       "400": {
-        "value": "{base.primary.400}",
+        "value": "{base.color.primary.400}",
         "type": "color"
       },
       "500": {
-        "value": "{base.primary.500}",
+        "value": "{base.color.primary.500}",
         "type": "color"
       },
       "600": {
-        "value": "{base.primary.600}",
+        "value": "{base.color.primary.600}",
         "type": "color"
       },
       "700": {
-        "value": "{base.primary.700}",
+        "value": "{base.color.primary.700}",
         "type": "color"
       },
       "800": {
-        "value": "{base.primary.800}",
+        "value": "{base.color.primary.800}",
         "type": "color"
       },
       "900": {
-        "value": "{base.primary.900}",
+        "value": "{base.color.primary.900}",
         "type": "color"
       }
     },
     "neutral": {
       "100": {
-        "value": "{colors.dolphin.100}",
+        "value": "{core.color.dolphin.100}",
         "type": "color"
       },
       "200": {
-        "value": "{colors.dolphin.200}",
+        "value": "{core.color.dolphin.200}",
         "type": "color"
       },
       "300": {
-        "value": "{colors.dolphin.300}",
+        "value": "{core.color.dolphin.300}",
         "type": "color"
       },
       "400": {
-        "value": "{colors.dolphin.400}",
+        "value": "{core.color.dolphin.400}",
         "type": "color"
       },
       "500": {
-        "value": "{colors.dolphin.500}",
+        "value": "{core.color.dolphin.500}",
         "type": "color"
       },
       "600": {
-        "value": "{colors.dolphin.600}",
+        "value": "{core.color.dolphin.600}",
         "type": "color"
       },
       "700": {
-        "value": "{colors.dolphin.700}",
+        "value": "{core.color.dolphin.700}",
         "type": "color"
       },
       "800": {
-        "value": "{colors.dolphin.800}",
+        "value": "{core.color.dolphin.800}",
         "type": "color"
       },
       "900": {
-        "value": "{colors.dolphin.900}",
+        "value": "{core.color.dolphin.900}",
         "type": "color"
       },
       "1000": {
-        "value": "{colors.dolphin.1000}",
+        "value": "{core.color.dolphin.1000}",
         "type": "color"
       },
       "1100": {
-        "value": "{colors.dolphin.1100}",
+        "value": "{core.color.dolphin.1100}",
         "type": "color"
       }
     },
@@ -128,24 +128,24 @@
         "type": "color"
       },
       "gradient-neutral": {
-        "value": "linear-gradient(220deg,  {base.neutral.900} 0%,  {base.neutral.900} 100%)",
+        "value": "linear-gradient(220deg,  {base.color.neutral.900} 0%,  {base.color.neutral.900} 100%)",
         "type": "color"
       },
       "transparent-80": {
-        "value": "rgba({base.neutral.900}, {opacity.1000})",
+        "value": "rgba({base.color.neutral.900}, {core.opacity.1000})",
         "type": "color",
         "description": "Transparent bar"
       },
       "bottom-to-top-40": {
-        "value": "linear-gradient(180deg, rgba({base.neutral.800}, 0) 0%, rgba({base.neutral.800}, 0.4) 100%)",
+        "value": "linear-gradient(180deg, rgba({base.color.neutral.800}, 0) 0%, rgba({base.color.neutral.800}, 0.4) 100%)",
         "type": "color"
       },
       "bottom-to-top-80": {
-        "value": "linear-gradient(180deg, rgba({base.neutral.800}, 0) 0%, rgba({base.neutral.800}, 0.6) 40%, rgba({base.neutral.800}, 0.8) 100%)",
+        "value": "linear-gradient(180deg, rgba({base.color.neutral.800}, 0) 0%, rgba({base.color.neutral.800}, 0.6) 40%, rgba({base.color.neutral.800}, 0.8) 100%)",
         "type": "color"
       },
       "white-to-apricot": {
-        "value": "linear-gradient(90deg, rgba({base.primary.600}, 0) 0%, {base.primary.600} 100%)",
+        "value": "linear-gradient(90deg, rgba({base.color.primary.600}, 0) 0%, {base.color.primary.600} 100%)",
         "type": "color"
       }
     }
@@ -153,19 +153,19 @@
   "presets": {
     "header": {
       "type": "color",
-      "value": "{base.neutral.900}"
+      "value": "{base.color.neutral.900}"
     },
     "subheader": {
       "type": "color",
-      "value": "{base.neutral.800}"
+      "value": "{base.color.neutral.800}"
     },
     "footer": {
       "type": "color",
-      "value": "{base.neutral.900}"
+      "value": "{base.color.neutral.900}"
     },
     "controls": {
       "type": "color",
-      "value": "{base.neutral.900}"
+      "value": "{base.color.neutral.900}"
     }
   },
   "font-family": {

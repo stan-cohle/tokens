@@ -40,77 +40,77 @@
     },
     "success": {
       "100": {
-        "value": "{base.primary.100}",
+        "value": "{base.color.primary.100}",
         "type": "color"
       },
       "200": {
-        "value": "{base.primary.200}",
+        "value": "{base.color.primary.200}",
         "type": "color"
       },
       "300": {
-        "value": "{base.primary.300}",
+        "value": "{base.color.primary.300}",
         "type": "color"
       },
       "400": {
-        "value": "{base.primary.400}",
+        "value": "{base.color.primary.400}",
         "type": "color"
       },
       "500": {
-        "value": "{base.primary.500}",
+        "value": "{base.color.primary.500}",
         "type": "color"
       },
       "600": {
-        "value": "{base.primary.600}",
+        "value": "{base.color.primary.600}",
         "type": "color"
       },
       "700": {
-        "value": "{base.primary.700}",
+        "value": "{base.color.primary.700}",
         "type": "color"
       },
       "800": {
-        "value": "{base.primary.800}",
+        "value": "{base.color.primary.800}",
         "type": "color"
       },
       "900": {
-        "value": "{base.primary.900}",
+        "value": "{base.color.primary.900}",
         "type": "color"
       }
     },
     "accent": {
       "100": {
-        "value": "{base.info.100}",
+        "value": "{base.color.info.100}",
         "type": "color"
       },
       "200": {
-        "value": "{base.info.200}",
+        "value": "{base.color.info.200}",
         "type": "color"
       },
       "300": {
-        "value": "{base.info.300}",
+        "value": "{base.color.info.300}",
         "type": "color"
       },
       "400": {
-        "value": "{base.info.400}",
+        "value": "{base.color.info.400}",
         "type": "color"
       },
       "500": {
-        "value": "{base.info.500}",
+        "value": "{base.color.info.500}",
         "type": "color"
       },
       "600": {
-        "value": "{base.info.600}",
+        "value": "{base.color.info.600}",
         "type": "color"
       },
       "700": {
-        "value": "{base.info.700}",
+        "value": "{base.color.info.700}",
         "type": "color"
       },
       "800": {
-        "value": "{base.info.800}",
+        "value": "{base.color.info.800}",
         "type": "color"
       },
       "900": {
-        "value": "{base.info.900}",
+        "value": "{base.color.info.900}",
         "type": "color"
       }
     }
