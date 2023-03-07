@@ -188,17 +188,35 @@
     },
     "border": {
       "default": {
-        "value": "{base.color.neutral.300}",
+        "value": "{theme.border.strong}",
         "type": "color",
-        "description": "default border"
+        "description": "default border",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       },
       "muted": {
-        "value": "{base.color.neutral.200}",
+        "value": "{theme.border.strong}",
         "type": "color",
-        "description": "used for dividers to emphasize the separation between items, columns or sections."
+        "description": "used for dividers to emphasize the separation between items, columns or sections.",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "lch"
+            }
+          }
+        }
       },
       "strong": {
-        "value": "{base.color.neutral.500}",
+        "value": "{base.color.neutral.600}",
         "type": "color"
       },
       "inversed": {
