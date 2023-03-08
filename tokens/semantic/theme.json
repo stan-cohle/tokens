@@ -278,11 +278,6 @@
       "promo": {
         "type": "color",
         "value": "{base.color.primary.600}"
-      },
-      "focus": {
-        "type": "color",
-        "value": "{base.color.primary.600}",
-        "description": "Use for focus rings of elements in a focus state."
       }
     },
     "interactive": {
@@ -369,6 +364,59 @@
       "fg": {
         "value": "{theme.fg.on-accent}",
         "type": "color"
+      }
+    },
+    "input": {
+      "bg-clear": {
+        "type": "color",
+        "value": "{theme.bg.default}"
+      },
+      "bg-cloudy": {
+        "type": "color",
+        "value": "{theme.bg.muted}"
+      },
+      "bg-disabled": {
+        "type": "color",
+        "value": "{theme.bg.inset}"
+      },
+      "border-default": {
+        "value": "{theme.border.strong}",
+        "type": "color",
+        "description": "default border",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "border-hovered": {
+        "value": "{theme.border.strong}",
+        "type": "color",
+        "description": "default border"
+      },
+      "border-focused": {
+        "value": "{base.color.primary.600}",
+        "type": "color",
+        "description": "default border"
+      },
+      "border-error": {
+        "value": "{theme.border.danger}",
+        "type": "color",
+        "description": "default border"
+      },
+      "fg-placeholder": {
+        "value": "{theme.fg.disabled}",
+        "type": "color",
+        "description": "place holder/ disabled text"
+      },
+      "fg-default": {
+        "value": "{theme.fg.default}",
+        "type": "color",
+        "description": "place holder/ disabled text"
       }
     },
     "action-promo": {
@@ -529,18 +577,8 @@
         }
       },
       "border": {
-        "value": "{theme.bg.danger-subtle}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "mix",
-              "value": "{base.color.modifiers.mix-delta}",
-              "space": "lch",
-              "color": "{theme.bg.danger}"
-            }
-          }
-        }
+        "value": "{theme.border.muted}",
+        "type": "color"
       },
       "fg": {
         "value": "{theme.bg.danger}",
@@ -577,6 +615,10 @@
             }
           }
         }
+      },
+      "border": {
+        "value": "{theme.action-success.bg}",
+        "type": "color"
       },
       "fg": {
         "value": "{theme.fg.on-accent}",
