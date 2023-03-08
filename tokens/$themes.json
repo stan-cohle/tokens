@@ -594,7 +594,6 @@
       "theme.fg.success": "S:889d2ddfdda467f1d5b82a6002f558f9d60835b4,",
       "theme.fg.warning": "S:08ae2ca3af0771f6773f343d724a8ebdbad0d699,",
       "theme.fg.danger": "S:9d682e61f07fe65f144473a7fdeacc1472103858,",
-      "theme.fg.promo": "S:d49884c26f4c016b0d0eb64eb68cfe31adbed3e1,",
       "theme.bg.default": "S:a9206951f97bca26ad7c8e88b8794d28870ceea7,",
       "theme.bg.muted": "S:3d11220267ef886a6e8820040487364bdded33e5,",
       "theme.bg.inset": "S:5b28eda54c491e72c28b3a01b0c2779d082b9725,",
@@ -624,7 +623,6 @@
       "theme.border.danger-subtle": "S:c0998136010bdaf421d5fe3f3c189ceb79d4af05,",
       "theme.border.info": "S:893269173bb6db8feb15c52c3eadcb9492dbbff7,",
       "theme.border.info-subtle": "S:36316c206edc1405e3ba1ce3f5d74d0fcb44fe57,",
-      "theme.border.promo": "S:f04636a5e8003efba82e1897e384c080cca8cbc2,",
       "theme.interactive.border": "S:3c8f3813b0fc97860596deeddb9ef2269c07a5af,",
       "theme.fg.on-accent": "S:f9d8c7c34314bfe38c129be4936291fb09b0ea81,",
       "theme.interactive.bg": "S:6a3e60c877f69a63851bb06409e44a68d5741062,",
@@ -648,7 +646,6 @@
       "theme.action-success.fg": "S:836f31a5b5eaa83c3b65a0d5c4eb55f56eff76d9,",
       "theme.action-default.bg": "S:034bf00cc2122ebf98fc55f014b887879e0f79e7,",
       "theme.action-default.fg": "S:39efc7b7fc37aa262111bad2b855af976cefd45c,",
-      "theme.bg.promo": "S:3a79c1043ca7dc9cbac4107e11b1b3ef552309d5,",
       "theme.bg.promo-subtle": "S:a8764d5870ad0fa66f89e8c68589517e85c2da6c,",
       "theme.action-secondary.bg": "S:1367496a86ebfb61c6e9b5803b92f389e2cf2c5b,",
       "theme.action-default.border": "S:441dee3d650277342c31724b76f18516d19a3b37,",
@@ -688,7 +685,10 @@
       "theme.action-success.border": "S:d53df58bf6c1a3946f2933c21047c8e9640ac96a,",
       "theme.bg.strong": "S:ea62903c08f35ad5aab05755334801e86e395c9a,",
       "theme.action-secondary.border-hovered": "S:ff6bab661bb2b0addc63643d33a32625cab2ec03,",
-      "theme.action-tertiary.border-hovered": "S:766d670764f4efe6d80a9b99de03d4776f31f10a,"
+      "theme.action-tertiary.border-hovered": "S:766d670764f4efe6d80a9b99de03d4776f31f10a,",
+      "theme.bg.accent": "S:3a79c1043ca7dc9cbac4107e11b1b3ef552309d5,",
+      "theme.border.accent": "S:f04636a5e8003efba82e1897e384c080cca8cbc2,",
+      "theme.fg.accent": "S:d49884c26f4c016b0d0eb64eb68cfe31adbed3e1,"
     }
   },
   {
