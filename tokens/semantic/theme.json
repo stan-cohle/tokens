@@ -1169,5 +1169,31 @@
       "value": "{base.color.neutral.1100}",
       "type": "color"
     }
+  },
+  "project": {
+    "brand": {
+      "value": "{base.color.primary.600}",
+      "type": "color"
+    },
+    "accent": {
+      "value": "{project.brand}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{base.color.success.600}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{base.color.warning.600}",
+      "type": "color"
+    },
+    "danger": {
+      "value": "{base.color.danger.600}",
+      "type": "color"
+    },
+    "info": {
+      "value": "{base.color.info.600}",
+      "type": "color"
+    }
   }
 }
