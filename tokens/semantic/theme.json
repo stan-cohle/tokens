@@ -326,46 +326,6 @@
         "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
       }
     },
-    "action-primary": {
-      "bg": {
-        "value": "{theme.bg.brand}",
-        "type": "color"
-      },
-      "bg-hovered": {
-        "value": "{theme.action-primary.bg}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "bg-pressed": {
-        "value": "{theme.action-primary.bg}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "border": {
-        "value": "{theme.action-primary.bg}",
-        "type": "color"
-      },
-      "fg": {
-        "value": "{theme.fg.on-accent}",
-        "type": "color"
-      }
-    },
     "input": {
       "bg-clear": {
         "type": "color",
@@ -417,6 +377,46 @@
         "value": "{theme.fg.default}",
         "type": "color",
         "description": "place holder/ disabled text"
+      }
+    },
+    "action-primary": {
+      "bg": {
+        "value": "{theme.bg.brand}",
+        "type": "color"
+      },
+      "bg-hovered": {
+        "value": "{theme.action-primary.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "bg-pressed": {
+        "value": "{theme.action-primary.bg}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "border": {
+        "value": "{theme.action-primary.bg}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{theme.fg.on-accent}",
+        "type": "color"
       }
     },
     "action-promo": {
