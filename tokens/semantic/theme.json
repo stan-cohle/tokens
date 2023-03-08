@@ -22,7 +22,7 @@
         "value": "{base.color.neutral.100}"
       },
       "strong": {
-        "value": "{base.color.neutral.500}",
+        "value": "{base.color.neutral.700}",
         "type": "color"
       },
       "inversed": {
@@ -347,6 +347,10 @@
       "bg-cloudy": {
         "type": "color",
         "value": "{theme.bg.muted}"
+      },
+      "bg-canvas": {
+        "type": "color",
+        "value": "{base.color.neutral.500}"
       },
       "bg-disabled": {
         "type": "color",
