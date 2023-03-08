@@ -657,7 +657,6 @@
       "theme.bg.highlight": "S:4d71626dd67c347ca41f15767c25b67e019538a6,",
       "theme.fg.link": "S:fc6cb5a7492557aada71ff4b020049ccdcd6e8c9,",
       "theme.fg.link-active": "S:bb75af93ab6090c9717d9bad87f6827b4a0b43f6,",
-      "theme.bg.neutral": "S:df3af2e51a132ac7ac88cf575e62ebfca0ad860e,",
       "theme.bg.info": "S:baf62d6ee08f397a5edc7d6bfc9c4592ad884618,",
       "theme.interactive.fg": "S:7c36691c071e518f1f5d9af9542c4203b4bd9555,",
       "theme.action-primary.border": "S:6923a4b81abdcfbb9b79963f26a7447566342dd9,",
@@ -686,7 +685,8 @@
       "theme.input.border-error": "S:df26f1fa7d151bb6db6b168451379d89299fe8e9,",
       "theme.input.fg-placeholder": "S:9c29471597dce7ca6b8b3c9a0355fbb81be91294,",
       "theme.input.fg-default": "S:bcb243ad43424663b0b2d49c687b36b5ac3a18f8,",
-      "theme.action-success.border": "S:d53df58bf6c1a3946f2933c21047c8e9640ac96a,"
+      "theme.action-success.border": "S:d53df58bf6c1a3946f2933c21047c8e9640ac96a,",
+      "theme.bg.strong": "S:df3af2e51a132ac7ac88cf575e62ebfca0ad860e,"
     }
   },
   {
