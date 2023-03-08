@@ -686,7 +686,9 @@
       "theme.input.fg-placeholder": "S:9c29471597dce7ca6b8b3c9a0355fbb81be91294,",
       "theme.input.fg-default": "S:bcb243ad43424663b0b2d49c687b36b5ac3a18f8,",
       "theme.action-success.border": "S:d53df58bf6c1a3946f2933c21047c8e9640ac96a,",
-      "theme.bg.strong": "S:df3af2e51a132ac7ac88cf575e62ebfca0ad860e,"
+      "theme.bg.strong": "S:ea62903c08f35ad5aab05755334801e86e395c9a,",
+      "theme.action-secondary.border-hovered": "S:ff6bab661bb2b0addc63643d33a32625cab2ec03,",
+      "theme.action-tertiary.border-hovered": "S:766d670764f4efe6d80a9b99de03d4776f31f10a,"
     }
   },
   {

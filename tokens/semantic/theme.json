@@ -22,7 +22,7 @@
         "value": "{base.color.neutral.100}"
       },
       "strong": {
-        "value": "{base.color.neutral.600}",
+        "value": "{base.color.neutral.500}",
         "type": "color"
       },
       "inversed": {
@@ -138,6 +138,19 @@
       "strong-inversed": {
         "value": "rgba({base.color.white}, {core.opacity.1000})",
         "type": "color"
+      },
+      "weak-inversed": {
+        "value": "{base.color.white}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.600}",
+              "space": "srgb"
+            }
+          }
+        }
       },
       "on-accent": {
         "value": "{base.color.white}",
