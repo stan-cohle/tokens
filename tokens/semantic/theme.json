@@ -62,7 +62,7 @@
         "type": "color"
       },
       "neutral": {
-        "value": "{base.color.neutral.700}",
+        "value": "{base.color.neutral.800}",
         "type": "color"
       },
       "brand": {
@@ -455,7 +455,7 @@
         }
       },
       "border": {
-        "value": "{theme.border.default}",
+        "value": "{theme.border.muted}",
         "type": "color"
       },
       "fg": {
@@ -507,37 +507,43 @@
     },
     "action-danger": {
       "bg": {
-        "value": "{theme.bg.danger}",
+        "value": "{theme.action-secondary.bg}",
         "type": "color"
       },
       "bg-hovered": {
-        "value": "{theme.action-danger.bg}",
+        "value": "{theme.bg.danger-subtle}",
+        "type": "color"
+      },
+      "bg-pressed": {
+        "value": "{theme.bg.danger-subtle}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
-              "space": "hsl"
+              "type": "mix",
+              "value": "{base.color.modifiers.mix-delta}",
+              "space": "lch",
+              "color": "{theme.bg.danger}"
             }
           }
         }
       },
-      "bg-pressed": {
-        "value": "{theme.action-danger.bg}",
+      "border": {
+        "value": "{theme.bg.danger-subtle}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "hsl"
+              "type": "mix",
+              "value": "{base.color.modifiers.mix-delta}",
+              "space": "lch",
+              "color": "{theme.bg.danger}"
             }
           }
         }
       },
       "fg": {
-        "value": "{theme.fg.on-accent}",
+        "value": "{theme.bg.danger}",
         "type": "color"
       }
     },
