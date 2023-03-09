@@ -656,7 +656,6 @@
       "theme.input.border-error": "S:88c6af1a1058f70e2ff5e091ee944bdefc5c7b98,",
       "theme.input.fg-placeholder": "S:8e32ce1bcfa4315f2848c9d64361585fc1532f09,",
       "theme.input.fg-default": "S:4634b0928504995d537dbc05ec3ec6c7f74c457f,",
-      "theme.bg.strong": "S:237159e3bf171c73cff2f230ceb1cedba67a02b2,",
       "theme.bg.accent": "S:c266a894dc3f496f2fad2e37d20af0a5b28cf248,",
       "theme.border.accent": "S:dbacca6019c09727ab1da012de67ca95d9021e4b,",
       "theme.fg.accent": "S:7f6db8c46af8d694d49c248079051c4e4b3e937f,",
@@ -693,7 +692,8 @@
       "theme.action-accent.bg-default": "S:6115617edc7c0cad4318b4c4daf9c9d79662c784,",
       "theme.action-primary.bg-default": "S:71eb2ed155226dcf5fbf6144428558f3a7940c7e,",
       "theme.input.bg-default": "S:87453f05e20e636c68b15b987f65fec6edddb16f,",
-      "theme.interactive.bg-default": "S:3504557f8e934a0364308ea8286c03a211841bea,"
+      "theme.interactive.bg-default": "S:3504557f8e934a0364308ea8286c03a211841bea,",
+      "theme.utility.neutral": "S:237159e3bf171c73cff2f230ceb1cedba67a02b2,"
     }
   },
   {

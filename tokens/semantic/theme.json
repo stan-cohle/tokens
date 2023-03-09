@@ -21,10 +21,6 @@
         "type": "color",
         "value": "{base.color.neutral.100}"
       },
-      "strong": {
-        "value": "{base.color.neutral.700}",
-        "type": "color"
-      },
       "inversed": {
         "type": "color",
         "value": "{base.color.neutral.1000}"
@@ -533,12 +529,12 @@
     "action-secondary": {
       "bg-default": {
         "type": "color",
-        "value": "{theme.bg.strong}",
+        "value": "{theme.utility.neutral}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{core.opacity.150}",
+              "value": "{core.opacity.100}",
               "space": "hsl"
             }
           }
@@ -551,9 +547,9 @@
           "studio.tokens": {
             "modify": {
               "type": "mix",
-              "value": "0.1",
+              "value": "{base.color.modifiers.button.hover-mod}",
               "space": "srgb",
-              "color": "{theme.fg.default}"
+              "color": "{theme.utility.neutral}"
             }
           }
         }
@@ -565,9 +561,9 @@
           "studio.tokens": {
             "modify": {
               "type": "mix",
-              "value": "0.2",
+              "value": "{base.color.modifiers.button.pressed-mod}",
               "space": "srgb",
-              "color": "{theme.fg.default}"
+              "color": "{theme.utility.neutral}"
             }
           }
         }
@@ -592,17 +588,7 @@
       },
       "bg-hover": {
         "type": "color",
-        "value": "{theme.action-secondary.bg-default}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "mix",
-              "value": "0.1",
-              "space": "srgb",
-              "color": "{theme.fg.default}"
-            }
-          }
-        }
+        "value": "{theme.action-secondary.bg-default}"
       },
       "bg-active": {
         "type": "color",
@@ -662,6 +648,10 @@
       },
       "info": {
         "value": "{base.color.info.600}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{base.color.neutral.700}",
         "type": "color"
       }
     }
