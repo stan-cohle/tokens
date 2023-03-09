@@ -430,7 +430,7 @@
     },
     "action-accent": {
       "bg-default": {
-        "value": "{theme.action-primary.bg-default}",
+        "value": "{theme.bg.accent}",
         "type": "color"
       },
       "bg-hover": {
