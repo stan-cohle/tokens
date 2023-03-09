@@ -159,7 +159,7 @@
       },
       "success": {
         "type": "color",
-        "value": "{base.color.success.600}"
+        "value": "{theme.utility.success}"
       },
       "warning": {
         "type": "color",
@@ -167,15 +167,15 @@
       },
       "danger": {
         "type": "color",
-        "value": "{base.color.danger.600}"
+        "value": "{theme.utility.danger}"
       },
       "info": {
         "type": "color",
-        "value": "{base.color.info.600}"
+        "value": "{theme.utility.info}"
       },
       "brand": {
         "type": "color",
-        "value": "{base.color.primary.600}"
+        "value": "{theme.utility.brand}"
       },
       "accent": {
         "type": "color",
@@ -246,7 +246,7 @@
       },
       "success": {
         "type": "color",
-        "value": "{base.color.success.600}"
+        "value": "{theme.utility.success}"
       },
       "success-subtle": {
         "type": "color",
@@ -255,7 +255,7 @@
       },
       "warning": {
         "type": "color",
-        "value": "{base.color.warning.600}"
+        "value": "{theme.utility.warning}"
       },
       "warning-subtle": {
         "type": "color",
@@ -264,7 +264,7 @@
       },
       "danger": {
         "type": "color",
-        "value": "{base.color.danger.600}",
+        "value": "{theme.utility.danger}",
         "description": "Use for borders communicating critical information, such as the borders on invalid text fields."
       },
       "danger-subtle": {
@@ -274,7 +274,7 @@
       },
       "info": {
         "type": "color",
-        "value": "{base.color.info.600}"
+        "value": "{theme.utility.info}"
       },
       "info-subtle": {
         "type": "color",
@@ -282,7 +282,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{base.color.primary.600}"
+        "value": "{theme.utility.brand}"
       },
       "brand-subtle": {
         "type": "color",
@@ -376,7 +376,7 @@
         "description": "default border"
       },
       "border-focused": {
-        "value": "{base.color.primary.600}",
+        "value": "{theme.border.brand}",
         "type": "color",
         "description": "default border"
       },
