@@ -103,6 +103,10 @@
             }
           }
         }
+      },
+      "neutral": {
+        "value": "{base.color.neutral.800}",
+        "type": "color"
       }
     },
     "fg": {

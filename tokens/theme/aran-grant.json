@@ -258,6 +258,20 @@
         "value": "{base.color.primary.600}",
         "type": "color"
       }
+    },
+    "interactive": {
+      "bg-default": {
+        "value": "{theme.bg.inversed}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{theme.bg.inversed}",
+        "type": "color"
+      },
+      "bg-selected": {
+        "value": "{theme.bg.inset}",
+        "type": "color"
+      }
     }
   }
 }
