@@ -592,17 +592,7 @@
       },
       "bg-active": {
         "type": "color",
-        "value": "{theme.action-secondary.bg-default}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "mix",
-              "value": "0.2",
-              "space": "srgb",
-              "color": "{theme.fg.default}"
-            }
-          }
-        }
+        "value": "{theme.action-secondary.bg-hover}"
       },
       "border": {
         "value": "{theme.utility.transparent}",
