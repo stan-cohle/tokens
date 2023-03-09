@@ -247,7 +247,7 @@
   "theme": {
     "action-primary": {
       "bg": {
-        "value": "{theme.action-success.bg}",
+        "value": "{theme.action-success.bg-default}",
         "type": "color"
       }
     }
