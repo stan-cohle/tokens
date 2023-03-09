@@ -430,14 +430,6 @@
             }
           }
         }
-      },
-      "border": {
-        "value": "{theme.action-primary.bg-default}",
-        "type": "color"
-      },
-      "fg": {
-        "value": "{theme.fg.on-accent}",
-        "type": "color"
       }
     },
     "action-accent": {
@@ -471,14 +463,71 @@
             }
           }
         }
-      },
-      "border": {
-        "value": "{theme.action-accent.bg-default}",
+      }
+    },
+    "action-success": {
+      "bg-default": {
+        "value": "{theme.bg.success}",
         "type": "color"
       },
-      "fg": {
-        "value": "{theme.action-primary.fg}",
+      "bg-hover": {
+        "value": "{theme.action-success.bg-default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "bg-active": {
+        "value": "{theme.action-success.bg-default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      }
+    },
+    "action-danger": {
+      "bg-default": {
+        "value": "{theme.bg.danger}",
         "type": "color"
+      },
+      "bg-hover": {
+        "value": "{theme.bg.danger}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.button.hover-mod}",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "bg-active": {
+        "value": "{theme.bg.danger}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "mix",
+              "value": "{base.color.modifiers.button.pressed-mod}",
+              "space": "srgb",
+              "color": "{theme.bg.danger}"
+            }
+          }
+        }
       }
     },
     "action-secondary": {
@@ -580,87 +629,6 @@
       "fg": {
         "type": "color",
         "value": "{theme.fg.default}"
-      }
-    },
-    "action-danger": {
-      "bg-default": {
-        "value": "{theme.bg.danger}",
-        "type": "color"
-      },
-      "bg-hover": {
-        "value": "{theme.bg.danger}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "bg-active": {
-        "value": "{theme.bg.danger}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "mix",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "srgb",
-              "color": "{theme.bg.danger}"
-            }
-          }
-        }
-      },
-      "border": {
-        "value": "{theme.action-danger.bg-default}",
-        "type": "color"
-      },
-      "fg": {
-        "value": "{theme.fg.on-accent}",
-        "type": "color"
-      }
-    },
-    "action-success": {
-      "bg-default": {
-        "value": "{theme.bg.success}",
-        "type": "color"
-      },
-      "bg-hover": {
-        "value": "{theme.action-success.bg-default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "bg-active": {
-        "value": "{theme.action-success.bg-default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "border": {
-        "value": "{theme.action-success.bg-default}",
-        "type": "color"
-      },
-      "fg": {
-        "value": "{theme.fg.on-accent}",
-        "type": "color"
       }
     },
     "utility": {
