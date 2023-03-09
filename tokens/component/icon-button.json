@@ -2,51 +2,51 @@
   "icon-button": {
     "x-small": {
       "icon-size": {
-        "value": "{semantic.size.icon.small}",
+        "value": "{theme.size.icon.small}",
         "type": "sizing"
       },
       "size": {
-        "value": "{semantic.size.component.x-small}",
+        "value": "{theme.size.component.x-small}",
         "type": "sizing"
       }
     },
     "small": {
       "icon-size": {
-        "value": "{semantic.size.icon.medium}",
+        "value": "{theme.size.icon.medium}",
         "type": "sizing"
       },
       "size": {
-        "value": "{semantic.size.component.small}",
+        "value": "{theme.size.component.small}",
         "type": "sizing"
       }
     },
     "medium": {
       "icon-size": {
-        "value": "{semantic.size.icon.large}",
+        "value": "{theme.size.icon.large}",
         "type": "sizing"
       },
       "size": {
-        "value": "{semantic.size.component.medium}",
+        "value": "{theme.size.component.medium}",
         "type": "sizing"
       }
     },
     "large": {
       "icon-size": {
-        "value": "{semantic.size.icon.large}",
+        "value": "{theme.size.icon.large}",
         "type": "sizing"
       },
       "size": {
-        "value": "{semantic.size.component.large}",
+        "value": "{theme.size.component.large}",
         "type": "sizing"
       }
     },
     "x-large": {
       "icon-size": {
-        "value": "{semantic.size.icon.large}",
+        "value": "{theme.size.icon.large}",
         "type": "sizing"
       },
       "size": {
-        "value": "{semantic.size.component.x-large}",
+        "value": "{theme.size.component.x-large}",
         "type": "sizing"
       }
     }

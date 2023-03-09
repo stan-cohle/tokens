@@ -10,20 +10,20 @@
       },
       "shape": {
         "value": {
-          "sizing": "{semantic.size.icon.small}",
-          "borderRadius": "{semantic.border-radius.softly-rounded}",
+          "sizing": "{theme.size.icon.small}",
+          "borderRadius": "{theme.border-radius.softly-rounded}",
           "borderWidth": "1.68"
         },
         "type": "composition"
       },
       "icon": {
         "value": {
-          "sizing": "{semantic.size.icon.medium}"
+          "sizing": "{theme.size.icon.medium}"
         },
         "type": "composition"
       },
       "space-between": {
-        "value": "{semantic.spacing.small}",
+        "value": "{theme.spacing.small}",
         "type": "spacing"
       }
     },
@@ -37,20 +37,20 @@
       },
       "shape": {
         "value": {
-          "sizing": "{semantic.size.icon.medium}",
-          "borderRadius": "{semantic.border-radius.softly-rounded}",
+          "sizing": "{theme.size.icon.medium}",
+          "borderRadius": "{theme.border-radius.softly-rounded}",
           "borderWidth": "2"
         },
         "type": "composition"
       },
       "icon": {
         "value": {
-          "sizing": "{semantic.size.icon.large}"
+          "sizing": "{theme.size.icon.large}"
         },
         "type": "composition"
       },
       "space-between": {
-        "value": "{semantic.spacing.small}",
+        "value": "{theme.spacing.small}",
         "type": "spacing"
       }
     }

@@ -1,7 +1,7 @@
 {
   "badge": {
     "space-between": {
-      "value": "{semantic.spacing.x-small}",
+      "value": "{theme.spacing.x-small}",
       "type": "spacing"
     },
     "no-space": {
@@ -9,16 +9,16 @@
       "type": "spacing"
     },
     "icon-size": {
-      "value": "{semantic.size.icon.small}",
+      "value": "{theme.size.icon.small}",
       "type": "sizing"
     },
     "shape": {
       "brick": {
-        "value": "{semantic.border-radius.softly-rounded}",
+        "value": "{theme.border-radius.softly-rounded}",
         "type": "borderRadius"
       },
       "pill": {
-        "value": "{semantic.border-radius.pill}",
+        "value": "{theme.border-radius.pill}",
         "type": "borderRadius"
       }
     },
@@ -34,7 +34,7 @@
         }
       },
       "height": {
-        "value": "{semantic.size.component.xx-small}",
+        "value": "{theme.size.component.xx-small}",
         "type": "sizing"
       },
       "typo": {
@@ -60,7 +60,7 @@
     },
     "medium": {
       "height": {
-        "value": "{semantic.size.component.x-small}",
+        "value": "{theme.size.component.x-small}",
         "type": "sizing"
       },
       "with-icon": {

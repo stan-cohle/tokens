@@ -644,9 +644,7 @@
         "value": "{base.color.neutral.700}",
         "type": "color"
       }
-    }
-  },
-  "semantic": {
+    },
     "border-radius": {
       "square": {
         "value": "{core.border-radius.0}",
@@ -803,9 +801,7 @@
         ],
         "type": "boxShadow"
       }
-    }
-  },
-  "typography": {
+    },
     "display": {
       "x-large": {
         "value": "{base.display.xl.semi-bold}",
@@ -947,84 +943,84 @@
         "type": "typography",
         "description": "11 regular"
       }
-    }
-  },
-  "shadow": {
-    "card": {
-      "value": [
-        {
-          "color": "rgba({base.color.neutral.1100}, 0.12)",
-          "type": "dropshadow",
-          "x": "0",
-          "y": "0",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "x": "0",
-          "y": "1",
-          "blur": "3",
-          "spread": "0",
-          "color": "rgba({base.color.neutral.1100}, 0.12)",
-          "type": "dropshadow"
-        }
-      ],
-      "type": "boxShadow"
     },
-    "overlay": {
-      "value": [
-        {
-          "color": "rgba({base.color.neutral.1100}, 0.12)",
-          "type": "dropshadow",
-          "x": "0",
-          "y": "0",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "x": "0",
-          "y": "4",
-          "blur": "8",
-          "spread": "0",
-          "color": "rgba({base.color.neutral.1100}, 0.12)",
-          "type": "dropshadow"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "modal": {
-      "value": [
-        {
-          "color": "rgba({base.color.neutral.1100}, 0.12)",
-          "type": "dropshadow",
-          "x": "0",
-          "y": "0",
-          "blur": "2",
-          "spread": "0"
-        },
-        {
-          "x": "0",
-          "y": "8",
-          "blur": "16",
-          "spread": "0",
-          "color": "rgba({base.color.neutral.1100}, 0.12)",
-          "type": "dropshadow"
-        }
-      ],
-      "type": "boxShadow"
-    },
-    "bottom-sheet": {
-      "value": [
-        {
-          "color": "rgba({base.color.neutral.1100}, 0.12)",
-          "type": "dropshadow",
-          "x": "0",
-          "y": "-16",
-          "blur": "24",
-          "spread": "-8"
-        }
-      ],
-      "type": "boxShadow"
+    "shadow": {
+      "card": {
+        "value": [
+          {
+            "color": "rgba({base.color.neutral.1100}, 0.12)",
+            "type": "dropshadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0",
+            "color": "rgba({base.color.neutral.1100}, 0.12)",
+            "type": "dropshadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "overlay": {
+        "value": [
+          {
+            "color": "rgba({base.color.neutral.1100}, 0.12)",
+            "type": "dropshadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba({base.color.neutral.1100}, 0.12)",
+            "type": "dropshadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "modal": {
+        "value": [
+          {
+            "color": "rgba({base.color.neutral.1100}, 0.12)",
+            "type": "dropshadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0",
+            "color": "rgba({base.color.neutral.1100}, 0.12)",
+            "type": "dropshadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "bottom-sheet": {
+        "value": [
+          {
+            "color": "rgba({base.color.neutral.1100}, 0.12)",
+            "type": "dropshadow",
+            "x": "0",
+            "y": "-16",
+            "blur": "24",
+            "spread": "-8"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   },
   "component": {
