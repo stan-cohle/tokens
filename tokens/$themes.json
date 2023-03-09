@@ -625,7 +625,6 @@
       "theme.border.info-subtle": "S:16bd13c4e1de156ffbbce686c02e1637fc07f6fb,",
       "theme.interactive.border": "S:2606cf94a3a3c88e60f34899a736b878d6efaa00,",
       "theme.fg.on-accent": "S:40c1373519c02d2cf4b986ee7061c41ec87bee97,",
-      "theme.interactive.bg": "S:3504557f8e934a0364308ea8286c03a211841bea,",
       "theme.action-primary.fg": "S:092c5c66f30568b99d2e635a60c258dd83de0c1d,",
       "theme.action-secondary.border": "S:47b44f00d612201bc17a8a1f76f73cdb3d949d55,",
       "theme.action-secondary.fg": "S:d3135ca0fec844f18189a0ee45988bf0e16307d0,",
@@ -701,7 +700,8 @@
       "theme.action-tertiary.bg-default": "S:231a657be0d61ea7d5f7ad4c2ffd07a4e36353e3,",
       "theme.action-accent.bg-default": "S:6115617edc7c0cad4318b4c4daf9c9d79662c784,",
       "theme.action-primary.bg-default": "S:71eb2ed155226dcf5fbf6144428558f3a7940c7e,",
-      "theme.input.bg-default": "S:87453f05e20e636c68b15b987f65fec6edddb16f,"
+      "theme.input.bg-default": "S:87453f05e20e636c68b15b987f65fec6edddb16f,",
+      "theme.interactive.bg-default": "S:3504557f8e934a0364308ea8286c03a211841bea,"
     }
   },
   {

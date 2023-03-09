@@ -284,6 +284,10 @@
         "type": "color",
         "value": "{theme.utility.brand}"
       },
+      "focus": {
+        "type": "color",
+        "value": "{theme.utility.brand}"
+      },
       "brand-subtle": {
         "type": "color",
         "value": "{base.color.primary.300}"
@@ -294,13 +298,13 @@
       }
     },
     "interactive": {
-      "bg": {
+      "bg-default": {
         "type": "color",
         "value": "{theme.bg.brand}"
       },
       "bg-hover": {
         "type": "color",
-        "value": "{theme.interactive.bg}",
+        "value": "{theme.interactive.bg-default}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -313,7 +317,7 @@
       },
       "bg-active": {
         "type": "color",
-        "value": "{theme.interactive.bg}",
+        "value": "{theme.interactive.bg-default}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -376,7 +380,7 @@
         "description": "default border"
       },
       "border-focus": {
-        "value": "{theme.border.brand}",
+        "value": "{theme.border.focus}",
         "type": "color",
         "description": "default border"
       },
