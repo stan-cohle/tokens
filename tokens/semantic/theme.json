@@ -306,7 +306,7 @@
             "modify": {
               "type": "darken",
               "value": "{base.color.modifiers.button.hover-mod}",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         }
@@ -319,7 +319,7 @@
             "modify": {
               "type": "darken",
               "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         }
@@ -330,13 +330,11 @@
       },
       "border": {
         "type": "color",
-        "value": "{theme.bg.brand}",
-        "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
+        "value": "{theme.bg.brand}"
       },
       "fg": {
         "type": "color",
-        "value": "{theme.fg.brand}",
-        "description": "Use for borders or visual indicators of elements in a selected or opened state, such as in tabs or menu items."
+        "value": "{theme.fg.brand}"
       }
     },
     "input": {
@@ -474,7 +472,7 @@
             "modify": {
               "type": "darken",
               "value": "{base.color.modifiers.button.hover-mod}",
-              "space": "srgb"
+              "space": "hsl"
             }
           }
         }
@@ -487,7 +485,7 @@
             "modify": {
               "type": "darken",
               "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
+              "space": "hsl"
             }
           }
         }
@@ -517,7 +515,7 @@
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "darken",
+              "type": "mix",
               "value": "{base.color.modifiers.button.pressed-mod}",
               "space": "srgb",
               "color": "{theme.bg.danger}"
