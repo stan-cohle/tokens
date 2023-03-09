@@ -474,7 +474,7 @@
             "modify": {
               "type": "darken",
               "value": "{base.color.modifiers.button.hover-mod}",
-              "space": "hsl"
+              "space": "srgb"
             }
           }
         }
@@ -487,7 +487,7 @@
             "modify": {
               "type": "darken",
               "value": "{base.color.modifiers.button.pressed-mod}",
-              "space": "hsl"
+              "space": "srgb"
             }
           }
         }
@@ -517,7 +517,7 @@
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "mix",
+              "type": "darken",
               "value": "{base.color.modifiers.button.pressed-mod}",
               "space": "srgb",
               "color": "{theme.bg.danger}"
