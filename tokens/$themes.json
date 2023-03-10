@@ -700,11 +700,8 @@
       "theme.input.bg-strong": "S:5767a39606b8a183d0f2f55c7d38c11f0d0c842d,",
       "theme.input.border-hover": "S:3d41d6a4616fa301bb50f2b27f61010f08511e2d,",
       "theme.input.border-focus": "S:3105a50aed3884f7897e93e68fc7168d43de4a0a,",
-      "theme.action-secondary.bg-hover": "S:3c8ab763c195c3626ffbf21facc2fdcf897adeb5,",
-      "theme.action-secondary.bg-active": "S:e4422973998174117fb202ffbead6eb3eadc4f90,",
       "theme.action-tertiary.bg-hover": "S:a51983290781284e6c4d67abcb6528870f40fba9,",
       "theme.action-tertiary.bg-active": "S:db69a3fe3228c92b8b0224a7d50e768597e0b500,",
-      "theme.action-secondary.bg-default": "S:3e04b9b3802958b6fdba13594ec734a5cbfb45ff,",
       "theme.action-tertiary.bg-default": "S:9de81cb28b8d843bfe07de5eecb00ffed61083b8,",
       "theme.input.bg-default": "S:d24ce9c9a1d4fd3b74d2b2c94af4bdcab3a5389f,",
       "theme.utility.neutral": "S:bcde1c60e72dbabe01d2a08230b3e4fdd4c915f4,",
@@ -767,7 +764,10 @@
       "theme.action-success.active": "S:f7f7673213af04d63ca698688ef16147551d9adc,",
       "theme.action-danger.default": "S:be091854e3c0e7aad26fff26152a7015bdd92aec,",
       "theme.action-danger.hover": "S:ae24dc712f424358288dcdabb5236de19aa3a58b,",
-      "theme.action-danger.active": "S:72c784895d791a8402e8cf3264046f609f7bbf12,"
+      "theme.action-danger.active": "S:72c784895d791a8402e8cf3264046f609f7bbf12,",
+      "theme.action-secondary.default": "S:3e04b9b3802958b6fdba13594ec734a5cbfb45ff,",
+      "theme.action-secondary.hover": "S:3c8ab763c195c3626ffbf21facc2fdcf897adeb5,",
+      "theme.action-secondary.active": "S:e4422973998174117fb202ffbead6eb3eadc4f90,"
     }
   },
   {
@@ -888,9 +888,6 @@
       "theme.input.border-error": "S:f6fbc3f25b5b2038dec8ebfd590d8e97eac4c722,",
       "theme.input.fg-placeholder": "S:c17e8bb31c97d08efa3c30ff12be21b8e880d951,",
       "theme.input.fg-default": "S:c3bc0e044b143d2b67fad74a8ebb6943960b368f,",
-      "theme.action-secondary.bg-default": "S:28ffd4a408cfa29978c2ce68483d468ca4551a39,",
-      "theme.action-secondary.bg-hover": "S:adf17b95b5216d81d68150b6f3f87e226cc7fce0,",
-      "theme.action-secondary.bg-active": "S:9b5cad3f20e58a9c3a0b67085e24ff0cd6e1eb1d,",
       "theme.action-tertiary.bg-default": "S:424c6d224b2b108839ccbe26ff7d82186cf15bfa,",
       "theme.action-tertiary.bg-hover": "S:2e5009dc39ca36981ac77016cef9f19fb84d63b7,",
       "theme.action-tertiary.bg-active": "S:5581ab8f1e172dc9ce859b338168919414046268,",
@@ -1104,7 +1101,10 @@
       "theme.bg.info-muted": "S:187909a9d58cd108522e67310a194e6baa2bbd1d,",
       "theme.bg.brand-muted": "S:76f388bce4c6296b9aa53530b904c4a97a5574b7,",
       "theme.bg.accent-muted": "S:8e1449f4706255cc913d07e6030842f447a5b47e,",
-      "theme.bg.neutral": "S:5384fb46138962b6b64bc08939d5fec73babe3d7,"
+      "theme.bg.neutral": "S:5384fb46138962b6b64bc08939d5fec73babe3d7,",
+      "theme.action-secondary.default": "S:28ffd4a408cfa29978c2ce68483d468ca4551a39,",
+      "theme.action-secondary.hover": "S:adf17b95b5216d81d68150b6f3f87e226cc7fce0,",
+      "theme.action-secondary.active": "S:9b5cad3f20e58a9c3a0b67085e24ff0cd6e1eb1d,"
     }
   },
   {
@@ -1259,9 +1259,6 @@
       "theme.action-danger.default": "S:e2adca18d71f023318498dc0973e65b9e112479b,",
       "theme.action-danger.hover": "S:6cbfbdc0a99c098c5a4b857da071d47337fa1949,",
       "theme.action-danger.active": "S:5ab3715e492d69bc9b188a5be0fbbae12263794c,",
-      "theme.action-secondary.bg-default": "S:e65367afccc2b8b010d47ded2064a80a622b3626,",
-      "theme.action-secondary.bg-hover": "S:50ab539ca3c9e6c001040d6657e1061e9d064521,",
-      "theme.action-secondary.bg-active": "S:0fda931371ccd4b0937af54158adf2dbb9d72938,",
       "theme.action-tertiary.bg-default": "S:d7efb730c9f1d4d51b8a43573f2a2b362ec39543,",
       "theme.action-tertiary.bg-hover": "S:db2865d39abe26b209562baf449a1213e67ece98,",
       "theme.action-tertiary.bg-active": "S:b11acdb702db1ba56308c3f6f4d71ca6fd592120,",
@@ -1475,7 +1472,10 @@
       "base.color.success.600": "S:52a97b9c7082157db612f87263f69549cd241f3b,",
       "base.color.success.700": "S:c617f99ec35d0f884e21cbc7936804bb4ac69947,",
       "base.color.success.800": "S:e586efe62f8ff53ed6dbade4b2de7ab286cb15fe,",
-      "base.color.success.900": "S:ab1f85c8bfaa4f581adc7ccec3850b6b7d7712b0,"
+      "base.color.success.900": "S:ab1f85c8bfaa4f581adc7ccec3850b6b7d7712b0,",
+      "theme.action-secondary.default": "S:e65367afccc2b8b010d47ded2064a80a622b3626,",
+      "theme.action-secondary.hover": "S:50ab539ca3c9e6c001040d6657e1061e9d064521,",
+      "theme.action-secondary.active": "S:0fda931371ccd4b0937af54158adf2dbb9d72938,"
     }
   }
 ]
