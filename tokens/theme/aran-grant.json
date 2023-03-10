@@ -249,7 +249,7 @@
   "theme": {
     "action-primary": {
       "bg-default": {
-        "value": "{theme.action-success.bg-default}",
+        "value": "{theme.action-success.default}",
         "type": "color"
       }
     },

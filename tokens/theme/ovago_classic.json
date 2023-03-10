@@ -155,21 +155,25 @@
     }
   },
   "theme": {
-    "action-promo": {
-      "bg": {
+    "utility": {
+      "brand": {
+        "value": "{base.color.primary.600}",
+        "type": "color"
+      },
+      "accent": {
         "value": "{base.color.accent.600}",
         "type": "color"
       }
     },
-    "bg": {
-      "promo": {
-        "value": "{base.color.accent.600}",
+    "action-primary": {
+      "default": {
+        "value": "{theme.action-success.default}",
         "type": "color"
       }
     },
-    "border": {
-      "promo": {
-        "value": "{base.color.accent.600}",
+    "action-accent": {
+      "default": {
+        "value": "{theme.action-success.default}",
         "type": "color"
       }
     }
