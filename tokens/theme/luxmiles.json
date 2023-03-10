@@ -168,20 +168,8 @@
     }
   },
   "font-family": {
-    "secondary": {
+    "primary": {
       "value": "Mulish",
-      "type": "fontFamilies"
-    },
-    "display": {
-      "value": "{font-family.secondary}",
-      "type": "fontFamilies"
-    },
-    "headline": {
-      "value": "{font-family.secondary}",
-      "type": "fontFamilies"
-    },
-    "title": {
-      "value": "{font-family.secondary}",
       "type": "fontFamilies"
     }
   },

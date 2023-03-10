@@ -1931,7 +1931,7 @@
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "{font-family.inter}",
+      "value": "{font-family.primary}",
       "type": "fontFamilies"
     },
     "display": {

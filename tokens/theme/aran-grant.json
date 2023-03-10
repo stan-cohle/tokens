@@ -176,15 +176,15 @@
       "type": "fontFamilies"
     },
     "display": {
-      "value": "{font-family.secondary}",
+      "value": "{font-family.primary}",
       "type": "fontFamilies"
     },
     "headline": {
-      "value": "{font-family.secondary}",
+      "value": "{font-family.primary}",
       "type": "fontFamilies"
     },
     "title": {
-      "value": "{font-family.secondary}",
+      "value": "{font-family.primary}",
       "type": "fontFamilies"
     }
   },
