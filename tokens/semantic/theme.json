@@ -1046,60 +1046,6 @@
       }
     }
   },
-  "component": {
-    "input": {
-      "label": {
-        "value": "{base.text.sm.medium.default}",
-        "type": "typography"
-      },
-      "entry": {
-        "value": "{base.text.md.regular.default}",
-        "type": "typography"
-      },
-      "helper": {
-        "value": "{base.text.xs.medium.default}",
-        "type": "typography"
-      }
-    },
-    "button-label": {
-      "x-large": {
-        "value": {
-          "fontFamily": "{font-family.action}",
-          "fontWeight": "{font-weight.semi-bold}",
-          "lineHeight": "24",
-          "fontSize": "{font-size.text.lg}"
-        },
-        "type": "typography"
-      },
-      "large": {
-        "value": {
-          "fontFamily": "{font-family.action}",
-          "fontWeight": "{font-weight.semi-bold}",
-          "lineHeight": "20",
-          "fontSize": "{font-size.text.md}"
-        },
-        "type": "typography"
-      },
-      "medium": {
-        "value": {
-          "fontFamily": "{font-family.action}",
-          "fontWeight": "{font-weight.semi-bold}",
-          "lineHeight": "20",
-          "fontSize": "{font-size.text.sm}"
-        },
-        "type": "typography"
-      },
-      "small": {
-        "value": {
-          "fontFamily": "{font-family.action}",
-          "fontWeight": "{font-weight.semi-bold}",
-          "lineHeight": "20",
-          "fontSize": "{font-size.text.sm}"
-        },
-        "type": "typography"
-      }
-    }
-  },
   "base": {
     "color": {
       "modifiers": {

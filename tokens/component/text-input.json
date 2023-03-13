@@ -1,20 +1,22 @@
 {
-  "input": {
-    "label": {
-      "value": "{typography.text.Medium}",
-      "type": "typography"
-    },
-    "error": {
-      "value": "{Base.Label.Medium.Default.Medium}",
-      "type": "typography"
-    },
-    "entry": {
-      "value": "{Base.Label.Large.Default.Regular}",
-      "type": "typography"
-    },
-    "helper": {
-      "value": "{typography.text.Small}",
-      "type": "typography"
+  "comp": {
+    "input": {
+      "label": {
+        "value": "{typography.text.Medium}",
+        "type": "typography"
+      },
+      "error": {
+        "value": "{Base.Label.Medium.Default.Medium}",
+        "type": "typography"
+      },
+      "entry": {
+        "value": "{Base.Label.Large.Default.Regular}",
+        "type": "typography"
+      },
+      "helper": {
+        "value": "{typography.text.Small}",
+        "type": "typography"
+      }
     }
   },
   "text-input": {

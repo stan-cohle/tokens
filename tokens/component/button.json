@@ -1,314 +1,226 @@
 {
-  "button": {
-    "small": {
-      "height": {
-        "value": "{theme.size.component.small}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{theme.size.icon.small}",
-        "type": "sizing"
-      },
-      "base": {
-        "value": {
-          "height": "{theme.size.component.small}",
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.medium}",
-          "paddingRight": "{theme.spacing.medium}",
-          "borderWidth": "{theme.border-width.thin}",
-          "borderRadius": "{theme.border-radius.softly-rounded}"
+  "comp": {
+    "button": {
+      "small": {
+        "text": {
+          "value": {
+            "height": "{theme.size.component.small}",
+            "paddingTop": "{theme.spacing.none}",
+            "paddingBottom": "{theme.spacing.none}",
+            "paddingLeft": "{theme.spacing.medium}",
+            "paddingRight": "{theme.spacing.medium}",
+            "borderWidth": "{theme.border-width.thin}",
+            "borderRadius": "{theme.border-radius.softly-rounded}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "icon-only": {
-        "value": {
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.none}",
-          "paddingRight": "{theme.spacing.none}",
-          "borderWidth": "{theme.border-width.thin}",
-          "borderRadius": "{theme.border-radius.softly-rounded}",
-          "sizing": "{theme.size.component.small}"
+        "icon-only": {
+          "value": {
+            "paddingTop": "{theme.spacing.none}",
+            "paddingBottom": "{theme.spacing.none}",
+            "paddingLeft": "{theme.spacing.none}",
+            "paddingRight": "{theme.spacing.none}",
+            "borderWidth": "{theme.border-width.thin}",
+            "borderRadius": "{theme.border-radius.softly-rounded}",
+            "sizing": "{theme.size.component.small}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "item-spacing": {
-        "value": "{theme.spacing.x-small}",
-        "type": "spacing"
-      },
-      "text": {
-        "padding-left": {
-          "value": "{theme.spacing.medium}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.medium}",
-          "type": "spacing"
+        "label": {
+          "value": {
+            "fontFamily": "{font-family.action}",
+            "fontWeight": "{font-weight.semi-bold}",
+            "lineHeight": "20",
+            "fontSize": "{font-size.text.sm}"
+          },
+          "type": "typography"
         }
       },
-      "icon-left": {
-        "padding-left": {
-          "value": "{theme.spacing.medium}-2",
-          "type": "spacing"
+      "spacing": {
+        "small": {
+          "horizontal": {
+            "value": "{theme.spacing.medium}",
+            "type": "spacing"
+          },
+          "vertical": {
+            "value": "{theme.spacing.small}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{theme.spacing.x-small}",
+            "type": "spacing"
+          }
         },
-        "padding-right": {
-          "value": "{theme.spacing.medium}",
-          "type": "spacing"
+        "medium": {
+          "horizontal": {
+            "value": "{theme.spacing.large}",
+            "type": "spacing"
+          },
+          "vertical": {
+            "value": "{theme.spacing.medium}-{theme.spacing.xx-small}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{theme.spacing.small}-{theme.spacing.xx-small}",
+            "type": "spacing"
+          }
+        },
+        "large": {
+          "horizontal": {
+            "value": "{theme.spacing.x-large}",
+            "type": "spacing"
+          },
+          "vertical": {
+            "value": "{theme.spacing.large}-{theme.spacing.xx-small}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{theme.spacing.small}",
+            "type": "spacing"
+          }
+        },
+        "x-large": {
+          "horizontal": {
+            "value": "{theme.spacing.xx-large}",
+            "type": "spacing"
+          },
+          "vertical": {
+            "value": "{theme.spacing.large}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{theme.spacing.small}",
+            "type": "spacing"
+          }
         }
       },
-      "icon-right": {
-        "padding-left": {
-          "value": "{theme.spacing.medium}",
-          "type": "spacing"
+      "medium": {
+        "text": {
+          "value": {
+            "height": "{theme.size.component.medium}",
+            "paddingTop": "{theme.spacing.none}",
+            "paddingBottom": "{theme.spacing.none}",
+            "paddingLeft": "{theme.spacing.large}",
+            "paddingRight": "{theme.spacing.large}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.softly-rounded}"
+          },
+          "type": "composition"
         },
-        "padding-right": {
-          "value": "{theme.spacing.medium}-2",
-          "type": "spacing"
+        "icon-only": {
+          "value": {
+            "paddingTop": "{theme.spacing.none}",
+            "paddingBottom": "{theme.spacing.none}",
+            "paddingLeft": "{theme.spacing.none}",
+            "paddingRight": "{theme.spacing.none}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.softly-rounded}",
+            "sizing": "{theme.size.component.medium}"
+          },
+          "type": "composition"
+        },
+        "label": {
+          "value": {
+            "fontFamily": "{font-family.action}",
+            "fontWeight": "{font-weight.semi-bold}",
+            "lineHeight": "20",
+            "fontSize": "{font-size.text.sm}"
+          },
+          "type": "typography"
         }
       },
-      "icon": {
-        "padding-left": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
+      "large": {
+        "text": {
+          "value": {
+            "height": "{theme.size.component.large}",
+            "paddingTop": "{theme.spacing.none}",
+            "paddingBottom": "{theme.spacing.none}",
+            "paddingLeft": "{theme.spacing.large}",
+            "paddingRight": "{theme.spacing.large}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.softly-rounded}"
+          },
+          "type": "composition"
         },
-        "padding-right": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
-        }
-      }
-    },
-    "medium": {
-      "height": {
-        "value": "{theme.size.component.medium}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{theme.size.icon.medium}",
-        "type": "sizing"
-      },
-      "base": {
-        "value": {
-          "height": "{theme.size.component.medium}",
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.large}",
-          "paddingRight": "{theme.spacing.large}",
-          "borderWidth": "{theme.border-width.skinny}",
-          "borderRadius": "{theme.border-radius.softly-rounded}"
+        "icon-only": {
+          "value": {
+            "sizing": "{theme.size.component.large}",
+            "paddingTop": "{theme.spacing.none}",
+            "paddingBottom": "{theme.spacing.none}",
+            "paddingLeft": "{theme.spacing.none}",
+            "paddingRight": "{theme.spacing.none}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.softly-rounded}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "icon-only": {
-        "value": {
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.none}",
-          "paddingRight": "{theme.spacing.none}",
-          "borderWidth": "{theme.border-width.skinny}",
-          "borderRadius": "{theme.border-radius.softly-rounded}",
-          "sizing": "{theme.size.component.medium}"
-        },
-        "type": "composition"
-      },
-      "text": {
-        "padding-left": {
-          "value": "{theme.spacing.large}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.large}",
-          "type": "spacing"
+        "label": {
+          "value": {
+            "fontFamily": "{font-family.action}",
+            "fontWeight": "{font-weight.semi-bold}",
+            "lineHeight": "20",
+            "fontSize": "{font-size.text.md}"
+          },
+          "type": "typography"
         }
       },
-      "icon-left": {
-        "padding-left": {
-          "value": "{theme.spacing.large}-2",
-          "type": "spacing"
+      "x-large": {
+        "text": {
+          "value": {
+            "paddingTop": "{comp.button.spacing.x-large.vertical}",
+            "paddingBottom": "{comp.button.spacing.x-large.vertical}",
+            "paddingLeft": "{comp.button.spacing.x-large.horizontal}",
+            "paddingRight": "{comp.button.spacing.x-large.horizontal}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.rounded}",
+            "itemSpacing": "{theme.spacing.none}"
+          },
+          "type": "composition"
         },
-        "padding-right": {
-          "value": "{theme.spacing.large}",
-          "type": "spacing"
-        }
-      },
-      "icon-right": {
-        "padding-left": {
-          "value": "{theme.spacing.large}",
-          "type": "spacing"
+        "icon-before": {
+          "value": {
+            "paddingTop": "{comp.button.spacing.x-large.vertical}",
+            "paddingBottom": "{comp.button.spacing.x-large.vertical}",
+            "paddingLeft": "{comp.button.spacing.x-large.horizontal}-{theme.spacing.x-small}",
+            "paddingRight": "{comp.button.spacing.x-large.horizontal}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.rounded}",
+            "itemSpacing": "{comp.button.spacing.x-large.gap}"
+          },
+          "type": "composition"
         },
-        "padding-right": {
-          "value": "{theme.spacing.large}-2",
-          "type": "spacing"
-        }
-      },
-      "item-spacing": {
-        "value": "{theme.spacing.small}",
-        "type": "spacing"
-      },
-      "icon": {
-        "padding-left": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
+        "icon-after": {
+          "value": {
+            "paddingTop": "{comp.button.spacing.x-large.vertical}",
+            "paddingBottom": "{comp.button.spacing.x-large.vertical}",
+            "paddingLeft": "{comp.button.spacing.x-large.horizontal}",
+            "paddingRight": "{comp.button.spacing.x-large.horizontal}-{theme.spacing.x-small}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.rounded}",
+            "itemSpacing": "{comp.button.spacing.x-large.gap}"
+          },
+          "type": "composition"
         },
-        "padding-right": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
-        }
-      }
-    },
-    "large": {
-      "height": {
-        "value": "{theme.size.component.large}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{theme.size.icon.medium}",
-        "type": "sizing"
-      },
-      "base": {
-        "value": {
-          "height": "{theme.size.component.large}",
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.large}",
-          "paddingRight": "{theme.spacing.large}",
-          "borderWidth": "{theme.border-width.skinny}",
-          "borderRadius": "{theme.border-radius.softly-rounded}"
+        "icon-only": {
+          "value": {
+            "paddingTop": "{comp.button.spacing.x-large.vertical}",
+            "paddingBottom": "{comp.button.spacing.x-large.vertical}",
+            "paddingLeft": "{comp.button.spacing.x-large.vertical}",
+            "paddingRight": "{comp.button.spacing.x-large.vertical}",
+            "borderWidth": "{theme.border-width.skinny}",
+            "borderRadius": "{theme.border-radius.rounded}",
+            "itemSpacing": "{theme.spacing.none}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "icon-only": {
-        "value": {
-          "sizing": "{theme.size.component.large}",
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.none}",
-          "paddingRight": "{theme.spacing.none}",
-          "borderWidth": "{theme.border-width.skinny}",
-          "borderRadius": "{theme.border-radius.softly-rounded}"
-        },
-        "type": "composition"
-      },
-      "text": {
-        "padding-left": {
-          "value": "{theme.spacing.x-large}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.x-large}",
-          "type": "spacing"
-        }
-      },
-      "icon-left": {
-        "padding-left": {
-          "value": "{theme.spacing.x-large}-2",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.x-large}",
-          "type": "spacing"
-        }
-      },
-      "icon-right": {
-        "padding-left": {
-          "value": "{theme.spacing.x-large}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.x-large}-2",
-          "type": "spacing"
-        }
-      },
-      "item-spacing": {
-        "value": "{theme.spacing.small}",
-        "type": "spacing"
-      },
-      "icon": {
-        "padding-left": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
-        }
-      }
-    },
-    "x-large": {
-      "height": {
-        "value": "{theme.size.component.x-large}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "value": "{theme.size.icon.large}",
-        "type": "sizing"
-      },
-      "base": {
-        "value": {
-          "height": "{theme.size.component.x-large}",
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.xx-large}",
-          "paddingRight": "{theme.spacing.xx-large}",
-          "borderWidth": "{theme.border-width.skinny}",
-          "borderRadius": "{theme.border-radius.rounded}"
-        },
-        "type": "composition"
-      },
-      "icon-only": {
-        "value": {
-          "sizing": "{theme.size.component.x-large}",
-          "paddingTop": "{theme.spacing.none}",
-          "paddingBottom": "{theme.spacing.none}",
-          "paddingLeft": "{theme.spacing.none}",
-          "paddingRight": "{theme.spacing.none}",
-          "borderWidth": "{theme.border-width.skinny}",
-          "borderRadius": "{theme.border-radius.rounded}"
-        },
-        "type": "composition"
-      },
-      "text": {
-        "padding-left": {
-          "value": "{theme.spacing.xx-large}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.xx-large}",
-          "type": "spacing"
-        }
-      },
-      "icon-left": {
-        "padding-left": {
-          "value": "{theme.spacing.xx-large}-4",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.xx-large}",
-          "type": "spacing"
-        }
-      },
-      "item-spacing": {
-        "value": "{theme.spacing.small}",
-        "type": "spacing"
-      },
-      "icon-right": {
-        "padding-left": {
-          "value": "{theme.spacing.xx-large}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.xx-large}-4",
-          "type": "spacing"
-        }
-      },
-      "icon": {
-        "padding-left": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{theme.spacing.none}",
-          "type": "spacing"
+        "label": {
+          "value": {
+            "fontFamily": "{font-family.action}",
+            "fontWeight": "{font-weight.semi-bold}",
+            "lineHeight": "{theme.size.icon.large}",
+            "fontSize": "{font-size.text.lg}"
+          },
+          "type": "typography"
         }
       }
     }
