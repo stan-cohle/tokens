@@ -27,8 +27,8 @@
             "height": "{theme.size.component.medium}",
             "horizontalPadding": "{theme.spacing.small}",
             "itemSpacing": "{theme.spacing.small}",
-            "borderWidth": "{theme.border-width.thin}",
-            "borderRadius": "{theme.border-radius.softly-rounded}"
+            "borderWidth": "{theme.border-width.sm}",
+            "borderRadius": "{theme.border-radius.container.sm}"
           },
           "type": "composition"
         },
@@ -36,8 +36,8 @@
           "value": {
             "height": "{theme.size.component.medium}",
             "itemSpacing": "{theme.spacing.small}",
-            "borderWidth": "{theme.border-width.thin}",
-            "borderRadius": "{theme.border-radius.softly-rounded}",
+            "borderWidth": "{theme.border-width.sm}",
+            "borderRadius": "{theme.border-radius.container.sm}",
             "paddingLeft": "{theme.spacing.medium}",
             "paddingRight": "{theme.spacing.small}"
           },
@@ -49,8 +49,8 @@
           "height": "{theme.size.component.large}",
           "horizontalPadding": "{theme.spacing.small}",
           "itemSpacing": "{theme.spacing.small}",
-          "borderWidth": "{theme.border-width.thin}",
-          "borderRadius": "{theme.border-radius.softly-rounded}"
+          "borderWidth": "{theme.border-width.sm}",
+          "borderRadius": "{theme.border-radius.container.sm}"
         },
         "type": "composition"
       }

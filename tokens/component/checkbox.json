@@ -11,7 +11,7 @@
       "shape": {
         "value": {
           "sizing": "{theme.size.icon.small}",
-          "borderRadius": "{theme.border-radius.softly-rounded}",
+          "borderRadius": "{theme.border-radius.container.sm}",
           "borderWidth": "1.68"
         },
         "type": "composition"
@@ -38,7 +38,7 @@
       "shape": {
         "value": {
           "sizing": "{theme.size.icon.medium}",
-          "borderRadius": "{theme.border-radius.softly-rounded}",
+          "borderRadius": "{theme.border-radius.container.sm}",
           "borderWidth": "2"
         },
         "type": "composition"

@@ -617,21 +617,45 @@
       }
     },
     "border-radius": {
-      "square": {
-        "value": "{core.border-radius.0}",
+      "container": {
+        "none": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.0}",
+          "type": "borderRadius"
+        },
+        "sm": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.50}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.100}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.200}",
+          "type": "borderRadius"
+        },
+        "pill": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.pill}",
+          "type": "borderRadius"
+        }
+      },
+      "scale": {
+        "value": "1",
         "type": "borderRadius"
       },
-      "softly-rounded": {
-        "value": "{core.border-radius.50}",
-        "type": "borderRadius"
-      },
-      "rounded": {
-        "value": "{core.border-radius.100}",
-        "type": "borderRadius"
-      },
-      "pill": {
-        "value": "{core.border-radius.125}",
-        "type": "borderRadius"
+      "action": {
+        "sm": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.75}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.100}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{theme.border-radius.scale}*{core.border-radius.200}",
+          "type": "borderRadius"
+        }
       }
     },
     "spacing": {
@@ -711,19 +735,19 @@
       }
     },
     "border-width": {
-      "no-border": {
+      "none": {
         "value": "{core.border-width.0}",
         "type": "borderWidth"
       },
-      "thin": {
+      "sm": {
         "value": "{core.border-width.1}",
         "type": "borderWidth"
       },
-      "skinny": {
+      "md": {
         "value": "{core.border-width.2}",
         "type": "borderWidth"
       },
-      "medium": {
+      "lg": {
         "value": "{core.border-width.3}",
         "type": "borderWidth"
       }

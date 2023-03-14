@@ -12,7 +12,7 @@
         "shape": {
           "value": {
             "sizing": "18",
-            "borderRadius": "{theme.border-radius.pill}",
+            "borderRadius": "{theme.border-radius.container.pill}",
             "borderWidth": "1.68"
           },
           "type": "composition"
@@ -22,7 +22,7 @@
         "shape": {
           "value": {
             "sizing": "18",
-            "borderRadius": "{theme.border-radius.pill}",
+            "borderRadius": "{theme.border-radius.container.pill}",
             "borderWidth": "5"
           },
           "type": "composition"
@@ -49,8 +49,8 @@
         "shape": {
           "value": {
             "sizing": "{theme.size.icon.medium}",
-            "borderRadius": "{theme.border-radius.pill}",
-            "borderWidth": "{theme.border-width.skinny}"
+            "borderRadius": "{theme.border-radius.container.pill}",
+            "borderWidth": "{theme.border-width.md}"
           },
           "type": "composition"
         }
@@ -59,7 +59,7 @@
         "shape": {
           "value": {
             "sizing": "{theme.size.icon.medium}",
-            "borderRadius": "{theme.border-radius.pill}",
+            "borderRadius": "{theme.border-radius.container.pill}",
             "borderWidth": "6"
           },
           "type": "composition"

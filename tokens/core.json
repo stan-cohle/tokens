@@ -922,6 +922,10 @@
       "400": {
         "value": "32",
         "type": "borderRadius"
+      },
+      "pill": {
+        "value": "1000",
+        "type": "borderRadius"
       }
     },
     "border-width": {

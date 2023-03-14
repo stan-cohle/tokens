@@ -17,7 +17,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{theme.border-radius.softly-rounded}",
+      "value": "{theme.border-radius.container.sm}",
       "type": "borderRadius"
     }
   }

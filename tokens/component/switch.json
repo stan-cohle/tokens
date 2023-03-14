@@ -45,12 +45,12 @@
       }
     },
     "border-radius": {
-      "value": "{theme.border-radius.pill}",
+      "value": "{theme.border-radius.container.pill}",
       "type": "borderRadius"
     },
     "thumb": {
       "border-radius": {
-        "value": "{theme.border-radius.pill}",
+        "value": "{theme.border-radius.container.pill}",
         "type": "borderRadius"
       }
     },

@@ -14,11 +14,11 @@
     },
     "shape": {
       "brick": {
-        "value": "{theme.border-radius.softly-rounded}",
+        "value": "{theme.border-radius.container.sm}",
         "type": "borderRadius"
       },
       "pill": {
-        "value": "{theme.border-radius.pill}",
+        "value": "{theme.border-radius.container.pill}",
         "type": "borderRadius"
       }
     },
