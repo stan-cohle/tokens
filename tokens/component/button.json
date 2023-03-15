@@ -17,7 +17,7 @@
           "value": {
             "paddingTop": "{comp.button.small.vert-padding}",
             "paddingBottom": "{comp.button.small.vert-padding}",
-            "paddingLeft": "{comp.button.small.hor-padding}-{theme.spacing.xx-small}",
+            "paddingLeft": "{comp.button.small.hor-padding}-{semantic.spacing.xx-small}",
             "paddingRight": "{comp.button.small.hor-padding}",
             "borderWidth": "{comp.button.small.border-width}",
             "borderRadius": "{comp.button.small.border-radius}"
@@ -29,7 +29,7 @@
             "paddingTop": "{comp.button.small.vert-padding}",
             "paddingBottom": "{comp.button.small.vert-padding}",
             "paddingLeft": "{comp.button.small.hor-padding}",
-            "paddingRight": "{comp.button.small.hor-padding}-{theme.spacing.xx-small}",
+            "paddingRight": "{comp.button.small.hor-padding}-{semantic.spacing.xx-small}",
             "borderWidth": "{comp.button.small.border-width}",
             "borderRadius": "{comp.button.small.border-radius}"
           },
@@ -63,7 +63,7 @@
           "value": {
             "paddingTop": "{comp.button.medium.vert-padding}",
             "paddingBottom": "{comp.button.medium.vert-padding}",
-            "paddingLeft": "{comp.button.medium.hor-padding}-{theme.spacing.xx-small}",
+            "paddingLeft": "{comp.button.medium.hor-padding}-{semantic.spacing.xx-small}",
             "paddingRight": "{comp.button.medium.hor-padding}",
             "borderWidth": "{comp.button.medium.border-width}",
             "borderRadius": "{comp.button.medium.border-radius}"
@@ -75,7 +75,7 @@
             "paddingTop": "{comp.button.medium.vert-padding}",
             "paddingBottom": "{comp.button.medium.vert-padding}",
             "paddingLeft": "{comp.button.medium.hor-padding}",
-            "paddingRight": "{comp.button.medium.hor-padding}-{theme.spacing.xx-small}",
+            "paddingRight": "{comp.button.medium.hor-padding}-{semantic.spacing.xx-small}",
             "borderWidth": "{comp.button.medium.border-width}",
             "borderRadius": "{comp.button.medium.border-radius}"
           },
@@ -109,7 +109,7 @@
           "value": {
             "paddingTop": "{comp.button.large.vert-padding}",
             "paddingBottom": "{comp.button.large.vert-padding}",
-            "paddingLeft": "{comp.button.large.hor-padding}-{theme.spacing.x-small}",
+            "paddingLeft": "{comp.button.large.hor-padding}-{semantic.spacing.x-small}",
             "paddingRight": "{comp.button.large.hor-padding}",
             "borderWidth": "{comp.button.large.border-width}",
             "borderRadius": "{comp.button.large.border-radius}"
@@ -121,7 +121,7 @@
             "paddingTop": "{comp.button.large.vert-padding}",
             "paddingBottom": "{comp.button.large.vert-padding}",
             "paddingLeft": "{comp.button.large.hor-padding}",
-            "paddingRight": "{comp.button.large.hor-padding}-{theme.spacing.x-small}",
+            "paddingRight": "{comp.button.large.hor-padding}-{semantic.spacing.x-small}",
             "borderWidth": "{comp.button.large.border-width}",
             "borderRadius": "{comp.button.large.border-radius}"
           },
@@ -146,9 +146,9 @@
             "paddingBottom": "{comp.button.x-large.vert-padding}",
             "paddingLeft": "{comp.button.x-large.hor-padding}",
             "paddingRight": "{comp.button.x-large.hor-padding}",
-            "borderWidth": "{theme.border-width.md}",
-            "borderRadius": "{theme.border-radius.container.md}",
-            "itemSpacing": "{theme.spacing.none}"
+            "borderWidth": "{semantic.border-width.md}",
+            "borderRadius": "{semantic.border-radius.container.md}",
+            "itemSpacing": "{semantic.spacing.none}"
           },
           "type": "composition"
         },
@@ -156,10 +156,10 @@
           "value": {
             "paddingTop": "{comp.button.x-large.vert-padding}",
             "paddingBottom": "{comp.button.x-large.vert-padding}",
-            "paddingLeft": "{comp.button.x-large.hor-padding}-{theme.spacing.x-small}",
+            "paddingLeft": "{comp.button.x-large.hor-padding}-{semantic.spacing.x-small}",
             "paddingRight": "{comp.button.x-large.hor-padding}",
-            "borderWidth": "{theme.border-width.md}",
-            "borderRadius": "{theme.border-radius.container.md}",
+            "borderWidth": "{semantic.border-width.md}",
+            "borderRadius": "{semantic.border-radius.container.md}",
             "itemSpacing": "{comp.button.x-large.item-spacing}"
           },
           "type": "composition"
@@ -169,9 +169,9 @@
             "paddingTop": "{comp.button.x-large.vert-padding}",
             "paddingBottom": "{comp.button.x-large.vert-padding}",
             "paddingLeft": "{comp.button.x-large.hor-padding}",
-            "paddingRight": "{comp.button.x-large.hor-padding}-{theme.spacing.x-small}",
-            "borderWidth": "{theme.border-width.md}",
-            "borderRadius": "{theme.border-radius.container.md}",
+            "paddingRight": "{comp.button.x-large.hor-padding}-{semantic.spacing.x-small}",
+            "borderWidth": "{semantic.border-width.md}",
+            "borderRadius": "{semantic.border-radius.container.md}",
             "itemSpacing": "{comp.button.x-large.item-spacing}"
           },
           "type": "composition"
@@ -182,9 +182,9 @@
             "paddingBottom": "{comp.button.x-large.vert-padding}",
             "paddingLeft": "{comp.button.x-large.vert-padding}",
             "paddingRight": "{comp.button.x-large.vert-padding}",
-            "borderWidth": "{theme.border-width.md}",
-            "borderRadius": "{theme.border-radius.container.md}",
-            "itemSpacing": "{theme.spacing.none}"
+            "borderWidth": "{semantic.border-width.md}",
+            "borderRadius": "{semantic.border-radius.container.md}",
+            "itemSpacing": "{semantic.spacing.none}"
           },
           "type": "composition"
         }
@@ -202,41 +202,41 @@
           "type": "typography"
         },
         "hor-padding": {
-          "value": "{theme.spacing.medium}",
+          "value": "{semantic.spacing.medium}",
           "type": "spacing"
         },
         "vert-padding": {
-          "value": "{theme.spacing.small}",
+          "value": "{semantic.spacing.small}",
           "type": "spacing"
         },
         "item-spacing": {
-          "value": "{theme.spacing.x-small}",
+          "value": "{semantic.spacing.x-small}",
           "type": "spacing"
         },
         "icon-size": {
-          "value": "{theme.size.icon.small}",
+          "value": "{semantic.size.icon.small}",
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{theme.border-radius.container.sm}",
+          "value": "{semantic.border-radius.container.sm}",
           "type": "borderRadius"
         },
         "border-width": {
-          "value": "{theme.border-width.sm}",
+          "value": "{semantic.border-width.sm}",
           "type": "borderWidth"
         }
       },
       "medium": {
         "hor-padding": {
-          "value": "{theme.spacing.large}",
+          "value": "{semantic.spacing.large}",
           "type": "spacing"
         },
         "vert-padding": {
-          "value": "{theme.spacing.medium}-{theme.spacing.xx-small}",
+          "value": "{semantic.spacing.medium}-{semantic.spacing.xx-small}",
           "type": "spacing"
         },
         "item-spacing": {
-          "value": "{theme.spacing.small}-{theme.spacing.xx-small}",
+          "value": "{semantic.spacing.small}-{semantic.spacing.xx-small}",
           "type": "spacing"
         },
         "label": {
@@ -249,29 +249,29 @@
           "type": "typography"
         },
         "icon-size": {
-          "value": "{theme.size.icon.medium}",
+          "value": "{semantic.size.icon.medium}",
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{theme.border-radius.container.sm}",
+          "value": "{semantic.border-radius.container.sm}",
           "type": "borderRadius"
         },
         "border-width": {
-          "value": "{theme.border-width.md}",
+          "value": "{semantic.border-width.md}",
           "type": "borderWidth"
         }
       },
       "large": {
         "hor-padding": {
-          "value": "{theme.spacing.x-large}",
+          "value": "{semantic.spacing.x-large}",
           "type": "spacing"
         },
         "vert-padding": {
-          "value": "{theme.spacing.large}-{theme.spacing.xx-small}",
+          "value": "{semantic.spacing.large}-{semantic.spacing.xx-small}",
           "type": "spacing"
         },
         "item-spacing": {
-          "value": "{theme.spacing.small}",
+          "value": "{semantic.spacing.small}",
           "type": "spacing"
         },
         "label": {
@@ -284,29 +284,29 @@
           "type": "typography"
         },
         "icon-size": {
-          "value": "{theme.size.icon.medium}",
+          "value": "{semantic.size.icon.medium}",
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{theme.border-radius.container.sm}",
+          "value": "{semantic.border-radius.container.sm}",
           "type": "borderRadius"
         },
         "border-width": {
-          "value": "{theme.border-width.md}",
+          "value": "{semantic.border-width.md}",
           "type": "borderWidth"
         }
       },
       "x-large": {
         "hor-padding": {
-          "value": "{theme.spacing.xx-large}",
+          "value": "{semantic.spacing.xx-large}",
           "type": "spacing"
         },
         "vert-padding": {
-          "value": "{theme.spacing.large}",
+          "value": "{semantic.spacing.large}",
           "type": "spacing"
         },
         "item-spacing": {
-          "value": "{theme.spacing.small}",
+          "value": "{semantic.spacing.small}",
           "type": "spacing"
         },
         "label": {
@@ -319,15 +319,15 @@
           "type": "typography"
         },
         "icon-size": {
-          "value": "{theme.size.icon.large}",
+          "value": "{semantic.size.icon.large}",
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{theme.border-radius.container.sm}",
+          "value": "{semantic.border-radius.container.sm}",
           "type": "borderRadius"
         },
         "border-width": {
-          "value": "{theme.border-width.md}",
+          "value": "{semantic.border-width.md}",
           "type": "borderWidth"
         }
       }

@@ -15,8 +15,7 @@
       "theme/aran-grant": "enabled",
       "base/colors": "source",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/semantic": "disabled"
+      "base/theme": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -36,8 +35,7 @@
       "theme/wowfare": "enabled",
       "base/colors": "source",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/semantic": "disabled"
+      "base/theme": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -57,8 +55,7 @@
       "theme/priceline": "enabled",
       "base/colors": "source",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/semantic": "disabled"
+      "base/theme": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -78,8 +75,7 @@
       "theme/ovago_classic": "enabled",
       "base/colors": "source",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/semantic": "disabled"
+      "base/theme": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -99,8 +95,7 @@
       "theme/kayak": "enabled",
       "base/colors": "source",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/semantic": "disabled"
+      "base/theme": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -120,8 +115,7 @@
       "theme/ovago": "enabled",
       "base/colors": "source",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/semantic": "disabled"
+      "base/theme": "enabled"
     },
     "$figmaStyleReferences": {
       "base.display.xl.regular": "S:222ed31c853de2a0d7267d0dedee311d16cb12fc,",

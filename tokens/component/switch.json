@@ -2,7 +2,7 @@
   "switch": {
     "default": {
       "focus": {
-        "value": "{theme.focus.default}",
+        "value": "{semantic.focus.default}",
         "type": "boxShadow"
       }
     },
@@ -14,48 +14,48 @@
     },
     "small": {
       "width": {
-        "value": "{theme.size.component.small}+2",
+        "value": "{semantic.size.component.small}+2",
         "type": "sizing"
       },
       "height": {
-        "value": "{theme.size.component.xx-small}",
+        "value": "{semantic.size.component.xx-small}",
         "type": "sizing"
       },
       "thumb": {
         "size": {
-          "value": "{theme.size.icon.small}",
+          "value": "{semantic.size.icon.small}",
           "type": "sizing"
         }
       }
     },
     "medium": {
       "width": {
-        "value": "{theme.size.component.medium}+2",
+        "value": "{semantic.size.component.medium}+2",
         "type": "sizing"
       },
       "height": {
-        "value": "{theme.size.component.x-small}",
+        "value": "{semantic.size.component.x-small}",
         "type": "sizing"
       },
       "thumb": {
         "size": {
-          "value": "{theme.size.icon.medium}",
+          "value": "{semantic.size.icon.medium}",
           "type": "sizing"
         }
       }
     },
     "border-radius": {
-      "value": "{theme.border-radius.container.pill}",
+      "value": "{semantic.border-radius.container.pill}",
       "type": "borderRadius"
     },
     "thumb": {
       "border-radius": {
-        "value": "{theme.border-radius.container.pill}",
+        "value": "{semantic.border-radius.container.pill}",
         "type": "borderRadius"
       }
     },
     "padding": {
-      "value": "{theme.spacing.xx-small}",
+      "value": "{semantic.spacing.xx-small}",
       "type": "spacing"
     }
   }

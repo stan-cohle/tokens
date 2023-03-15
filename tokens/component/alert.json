@@ -1,23 +1,23 @@
 {
   "alert": {
     "icon-size": {
-      "value": "{theme.size.icon.large}",
+      "value": "{semantic.size.icon.large}",
       "type": "sizing"
     },
     "horizontal-spacing": {
-      "value": "{theme.spacing.medium}",
+      "value": "{semantic.spacing.medium}",
       "type": "spacing"
     },
     "vertical-spacing": {
-      "value": "{theme.spacing.small}",
+      "value": "{semantic.spacing.small}",
       "type": "spacing"
     },
     "item-spacing": {
-      "value": "{theme.spacing.small}",
+      "value": "{semantic.spacing.small}",
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{theme.border-radius.container.sm}",
+      "value": "{semantic.border-radius.container.sm}",
       "type": "borderRadius"
     }
   }
