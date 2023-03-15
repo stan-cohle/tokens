@@ -9,6 +9,10 @@
         "value": "{core.color.black}",
         "type": "color"
       },
+      "transparent": {
+        "value": "{core.color.transparent}",
+        "type": "color"
+      },
       "neutral": {
         "50": {
           "value": "{core.color.slate.50}",

@@ -608,7 +608,7 @@
     },
     "utility": {
       "transparent": {
-        "value": "rgba({core.color.white}, {core.opacity.0})",
+        "value": "{base.color.transparent}",
         "type": "color"
       },
       "missing-token": {
