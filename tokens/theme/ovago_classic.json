@@ -134,7 +134,7 @@
     },
     "subheader": {
       "type": "color",
-      "value": "{presets.header}",
+      "value": "{theme.presets.header}",
       "$extensions": {
         "studio.tokens": {
           "modify": {

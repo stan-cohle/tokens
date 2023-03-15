@@ -1096,6 +1096,29 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "presets": {
+      "header": {
+        "value": "{theme.bg.brand}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{theme.presets.header}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{base.color.modifiers.mix-delta}",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "footer": {
+        "value": "{base.color.neutral.1100}",
+        "type": "color"
+      }
     }
   },
   "base": {
@@ -1120,29 +1143,6 @@
           }
         }
       }
-    }
-  },
-  "presets": {
-    "header": {
-      "value": "{theme.bg.brand}",
-      "type": "color"
-    },
-    "subheader": {
-      "value": "{presets.header}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "{base.color.modifiers.mix-delta}",
-            "space": "lch"
-          }
-        }
-      }
-    },
-    "footer": {
-      "value": "{base.color.neutral.1100}",
-      "type": "color"
     }
   }
 }
