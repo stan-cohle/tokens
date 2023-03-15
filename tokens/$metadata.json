@@ -3,7 +3,7 @@
     "core",
     "semantic/base-colors",
     "semantic/base-fonts",
-    "semantic/theme-light",
+    "semantic/semantic",
     "component/button",
     "component/icon-button",
     "component/text-input",
@@ -13,6 +13,7 @@
     "component/badge",
     "component/alert",
     "section/nav",
+    "theme/default",
     "theme/ovago",
     "theme/ovago_classic",
     "theme/wowfare",
@@ -29,7 +30,6 @@
     "theme/myquility",
     "theme/purdue",
     "theme/abenity",
-    "theme/easemytrip",
-    "semantic/theme-dark"
+    "theme/easemytrip"
   ]
 }
