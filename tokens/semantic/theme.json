@@ -289,13 +289,17 @@
         "type": "color",
         "value": "{base.color.primary.300}"
       },
-      "focus": {
-        "type": "color",
-        "value": "{theme.utility.info}"
-      },
       "accent": {
         "type": "color",
         "value": "{theme.utility.accent}"
+      },
+      "accent-subtle": {
+        "type": "color",
+        "value": "{base.color.primary.300}"
+      },
+      "focus": {
+        "type": "color",
+        "value": "{theme.utility.brand}"
       }
     },
     "interactive": {
@@ -329,7 +333,7 @@
           }
         }
       },
-      "bg-selected": {
+      "selected": {
         "type": "color",
         "value": "{base.color.primary.100}"
       }
@@ -421,6 +425,10 @@
             }
           }
         }
+      },
+      "fg": {
+        "value": "{theme.fg.on-bold}",
+        "type": "color"
       }
     },
     "action-accent": {
@@ -454,6 +462,10 @@
             }
           }
         }
+      },
+      "fg": {
+        "value": "{theme.fg.on-bold}",
+        "type": "color"
       }
     },
     "action-success": {
@@ -486,6 +498,10 @@
             }
           }
         }
+      },
+      "fg": {
+        "value": "{theme.fg.on-bold}",
+        "type": "color"
       }
     },
     "action-danger": {
@@ -519,6 +535,10 @@
             }
           }
         }
+      },
+      "fg": {
+        "value": "{theme.fg.on-bold}",
+        "type": "color"
       }
     },
     "action-secondary": {
@@ -562,6 +582,10 @@
             }
           }
         }
+      },
+      "fg": {
+        "value": "{theme.fg.strong}",
+        "type": "color"
       }
     },
     "action-default": {
@@ -576,6 +600,10 @@
       "active": {
         "type": "color",
         "value": "{theme.action-secondary.hover}"
+      },
+      "fg": {
+        "value": "{theme.fg.strong}",
+        "type": "color"
       }
     },
     "utility": {
