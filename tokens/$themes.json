@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "core": "source",
       "semantic/base-colors": "source",
-      "semantic/theme": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -15,7 +14,9 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/aran-grant": "enabled",
-      "semantic/base-fonts": "enabled"
+      "semantic/base-fonts": "enabled",
+      "semantic/theme-light": "enabled",
+      "semantic/theme-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -26,7 +27,6 @@
       "core": "source",
       "semantic/base-colors": "source",
       "semantic/base-fonts": "enabled",
-      "semantic/theme": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -35,7 +35,9 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/wowfare": "enabled"
+      "theme/wowfare": "enabled",
+      "semantic/theme-light": "enabled",
+      "semantic/theme-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -46,7 +48,6 @@
       "core": "source",
       "semantic/base-colors": "source",
       "semantic/base-fonts": "enabled",
-      "semantic/theme": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -55,7 +56,9 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/priceline": "enabled"
+      "theme/priceline": "enabled",
+      "semantic/theme-light": "enabled",
+      "semantic/theme-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -66,7 +69,6 @@
       "core": "source",
       "semantic/base-colors": "source",
       "semantic/base-fonts": "enabled",
-      "semantic/theme": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -75,7 +77,9 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/ovago_classic": "enabled"
+      "theme/ovago_classic": "enabled",
+      "semantic/theme-light": "enabled",
+      "semantic/theme-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -86,7 +90,6 @@
       "core": "source",
       "semantic/base-colors": "source",
       "semantic/base-fonts": "enabled",
-      "semantic/theme": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -95,7 +98,9 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/kayak": "enabled"
+      "theme/kayak": "enabled",
+      "semantic/theme-light": "enabled",
+      "semantic/theme-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -106,7 +111,6 @@
       "core": "source",
       "semantic/base-colors": "source",
       "semantic/base-fonts": "enabled",
-      "semantic/theme": "enabled",
       "component/button": "enabled",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -115,7 +119,9 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "theme/ovago": "enabled"
+      "theme/ovago": "enabled",
+      "semantic/theme-light": "enabled",
+      "semantic/theme-dark": "disabled"
     },
     "$figmaStyleReferences": {
       "base.display.xl.regular": "S:222ed31c853de2a0d7267d0dedee311d16cb12fc,",
@@ -316,7 +322,6 @@
       "theme.fg.inversed": "S:de7fe1083b76a7274bf15ec79d4c5e5bb57b4600,",
       "theme.fg.strong-inversed": "S:9c78941e65c6976f26f9b16a671095b335e31194,",
       "theme.fg.weak-inversed": "S:903ff396ae0cfc205de8f1f11b5c7188bdac386a,",
-      "theme.fg.on-bold": "S:fe0e88b39ff2b4e9edc9acba40148fb9279141d8,",
       "theme.fg.success": "S:470c20479dde47e07fdabf7bcbb53552801ba3f7,",
       "theme.fg.warning": "S:00cb6b7b49822726c29a139f1252c47643d3a740,",
       "theme.fg.danger": "S:fc53b1229702ea6b594c77660e8e707f48a9b411,",
@@ -429,13 +434,12 @@
     }
   },
   {
-    "id": "730400379ce8ededa876859402717aacc9f5d782",
-    "name": "Default",
+    "id": "b7d3332438fbcb8cd6238ca6d672273de2431adc",
+    "name": "Default-Dark",
     "selectedTokenSets": {
       "core": "source",
       "semantic/base-colors": "enabled",
       "semantic/base-fonts": "source",
-      "semantic/theme": "enabled",
       "component/button": "enabled",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -443,7 +447,28 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/badge": "source",
-      "component/alert": "source"
+      "component/alert": "source",
+      "semantic/theme-light": "enabled",
+      "semantic/theme-dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "730400379ce8ededa876859402717aacc9f5d782",
+    "name": "Default-Light",
+    "selectedTokenSets": {
+      "core": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/base-fonts": "source",
+      "component/button": "enabled",
+      "component/icon-button": "source",
+      "component/text-input": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/badge": "source",
+      "component/alert": "source",
+      "semantic/theme-light": "enabled"
     },
     "$figmaStyleReferences": {
       "base.display.xl.regular": "S:6be1245314d983c23d8b8a1bf8dadc85adfbc8b7,",
@@ -640,7 +665,6 @@
       "theme.fg.inversed": "S:a3bcd048384111c6e7f3dd4f4e0c3bc0106bc7dc,",
       "theme.fg.strong-inversed": "S:faab2ba761cb2eed44ca5026051b057cd51e556a,",
       "theme.fg.weak-inversed": "S:fedc7dbc1497c24af6025143576ab2870f48cbf9,",
-      "theme.fg.on-bold": "S:194e3085d368cfdd1464724f51abf268e86cbb67,",
       "theme.fg.success": "S:1531d610d0321d501624d8bbf341b3d92d142a40,",
       "theme.fg.warning": "S:70334433ecfeae59ec5f266c68e344dba16d05c0,",
       "theme.fg.danger": "S:9595be6c1159c8ce19e276b5db9418c6311c2983,",

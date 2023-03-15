@@ -1,0 +1,16 @@
+{
+  "theme": {
+    "fg": {
+      "danger": {
+        "value": "{base.color.danger.400}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "danger": {
+        "value": "{base.color.danger.500}",
+        "type": "color"
+      }
+    }
+  }
+}

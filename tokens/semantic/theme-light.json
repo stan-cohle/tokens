@@ -113,18 +113,15 @@
     "fg": {
       "default": {
         "type": "color",
-        "value": "{base.color.neutral.1100}",
-        "description": "default text"
+        "value": "{base.color.neutral.1100}"
       },
       "strong": {
         "type": "color",
-        "value": "{base.color.neutral.900}",
-        "description": "secondary text, icons when requires strong, bold"
+        "value": "{base.color.neutral.900}"
       },
       "weak": {
         "type": "color",
-        "value": "{base.color.neutral.700}",
-        "description": "default icon, help text/ secondary text which need more contrast with default text"
+        "value": "{base.color.neutral.700}"
       },
       "disabled": {
         "value": "{base.color.neutral.500}",
@@ -152,11 +149,6 @@
             }
           }
         }
-      },
-      "on-bold": {
-        "value": "{base.color.white}",
-        "type": "color",
-        "description": "icon, text color on bold colors"
       },
       "success": {
         "type": "color",
@@ -427,7 +419,7 @@
         }
       },
       "fg": {
-        "value": "{theme.fg.on-bold}",
+        "value": "{theme.fg.inversed}",
         "type": "color"
       }
     },
@@ -464,7 +456,7 @@
         }
       },
       "fg": {
-        "value": "{theme.fg.on-bold}",
+        "value": "{theme.fg.inversed}",
         "type": "color"
       }
     },
@@ -500,7 +492,7 @@
         }
       },
       "fg": {
-        "value": "{theme.fg.on-bold}",
+        "value": "{theme.fg.inversed}",
         "type": "color"
       }
     },
@@ -537,7 +529,7 @@
         }
       },
       "fg": {
-        "value": "{theme.fg.on-bold}",
+        "value": "{theme.fg.inversed}",
         "type": "color"
       }
     },

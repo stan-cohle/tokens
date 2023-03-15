@@ -3,7 +3,7 @@
     "core",
     "semantic/base-colors",
     "semantic/base-fonts",
-    "semantic/theme",
+    "semantic/theme-light",
     "component/button",
     "component/icon-button",
     "component/text-input",
@@ -29,6 +29,7 @@
     "theme/myquility",
     "theme/purdue",
     "theme/abenity",
-    "theme/easemytrip"
+    "theme/easemytrip",
+    "semantic/theme-dark"
   ]
 }
