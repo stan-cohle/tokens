@@ -1,9 +1,9 @@
 {
   "tokenSetOrder": [
     "core",
-    "semantic/base-colors",
-    "semantic/base-fonts",
-    "semantic/semantic",
+    "base/colors",
+    "base/fonts",
+    "base/semantic",
     "component/button",
     "component/icon-button",
     "component/text-input",
@@ -13,7 +13,7 @@
     "component/badge",
     "component/alert",
     "section/nav",
-    "theme/default",
+    "base/theme",
     "theme/ovago",
     "theme/ovago_classic",
     "theme/wowfare",

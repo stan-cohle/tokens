@@ -3,39 +3,39 @@
     "color": {
       "primary": {
         "100": {
-          "value": "{colors.apricot.100}",
+          "value": "{core.color.apricot.100}",
           "type": "color"
         },
         "200": {
-          "value": "{colors.apricot.200}",
+          "value": "{core.color.apricot.200}",
           "type": "color"
         },
         "300": {
-          "value": "{colors.apricot.300}",
+          "value": "{core.color.apricot.300}",
           "type": "color"
         },
         "400": {
-          "value": "{colors.apricot.400}",
+          "value": "{core.color.apricot.400}",
           "type": "color"
         },
         "500": {
-          "value": "{colors.apricot.500}",
+          "value": "{core.color.apricot.500}",
           "type": "color"
         },
         "600": {
-          "value": "{colors.apricot.600}",
+          "value": "{core.color.apricot.600}",
           "type": "color"
         },
         "700": {
-          "value": "{colors.apricot.700}",
+          "value": "{core.color.apricot.700}",
           "type": "color"
         },
         "800": {
-          "value": "{colors.apricot.800}",
+          "value": "{core.color.apricot.800}",
           "type": "color"
         },
         "900": {
-          "value": "{colors.apricot.900}",
+          "value": "{core.color.apricot.900}",
           "type": "color"
         }
       },
@@ -206,49 +206,9 @@
       "type": "textCase"
     }
   },
-  "colors": {
-    "apricot": {
-      "100": {
-        "value": "#FCEDDE",
-        "type": "color"
-      },
-      "200": {
-        "value": "#FAE7D3",
-        "type": "color"
-      },
-      "300": {
-        "value": "#F6D5B2",
-        "type": "color"
-      },
-      "400": {
-        "value": "#F1C494",
-        "type": "color"
-      },
-      "500": {
-        "value": "#F59F49",
-        "type": "color"
-      },
-      "600": {
-        "value": "#E48822",
-        "type": "color"
-      },
-      "700": {
-        "value": "#CC7527",
-        "type": "color"
-      },
-      "800": {
-        "value": "#A35510",
-        "type": "color"
-      },
-      "900": {
-        "value": "#853E08",
-        "type": "color"
-      }
-    }
-  },
   "theme": {
     "action-primary": {
-      "bg-default": {
+      "default": {
         "value": "{theme.action-success.default}",
         "type": "color"
       }

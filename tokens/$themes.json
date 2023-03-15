@@ -4,7 +4,6 @@
     "name": "AranGrant",
     "selectedTokenSets": {
       "core": "source",
-      "semantic/base-colors": "source",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -14,9 +13,10 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/aran-grant": "enabled",
-      "semantic/base-fonts": "enabled",
-      "semantic/semantic": "disabled",
-      "theme/default": "enabled"
+      "base/colors": "source",
+      "base/fonts": "enabled",
+      "base/theme": "enabled",
+      "base/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,8 +25,6 @@
     "name": "Wowfare",
     "selectedTokenSets": {
       "core": "source",
-      "semantic/base-colors": "source",
-      "semantic/base-fonts": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -36,8 +34,10 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/wowfare": "enabled",
-      "semantic/semantic": "disabled",
-      "theme/default": "enabled"
+      "base/colors": "source",
+      "base/fonts": "enabled",
+      "base/theme": "enabled",
+      "base/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -46,8 +46,6 @@
     "name": "Priceline",
     "selectedTokenSets": {
       "core": "source",
-      "semantic/base-colors": "source",
-      "semantic/base-fonts": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -57,8 +55,10 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/priceline": "enabled",
-      "semantic/semantic": "disabled",
-      "theme/default": "enabled"
+      "base/colors": "source",
+      "base/fonts": "enabled",
+      "base/theme": "enabled",
+      "base/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -67,8 +67,6 @@
     "name": "Ovago (Classic)",
     "selectedTokenSets": {
       "core": "source",
-      "semantic/base-colors": "source",
-      "semantic/base-fonts": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -78,8 +76,10 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/ovago_classic": "enabled",
-      "semantic/semantic": "disabled",
-      "theme/default": "enabled"
+      "base/colors": "source",
+      "base/fonts": "enabled",
+      "base/theme": "enabled",
+      "base/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -88,8 +88,6 @@
     "name": "Kayak",
     "selectedTokenSets": {
       "core": "source",
-      "semantic/base-colors": "source",
-      "semantic/base-fonts": "enabled",
       "component/button": "source",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -99,8 +97,10 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/kayak": "enabled",
-      "semantic/semantic": "disabled",
-      "theme/default": "enabled"
+      "base/colors": "source",
+      "base/fonts": "enabled",
+      "base/theme": "enabled",
+      "base/semantic": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -109,8 +109,6 @@
     "name": "Ovago",
     "selectedTokenSets": {
       "core": "source",
-      "semantic/base-colors": "source",
-      "semantic/base-fonts": "enabled",
       "component/button": "enabled",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -120,8 +118,10 @@
       "component/badge": "source",
       "component/alert": "source",
       "theme/ovago": "enabled",
-      "semantic/semantic": "disabled",
-      "theme/default": "enabled"
+      "base/colors": "source",
+      "base/fonts": "enabled",
+      "base/theme": "enabled",
+      "base/semantic": "disabled"
     },
     "$figmaStyleReferences": {
       "base.display.xl.regular": "S:222ed31c853de2a0d7267d0dedee311d16cb12fc,",
@@ -437,8 +437,6 @@
     "name": "Default",
     "selectedTokenSets": {
       "core": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/base-fonts": "enabled",
       "component/button": "enabled",
       "component/icon-button": "source",
       "component/text-input": "source",
@@ -447,8 +445,10 @@
       "component/radio": "source",
       "component/badge": "source",
       "component/alert": "source",
-      "semantic/semantic": "enabled",
-      "theme/default": "enabled"
+      "base/colors": "enabled",
+      "base/fonts": "enabled",
+      "base/theme": "enabled",
+      "base/semantic": "enabled"
     },
     "$figmaStyleReferences": {
       "base.display.xl.regular": "S:6be1245314d983c23d8b8a1bf8dadc85adfbc8b7,",
