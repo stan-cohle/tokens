@@ -30,7 +30,7 @@
         "value": "{base.color.neutral.900}"
       },
       "success": {
-        "value": "{theme.utility.success}",
+        "value": "{base.color.success.600}",
         "type": "color"
       },
       "success-subtle": {
@@ -38,7 +38,7 @@
         "type": "color"
       },
       "warning": {
-        "value": "{theme.utility.warning}",
+        "value": "{base.color.warning.600}",
         "type": "color"
       },
       "warning-highlight": {
@@ -60,7 +60,7 @@
         "type": "color"
       },
       "danger": {
-        "value": "{theme.utility.danger}",
+        "value": "{base.color.danger.600}",
         "type": "color"
       },
       "danger-subtle": {
@@ -68,7 +68,7 @@
         "type": "color"
       },
       "info": {
-        "value": "{theme.utility.info}",
+        "value": "{base.color.info.600}",
         "type": "color"
       },
       "info-subtle": {
@@ -76,7 +76,7 @@
         "type": "color"
       },
       "brand": {
-        "value": "{theme.utility.brand}",
+        "value": "{base.color.primary.600}",
         "type": "color"
       },
       "brand-subtle": {
@@ -84,7 +84,7 @@
         "type": "color"
       },
       "accent": {
-        "value": "{theme.utility.accent}",
+        "value": "{theme.bg.brand}",
         "type": "color"
       },
       "accent-subtle": {
@@ -152,7 +152,7 @@
       },
       "success": {
         "type": "color",
-        "value": "{theme.utility.success}"
+        "value": "{theme.bg.success}"
       },
       "warning": {
         "type": "color",
@@ -160,23 +160,23 @@
       },
       "danger": {
         "type": "color",
-        "value": "{theme.utility.danger}"
+        "value": "{theme.bg.danger}"
       },
       "info": {
         "type": "color",
-        "value": "{theme.utility.info}"
+        "value": "{theme.bg.info}"
       },
       "brand": {
         "type": "color",
-        "value": "{theme.utility.brand}"
+        "value": "{theme.bg.brand}"
       },
       "accent": {
         "type": "color",
-        "value": "{theme.utility.accent}"
+        "value": "{theme.bg.accent}"
       },
       "link": {
         "type": "color",
-        "value": "{theme.utility.info}"
+        "value": "{theme.bg.info}"
       },
       "link-active": {
         "type": "color",
@@ -187,19 +187,6 @@
               "type": "darken",
               "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "hsl"
-            }
-          }
-        }
-      },
-      "danger-inversed": {
-        "type": "color",
-        "value": "{theme.utility.danger}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.48",
-              "space": "lch"
             }
           }
         }
@@ -252,7 +239,7 @@
       },
       "success": {
         "type": "color",
-        "value": "{theme.utility.success}"
+        "value": "{theme.bg.success}"
       },
       "success-subtle": {
         "type": "color",
@@ -261,7 +248,7 @@
       },
       "warning": {
         "type": "color",
-        "value": "{theme.utility.warning}"
+        "value": "{theme.bg.warning}"
       },
       "warning-subtle": {
         "type": "color",
@@ -270,7 +257,7 @@
       },
       "danger": {
         "type": "color",
-        "value": "{theme.utility.danger}",
+        "value": "{theme.bg.danger}",
         "description": "Use for borders communicating critical information, such as the borders on invalid text fields."
       },
       "danger-subtle": {
@@ -278,23 +265,9 @@
         "value": "{base.color.danger.300}",
         "description": "Use to emphasize an error or a blocking status."
       },
-      "danger-inversed": {
-        "type": "color",
-        "value": "{theme.border.danger}",
-        "description": "Use for borders communicating critical information, such as the borders on invalid text fields.",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{semantic.color.modifiers.mix-delta}",
-              "space": "lch"
-            }
-          }
-        }
-      },
       "info": {
         "type": "color",
-        "value": "{theme.utility.info}"
+        "value": "{theme.bg.info}"
       },
       "info-subtle": {
         "type": "color",
@@ -302,7 +275,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{theme.utility.brand}"
+        "value": "{theme.bg.brand}"
       },
       "brand-subtle": {
         "type": "color",
@@ -310,7 +283,7 @@
       },
       "accent": {
         "type": "color",
-        "value": "{theme.utility.accent}"
+        "value": "{theme.bg.accent}"
       },
       "accent-subtle": {
         "type": "color",
@@ -318,7 +291,7 @@
       },
       "focus": {
         "type": "color",
-        "value": "{theme.utility.brand}"
+        "value": "{theme.bg.brand}"
       }
     },
     "interactive": {
@@ -618,30 +591,6 @@
       },
       "missing-token": {
         "value": "#FA11F2",
-        "type": "color"
-      },
-      "brand": {
-        "value": "{base.color.primary.600}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{theme.utility.brand}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{base.color.success.600}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{base.color.warning.700}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{base.color.danger.600}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{base.color.info.600}",
         "type": "color"
       }
     },
