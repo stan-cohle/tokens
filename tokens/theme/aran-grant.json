@@ -209,7 +209,7 @@
   "theme": {
     "action-primary": {
       "default": {
-        "value": "{theme.bg.success.default}",
+        "value": "{theme.bg.success.bold}",
         "type": "color"
       }
     },
@@ -221,15 +221,15 @@
     },
     "interactive": {
       "bg-default": {
-        "value": "{theme.bg.inversed}",
+        "value": "{theme.bg.neutral.inversed}",
         "type": "color"
       },
       "border": {
-        "value": "{theme.bg.inversed}",
+        "value": "{theme.bg.neutral.inversed}",
         "type": "color"
       },
       "bg-selected": {
-        "value": "{theme.bg.inset}",
+        "value": "{theme.bg.neutral.inset}",
         "type": "color"
       }
     }
