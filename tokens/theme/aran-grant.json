@@ -221,15 +221,15 @@
     },
     "interactive": {
       "bg-default": {
-        "value": "{theme.bg.neutral.inversed}",
+        "value": "{theme.bg.inverse}",
         "type": "color"
       },
       "border": {
-        "value": "{theme.bg.neutral.inversed}",
+        "value": "{theme.bg.inverse}",
         "type": "color"
       },
       "bg-selected": {
-        "value": "{theme.bg.neutral.inset}",
+        "value": "{theme.bg.inset}",
         "type": "color"
       }
     }
