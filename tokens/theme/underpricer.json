@@ -13,11 +13,11 @@
       "type": "color"
     },
     "subheader": {
-      "value": "{theme.bg.inverse}",
+      "value": "{theme.bg.inverse-default}",
       "type": "color"
     },
     "footer": {
-      "value": "{theme.bg.inverse}",
+      "value": "{theme.bg.inverse-default}",
       "type": "color"
     }
   },

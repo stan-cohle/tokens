@@ -17,7 +17,11 @@
         "type": "color",
         "value": "{base.color.neutral.100}"
       },
-      "inverse": {
+      "disabled": {
+        "value": "{base.color.neutral.200}",
+        "type": "color"
+      },
+      "inverse-default": {
         "type": "color",
         "value": "{base.color.neutral.1000}"
       },
@@ -51,7 +55,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": " {core.opacity.1000}",
+              "value": " {core.opacity.800}",
               "space": "lch"
             }
           }
@@ -82,10 +86,6 @@
               }
             }
           }
-        },
-        "disabled": {
-          "value": "{base.color.neutral.200}",
-          "type": "color"
         }
       },
       "success": {
@@ -258,7 +258,7 @@
         "type": "color",
         "description": "place holder/ disabled text"
       },
-      "inverse": {
+      "inverse-default": {
         "value": "{base.color.white}",
         "type": "color"
       },
@@ -300,6 +300,10 @@
       "danger": {
         "type": "color",
         "value": "{theme.bg.danger.base}"
+      },
+      "inverse-danger": {
+        "type": "color",
+        "value": "{base.color.danger.400}"
       },
       "info": {
         "type": "color",
@@ -364,7 +368,7 @@
         "value": "{base.color.neutral.600}",
         "type": "color"
       },
-      "inverse": {
+      "inverse-default": {
         "value": "rgba({base.color.white}, {core.opacity.200})",
         "type": "color"
       },
@@ -391,18 +395,19 @@
       },
       "warning-subtle": {
         "type": "color",
-        "value": "{base.color.warning.300}",
-        "description": "Use to highlight elements that require a users attention or pending statuses."
+        "value": "{base.color.warning.300}"
       },
       "danger": {
         "type": "color",
-        "value": "{theme.bg.danger.base}",
-        "description": "Use for borders communicating critical information, such as the borders on invalid text fields."
+        "value": "{theme.bg.danger.base}"
       },
       "danger-subtle": {
         "type": "color",
-        "value": "{base.color.danger.300}",
-        "description": "Use to emphasize an error or a blocking status."
+        "value": "{base.color.danger.300}"
+      },
+      "inverse-danger": {
+        "type": "color",
+        "value": "{theme.bg.danger.tint}"
       },
       "info": {
         "type": "color",
@@ -546,7 +551,7 @@
             }
           },
           "fg": {
-            "value": "{theme.fg.inverse}",
+            "value": "{theme.fg.inverse-default}",
             "type": "color"
           }
         },
@@ -572,7 +577,7 @@
             "type": "color"
           },
           "fg-hover": {
-            "value": "{theme.fg.inverse}",
+            "value": "{theme.fg.inverse-default}",
             "type": "color"
           }
         },
@@ -608,7 +613,7 @@
             }
           },
           "fg": {
-            "value": "{theme.fg.inverse}",
+            "value": "{theme.fg.inverse-default}",
             "type": "color"
           }
         },
@@ -644,7 +649,7 @@
             }
           },
           "fg": {
-            "value": "{theme.fg.inverse}",
+            "value": "{theme.fg.inverse-default}",
             "type": "color"
           }
         },

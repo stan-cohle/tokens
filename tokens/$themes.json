@@ -391,19 +391,15 @@
       "theme.bg.danger.subtle": "S:4a9311024467f05e560c7637c17bfa35ceb28222,",
       "theme.bg.warning.subtle": "S:e14c14f1563b446c8c9dcdc92ed38756c9feafbf,",
       "theme.bg.success.subtle": "S:db1909af4ffda740b699ea71030c301bbbe27590,",
-      "theme.bg.neutral.disabled": "S:4f08cce255bb9455711c450fbb70afd4c901e0df,",
       "theme.bg.muted": "S:844f8b439e08698150d378b996db49abc5772d4d,",
       "theme.bg.inset": "S:52c0573d065a3d16e909d186c9e468a7a39ce1bc,",
       "theme.bg.canvas": "S:c7bf941bccbf984a322f74d680cc8a5bb538f8d6,",
       "theme.bg.scrim": "S:cab714ba2886d8d581ce1f7c27223fe41e2844de,",
       "theme.border.inverse-strong": "S:d6e635f0d612a555c448c319bdecaafbf490e532,",
       "theme.border.inverse-muted": "S:84fbb71cfb803a8abd47d8c15c9040ca49edd598,",
-      "theme.border.inverse": "S:e761e2a6d8a0554513bead6bc32619c0533a5885,",
-      "theme.bg.inverse": "S:3e0262c3dc11b30d862e516d5e562293e21fec55,",
       "theme.bg.inverse-muted": "S:c49ce210d602f7bc2a627bf5c0cdad119931ab8a,",
       "theme.fg.inverse-strong": "S:9c78941e65c6976f26f9b16a671095b335e31194,",
       "theme.fg.inverse-weak": "S:903ff396ae0cfc205de8f1f11b5c7188bdac386a,",
-      "theme.fg.inverse": "S:de7fe1083b76a7274bf15ec79d4c5e5bb57b4600,",
       "theme.fg.primary": "S:db5989b558eae73884a83ead200ee964406893cd,",
       "theme.border.primary": "S:0737c576e9278ec8043b30b0fc4ade422f0364d6,",
       "theme.border.primary-subtle": "S:3398acc0f0a0ccabf60935320013e642ae19d801,",
@@ -413,7 +409,11 @@
       "theme.bg.danger.base": "S:5e4c6c5b170d91248bd5eab7441d15ef782de400,",
       "theme.bg.warning.base": "S:e7b7b3741702598325b9cb68d5255013974f6c75,",
       "theme.bg.accent.base": "S:2f6bf1653804f144b909cb9d4c8a7d14fd93fed7,",
-      "theme.bg.highlight": "S:c7e80ca425d959c4d6012e1073315d8b8ef084ae,"
+      "theme.bg.highlight": "S:c7e80ca425d959c4d6012e1073315d8b8ef084ae,",
+      "theme.bg.inverse-default": "S:3e0262c3dc11b30d862e516d5e562293e21fec55,",
+      "theme.bg.disabled": "S:4f08cce255bb9455711c450fbb70afd4c901e0df,",
+      "theme.fg.inverse-default": "S:de7fe1083b76a7274bf15ec79d4c5e5bb57b4600,",
+      "theme.border.inverse-default": "S:e761e2a6d8a0554513bead6bc32619c0533a5885,"
     }
   },
   {
@@ -430,7 +430,7 @@
       "component/badge": "source",
       "component/alert": "source",
       "base/colors": "enabled",
-      "base/fonts": "enabled",
+      "base/fonts": "source",
       "base/theme": "enabled",
       "base/semantic": "enabled"
     },
@@ -786,7 +786,6 @@
       "theme.bg.default.active": "S:de5861e6e20f01410eac31d999b0c110498bebaa,",
       "theme.bg.default.fg": "S:339215f6661778e01a293e32a2d2f428d19d36b8,",
       "theme.bg.neutral.subtle": "S:6007e8bd7e16f9010d169e0533d93ab53b0999d6,",
-      "theme.bg.neutral.disabled": "S:8ff642367eea3fa536c14b6e14e56a03e290bfa6,",
       "theme.bg.muted": "S:70ed07a00a548e53e2b6364fbe984b58e49deabb,",
       "theme.bg.inset": "S:7175f78b4da27c4733215213de50614e36b1839d,",
       "theme.bg.canvas": "S:505e5223bc2f99eb1a4a2b40ef3720734bce0966,",
@@ -800,12 +799,9 @@
       "theme.bg.accent.muted": "S:c0d96aa57bdb0898bdd8a2e6a5f1ae3d949d3017,",
       "theme.border.inverse-strong": "S:983fb46b218b25b56cc4ab00314bd7e99639aa93,",
       "theme.border.inverse-muted": "S:3616806ef6eec90dcba7f2d27112e532dd68aa97,",
-      "theme.border.inverse": "S:71850df9864c30bc31a031067079a77001b148e6,",
-      "theme.bg.inverse": "S:ed81beb5331380d8d9708df0fa7c9c80cab954fe,",
       "theme.bg.inverse-muted": "S:351ef4379889a051f28c660b4a18d80673477723,",
       "theme.fg.inverse-strong": "S:93f5168c891563797fe24ec69e5497e9467489cb,",
       "theme.fg.inverse-weak": "S:fae7b813464f149220926b13c2184f56f152d744,",
-      "theme.fg.inverse": "S:e1ffd150a3829710da90bb4e181df58b93c66801,",
       "theme.fg.primary": "S:1c1069f76c4f5b35ddc008c61a42f79b9e76dd8d,",
       "theme.border.primary": "S:53fd90449da9683e9daae9b9127ce91080876426,",
       "theme.border.primary-subtle": "S:d16ef0054a209f93483eb7fde9f7f47836565056,",
@@ -907,7 +903,11 @@
       "theme.bg.accent.base": "S:1d2f103e0a6d43faa2233667954c616487994512,",
       "theme.bg.accent.tone": "S:90fa1191626650837d9d9ef2d3c2425828864a46,",
       "theme.bg.accent.tint": "S:dd21c5d4706ca1a763fcd9c098a1c5752a81356b,",
-      "theme.bg.highlight": "S:4875a8b46bb57f9d63a20d7ac7401bc4ed47a9e5,"
+      "theme.bg.highlight": "S:4875a8b46bb57f9d63a20d7ac7401bc4ed47a9e5,",
+      "theme.bg.inverse-default": "S:ed81beb5331380d8d9708df0fa7c9c80cab954fe,",
+      "theme.bg.disabled": "S:8ff642367eea3fa536c14b6e14e56a03e290bfa6,",
+      "theme.fg.inverse-default": "S:e1ffd150a3829710da90bb4e181df58b93c66801,",
+      "theme.border.inverse-default": "S:71850df9864c30bc31a031067079a77001b148e6,"
     }
   }
 ]
