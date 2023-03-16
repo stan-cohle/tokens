@@ -141,7 +141,7 @@
           "type": "color"
         },
         "white-to-primary": {
-          "value": "linear-gradient(90deg, rgba({theme.bg.brand}, 0) 0%, {theme.bg.brand} 100%)",
+          "value": "linear-gradient(90deg, rgba({theme.bg.primary.default}, 0) 0%, {theme.bg.primary.default} 100%)",
           "type": "color"
         }
       }

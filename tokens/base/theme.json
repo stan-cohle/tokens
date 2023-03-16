@@ -3,7 +3,23 @@
     "bg": {
       "default": {
         "type": "color",
-        "value": "{base.color.white}"
+        "value": "{base.color.white}",
+        "default": {
+          "type": "color",
+          "value": "{theme.bg.default}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{theme.bg.neutral.default}"
+        },
+        "active": {
+          "type": "color",
+          "value": "{theme.bg.neutral.hover}"
+        },
+        "fg": {
+          "value": "{theme.fg.strong}",
+          "type": "color"
+        }
       },
       "muted": {
         "type": "color",
@@ -29,20 +45,57 @@
         "type": "color",
         "value": "{base.color.neutral.900}"
       },
-      "success": {
-        "value": "{base.color.success.600}",
-        "type": "color"
+      "neutral": {
+        "value": "{base.color.neutral.800}",
+        "type": "color",
+        "default": {
+          "type": "color",
+          "value": "{theme.bg.neutral}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{core.opacity.100}",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "hover": {
+          "type": "color",
+          "value": "{theme.bg.neutral.default}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "srgb",
+                "color": "{theme.utility.neutral}"
+              }
+            }
+          }
+        },
+        "active": {
+          "type": "color",
+          "value": "{theme.bg.neutral.default}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "srgb",
+                "color": "{theme.utility.neutral}"
+              }
+            }
+          }
+        },
+        "fg": {
+          "value": "{theme.fg.strong}",
+          "type": "color"
+        }
       },
-      "success-subtle": {
-        "value": "{base.color.success.100}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{base.color.warning.600}",
-        "type": "color"
-      },
-      "warning-highlight": {
-        "value": "{theme.bg.warning-subtle}",
+      "highlight": {
+        "value": "{theme.bg.warning.subtle}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -54,46 +107,6 @@
             }
           }
         }
-      },
-      "warning-subtle": {
-        "value": "{base.color.warning.100}",
-        "type": "color"
-      },
-      "danger": {
-        "value": "{base.color.danger.600}",
-        "type": "color"
-      },
-      "danger-subtle": {
-        "value": "{base.color.danger.100}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{base.color.info.600}",
-        "type": "color"
-      },
-      "info-subtle": {
-        "value": "{base.color.info.100}",
-        "type": "color"
-      },
-      "brand": {
-        "value": "{base.color.primary.600}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{base.color.primary.100}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{theme.bg.brand}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{base.color.primary.100}",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "{base.color.neutral.800}",
-        "type": "color"
       },
       "scrim": {
         "value": "{base.color.neutral.900}",
@@ -107,6 +120,250 @@
               "space": "lch"
             }
           }
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{base.color.success.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.bg.success.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.bg.success.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "on-success": {
+          "value": "{theme.fg.inversed}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{base.color.success.100}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "{base.color.warning.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.bg.warning.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.bg.warning.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "srgb",
+                "color": "{theme.bg.danger}"
+              }
+            }
+          }
+        },
+        "on-warning": {
+          "value": "{theme.fg.inversed}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{base.color.warning.100}",
+          "type": "color"
+        }
+      },
+      "danger": {
+        "default": {
+          "value": "{base.color.danger.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.bg.danger.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.bg.danger.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "srgb",
+                "color": "{theme.bg.danger}"
+              }
+            }
+          }
+        },
+        "on-danger": {
+          "value": "{theme.fg.inversed}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{base.color.danger.100}",
+          "type": "color"
+        }
+      },
+      "info": {
+        "default": {
+          "value": "{base.color.info.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.bg.info.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "active-copy": {
+          "value": "{theme.bg.info.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "on-info": {
+          "value": "{theme.fg.inversed}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{base.color.info.100}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "default": {
+          "value": "{base.color.primary.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.bg.primary.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "srgb",
+                "color": "{semantic.color.modifiers.button.hover-mod}"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.bg.primary.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "on-primary": {
+          "value": "{theme.fg.inversed}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{base.color.primary.100}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "default": {
+          "value": "{theme.bg.primary.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.bg.accent.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "srgb",
+                "color": "{semantic.color.modifiers.button.hover-mod}"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.bg.accent.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "srgb"
+              }
+            }
+          }
+        },
+        "on-accent": {
+          "value": "{theme.fg.inversed}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{base.color.primary.100}",
+          "type": "color"
         }
       }
     },
@@ -152,7 +409,7 @@
       },
       "success": {
         "type": "color",
-        "value": "{theme.bg.success}"
+        "value": "{theme.bg.success.default}"
       },
       "warning": {
         "type": "color",
@@ -160,23 +417,23 @@
       },
       "danger": {
         "type": "color",
-        "value": "{theme.bg.danger}"
+        "value": "{theme.bg.danger.default}"
       },
       "info": {
         "type": "color",
-        "value": "{theme.bg.info}"
+        "value": "{theme.bg.info.default}"
       },
       "brand": {
         "type": "color",
-        "value": "{theme.bg.brand}"
+        "value": "{theme.bg.primary.default}"
       },
       "accent": {
         "type": "color",
-        "value": "{theme.bg.accent}"
+        "value": "{theme.bg.accent.default}"
       },
       "link": {
         "type": "color",
-        "value": "{theme.bg.info}"
+        "value": "{theme.bg.info.default}"
       },
       "link-active": {
         "type": "color",
@@ -239,7 +496,7 @@
       },
       "success": {
         "type": "color",
-        "value": "{theme.bg.success}"
+        "value": "{theme.bg.success.default}"
       },
       "success-subtle": {
         "type": "color",
@@ -248,7 +505,7 @@
       },
       "warning": {
         "type": "color",
-        "value": "{theme.bg.warning}"
+        "value": "{theme.bg.warning.default}"
       },
       "warning-subtle": {
         "type": "color",
@@ -257,7 +514,7 @@
       },
       "danger": {
         "type": "color",
-        "value": "{theme.bg.danger}",
+        "value": "{theme.bg.danger.default}",
         "description": "Use for borders communicating critical information, such as the borders on invalid text fields."
       },
       "danger-subtle": {
@@ -267,7 +524,7 @@
       },
       "info": {
         "type": "color",
-        "value": "{theme.bg.info}"
+        "value": "{theme.bg.info.default}"
       },
       "info-subtle": {
         "type": "color",
@@ -275,7 +532,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{theme.bg.brand}"
+        "value": "{theme.bg.primary.default}"
       },
       "brand-subtle": {
         "type": "color",
@@ -283,7 +540,7 @@
       },
       "accent": {
         "type": "color",
-        "value": "{theme.bg.accent}"
+        "value": "{theme.bg.accent.default}"
       },
       "accent-subtle": {
         "type": "color",
@@ -291,13 +548,13 @@
       },
       "focus": {
         "type": "color",
-        "value": "{theme.bg.brand}"
+        "value": "{theme.bg.primary.default}"
       }
     },
     "interactive": {
       "default": {
         "type": "color",
-        "value": "{theme.bg.brand}"
+        "value": "{theme.bg.primary.default}"
       },
       "hover": {
         "type": "color",
@@ -373,217 +630,6 @@
         "type": "color"
       }
     },
-    "action-primary": {
-      "default": {
-        "value": "{theme.bg.brand}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{theme.action-primary.default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.hover-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "active": {
-        "value": "{theme.action-primary.default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "fg": {
-        "value": "{theme.fg.inversed}",
-        "type": "color"
-      }
-    },
-    "action-accent": {
-      "default": {
-        "value": "{theme.bg.accent}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{theme.action-accent.default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.hover-mod}",
-              "space": "srgb",
-              "color": "{semantic.color.modifiers.button.hover-mod}"
-            }
-          }
-        }
-      },
-      "active": {
-        "value": "{theme.action-accent.default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "fg": {
-        "value": "{theme.fg.inversed}",
-        "type": "color"
-      }
-    },
-    "action-success": {
-      "default": {
-        "value": "{theme.bg.success}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{theme.action-success.default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.hover-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "active": {
-        "value": "{theme.action-success.default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.pressed-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "fg": {
-        "value": "{theme.fg.inversed}",
-        "type": "color"
-      }
-    },
-    "action-danger": {
-      "default": {
-        "value": "{theme.bg.danger}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{theme.bg.danger}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.hover-mod}",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "active": {
-        "value": "{theme.bg.danger}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.pressed-mod}",
-              "space": "srgb",
-              "color": "{theme.bg.danger}"
-            }
-          }
-        }
-      },
-      "fg": {
-        "value": "{theme.fg.inversed}",
-        "type": "color"
-      }
-    },
-    "action-neutral": {
-      "default": {
-        "type": "color",
-        "value": "{theme.bg.neutral}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "{core.opacity.100}",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "hover": {
-        "type": "color",
-        "value": "{theme.action-neutral.default}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "mix",
-              "value": "{semantic.color.modifiers.button.hover-mod}",
-              "space": "srgb",
-              "color": "{theme.utility.neutral}"
-            }
-          }
-        }
-      },
-      "active": {
-        "type": "color",
-        "value": "{theme.action-neutral.default}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "mix",
-              "value": "{semantic.color.modifiers.button.pressed-mod}",
-              "space": "srgb",
-              "color": "{theme.utility.neutral}"
-            }
-          }
-        }
-      },
-      "fg": {
-        "value": "{theme.fg.strong}",
-        "type": "color"
-      }
-    },
-    "action-default": {
-      "default": {
-        "type": "color",
-        "value": "{theme.bg.default}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{theme.action-neutral.default}"
-      },
-      "active": {
-        "type": "color",
-        "value": "{theme.action-neutral.hover}"
-      },
-      "fg": {
-        "value": "{theme.fg.strong}",
-        "type": "color"
-      }
-    },
     "utility": {
       "transparent": {
         "value": "{base.color.transparent}",
@@ -596,7 +642,7 @@
     },
     "presets": {
       "header": {
-        "value": "{theme.bg.brand}",
+        "value": "{theme.bg.primary.default}",
         "type": "color"
       },
       "subheader": {
@@ -780,7 +826,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.action-primary.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.primary.default}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -793,7 +839,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.action-accent.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.accent.default}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -806,7 +852,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.action-success.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.success.default}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -819,7 +865,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.action-danger.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.danger.default}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
