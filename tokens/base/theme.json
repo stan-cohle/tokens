@@ -48,7 +48,7 @@
           "studio.tokens": {
             "modify": {
               "type": "mix",
-              "value": "{base.color.modifiers.mix-delta}",
+              "value": "{semantic.color.modifiers.mix-delta}",
               "space": "lch",
               "color": "{theme.bg.warning}"
             }
@@ -185,7 +185,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
+              "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "hsl"
             }
           }
@@ -286,7 +286,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "{base.color.modifiers.mix-delta}",
+              "value": "{semantic.color.modifiers.mix-delta}",
               "space": "lch"
             }
           }
@@ -333,7 +333,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
               "space": "srgb"
             }
           }
@@ -346,7 +346,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
+              "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "srgb"
             }
           }
@@ -375,18 +375,8 @@
         "value": "{theme.bg.inset}"
       },
       "border-default": {
-        "value": "{theme.border.strong}",
-        "type": "color",
-        "description": "default border",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "lch"
-            }
-          }
-        }
+        "value": "{theme.border.default}",
+        "type": "color"
       },
       "border-hover": {
         "value": "{theme.border.strong}",
@@ -395,23 +385,19 @@
       },
       "border-focus": {
         "value": "{theme.border.focus}",
-        "type": "color",
-        "description": "default border"
+        "type": "color"
       },
       "border-error": {
         "value": "{theme.border.danger}",
-        "type": "color",
-        "description": "default border"
+        "type": "color"
       },
       "fg-placeholder": {
         "value": "{theme.fg.disabled}",
-        "type": "color",
-        "description": "place holder/ disabled text"
+        "type": "color"
       },
       "fg-default": {
         "value": "{theme.fg.default}",
-        "type": "color",
-        "description": "place holder/ disabled text"
+        "type": "color"
       }
     },
     "action-primary": {
@@ -426,7 +412,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
               "space": "srgb"
             }
           }
@@ -439,7 +425,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
+              "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "srgb"
             }
           }
@@ -462,9 +448,9 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
               "space": "srgb",
-              "color": "{base.color.modifiers.button.hover-mod}"
+              "color": "{semantic.color.modifiers.button.hover-mod}"
             }
           }
         }
@@ -476,7 +462,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
+              "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "srgb"
             }
           }
@@ -499,7 +485,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
               "space": "srgb"
             }
           }
@@ -512,7 +498,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
+              "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "srgb"
             }
           }
@@ -535,7 +521,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.hover-mod}",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
               "space": "srgb"
             }
           }
@@ -548,7 +534,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.button.pressed-mod}",
+              "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "srgb",
               "color": "{theme.bg.danger}"
             }
@@ -581,7 +567,7 @@
           "studio.tokens": {
             "modify": {
               "type": "mix",
-              "value": "{base.color.modifiers.button.hover-mod}",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
               "space": "srgb",
               "color": "{theme.utility.neutral}"
             }
@@ -595,7 +581,7 @@
           "studio.tokens": {
             "modify": {
               "type": "mix",
-              "value": "{base.color.modifiers.button.pressed-mod}",
+              "value": "{semantic.color.modifiers.button.pressed-mod}",
               "space": "srgb",
               "color": "{theme.utility.neutral}"
             }
@@ -671,7 +657,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "{base.color.modifiers.mix-delta}",
+              "value": "{semantic.color.modifiers.mix-delta}",
               "space": "lch"
             }
           }
