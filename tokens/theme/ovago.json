@@ -127,33 +127,19 @@
       }
     }
   },
-  "presets": {
-    "header": {
-      "type": "color",
-      "value": "{base.color.primary.600}"
-    },
-    "subheader": {
-      "type": "color",
-      "value": "{base.color.other.purple-gradient}"
-    },
-    "controls": {
-      "type": "color",
-      "value": "{base.color.primary.600}"
-    },
-    "footer": {
-      "type": "color",
-      "value": "{base.color.other.midnight}"
-    }
-  },
   "theme": {
-    "utility": {
-      "accent": {
-        "value": "{base.color.accent.600}",
-        "type": "color"
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{base.color.primary.600}"
       },
-      "brand": {
-        "value": "{base.color.primary.600}",
-        "type": "color"
+      "subheader": {
+        "type": "color",
+        "value": "{base.color.other.purple-gradient}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{base.color.other.midnight}"
       }
     }
   }
