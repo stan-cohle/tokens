@@ -9,7 +9,8 @@
             "paddingLeft": "{comp.button.small.hor-padding}",
             "paddingRight": "{comp.button.small.hor-padding}",
             "borderWidth": "{comp.button.small.border-width}",
-            "borderRadius": "{comp.button.small.border-radius}"
+            "borderRadius": "{comp.button.small.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         },
@@ -42,7 +43,8 @@
             "paddingLeft": "{comp.button.small.vert-padding}",
             "paddingRight": "{comp.button.small.vert-padding}",
             "borderWidth": "{comp.button.small.border-width}",
-            "borderRadius": "{comp.button.small.border-radius}"
+            "borderRadius": "{comp.button.small.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         }
@@ -55,7 +57,8 @@
             "paddingLeft": "{comp.button.medium.hor-padding}",
             "paddingRight": "{comp.button.medium.hor-padding}",
             "borderWidth": "{comp.button.medium.border-width}",
-            "borderRadius": "{comp.button.medium.border-radius}"
+            "borderRadius": "{comp.button.medium.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         },
@@ -88,7 +91,8 @@
             "paddingLeft": "{comp.button.medium.vert-padding}",
             "paddingRight": "{comp.button.medium.vert-padding}",
             "borderWidth": "{comp.button.medium.border-width}",
-            "borderRadius": "{comp.button.medium.border-radius}"
+            "borderRadius": "{comp.button.medium.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         }
@@ -101,7 +105,8 @@
             "paddingLeft": "{comp.button.large.hor-padding}",
             "paddingRight": "{comp.button.large.hor-padding}",
             "borderWidth": "{comp.button.large.border-width}",
-            "borderRadius": "{comp.button.large.border-radius}"
+            "borderRadius": "{comp.button.large.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         },
@@ -134,7 +139,8 @@
             "paddingLeft": "{comp.button.large.vert-padding}",
             "paddingRight": "{comp.button.large.vert-padding}",
             "borderWidth": "{comp.button.large.border-width}",
-            "borderRadius": "{comp.button.large.border-radius}"
+            "borderRadius": "{comp.button.large.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         }
@@ -146,9 +152,9 @@
             "paddingBottom": "{comp.button.x-large.vert-padding}",
             "paddingLeft": "{comp.button.x-large.hor-padding}",
             "paddingRight": "{comp.button.x-large.hor-padding}",
-            "borderWidth": "{semantic.border-width.md}",
-            "borderRadius": "{semantic.border-radius.container.md}",
-            "itemSpacing": "{semantic.spacing.none}"
+            "borderWidth": "{comp.button.x-large.border-width}",
+            "borderRadius": "{comp.button.x-large.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         },
@@ -158,8 +164,8 @@
             "paddingBottom": "{comp.button.x-large.vert-padding}",
             "paddingLeft": "{comp.button.x-large.hor-padding}-{semantic.spacing.x-small}",
             "paddingRight": "{comp.button.x-large.hor-padding}",
-            "borderWidth": "{semantic.border-width.md}",
-            "borderRadius": "{semantic.border-radius.container.md}",
+            "borderWidth": "{comp.button.x-large.border-width}",
+            "borderRadius": "{comp.button.x-large.border-radius}",
             "itemSpacing": "{comp.button.x-large.item-spacing}"
           },
           "type": "composition"
@@ -170,8 +176,8 @@
             "paddingBottom": "{comp.button.x-large.vert-padding}",
             "paddingLeft": "{comp.button.x-large.hor-padding}",
             "paddingRight": "{comp.button.x-large.hor-padding}-{semantic.spacing.x-small}",
-            "borderWidth": "{semantic.border-width.md}",
-            "borderRadius": "{semantic.border-radius.container.md}",
+            "borderWidth": "{comp.button.x-large.border-width}",
+            "borderRadius": "{comp.button.x-large.border-radius}",
             "itemSpacing": "{comp.button.x-large.item-spacing}"
           },
           "type": "composition"
@@ -182,9 +188,9 @@
             "paddingBottom": "{comp.button.x-large.vert-padding}",
             "paddingLeft": "{comp.button.x-large.vert-padding}",
             "paddingRight": "{comp.button.x-large.vert-padding}",
-            "borderWidth": "{semantic.border-width.md}",
-            "borderRadius": "{semantic.border-radius.container.md}",
-            "itemSpacing": "{semantic.spacing.none}"
+            "borderWidth": "{comp.button.x-large.border-width}",
+            "borderRadius": "{comp.button.x-large.border-radius}",
+            "itemSpacing": "{comp.button.no-spacing}"
           },
           "type": "composition"
         }
@@ -288,7 +294,7 @@
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{semantic.border-radius.container.sm}",
+          "value": "{semantic.border-radius.action.md}",
           "type": "borderRadius"
         },
         "border-width": {
@@ -323,13 +329,17 @@
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{semantic.border-radius.container.sm}",
+          "value": "{semantic.border-radius.action.md}",
           "type": "borderRadius"
         },
         "border-width": {
           "value": "{semantic.border-width.md}",
           "type": "borderWidth"
         }
+      },
+      "no-spacing": {
+        "value": "{semantic.spacing.none}",
+        "type": "spacing"
       }
     }
   }
