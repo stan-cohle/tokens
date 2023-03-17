@@ -835,73 +835,6 @@
         "description": "11 regular"
       }
     },
-    "focus": {
-      "default": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "4",
-            "color": "rgba({theme.border.focus}, {core.opacity.300})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "primary": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "4",
-            "color": "rgba({theme.bg.primary.base}, {core.opacity.300})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "accent": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "4",
-            "color": "rgba({theme.bg.accent.base}, {core.opacity.300})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "success": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "4",
-            "color": "rgba({theme.bg.success.base}, {core.opacity.300})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "danger": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "4",
-            "color": "rgba({theme.bg.danger.base}, {core.opacity.300})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      }
-    },
     "shadow": {
       "card": {
         "value": [
@@ -975,6 +908,73 @@
             "y": "-16",
             "blur": "24",
             "spread": "-8"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
+    "focus": {
+      "default": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({theme.border.focus}, {core.opacity.300})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "primary": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({theme.bg.primary.base}, {core.opacity.300})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "accent": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({theme.bg.accent.base}, {core.opacity.300})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "success": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({theme.bg.success.base}, {core.opacity.300})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "danger": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({theme.bg.danger.base}, {core.opacity.300})",
+            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"
