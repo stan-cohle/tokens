@@ -33,10 +33,6 @@
         "type": "color",
         "value": "{base.color.neutral.800}"
       },
-      "highlight": {
-        "value": "{base.color.warning.200}",
-        "type": "color"
-      },
       "scrim": {
         "value": "rgba({base.color.neutral.900},{core.opacity.800})",
         "type": "color",
@@ -81,6 +77,10 @@
           "value": "{base.color.success.300}",
           "type": "color"
         },
+        "highlight": {
+          "value": "{base.color.success.200}",
+          "type": "color"
+        },
         "subtle": {
           "value": "{base.color.success.100}",
           "type": "color"
@@ -101,6 +101,10 @@
         },
         "muted": {
           "value": "{base.color.warning.300}",
+          "type": "color"
+        },
+        "highlight": {
+          "value": "{base.color.warning.200}",
           "type": "color"
         },
         "subtle": {
@@ -125,6 +129,10 @@
           "value": "{base.color.danger.300}",
           "type": "color"
         },
+        "highlight": {
+          "value": "{base.color.danger.200}",
+          "type": "color"
+        },
         "subtle": {
           "value": "{base.color.danger.100}",
           "type": "color"
@@ -145,6 +153,10 @@
         },
         "muted": {
           "value": "{base.color.info.300}",
+          "type": "color"
+        },
+        "highlight": {
+          "value": "{base.color.info.200}",
           "type": "color"
         },
         "subtle": {
