@@ -224,7 +224,7 @@
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{semantic.border-radius.container.sm}",
+          "value": "{semantic.border-radius.action.sm}",
           "type": "borderRadius"
         },
         "border-width": {
@@ -259,7 +259,7 @@
           "type": "sizing"
         },
         "border-radius": {
-          "value": "{semantic.border-radius.container.sm}",
+          "value": "{semantic.border-radius.action.sm}",
           "type": "borderRadius"
         },
         "border-width": {
