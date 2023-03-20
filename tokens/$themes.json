@@ -113,7 +113,7 @@
       "component/switch": "source",
       "component/checkbox": "source",
       "component/radio": "source",
-      "component/badge": "source",
+      "component/badge": "enabled",
       "component/alert": "source",
       "base/theme": "enabled"
     },
