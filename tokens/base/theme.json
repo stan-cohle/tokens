@@ -326,18 +326,6 @@
             }
           }
         }
-      },
-      "on-primary": {
-        "value": "{theme.fg.inverse-default}",
-        "type": "color"
-      },
-      "on-accent": {
-        "value": "{theme.fg.inverse-default}",
-        "type": "color"
-      },
-      "on-success": {
-        "value": "{theme.fg.inverse-default}",
-        "type": "color"
       }
     },
     "border": {
@@ -454,6 +442,10 @@
               }
             }
           }
+        },
+        "on-primary": {
+          "value": "{theme.fg.inverse-default}",
+          "type": "color"
         }
       },
       "accent": {
@@ -486,6 +478,10 @@
               }
             }
           }
+        },
+        "on-accent": {
+          "value": "{theme.fg.inverse-default}",
+          "type": "color"
         }
       },
       "success": {
@@ -518,6 +514,10 @@
               }
             }
           }
+        },
+        "on-success": {
+          "value": "{theme.fg.inverse-default}",
+          "type": "color"
         }
       },
       "neutral": {

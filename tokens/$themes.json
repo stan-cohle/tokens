@@ -306,15 +306,12 @@
       "theme.action.primary.default": "S:98f1536611f9aedcc949ee05cfbb6a20435f3d64,",
       "theme.action.primary.hover": "S:ccda4a946b91baf75a2185e43700034fceaea50f,",
       "theme.action.primary.pressed": "S:8a4c2d42181a62051545840c70537e70cd262a30,",
-      "theme.fg.on-primary": "S:5b48126d953666c9a3b768bd2cafdcaf11b5b74f,",
       "theme.action.accent.default": "S:aa5f16eae684e3cefce7b9c0bed7865dacac386b,",
       "theme.action.accent.hover": "S:6ee449cd1f853cfd42c634cf4ddc19dc172d9962,",
       "theme.action.accent.pressed": "S:1b55925016c7f03a94a1e4bcf09e4019114d02fe,",
-      "theme.fg.on-accent": "S:cfd5083c04159730f5204c9d6c080c3636d2798d,",
       "theme.action.success.default": "S:d3c95f4ad968101e369f73f82a3d6a82b4628586,",
       "theme.action.success.hover": "S:3fb8f6e04bc2639d68dd55221d993f029f799ebb,",
       "theme.action.success.pressed": "S:32c22a1371e92f49db869ba097416e629978c950,",
-      "theme.fg.on-success": "S:f1806b35b4cff4e34c05873aefbb722aa49115ff,",
       "theme.action.neutral.default": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
       "theme.action.neutral.hover": "S:b5b82de89dbeb9f33deb9d1f8d7da670c2f24c23,",
       "theme.action.neutral.pressed": "S:786082f2ca75640a17b1921c7025138ed0d6ebf6,",
@@ -350,7 +347,10 @@
       "theme.interactive.default": "S:a5d87885247b1e4ce14376c0b48589f48d5d6ae6,",
       "theme.interactive.hover": "S:d5b4473c443dcbdfbaaa5aa9914b2e8fc02e452b,",
       "theme.interactive.pressed": "S:6772bc926d10d7a2773d7b1038a2ea3e9fba3a7d,",
-      "theme.interactive.selected": "S:67e8632ad9fca223db728259709a8828f4e5beb8,"
+      "theme.interactive.selected": "S:67e8632ad9fca223db728259709a8828f4e5beb8,",
+      "theme.action.primary.on-primary": "S:5b48126d953666c9a3b768bd2cafdcaf11b5b74f,",
+      "theme.action.accent.on-accent": "S:cfd5083c04159730f5204c9d6c080c3636d2798d,",
+      "theme.action.success.on-success": "S:f1806b35b4cff4e34c05873aefbb722aa49115ff,"
     }
   }
 ]
