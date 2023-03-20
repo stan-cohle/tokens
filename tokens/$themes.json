@@ -327,7 +327,6 @@
       "theme.input.border-focus": "S:108106c25849f306e3efdfa02b27f882576b6dc8,",
       "theme.input.border-error": "S:a4ec0d94bd87e58c27f9c9f9a40ae7882794b299,",
       "theme.input.fg-placeholder": "S:c20befb26a072b017f8613f9f04b0edc13b60667,",
-      "theme.input.fg-default": "S:bdd4afcb9b531842adc3dba2fc5e5d3f5dd7f9ee,",
       "theme.presets.header": "S:5e8b8f7d7ef5207917301343db779543f1f98417,",
       "theme.presets.subheader": "S:bd9cb487b90e179ff4c3eed564439e26652be6c5,",
       "theme.presets.footer": "S:7015347b9451ec8001e7b0f8f0899099cf49e387,",
@@ -344,13 +343,18 @@
       "theme.bg.success.highlight": "S:05e40eb537b54691c2114e520ded835bc8e32510,",
       "theme.bg.danger.highlight": "S:61afbcefb70ea15471679025eb26510b1025a3f7,",
       "theme.bg.info.highlight": "S:e3f3523733a0556797804ee5c5a0ffac52a337a5,",
-      "theme.interactive.default": "S:a5d87885247b1e4ce14376c0b48589f48d5d6ae6,",
-      "theme.interactive.hover": "S:d5b4473c443dcbdfbaaa5aa9914b2e8fc02e452b,",
-      "theme.interactive.pressed": "S:6772bc926d10d7a2773d7b1038a2ea3e9fba3a7d,",
-      "theme.interactive.selected": "S:67e8632ad9fca223db728259709a8828f4e5beb8,",
       "theme.action.primary.on-primary": "S:5b48126d953666c9a3b768bd2cafdcaf11b5b74f,",
       "theme.action.accent.on-accent": "S:cfd5083c04159730f5204c9d6c080c3636d2798d,",
-      "theme.action.success.on-success": "S:f1806b35b4cff4e34c05873aefbb722aa49115ff,"
+      "theme.action.success.on-success": "S:f1806b35b4cff4e34c05873aefbb722aa49115ff,",
+      "comp.badge.small.label": "S:a0d3dd69fbcd70e20258400745dd4c914f96fd37,",
+      "comp.badge.medium.label": "S:b6d4be4089608bcb8d1dd972f7689d9a707fa95c,",
+      "theme.interactive.default": "S:28cf528f9ab84ac3b267e2474dd96b847759794a,",
+      "theme.interactive.hover": "S:bf834307b2c55c735d4f93af6f4ab524caf2b78d,",
+      "theme.interactive.selected": "S:debf5dda1f52fac13b6024a9a39899844df8cabb,",
+      "theme.interactive.pressed": "S:532f230b7022e0c02df1a5e6c2690fd683289d99,",
+      "theme.input.fg-label": "S:90a61383ceb0a9cac88842905ccdae3f567a713f,",
+      "theme.input.fg-entry": "S:bdd4afcb9b531842adc3dba2fc5e5d3f5dd7f9ee,",
+      "theme.action.neutral.on-neutral": "S:feb63b3051db9df02214a7878595280c03c83df0,"
     }
   }
 ]

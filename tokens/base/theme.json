@@ -552,6 +552,10 @@
               }
             }
           }
+        },
+        "on-neutral": {
+          "type": "color",
+          "value": "{base.color.neutral.1100}"
         }
       },
       "clear": {
@@ -653,8 +657,12 @@
         "value": "{theme.fg.disabled}",
         "type": "color"
       },
-      "fg-default": {
+      "fg-entry": {
         "value": "{theme.fg.default}",
+        "type": "color"
+      },
+      "fg-label": {
+        "value": "{theme.fg.strong}",
         "type": "color"
       }
     },
