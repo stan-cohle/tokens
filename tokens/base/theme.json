@@ -312,7 +312,7 @@
       },
       "link": {
         "type": "color",
-        "value": "{theme.bg.info.base}"
+        "value": "{theme.bg.info.tone}"
       },
       "link-active": {
         "type": "color",
@@ -656,12 +656,12 @@
         "value": "{theme.fg.disabled}",
         "type": "color"
       },
-      "fg-entry": {
-        "value": "{theme.fg.default}",
+      "fg-default": {
+        "value": "{theme.fg.strong}",
         "type": "color"
       },
-      "fg-label": {
-        "value": "{theme.fg.strong}",
+      "fg-entry": {
+        "value": "{theme.fg.default}",
         "type": "color"
       }
     },
