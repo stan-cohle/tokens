@@ -14,8 +14,8 @@
       "component/alert": "source",
       "theme/aran-grant": "enabled",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/colors/semantic": "source"
+      "base/colors/semantic": "source",
+      "base/theme/colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -34,8 +34,8 @@
       "component/alert": "source",
       "theme/wowfare": "enabled",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/colors/semantic": "source"
+      "base/colors/semantic": "source",
+      "base/theme/colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -54,8 +54,8 @@
       "component/alert": "source",
       "theme/ovago_classic": "enabled",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/colors/semantic": "source"
+      "base/colors/semantic": "source",
+      "base/theme/colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -74,8 +74,8 @@
       "component/alert": "source",
       "theme/kayak": "enabled",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
-      "base/colors/semantic": "source"
+      "base/colors/semantic": "source",
+      "base/theme/colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -94,10 +94,10 @@
       "component/alert": "source",
       "theme/priceline": "enabled",
       "base/fonts": "enabled",
-      "base/theme": "enabled",
       "base/semantic": "enabled",
       "base/colors/semantic": "source",
-      "base/colors/neutral": "enabled"
+      "base/colors/neutral": "enabled",
+      "base/theme/colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary.base": "S:f44cbd22df870284faf1983dd50ca1420c1c599c,",
@@ -507,15 +507,17 @@
       "base/semantic": "enabled",
       "component/button": "enabled",
       "component/icon-button": "source",
-      "component/text-input": "source",
+      "component/text-input": "enabled",
       "component/switch": "source",
       "component/checkbox": "source",
       "component/radio": "source",
       "component/badge": "enabled",
       "component/alert": "source",
-      "base/theme": "enabled",
       "base/colors/semantic": "enabled",
-      "base/colors/neutral": "enabled"
+      "base/colors/neutral": "enabled",
+      "base/theme/effects": "enabled",
+      "base/theme/colors": "enabled",
+      "base/theme/fonts": "source"
     },
     "$figmaStyleReferences": {
       "comp.button.small.label": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
@@ -747,7 +749,11 @@
       "theme.interactive.selected": "S:debf5dda1f52fac13b6024a9a39899844df8cabb,",
       "theme.interactive.pressed": "S:532f230b7022e0c02df1a5e6c2690fd683289d99,",
       "theme.input.fg-entry": "S:bdd4afcb9b531842adc3dba2fc5e5d3f5dd7f9ee,",
-      "theme.action.neutral.on-neutral": "S:feb63b3051db9df02214a7878595280c03c83df0,"
+      "theme.action.neutral.on-neutral": "S:feb63b3051db9df02214a7878595280c03c83df0,",
+      "comp.input.label": "S:ff88e169414f104dae1eeeb5f2f9cc9b82028bd3,",
+      "comp.input.entry": "S:daf0d86df7a83e453d58ff08b9bb369910372721,",
+      "comp.input.error": "S:f84df92754b78533f0ee88fa592f9361b9bc3198,",
+      "comp.input.helper": "S:efe7a740485869902d8cdd78bec1045118f0e97d,"
     }
   }
 ]

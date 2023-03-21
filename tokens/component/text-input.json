@@ -2,19 +2,24 @@
   "comp": {
     "input": {
       "label": {
-        "value": "{typography.text.Medium}",
-        "type": "typography"
-      },
-      "error": {
-        "value": "{Base.Label.Medium.Default.Medium}",
+        "value": "{base.text.sm.regular.default}",
         "type": "typography"
       },
       "entry": {
-        "value": "{Base.Label.Large.Default.Regular}",
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{line-height.text.lg.par}",
+          "fontSize": "{font-size.text.md}"
+        },
+        "type": "typography"
+      },
+      "error": {
+        "value": "{base.text.xs.regular.default}",
         "type": "typography"
       },
       "helper": {
-        "value": "{typography.text.Small}",
+        "value": "{base.text.xs.regular.default}",
         "type": "typography"
       }
     }
