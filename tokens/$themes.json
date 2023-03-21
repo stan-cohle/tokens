@@ -40,26 +40,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "4774e58738d3b52dd250acbc09d7cd5f4749e894",
-    "name": "Priceline",
-    "selectedTokenSets": {
-      "core": "source",
-      "component/button": "source",
-      "component/icon-button": "source",
-      "component/text-input": "source",
-      "component/switch": "source",
-      "component/checkbox": "source",
-      "component/radio": "source",
-      "component/badge": "source",
-      "component/alert": "source",
-      "theme/priceline": "enabled",
-      "base/colors": "source",
-      "base/fonts": "enabled",
-      "base/theme": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "06733e979406a7fa6a3f334444bee77213973640",
     "name": "Ovago (Classic)",
     "selectedTokenSets": {
@@ -235,13 +215,12 @@
       "theme.bg.scrim": "S:0cf139f9e1f7d0aaaca2dc3482d6a99c250b6cba,",
       "theme.bg.primary.base": "S:662200d996a2f8db3e6ed86a9ffdd5026e4aaf6f,",
       "theme.bg.primary.tone": "S:472ad542b9eccbd37dcf13fff9b74ad34e40b743,",
-      "theme.bg.primary.tint": "S:6a550c88bc52ca6dd6b77c01216dd00f575f6ac2,",
-      "theme.bg.primary.muted": "S:082afd3cfe567dc63ab985d0a4023c99782a0990,",
+      "theme.bg.primary.muted": "S:6a550c88bc52ca6dd6b77c01216dd00f575f6ac2,",
       "theme.bg.primary.subtle": "S:61591aa2bbd728d367eb5ea7397fb1c374f4849d,",
       "theme.bg.success.base": "S:9f1055f39d0253a800e8661314b5136717cc5a41,",
       "theme.bg.success.tone": "S:8afd5dcc318877682d4f724b9769f582a41a491d,",
       "theme.bg.success.tint": "S:0400f7d3804fa6a403e125a23f9fcb8e85fc8ac2,",
-      "theme.bg.success.muted": "S:c9451196b935a632d6adae30376ba55aa2be2fb4,",
+      "theme.bg.success.muted": "S:05e40eb537b54691c2114e520ded835bc8e32510,",
       "theme.bg.success.subtle": "S:262b01d869feff7f63a69e03a0ebe78a806fad94,",
       "theme.bg.warning.base": "S:0d8d816fa16361c2491595c2bd2aaccd76e16799,",
       "theme.bg.warning.tone": "S:e8ae953ad7dd023d6c763379c4ca8baa51e324bd,",
@@ -256,7 +235,7 @@
       "theme.bg.info.base": "S:5227b583ef92817e25104eec1f05f615148243c8,",
       "theme.bg.info.tone": "S:6c1be959bb05945ee988862d960414017fc002be,",
       "theme.bg.info.tint": "S:2aee30007e75dacb9d846d7d41a4cfb9c3b1b671,",
-      "theme.bg.info.muted": "S:8a1cd8f16388ed08a7a8ff7a00ac6030702a4b44,",
+      "theme.bg.info.muted": "S:e3f3523733a0556797804ee5c5a0ffac52a337a5,",
       "theme.bg.info.subtle": "S:517a66146d94f0b92cb365c3ce7e6b2c3627e3fb,",
       "theme.bg.accent.base": "S:a3a2d92ea6907b0f680fdd77cfdacac01673375a,",
       "theme.bg.accent.tone": "S:d344db661828038761f14ad69d3f21f1be387e34,",
@@ -340,9 +319,7 @@
       "theme.focus.success": "S:7320e52eb4030da6fcb6d3b89c618dfcf09c0ead,",
       "theme.focus.danger": "S:38c19fafd11080d0e52d332c3a9ff8f2dc8e6f27,",
       "theme.bg.warning.highlight": "S:2edfa0e1f8199bfe148ed5e113f172e48a4fc819,",
-      "theme.bg.success.highlight": "S:05e40eb537b54691c2114e520ded835bc8e32510,",
       "theme.bg.danger.highlight": "S:61afbcefb70ea15471679025eb26510b1025a3f7,",
-      "theme.bg.info.highlight": "S:e3f3523733a0556797804ee5c5a0ffac52a337a5,",
       "theme.action.primary.on-primary": "S:5b48126d953666c9a3b768bd2cafdcaf11b5b74f,",
       "theme.action.accent.on-accent": "S:cfd5083c04159730f5204c9d6c080c3636d2798d,",
       "theme.action.success.on-success": "S:f1806b35b4cff4e34c05873aefbb722aa49115ff,",
@@ -356,5 +333,26 @@
       "theme.input.fg-entry": "S:bdd4afcb9b531842adc3dba2fc5e5d3f5dd7f9ee,",
       "theme.action.neutral.on-neutral": "S:feb63b3051db9df02214a7878595280c03c83df0,"
     }
+  },
+  {
+    "id": "4774e58738d3b52dd250acbc09d7cd5f4749e894",
+    "name": "Priceline",
+    "selectedTokenSets": {
+      "core": "source",
+      "component/button": "enabled",
+      "component/icon-button": "source",
+      "component/text-input": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/badge": "enabled",
+      "component/alert": "source",
+      "theme/priceline": "enabled",
+      "base/colors": "enabled",
+      "base/fonts": "source",
+      "base/theme": "enabled",
+      "base/semantic": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

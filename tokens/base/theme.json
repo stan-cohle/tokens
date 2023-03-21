@@ -359,8 +359,7 @@
       },
       "success-subtle": {
         "type": "color",
-        "value": "{base.color.success.300}",
-        "description": "Use to highlight a positive message."
+        "value": "{theme.bg.success.muted}"
       },
       "warning": {
         "type": "color",
@@ -368,7 +367,7 @@
       },
       "warning-subtle": {
         "type": "color",
-        "value": "{base.color.warning.300}"
+        "value": "{theme.bg.warning.muted}"
       },
       "danger": {
         "type": "color",
@@ -376,7 +375,7 @@
       },
       "danger-subtle": {
         "type": "color",
-        "value": "{base.color.danger.300}"
+        "value": "{theme.bg.danger.muted}"
       },
       "inverse-danger": {
         "type": "color",
@@ -388,7 +387,7 @@
       },
       "info-subtle": {
         "type": "color",
-        "value": "{base.color.info.300}"
+        "value": "{theme.bg.info.muted}"
       },
       "primary": {
         "type": "color",
@@ -396,7 +395,7 @@
       },
       "primary-subtle": {
         "type": "color",
-        "value": "{base.color.primary.300}"
+        "value": "{theme.bg.primary.muted}"
       },
       "accent": {
         "type": "color",
@@ -404,7 +403,7 @@
       },
       "accent-subtle": {
         "type": "color",
-        "value": "{base.color.primary.300}"
+        "value": "{theme.bg.accent.muted}"
       },
       "focus": {
         "type": "color",
