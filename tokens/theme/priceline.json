@@ -312,12 +312,6 @@
       "type": "fontWeights"
     }
   },
-  "presets": {
-    "header": {
-      "value": "{core.color.price-secondary.base}",
-      "type": "color"
-    }
-  },
   "core": {
     "color": {
       "price-secondary": {
