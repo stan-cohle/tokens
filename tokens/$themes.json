@@ -244,7 +244,6 @@
       "theme.input.border-default": "S:77fd8bf0e2a4e67d3881ae99595aca159693224e,",
       "theme.input.border-hover": "S:b2536749aa2b4433698ecc7e6447e89f902b43c5,",
       "theme.input.border-focus": "S:108106c25849f306e3efdfa02b27f882576b6dc8,",
-      "theme.input.border-error": "S:a4ec0d94bd87e58c27f9c9f9a40ae7882794b299,",
       "theme.input.fg-placeholder": "S:c20befb26a072b017f8613f9f04b0edc13b60667,",
       "theme.presets.header": "S:5e8b8f7d7ef5207917301343db779543f1f98417,",
       "theme.presets.subheader": "S:bd9cb487b90e179ff4c3eed564439e26652be6c5,",
@@ -274,7 +273,8 @@
       "comp.input.label": "S:ff88e169414f104dae1eeeb5f2f9cc9b82028bd3,",
       "comp.input.entry": "S:daf0d86df7a83e453d58ff08b9bb369910372721,",
       "comp.input.error": "S:f84df92754b78533f0ee88fa592f9361b9bc3198,",
-      "comp.input.helper": "S:efe7a740485869902d8cdd78bec1045118f0e97d,"
+      "comp.input.helper": "S:efe7a740485869902d8cdd78bec1045118f0e97d,",
+      "theme.input.border-danger": "S:a4ec0d94bd87e58c27f9c9f9a40ae7882794b299,"
     }
   },
   {
@@ -634,7 +634,6 @@
       "theme.input.border-default": "S:ec677fbd7d587e48b75ccf6ad926da1b4363a72c,",
       "theme.input.border-hover": "S:de6dc23766245f16160edb479df953a6140d6fd3,",
       "theme.input.border-focus": "S:c7a8516c59d57832e1a6e9668111269e556bcb74,",
-      "theme.input.border-error": "S:9fe69d72781674f2cdd087fe7bbee3cf4d85ab76,",
       "theme.input.fg-placeholder": "S:6b6e0806379ad3ea2809c8b74c4f2fbb9f6ec44c,",
       "theme.input.fg-default": "S:49ad8715ad0a2d4fecdc37edf46535ed8e08ea2d,",
       "theme.input.fg-entry": "S:55180657a7b5b68b875622499d97fdc6d325b307,",

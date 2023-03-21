@@ -648,7 +648,7 @@
         "value": "{theme.border.focus}",
         "type": "color"
       },
-      "border-error": {
+      "border-danger": {
         "value": "{theme.border.danger}",
         "type": "color"
       },
