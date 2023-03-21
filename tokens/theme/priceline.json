@@ -3,15 +3,15 @@
     "bg": {
       "primary": {
         "base": {
-          "value": "{core.color.price-secondary.base}",
+          "value": "{core.color.primary.base}",
           "type": "color"
         },
         "tone": {
-          "value": "{core.color.price-secondary.tone}",
+          "value": "{core.color.primary.tone}",
           "type": "color"
         },
         "tint": {
-          "value": "{core.color.price-secondary.base}",
+          "value": "{core.color.primary.base}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -24,26 +24,26 @@
           }
         },
         "muted": {
-          "value": "{core.color.price-secondary.tint}",
+          "value": "{core.color.primary.tint}",
           "type": "color"
         },
         "subtle": {
-          "value": "{core.color.price-secondary.light}",
+          "value": "{core.color.primary.light}",
           "type": "color"
         }
       },
       "success": {
         "base": {
           "type": "color",
-          "value": "{core.color.price-primary.base}"
+          "value": "{core.color.secondary.base}"
         },
         "tone": {
           "type": "color",
-          "value": "{core.color.price-primary.tone}"
+          "value": "{core.color.secondary.tone}"
         },
         "tint": {
           "type": "color",
-          "value": "{core.color.price-primary.base}",
+          "value": "{core.color.secondary.base}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -56,11 +56,11 @@
         },
         "muted": {
           "type": "color",
-          "value": "{core.color.price-primary.tint}"
+          "value": "{core.color.secondary.tint}"
         },
         "highlight": {
           "type": "color",
-          "value": "{core.color.price-primary.base}",
+          "value": "{core.color.secondary.base}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -73,7 +73,7 @@
         },
         "subtle": {
           "type": "color",
-          "value": "{core.color.price-primary.light}"
+          "value": "{core.color.secondary.light}"
         }
       },
       "warning": {
@@ -167,15 +167,15 @@
       "info": {
         "base": {
           "type": "color",
-          "value": "{core.color.price-secondary.base}"
+          "value": "{core.color.primary.base}"
         },
         "tone": {
           "type": "color",
-          "value": "{core.color.price-secondary.tone}"
+          "value": "{core.color.primary.tone}"
         },
         "tint": {
           "type": "color",
-          "value": "{core.color.price-secondary.base}",
+          "value": "{core.color.primary.base}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -188,7 +188,7 @@
         },
         "muted": {
           "type": "color",
-          "value": "{core.color.price-secondary.tint}",
+          "value": "{core.color.primary.tint}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -201,7 +201,7 @@
         },
         "highlight": {
           "type": "color",
-          "value": "{core.color.price-secondary.base}",
+          "value": "{core.color.primary.base}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -214,21 +214,21 @@
         },
         "subtle": {
           "type": "color",
-          "value": "{core.color.price-secondary.light}"
+          "value": "{core.color.primary.light}"
         }
       },
       "accent": {
         "base": {
           "type": "color",
-          "value": "{core.color.price-primary.base}"
+          "value": "{core.color.secondary.base}"
         },
         "tone": {
           "type": "color",
-          "value": "{core.color.price-primary.tone}"
+          "value": "{core.color.secondary.tone}"
         },
         "tint": {
           "type": "color",
-          "value": "{core.color.price-primary.base}",
+          "value": "{core.color.secondary.base}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -241,40 +241,40 @@
         },
         "muted": {
           "type": "color",
-          "value": "{core.color.price-primary.tint}"
+          "value": "{core.color.secondary.tint}"
         },
         "subtle": {
           "type": "color",
-          "value": "{core.color.price-primary.light}"
+          "value": "{core.color.secondary.light}"
         }
       }
     },
     "action": {
       "primary": {
         "default": {
-          "value": "{core.color.price-secondary.base}",
+          "value": "{core.color.primary.base}",
           "type": "color"
         },
         "hover": {
-          "value": "{core.color.price-secondary.tone}",
+          "value": "{core.color.primary.tone}",
           "type": "color"
         },
         "pressed": {
-          "value": "{core.color.price-secondary.tone}",
+          "value": "{core.color.primary.tone}",
           "type": "color"
         }
       },
       "accent": {
         "default": {
-          "value": "{core.color.price-primary.base}",
+          "value": "{core.color.secondary.base}",
           "type": "color"
         },
         "hover": {
-          "value": "{core.color.price-primary.tone}",
+          "value": "{core.color.secondary.tone}",
           "type": "color"
         },
         "pressed": {
-          "value": "{core.color.price-primary.tone}",
+          "value": "{core.color.secondary.tone}",
           "type": "color"
         }
       },
@@ -314,7 +314,7 @@
   },
   "core": {
     "color": {
-      "price-secondary": {
+      "primary": {
         "light": {
           "value": "#e8f2ff",
           "type": "color"
@@ -340,7 +340,7 @@
           "type": "color"
         }
       },
-      "price-primary": {
+      "secondary": {
         "light": {
           "value": "#ecf7ec",
           "type": "color"
