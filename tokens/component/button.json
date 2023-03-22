@@ -207,7 +207,7 @@
         "label": {
           "value": {
             "fontFamily": "{font-family.action}",
-            "fontWeight": "{font-weight.semi-bold}",
+            "fontWeight": "{font-weight.medium}",
             "lineHeight": "{comp.button.small.icon-size}",
             "fontSize": "{font-size.text.sm}"
           },
