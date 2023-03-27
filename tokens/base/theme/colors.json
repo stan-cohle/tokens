@@ -39,7 +39,7 @@
         "description": "Scrim, Backdrop, Modal background"
       },
       "primary": {
-        "base": {
+        "default": {
           "value": "{base.color.primary.600}",
           "type": "color"
         },
@@ -166,7 +166,7 @@
       },
       "accent": {
         "base": {
-          "value": "{theme.bg.primary.base}",
+          "value": "{theme.bg.primary.default}",
           "type": "color"
         },
         "tone": {
@@ -295,7 +295,7 @@
       },
       "primary": {
         "type": "color",
-        "value": "{theme.bg.primary.base}"
+        "value": "{theme.bg.primary.default}"
       },
       "accent": {
         "type": "color",
@@ -382,7 +382,7 @@
       },
       "primary": {
         "type": "color",
-        "value": "{theme.bg.primary.base}"
+        "value": "{theme.bg.primary.default}"
       },
       "primary-subtle": {
         "type": "color",
@@ -398,13 +398,13 @@
       },
       "focus": {
         "type": "color",
-        "value": "{theme.bg.primary.base}"
+        "value": "{theme.bg.primary.default}"
       }
     },
     "action": {
       "primary": {
         "default": {
-          "value": "{theme.bg.primary.base}",
+          "value": "{theme.bg.primary.default}",
           "type": "color"
         },
         "hover": {
@@ -576,7 +576,7 @@
     "interactive": {
       "default": {
         "type": "color",
-        "value": "{theme.bg.primary.base}"
+        "value": "{theme.bg.primary.default}"
       },
       "hover": {
         "type": "color",
@@ -658,7 +658,7 @@
     },
     "presets": {
       "header": {
-        "value": "{theme.bg.primary.base}",
+        "value": "{theme.bg.primary.default}",
         "type": "color"
       },
       "subheader": {
@@ -920,7 +920,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.primary.base}, {core.opacity.300})",
+            "color": "rgba({theme.bg.primary.default}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],

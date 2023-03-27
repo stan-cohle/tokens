@@ -99,7 +99,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.primary.base}, {core.opacity.300})",
+            "color": "rgba({theme.bg.primary.default}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],

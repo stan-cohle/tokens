@@ -153,7 +153,6 @@
       "theme.bg.inverse-muted": "S:0dc761a3a7148c4089bc7cb9285839c4353a79dd,",
       "theme.bg.inverse-inset": "S:8d31a3d20bfcb70e1ac5368bf9e289366d76afe8,",
       "theme.bg.scrim": "S:0cf139f9e1f7d0aaaca2dc3482d6a99c250b6cba,",
-      "theme.bg.primary.base": "S:662200d996a2f8db3e6ed86a9ffdd5026e4aaf6f,",
       "theme.bg.primary.tone": "S:472ad542b9eccbd37dcf13fff9b74ad34e40b743,",
       "theme.bg.primary.muted": "S:6a550c88bc52ca6dd6b77c01216dd00f575f6ac2,",
       "theme.bg.primary.subtle": "S:61591aa2bbd728d367eb5ea7397fb1c374f4849d,",
@@ -274,7 +273,8 @@
       "comp.input.entry": "S:daf0d86df7a83e453d58ff08b9bb369910372721,",
       "comp.input.error": "S:f84df92754b78533f0ee88fa592f9361b9bc3198,",
       "comp.input.helper": "S:efe7a740485869902d8cdd78bec1045118f0e97d,",
-      "theme.input.border-danger": "S:a4ec0d94bd87e58c27f9c9f9a40ae7882794b299,"
+      "theme.input.border-danger": "S:a4ec0d94bd87e58c27f9c9f9a40ae7882794b299,",
+      "theme.bg.primary.default": "S:662200d996a2f8db3e6ed86a9ffdd5026e4aaf6f,"
     }
   },
   {
@@ -530,7 +530,6 @@
       "theme.bg.inverse-muted": "S:db71e48dbe3c7e3a6353b65edd69fabd5e850a3e,",
       "theme.bg.inverse-inset": "S:2af945bf5bfb1624ea6279d512ca83842547e417,",
       "theme.bg.scrim": "S:6aa6b5edb568094cd96aa4b2c581a40f76723729,",
-      "theme.bg.primary.base": "S:8cc57e10319f016aa47d25b65c74bcfcbb75e7b5,",
       "theme.bg.primary.tone": "S:14dd442b1a5f29da738d52369e203b4683854984,",
       "theme.bg.primary.tint": "S:7f5d48f739c5b47d031ab17a10fe1454025c7162,",
       "theme.bg.primary.muted": "S:f906fe4958a852b8861239e0806f36d11fa2142c,",
@@ -696,7 +695,8 @@
       "theme.focus.primary": "S:fa3ffda51debc0d2a9ec1406eec4e34bcdf653da,",
       "theme.focus.accent": "S:0f085c2fd629a80d5a352bbeb0db37e2dd09eddd,",
       "theme.focus.success": "S:1e4853f50a399778078a5f49e390ada5eb95b198,",
-      "theme.focus.danger": "S:38dbe5c910d5e5ae5b3113e5b0f7b773a0a59949,"
+      "theme.focus.danger": "S:38dbe5c910d5e5ae5b3113e5b0f7b773a0a59949,",
+      "theme.bg.primary.default": "S:8cc57e10319f016aa47d25b65c74bcfcbb75e7b5,"
     }
   },
   {
@@ -763,7 +763,6 @@
       "theme.bg.inverse-muted": "S:0f5e8c9c3f10545c2b5ad62a2423f4f8adecdcdf,",
       "theme.bg.inverse-inset": "S:a30673ac7255c442cd07ace2e57cda054a1db91b,",
       "theme.bg.scrim": "S:8a84ddbdb7f30777ab6f829ee739c298a6718992,",
-      "theme.bg.primary.base": "S:79774684eb1a61a3bdf83e1539f253192ce1c669,",
       "theme.bg.primary.tone": "S:ce907b16f3290c66205c9cbd536462bdc9b55330,",
       "theme.bg.primary.tint": "S:c8a47c3de6addbf3e19c095091e25812fe49d922,",
       "theme.bg.primary.muted": "S:b553633e3b8aff1c48ef21af21adc97a194459e6,",
@@ -955,7 +954,8 @@
       "base.color.danger.600": "S:0bd30f6c4168804f7811a508e42121c0a2c77e49,",
       "base.color.danger.700": "S:c36594755147cc3d6b7e0a1b4d37f5afa577f94c,",
       "base.color.danger.800": "S:de972b45ed65647b0dc14770e8386da9ac1eb6b8,",
-      "base.color.danger.900": "S:277b7d5400d9e5ab1f933c2334a13da8defd2d7a,"
+      "base.color.danger.900": "S:277b7d5400d9e5ab1f933c2334a13da8defd2d7a,",
+      "theme.bg.primary.default": "S:79774684eb1a61a3bdf83e1539f253192ce1c669,"
     }
   }
 ]
