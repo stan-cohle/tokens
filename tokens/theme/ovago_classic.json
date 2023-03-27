@@ -155,26 +155,18 @@
     }
   },
   "theme": {
-    "utility": {
-      "brand": {
-        "value": "{base.color.primary.600}",
-        "type": "color"
+    "action": {
+      "primary": {
+        "default": {
+          "value": "{theme.bg.success.base}",
+          "type": "color"
+        }
       },
       "accent": {
-        "value": "{base.color.accent.600}",
-        "type": "color"
-      }
-    },
-    "action-primary": {
-      "default": {
-        "value": "{theme.bg.success.base}",
-        "type": "color"
-      }
-    },
-    "action-accent": {
-      "default": {
-        "value": "{theme.bg.success.base}",
-        "type": "color"
+        "default": {
+          "value": "{theme.bg.success.base}",
+          "type": "color"
+        }
       }
     }
   }

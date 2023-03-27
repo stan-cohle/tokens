@@ -449,7 +449,7 @@
       },
       "accent": {
         "default": {
-          "value": "{theme.bg.primary.base}",
+          "value": "{theme.bg.accent.base}",
           "type": "color"
         },
         "hover": {

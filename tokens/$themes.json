@@ -698,5 +698,29 @@
       "theme.focus.success": "S:1e4853f50a399778078a5f49e390ada5eb95b198,",
       "theme.focus.danger": "S:38dbe5c910d5e5ae5b3113e5b0f7b773a0a59949,"
     }
+  },
+  {
+    "id": "134c6b9a180c8dedcfeccfbb88aecdab6f48e03a",
+    "name": "Ovago",
+    "selectedTokenSets": {
+      "core": "source",
+      "base/colors/semantic": "source",
+      "base/colors/neutral": "enabled",
+      "base/fonts": "enabled",
+      "base/semantic": "enabled",
+      "base/theme/colors": "enabled",
+      "base/theme/effects": "enabled",
+      "base/theme/fonts": "enabled",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/icon-button": "enabled",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "theme/ovago": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

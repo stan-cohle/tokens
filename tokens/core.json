@@ -136,7 +136,7 @@
           "type": "color"
         }
       },
-      "magenta-red": {
+      "cranberry": {
         "100": {
           "value": "#fff0f6",
           "type": "color"
@@ -171,44 +171,6 @@
         },
         "900": {
           "value": "#7f1943",
-          "type": "color"
-        }
-      },
-      "rouge": {
-        "100": {
-          "value": "#fae6ee",
-          "type": "color"
-        },
-        "200": {
-          "value": "#f7d1e1",
-          "type": "color"
-        },
-        "300": {
-          "value": "#edabc7",
-          "type": "color"
-        },
-        "400": {
-          "value": "#df80a8",
-          "type": "color"
-        },
-        "500": {
-          "value": "#d45489",
-          "type": "color"
-        },
-        "600": {
-          "value": "#cc2d6f",
-          "type": "color"
-        },
-        "700": {
-          "value": "#ab215a",
-          "type": "color"
-        },
-        "800": {
-          "value": "#91184a",
-          "type": "color"
-        },
-        "900": {
-          "value": "#850f40",
           "type": "color"
         }
       },
