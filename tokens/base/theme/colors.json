@@ -23,15 +23,15 @@
       },
       "inverse-default": {
         "type": "color",
-        "value": "{base.color.neutral.1000}"
+        "value": "{base.color.neutral.1100}"
       },
       "inverse-muted": {
         "type": "color",
-        "value": "{base.color.neutral.900}"
+        "value": "{base.color.neutral.1000}"
       },
       "inverse-inset": {
         "type": "color",
-        "value": "{base.color.neutral.800}"
+        "value": "{base.color.neutral.900}"
       },
       "scrim": {
         "value": "rgba({base.color.neutral.900},{core.opacity.800})",
@@ -220,16 +220,7 @@
         },
         "subtle": {
           "type": "color",
-          "value": "{theme.bg.neutral.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{core.opacity.100}",
-                "space": "hsl"
-              }
-            }
-          }
+          "value": "rgba({theme.bg.neutral.base},{core.opacity.100})"
         }
       }
     },
@@ -554,7 +545,7 @@
         },
         "on-neutral": {
           "type": "color",
-          "value": "{base.color.neutral.1100}"
+          "value": "{theme.fg.default}"
         }
       },
       "clear": {
@@ -615,7 +606,7 @@
       },
       "selected": {
         "type": "color",
-        "value": "{base.color.primary.100}"
+        "value": "{theme.bg.primary.subtle}"
       }
     },
     "input": {
