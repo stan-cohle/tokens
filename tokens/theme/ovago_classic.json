@@ -158,13 +158,13 @@
     "action": {
       "primary": {
         "default": {
-          "value": "{theme.bg.success.base}",
+          "value": "{theme.bg.success.default}",
           "type": "color"
         }
       },
       "accent": {
         "default": {
-          "value": "{theme.bg.success.base}",
+          "value": "{theme.bg.success.default}",
           "type": "color"
         }
       }

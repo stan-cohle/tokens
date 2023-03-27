@@ -280,14 +280,14 @@
       },
       "neutral": {
         "on-neutral": {
-          "value": "{theme.fg.primary}",
+          "value": "{theme.fg.brand}",
           "type": "color"
         }
       }
     },
     "fg": {
       "warning": {
-        "value": "{theme.bg.warning.tone}",
+        "value": "{theme.bg.warning.hover}",
         "type": "color"
       }
     }

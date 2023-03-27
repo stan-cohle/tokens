@@ -193,7 +193,7 @@
       },
       "form": {
         "type": "color",
-        "value": "{theme.fg.strong}"
+        "value": "{theme.fg.secondary}"
       }
     }
   }
