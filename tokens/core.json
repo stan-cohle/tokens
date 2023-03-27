@@ -478,6 +478,56 @@
           "type": "color"
         }
       },
+      "pewter": {
+        "50": {
+          "value": "#F6F7F8",
+          "type": "color"
+        },
+        "100": {
+          "value": "#E5E7EB",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E5E7EB",
+          "type": "color"
+        },
+        "300": {
+          "value": "#CBCFD7",
+          "type": "color"
+        },
+        "400": {
+          "value": "#B9BECA",
+          "type": "color"
+        },
+        "500": {
+          "value": "#A2A9B9",
+          "type": "color"
+        },
+        "600": {
+          "value": "#8790A6",
+          "type": "color"
+        },
+        "700": {
+          "value": "#6B7794",
+          "type": "color"
+        },
+        "800": {
+          "value": "#55617C",
+          "type": "color"
+        },
+        "900": {
+          "value": "#3D475F",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#242B3D",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#1C2333",
+          "type": "color"
+        }
+      },
       "slate": {
         "50": {
           "value": "#F6F7F8",
