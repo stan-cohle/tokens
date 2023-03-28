@@ -117,7 +117,7 @@
       },
       "other": {
         "purple-gradient": {
-          "value": "linear-gradient(180deg, #5649A6 0%, {base.color.primary.700} 100%)",
+          "value": "linear-gradient(180deg, #5649A6 0%, {theme.primary.tone} 100%)",
           "type": "color"
         },
         "midnight": {
@@ -130,7 +130,7 @@
   "presets": {
     "header": {
       "type": "color",
-      "value": "{base.color.primary.600}"
+      "value": "{theme.primary.base}"
     },
     "subheader": {
       "type": "color",
@@ -147,11 +147,11 @@
     },
     "controls": {
       "type": "color",
-      "value": "{base.color.primary.600}"
+      "value": "{theme.primary.base}"
     },
     "footer": {
       "type": "color",
-      "value": "{base.color.other.midnight}"
+      "value": "{theme.other.midnight}"
     }
   },
   "theme": {

@@ -40,39 +40,39 @@
     },
     "info": {
       "100": {
-        "value": "{base.color.primary.100}",
+        "value": "{theme.primary.subtle}",
         "type": "color"
       },
       "200": {
-        "value": "{base.color.primary.200}",
+        "value": "{theme.primary.weak}",
         "type": "color"
       },
       "300": {
-        "value": "{base.color.primary.300}",
+        "value": "{theme.primary.muted}",
         "type": "color"
       },
       "400": {
-        "value": "{base.color.primary.400}",
+        "value": "{theme.primary.400}",
         "type": "color"
       },
       "500": {
-        "value": "{base.color.primary.500}",
+        "value": "{theme.primary.tint}",
         "type": "color"
       },
       "600": {
-        "value": "{base.color.primary.600}",
+        "value": "{theme.primary.base}",
         "type": "color"
       },
       "700": {
-        "value": "{base.color.primary.700}",
+        "value": "{theme.primary.tone}",
         "type": "color"
       },
       "800": {
-        "value": "{base.color.primary.800}",
+        "value": "{theme.primary.intense}",
         "type": "color"
       },
       "900": {
-        "value": "{base.color.primary.900}",
+        "value": "{theme.primary.900}",
         "type": "color"
       }
     },
@@ -155,11 +155,11 @@
       "type": "color"
     },
     "subheader": {
-      "value": "{base.color.neutral.200}",
+      "value": "{theme.neutral.200}",
       "type": "color"
     },
     "footer": {
-      "value": "{base.color.neutral.1000}",
+      "value": "{theme.neutral.1000}",
       "type": "color"
     },
     "controls": {
