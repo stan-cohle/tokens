@@ -209,7 +209,7 @@
   "theme": {
     "action-primary": {
       "default": {
-        "value": "{theme.bg.success.bold}",
+        "value": "{theme.bg.success-bold}",
         "type": "color"
       }
     },
