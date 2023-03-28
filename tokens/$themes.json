@@ -442,7 +442,9 @@
       "theme.focus.primary": "S:ffb4eb9e9afd02e2aa94914bf53d3e8fe6477e8f,",
       "theme.focus.accent": "S:5ac46a15d3f61c83d493a75b6bc4a941d0b3fb87,",
       "theme.focus.success": "S:84167861f92743de129ad669caa82703d97da4ea,",
-      "theme.focus.danger": "S:c7b2da2d0385f413537f2f95bcd96bc78f5c6eca,"
+      "theme.focus.danger": "S:c7b2da2d0385f413537f2f95bcd96bc78f5c6eca,",
+      "theme.info.base": "S:1690b609648727e0a5606e546e8a195bde273a0d,",
+      "theme.other.purple-gradient": "S:70ffc101115cfa5cf5d32d4daff9245cfcda02a2,"
     }
   }
 ]
