@@ -99,7 +99,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.brand.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.brand.bold}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -112,7 +112,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.accent.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.accent.bold}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -125,7 +125,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.success.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.success.bold}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -138,7 +138,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.danger.default}, {core.opacity.300})",
+            "color": "rgba({theme.bg.danger.bold}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
