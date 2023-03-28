@@ -4,8 +4,8 @@
       "card": {
         "value": [
           {
-            "color": "rgba({theme.neutral.1100}, 0.12)",
-            "type": "dropshadow",
+            "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow",
             "x": "0",
             "y": "0",
             "blur": "2",
@@ -16,8 +16,8 @@
             "y": "1",
             "blur": "3",
             "spread": "0",
-            "color": "rgba({theme.neutral.1100}, 0.12)",
-            "type": "dropshadow"
+            "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"
@@ -25,8 +25,8 @@
       "overlay": {
         "value": [
           {
-            "color": "rgba({theme.neutral.1100}, 0.12)",
-            "type": "dropshadow",
+            "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow",
             "x": "0",
             "y": "0",
             "blur": "2",
@@ -37,8 +37,8 @@
             "y": "4",
             "blur": "8",
             "spread": "0",
-            "color": "rgba({theme.neutral.1100}, 0.12)",
-            "type": "dropshadow"
+            "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"
@@ -46,8 +46,8 @@
       "modal": {
         "value": [
           {
-            "color": "rgba({theme.neutral.1100}, 0.12)",
-            "type": "dropshadow",
+            "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow",
             "x": "0",
             "y": "0",
             "blur": "2",
@@ -58,8 +58,8 @@
             "y": "8",
             "blur": "16",
             "spread": "0",
-            "color": "rgba({theme.neutral.1100}, 0.12)",
-            "type": "dropshadow"
+            "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"
@@ -67,8 +67,8 @@
       "bottom-sheet": {
         "value": [
           {
-            "color": "rgba({theme.neutral.1100}, 0.12)",
-            "type": "dropshadow",
+            "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow",
             "x": "0",
             "y": "-16",
             "blur": "24",
@@ -99,7 +99,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.brand-bold}, {core.opacity.300})",
+            "color": "rgba({theme.primary.base}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -112,7 +112,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.accent-bold}, {core.opacity.300})",
+            "color": "rgba({theme.accent.base}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -125,7 +125,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.success-bold}, {core.opacity.300})",
+            "color": "rgba({theme.success.base}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
@@ -138,7 +138,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.bg.danger-bold}, {core.opacity.300})",
+            "color": "rgba({theme.danger.base}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
