@@ -137,15 +137,15 @@
         "value": "rgba({theme.generic.white}, {core.opacity.600})",
         "type": "color"
       },
-      "brand": {
+      "brand-bold": {
         "type": "color",
         "value": "{theme.primary.base}"
       },
-      "success": {
+      "success-bold": {
         "type": "color",
         "value": "{theme.success.base}"
       },
-      "warning": {
+      "warning-bold": {
         "type": "color",
         "value": "{theme.warning.tone}",
         "$extensions": {
@@ -159,15 +159,15 @@
           }
         }
       },
-      "danger": {
+      "danger-bold": {
         "type": "color",
         "value": "{theme.danger.base}"
       },
-      "info": {
+      "info-bold": {
         "type": "color",
         "value": "{theme.info.base}"
       },
-      "accent": {
+      "accent-bold": {
         "type": "color",
         "value": "{theme.accent.base}"
       },

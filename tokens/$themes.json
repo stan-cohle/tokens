@@ -91,12 +91,6 @@
       "theme.fg.inverse-primary": "S:0639f7f9d374514f8f61fc1252d085c990e32491,",
       "theme.fg.inverse-secondary": "S:5f0e27deba339a4ceb83004e47f7ee4bfda90915,",
       "theme.fg.inverse-tertiary": "S:384f9bec7eb2e2bffee07a69ccbf3e3b9fc373b7,",
-      "theme.fg.brand": "S:cebb82fd0418987d810beb097db464eacbf03296,",
-      "theme.fg.success": "S:ac8acc2ee79c2dfe2f8a0e0db39e7b810841f448,",
-      "theme.fg.warning": "S:ef4919864b29163de5ca6c0c7239d9a04738e424,",
-      "theme.fg.danger": "S:d9236424390e11e403c4f25c062abe6e99664c22,",
-      "theme.fg.info": "S:70d067d34bcbdaf194be08075cd72b79e2d6716f,",
-      "theme.fg.accent": "S:a4a79216beac3f0eede3b94326bb628bd0e6e2d6,",
       "theme.fg.link": "S:8bccb33a55876f5a676f4e470ccd6d173a95f036,",
       "theme.fg.link-active": "S:57c0f3d343dc6001e95d76df947e9bab5ec7d99f,",
       "theme.border.default": "S:206cc16e37ebff0425cb771e3fd329db2a3ae3fd,",
@@ -222,7 +216,13 @@
       "theme.focus.success": "S:84167861f92743de129ad669caa82703d97da4ea,",
       "theme.focus.danger": "S:c7b2da2d0385f413537f2f95bcd96bc78f5c6eca,",
       "theme.info.base": "S:1690b609648727e0a5606e546e8a195bde273a0d,",
-      "theme.other.purple-gradient": "S:70ffc101115cfa5cf5d32d4daff9245cfcda02a2,"
+      "theme.other.purple-gradient": "S:70ffc101115cfa5cf5d32d4daff9245cfcda02a2,",
+      "theme.fg.brand-bold": "S:cebb82fd0418987d810beb097db464eacbf03296,",
+      "theme.fg.success-bold": "S:ac8acc2ee79c2dfe2f8a0e0db39e7b810841f448,",
+      "theme.fg.warning-bold": "S:ef4919864b29163de5ca6c0c7239d9a04738e424,",
+      "theme.fg.danger-bold": "S:d9236424390e11e403c4f25c062abe6e99664c22,",
+      "theme.fg.info-bold": "S:70d067d34bcbdaf194be08075cd72b79e2d6716f,",
+      "theme.fg.accent-bold": "S:a4a79216beac3f0eede3b94326bb628bd0e6e2d6,"
     }
   },
   {
@@ -278,12 +278,6 @@
       "theme.fg.inverse-primary": "S:c88c1387157415b038212651c2f48b87157b1a4a,",
       "theme.fg.inverse-secondary": "S:ccae31a6071faff69ee6ccb08c958076fa04f5fb,",
       "theme.fg.inverse-tertiary": "S:72a0c0a22652bbe726366c838777b02eabeab22c,",
-      "theme.fg.brand": "S:33eb34dea02a14508af3911ee36b60dbd243c04a,",
-      "theme.fg.success": "S:f719e41e3316997b5aa666e6dbd4952cad4caea9,",
-      "theme.fg.warning": "S:7760f02f758e77e42b111768bf74cb0432156a2f,",
-      "theme.fg.danger": "S:e075b47630563412a4150894968e1d44241929a4,",
-      "theme.fg.info": "S:d2fd8dbf993c8959a5cfdaa5cb87af0431137345,",
-      "theme.fg.accent": "S:c69618a3507d035adb5f9cfe37d692730af2a684,",
       "theme.fg.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
       "theme.fg.link-active": "S:536087b78b27946111c38211e2724f9e86d6be63,",
       "theme.border.default": "S:52f83403ac818e045900229454b8d40f5d1bbece,",
@@ -444,7 +438,9 @@
       "theme.focus.primary": "S:b42d136a7f96ad47a3d4febd6c49dd4a004ad729,",
       "theme.focus.accent": "S:a11ff2a4f693bba0e9f6864df33ba4646e149331,",
       "theme.focus.success": "S:7320e52eb4030da6fcb6d3b89c618dfcf09c0ead,",
-      "theme.focus.danger": "S:38c19fafd11080d0e52d332c3a9ff8f2dc8e6f27,"
+      "theme.focus.danger": "S:38c19fafd11080d0e52d332c3a9ff8f2dc8e6f27,",
+      "theme.fg.brand-bold": "S:33eb34dea02a14508af3911ee36b60dbd243c04a,",
+      "theme.fg.success-bold": "S:f719e41e3316997b5aa666e6dbd4952cad4caea9,"
     }
   }
 ]
