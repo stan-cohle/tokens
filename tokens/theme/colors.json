@@ -134,17 +134,8 @@
         "type": "color"
       },
       "inverse-tertiary": {
-        "value": "{theme.generic.white}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "{core.opacity.600}",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba({theme.generic.white}, {core.opacity.600})",
+        "type": "color"
       },
       "brand": {
         "type": "color",
@@ -186,7 +177,7 @@
       },
       "link-active": {
         "type": "color",
-        "value": "{theme.fg.link}",
+        "value": "{theme.info.intense}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
