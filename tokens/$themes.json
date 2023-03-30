@@ -492,7 +492,13 @@
       "theme.border.inverse-medium": "S:d3b4c31697ba21c8753769ece3d523feaaf2bcd2,",
       "theme.primary.muted": "S:8377c4c55ab5619e63d0d90b12fb421e6d8b07d8,",
       "theme.success.muted": "S:0f6ab91b6028c88572f979dbfcc58826461344d8,",
-      "theme.accent.muted": "S:a4d2d353dd30f82d3970599501c06343d8051c77,"
+      "theme.accent.muted": "S:a4d2d353dd30f82d3970599501c06343d8051c77,",
+      "theme.component.primary": "S:f75b2bba0243bd29bced7623e9bdbfde4a64e6e8,",
+      "theme.component.success": "S:1e200fcf5c04ad8ecae65da239a759dfc5a87e20,",
+      "theme.component.warning": "S:caa59c8d59086b29f49d208740a93ad9aad4f64f,",
+      "theme.component.danger": "S:e563080b318ba8ff7a1e35ce4625b14cb7c106a8,",
+      "theme.component.info": "S:e7b517825ffb5772a5d9d379e3bc002eafa60cf0,",
+      "theme.component.accent": "S:3c8898ff17df5fff2eeb728a81a7547e16dbb06c,"
     }
   }
 ]
