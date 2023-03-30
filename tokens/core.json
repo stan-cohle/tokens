@@ -989,6 +989,14 @@
       "800": {
         "value": "64",
         "type": "spacing"
+      },
+      "900": {
+        "value": "72",
+        "type": "spacing"
+      },
+      "1000": {
+        "value": "80",
+        "type": "spacing"
       }
     },
     "size": {
