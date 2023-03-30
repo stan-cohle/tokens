@@ -528,5 +528,27 @@
       "brand/ovago_old": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "cbf17b64ddac9b57901deb6e7256c734fdc4dff6",
+    "name": "Wowfare",
+    "selectedTokenSets": {
+      "core": "source",
+      "typography": "source",
+      "semantic": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/wowfare": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

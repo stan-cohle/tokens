@@ -82,7 +82,7 @@
         "type": "color"
       },
       "400": {
-        "value": "{theme.primary.400}",
+        "value": "{theme.primary.muted}",
         "type": "color"
       },
       "500": {
