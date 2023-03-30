@@ -16,8 +16,7 @@
       "component/switch": "source",
       "component/checkbox": "source",
       "component/radio": "source",
-      "component/alert": "source",
-      "brand/ovago_old": "disabled"
+      "component/alert": "source"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:eb081d4099b2c638f630e35d33e745de46603d91,",
@@ -271,7 +270,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "enabled",
-      "brand/ovago_old": "disabled"
+      "brand/ovago_old": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.neutral.50": "S:801dc084c5b5b2cd67fede5c95af1e80575edbd9,",
