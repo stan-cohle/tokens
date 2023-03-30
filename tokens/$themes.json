@@ -442,15 +442,17 @@
       "theme.fg.brand-bold": "S:33eb34dea02a14508af3911ee36b60dbd243c04a,",
       "theme.fg.success-bold": "S:f719e41e3316997b5aa666e6dbd4952cad4caea9,",
       "theme.shadow.light.card": "S:e41454bd6099cdeb253f7de80e73114f17152c60,",
-      "theme.shadow.light.overlay": "S:da19a3727a3930ce2bb536291a615bbacd94332d,",
       "theme.shadow.light.modal": "S:17c988a0797a3da7f1d61ecca62441a697330aae,",
       "theme.shadow.light.bottom-sheet": "S:a0251ec08c4a0796f0084304ab5d4de7226d5e0c,",
       "theme.focus.warning": "S:5a0f28339f7cb475deb6719d02c302c1fe46bad1,",
       "theme.focus.info": "S:7ceac3e46ed46822c0b180926b74d2aec16d63c8,",
       "theme.shadow.strong.card": "S:0371498e1b0a8b1f5d46d610dfac5a50c0d3eb84,",
-      "theme.shadow.strong.overlay": "S:00d756c1a33b4eacbf1730cfda03be63de76ac46,",
       "theme.shadow.strong.modal": "S:0c09c21cde5fe8e879b3eb3851192b1eb69f5783,",
-      "theme.shadow.strong.bottom-sheet": "S:0fc40c7ad9930d2005b713837cbf34c11c395d3e,"
+      "theme.shadow.strong.bottom-sheet": "S:0fc40c7ad9930d2005b713837cbf34c11c395d3e,",
+      "theme.shadow.light.overlay-top": "S:da19a3727a3930ce2bb536291a615bbacd94332d,",
+      "theme.shadow.strong.overlay-top": "S:00d756c1a33b4eacbf1730cfda03be63de76ac46,",
+      "theme.shadow.light.overlay-bottom": "S:d76c2105f31c94f1a8907b55bdf7945f0180e6c2,",
+      "theme.shadow.strong.overlay-bottom": "S:7fb93e5f70786db2a3003ba01a04d67d9a40f92a,"
     }
   }
 ]

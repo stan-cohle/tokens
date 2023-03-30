@@ -23,7 +23,7 @@
           ],
           "type": "boxShadow"
         },
-        "overlay": {
+        "overlay-top": {
           "value": [
             {
               "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
@@ -36,6 +36,27 @@
             {
               "x": "0",
               "y": "4",
+              "blur": "8",
+              "spread": "0",
+              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "overlay-bottom": {
+          "value": [
+            {
+              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "type": "dropShadow",
+              "x": "0",
+              "y": "0",
+              "blur": "2",
+              "spread": "0"
+            },
+            {
+              "x": "0",
+              "y": "-4",
               "blur": "8",
               "spread": "0",
               "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
@@ -101,7 +122,7 @@
           ],
           "type": "boxShadow"
         },
-        "overlay": {
+        "overlay-top": {
           "value": [
             {
               "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
@@ -114,6 +135,27 @@
             {
               "x": "0",
               "y": "4",
+              "blur": "8",
+              "spread": "0",
+              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
+        "overlay-bottom": {
+          "value": [
+            {
+              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "type": "dropShadow",
+              "x": "0",
+              "y": "0",
+              "blur": "2",
+              "spread": "0"
+            },
+            {
+              "x": "0",
+              "y": "-4",
               "blur": "8",
               "spread": "0",
               "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
