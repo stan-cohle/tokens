@@ -90,7 +90,7 @@
         "type": "color"
       },
       "base": {
-        "value": "{core.color.cranberry.600}",
+        "value": "{theme.other.rouge}",
         "type": "color"
       },
       "tone": {
@@ -123,6 +123,15 @@
         "value": "#ffe03c",
         "type": "color"
       },
+      "supernova": {
+        "value": "#ffc700",
+        "type": "color",
+        "description": "Accent Elements"
+      },
+      "rouge": {
+        "value": "#CC2D6F",
+        "type": "color"
+      },
       "mint-gradient": {
         "value": "linear-gradient(180deg, #4DC09E 0%, #42A9BC 100%)",
         "type": "color"
@@ -130,6 +139,20 @@
       "white-to-primary": {
         "value": "linear-gradient(90deg, rgba({theme.bg.brand-bold}, 0) 0%, {theme.bg.brand-bold} 100%)",
         "type": "color"
+      },
+      "marketing": {
+        "1": {
+          "value": "linear-gradient(180deg, #00000000 0%, #00000099 44.92%, #00000099 100%)",
+          "type": "color"
+        },
+        "2": {
+          "value": "linear-gradient(270deg, #20252b 0%, #414446 100%)",
+          "type": "color"
+        },
+        "3": {
+          "value": "linear-gradient(235deg, #1e2124 0%, #1e2124 37.68%, #5d6772 100%)",
+          "type": "color"
+        }
       }
     },
     "presets": {
