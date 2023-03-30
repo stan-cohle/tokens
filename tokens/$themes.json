@@ -55,8 +55,6 @@
       "theme.fg.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
       "theme.fg.link-active": "S:536087b78b27946111c38211e2724f9e86d6be63,",
       "theme.border.strong": "S:152f7a141e081733a79072236bfe6d9b9d383587,",
-      "theme.border.inverse-default": "S:d3b4c31697ba21c8753769ece3d523feaaf2bcd2,",
-      "theme.border.inverse-muted": "S:57762ad9442de57945dde71fd6ea1be68f2697b1,",
       "theme.border.inverse-strong": "S:63108e1b75e82a2737646e7da17dadb1c47c1216,",
       "theme.border.brand-bold": "S:d47bd0aa3fa61ffa9a33b8f60cf872b40aaebc6f,",
       "theme.border.brand-subtle": "S:f6ec310fbfccd2bf2b21ccabfaf7389cde01fc6b,",
@@ -226,7 +224,25 @@
       "theme.warning.pale": "S:61a9c72aafeae0f4faad99c5759f58e63b823908,",
       "theme.danger.pale": "S:d762bd51d80be5ab8fba858aaf3caff684eb3aa1,",
       "theme.info.pale": "S:8a1cd8f16388ed08a7a8ff7a00ac6030702a4b44,",
-      "theme.accent.pale": "S:9374d0010fd248a01e3f16b9fd6ae75b8d16a14e,"
+      "theme.accent.pale": "S:9374d0010fd248a01e3f16b9fd6ae75b8d16a14e,",
+      "theme.fg.warning-bold": "S:7760f02f758e77e42b111768bf74cb0432156a2f,",
+      "theme.fg.danger-bold": "S:e075b47630563412a4150894968e1d44241929a4,",
+      "theme.fg.info-bold": "S:d2fd8dbf993c8959a5cfdaa5cb87af0431137345,",
+      "theme.fg.accent-bold": "S:c69618a3507d035adb5f9cfe37d692730af2a684,",
+      "theme.primary.muted": "S:8377c4c55ab5619e63d0d90b12fb421e6d8b07d8,",
+      "theme.success.muted": "S:0f6ab91b6028c88572f979dbfcc58826461344d8,",
+      "theme.warning.muted": "S:f567d07074b98365ab9384bd2a079ab108dc1cf5,",
+      "theme.danger.muted": "S:6dade9e534ea526763440c88225a6c2ead102c41,",
+      "theme.info.muted": "S:2de33105c2c2ba2f57bb4c9ebe7b5cccae28543a,",
+      "theme.accent.muted": "S:a4d2d353dd30f82d3970599501c06343d8051c77,",
+      "theme.component.button.primary": "S:f75b2bba0243bd29bced7623e9bdbfde4a64e6e8,",
+      "theme.component.button.success": "S:1e200fcf5c04ad8ecae65da239a759dfc5a87e20,",
+      "theme.component.button.warning": "S:caa59c8d59086b29f49d208740a93ad9aad4f64f,",
+      "theme.component.button.danger": "S:e563080b318ba8ff7a1e35ce4625b14cb7c106a8,",
+      "theme.component.button.info": "S:e7b517825ffb5772a5d9d379e3bc002eafa60cf0,",
+      "theme.component.button.accent": "S:3c8898ff17df5fff2eeb728a81a7547e16dbb06c,",
+      "theme.border.inverse-light": "S:57762ad9442de57945dde71fd6ea1be68f2697b1,",
+      "theme.border.inverse-medium": "S:d3b4c31697ba21c8753769ece3d523feaaf2bcd2,"
     }
   },
   {
@@ -321,8 +337,6 @@
       "theme.fg.link": "S:8bccb33a55876f5a676f4e470ccd6d173a95f036,",
       "theme.fg.link-active": "S:57c0f3d343dc6001e95d76df947e9bab5ec7d99f,",
       "theme.border.strong": "S:00b92fd3bde9a7739ce4f2a4a9a483ad09e7c684,",
-      "theme.border.inverse-default": "S:194e56a553c772b8025596424b492e6f31b75a9f,",
-      "theme.border.inverse-muted": "S:f66c780e54857ba57d668190968d1ad5e100b476,",
       "theme.border.inverse-strong": "S:803f353af47957ff42aa00e2a815c87e023cccb9,",
       "theme.border.brand-bold": "S:05238211d5233cf1622504b7c76919ff0ee41725,",
       "theme.border.brand-subtle": "S:89050c19d6ae8be1a4f21a5230316db407a6ccb0,",
@@ -464,7 +478,9 @@
       "theme.warning.pale": "S:3529a843c26f056f2dd85c367f3d9011dc82585b,",
       "theme.danger.pale": "S:6ab70b6d0ed13daa6f5dc6d52b8f2975e76aac29,",
       "theme.info.pale": "S:caed776b6489ed1b211325148ca65cb009284ce1,",
-      "theme.accent.pale": "S:b05056047d352dbca0bc9de39e3579267694534d,"
+      "theme.accent.pale": "S:b05056047d352dbca0bc9de39e3579267694534d,",
+      "theme.border.inverse-light": "S:f66c780e54857ba57d668190968d1ad5e100b476,",
+      "theme.border.inverse-medium": "S:194e56a553c772b8025596424b492e6f31b75a9f,"
     }
   }
 ]

@@ -202,12 +202,12 @@
         "value": "{theme.neutral.600}",
         "type": "color"
       },
-      "inverse-default": {
-        "value": "rgba({theme.generic.white}, {core.opacity.200})",
+      "inverse-light": {
+        "value": "rgba({theme.generic.white}, {core.opacity.100})",
         "type": "color"
       },
-      "inverse-muted": {
-        "value": "rgba({theme.generic.white}, {core.opacity.100})",
+      "inverse-medium": {
+        "value": "rgba({theme.generic.white}, {core.opacity.200})",
         "type": "color"
       },
       "inverse-strong": {
