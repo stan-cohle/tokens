@@ -506,5 +506,27 @@
       "theme.component.info": "S:82e63f69a1b630b5c2ec030783354d21cc237c36,",
       "theme.component.accent": "S:e2f05e094ad783f6b42bfce71549097c1c2714e8,"
     }
+  },
+  {
+    "id": "6e24ee5e097a80d681e5320b53ba5dcb74585674",
+    "name": "Ovago (Old)",
+    "selectedTokenSets": {
+      "core": "source",
+      "typography": "source",
+      "semantic": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/ovago_old": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

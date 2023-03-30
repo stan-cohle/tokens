@@ -179,22 +179,6 @@
         "type": "color",
         "value": "{theme.fg.secondary}"
       }
-    },
-    "action": {
-      "primary": {
-        "default": {
-          "value": "{theme.success.base}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.success.tint}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{theme.success.tone}",
-          "type": "color"
-        }
-      }
     }
   }
 }
