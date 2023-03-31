@@ -783,5 +783,27 @@
       "theme.other.marketing.2": "S:4e768fafcc114dde780984ee0dadc07e4eea1f4f,",
       "theme.other.marketing.1": "S:a92a6cb8b6d6371c102eaa7cb0a8b7ffd5bc79d8,"
     }
+  },
+  {
+    "id": "9a8ae3c9ba989e5a361c576d01e5d986e9ba5b4a",
+    "name": "AranGrant",
+    "selectedTokenSets": {
+      "core": "source",
+      "typography": "source",
+      "semantic": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/aran-grant": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
