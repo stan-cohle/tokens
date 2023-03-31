@@ -22,28 +22,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "9a8ae3c9ba989e5a361c576d01e5d986e9ba5b4a",
-    "name": "AranGrant",
-    "selectedTokenSets": {
-      "core": "source",
-      "typography": "source",
-      "semantic": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
-      "component/button": "enabled",
-      "component/badge": "enabled",
-      "component/text-input": "enabled",
-      "component/icon-button": "source",
-      "component/switch": "source",
-      "component/checkbox": "source",
-      "component/radio": "source",
-      "component/alert": "source",
-      "brand/aran-grant": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "5c167c14f6c6658e323603259ff2a60aba9b4196",
     "name": "Default",
     "selectedTokenSets": {
@@ -836,5 +814,28 @@
       "comp.ifta.entry": "S:84dac85eaabed7942a97afa1d7d5126f099cd700,",
       "comp.ifta.placeholder": "S:54cd150bbf6c5aba247c94c44d79adac243bb09b,"
     }
+  },
+  {
+    "id": "9a8ae3c9ba989e5a361c576d01e5d986e9ba5b4a",
+    "name": "AranGrant",
+    "selectedTokenSets": {
+      "core": "source",
+      "typography": "source",
+      "semantic": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/aran-grant": "enabled",
+      "component/ifta": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
