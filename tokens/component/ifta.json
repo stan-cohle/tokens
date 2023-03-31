@@ -1,0 +1,28 @@
+{
+  "comp": {
+    "ifta": {
+      "label": {
+        "value": "{base.text.xs.regular.default}",
+        "type": "typography"
+      },
+      "entry": {
+        "value": {
+          "fontFamily": "{font-family.inter}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "{line-height.text.lg.default}",
+          "fontSize": "15"
+        },
+        "type": "typography"
+      },
+      "placeholder": {
+        "value": {
+          "fontFamily": "{font-family.inter}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{line-height.text.lg.default}",
+          "fontSize": "15"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

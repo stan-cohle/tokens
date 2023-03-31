@@ -9,6 +9,7 @@
     "component/button",
     "component/badge",
     "component/text-input",
+    "component/ifta",
     "component/icon-button",
     "component/switch",
     "component/checkbox",
