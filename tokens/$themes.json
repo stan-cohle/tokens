@@ -18,8 +18,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "enabled",
-      "brand/ovago_old": "enabled",
-      "component/ifta": "disabled"
+      "brand/ovago_old": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.neutral.50": "S:801dc084c5b5b2cd67fede5c95af1e80575edbd9,",
@@ -274,8 +273,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/ovago_old": "enabled",
-      "component/ifta": "disabled"
+      "brand/ovago_old": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -297,8 +295,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/wowfare": "enabled",
-      "component/ifta": "disabled"
+      "brand/wowfare": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:0a865ae5d2016223a2aab497c11dc64338d958ce,",
@@ -553,8 +550,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/aran-grant": "enabled",
-      "component/ifta": "disabled"
+      "brand/aran-grant": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -808,7 +804,16 @@
       "comp.button.small1": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
       "comp.button.medium1": "S:835c7e5a1d76b2d97698aa7b9657de73f2455e17,",
       "comp.button.large1": "S:424fb518f8f932d6970fa45d40d74be556c4ef41,",
-      "comp.button.x-large1": "S:3a300fb54223e48914ff653b32f96e5d58a1db46,"
+      "comp.button.x-large1": "S:3a300fb54223e48914ff653b32f96e5d58a1db46,",
+      "comp.ifta.label": "S:92089a8e9a8b70707bb1f655bf412aa6ffe732e4,",
+      "comp.ifta.entry": "S:0fa73540ee80c800808056d4bf4a61fcb8e1f153,",
+      "comp.ifta.placeholder": "S:9baf9b8a95ff53b8d3729a22cb6568cd6d017f43,",
+      "comp.badge-label.small": "S:a0d3dd69fbcd70e20258400745dd4c914f96fd37,",
+      "comp.badge-label.medium": "S:b6d4be4089608bcb8d1dd972f7689d9a707fa95c,",
+      "comp.button-label.small": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
+      "comp.button-label.medium": "S:835c7e5a1d76b2d97698aa7b9657de73f2455e17,",
+      "comp.button-label.large": "S:424fb518f8f932d6970fa45d40d74be556c4ef41,",
+      "comp.button-label.x-large": "S:3a300fb54223e48914ff653b32f96e5d58a1db46,"
     }
   }
 ]
