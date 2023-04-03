@@ -420,29 +420,6 @@
         "type": "color"
       }
     },
-    "presets": {
-      "header": {
-        "value": "{theme.bg.brand-bold}",
-        "type": "color"
-      },
-      "subheader": {
-        "value": "{theme.presets.header}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.mix-delta}",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "footer": {
-        "value": "{theme.neutral.1100}",
-        "type": "color"
-      }
-    },
     "primary": {
       "intense": {
         "value": "{core.color.indigo.800}",
@@ -822,6 +799,29 @@
       },
       "1000": {
         "value": "rgba({theme.generic.black},{core.opacity.1000})",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "{theme.bg.brand-bold}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{theme.presets.header}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{semantic.color.modifiers.mix-delta}",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "footer": {
+        "value": "{theme.neutral.1100}",
         "type": "color"
       }
     }
