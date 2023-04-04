@@ -222,6 +222,12 @@
         "value": "{theme.primary.intense}",
         "type": "color"
       }
+    },
+    "fg": {
+      "warning-bold": {
+        "value": "{core.color.apricot.600}",
+        "type": "color"
+      }
     }
   },
   "font-family": {
