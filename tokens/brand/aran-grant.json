@@ -225,7 +225,7 @@
     },
     "fg": {
       "warning-bold": {
-        "value": "{core.color.apricot.600}",
+        "value": "{theme.warning.base}",
         "type": "color"
       }
     }
