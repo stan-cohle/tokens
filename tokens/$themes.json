@@ -17,7 +17,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/ovago_old": "enabled"
+      "brand/ovago_old": "enabled",
+      "brand/fairfield": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -39,7 +40,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "component/ifta": "enabled"
+      "component/ifta": "enabled",
+      "brand/fairfield": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:eb081d4099b2c638f630e35d33e745de46603d91,",
@@ -303,7 +305,8 @@
       "component/alert": "source",
       "brand/ovago": "enabled",
       "brand/ovago_old": "enabled",
-      "component/ifta": "enabled"
+      "component/ifta": "enabled",
+      "brand/fairfield": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.neutral.50": "S:801dc084c5b5b2cd67fede5c95af1e80575edbd9,",
@@ -569,7 +572,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/wowfare": "enabled",
-      "component/ifta": "enabled"
+      "component/ifta": "enabled",
+      "brand/fairfield": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:0a865ae5d2016223a2aab497c11dc64338d958ce,",
@@ -834,7 +838,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/aran-grant": "enabled",
-      "component/ifta": "enabled"
+      "component/ifta": "enabled",
+      "brand/fairfield": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:f582c5d91fe5fe746aba8a9d88d7540900f8971f,",
@@ -1070,5 +1075,28 @@
       "theme.component.info": "S:9aaeef44434b47d5dead18b0bdb789ee04ce2d1e,",
       "theme.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,"
     }
+  },
+  {
+    "id": "8f23fbdca781c75ff0821bf3a7405a2d542a93b8",
+    "name": "Fairfield",
+    "selectedTokenSets": {
+      "core": "source",
+      "typography": "source",
+      "semantic": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/fairfield": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

@@ -364,6 +364,44 @@
           "type": "color"
         }
       },
+      "larimar-blue": {
+        "100": {
+          "value": "#E4F4FC",
+          "type": "color"
+        },
+        "200": {
+          "value": "#D2ECF9",
+          "type": "color"
+        },
+        "300": {
+          "value": "#A6D9F2",
+          "type": "color"
+        },
+        "400": {
+          "value": "#5FBAE7",
+          "type": "color"
+        },
+        "500": {
+          "value": "#1D8CC3",
+          "type": "color"
+        },
+        "600": {
+          "value": "#1A79AF",
+          "type": "color"
+        },
+        "700": {
+          "value": "#1465A3",
+          "type": "color"
+        },
+        "800": {
+          "value": "#0B558E",
+          "type": "color"
+        },
+        "900": {
+          "value": "#083E68",
+          "type": "color"
+        }
+      },
       "blue": {
         "100": {
           "value": "#e5f3ff",
