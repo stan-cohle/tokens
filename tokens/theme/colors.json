@@ -288,16 +288,34 @@
       },
       "accent": {
         "default": {
-          "value": "{theme.accent.base}",
+          "value": "{theme.other.fairfield-red}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.accent.tint}",
-          "type": "color"
+          "value": "{theme.action.primary.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
         },
         "pressed": {
-          "value": "{theme.accent.tone}",
-          "type": "color"
+          "value": "{theme.action.primary.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "lch"
+              }
+            }
+          }
         },
         "on-accent": {
           "value": "{theme.fg.inverse-primary}",

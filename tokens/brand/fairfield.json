@@ -1,0 +1,66 @@
+{
+  "theme": {
+    "other": {
+      "fairfield-red": {
+        "value": "#C8102E",
+        "type": "color"
+      },
+      "fairfield-blue": {
+        "value": "#1a79af",
+        "type": "color"
+      },
+      "raisin-black": {
+        "value": "#231F20",
+        "type": "color"
+      },
+      "gray": {
+        "value": "#BCBEC0",
+        "type": "color"
+      }
+    },
+    "action": {
+      "primary": {
+        "default": {
+          "value": "{theme.other.fairfield-red}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.action.primary.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "pressed": {
+          "value": "{theme.action.primary.default}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
+    },
+    "presets": {
+      "footer": {
+        "value": "{theme.other.raisin-black}",
+        "type": "color"
+      },
+      "header": {
+        "value": "{theme.other.fairfield-red}",
+        "type": "color"
+      }
+    }
+  }
+}
