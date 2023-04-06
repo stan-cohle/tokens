@@ -249,6 +249,10 @@
       "brand-bold": {
         "value": "{theme.fairfield.cherry}",
         "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{theme.border.danger-subtle}",
+        "type": "color"
       }
     },
     "interactive": {
