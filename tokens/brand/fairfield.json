@@ -118,6 +118,10 @@
       "header": {
         "value": "{theme.other.fairfield-red}",
         "type": "color"
+      },
+      "subheader": {
+        "value": "{theme.generic.white}",
+        "type": "color"
       }
     },
     "info": {
