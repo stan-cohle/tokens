@@ -765,6 +765,56 @@
           "value": "#14141D",
           "type": "color"
         }
+      },
+      "gray": {
+        "50": {
+          "value": "#F7F7F7",
+          "type": "color"
+        },
+        "100": {
+          "value": "#F0F0F0",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E8E8E8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#D1D1D1",
+          "type": "color"
+        },
+        "400": {
+          "value": "#C2C1C1",
+          "type": "color"
+        },
+        "500": {
+          "value": "#AEADAD",
+          "type": "color"
+        },
+        "600": {
+          "value": "#989596",
+          "type": "color"
+        },
+        "700": {
+          "value": "#817E7F",
+          "type": "color"
+        },
+        "800": {
+          "value": "#6A6768",
+          "type": "color"
+        },
+        "900": {
+          "value": "#4E4B4C",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#262626",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#1A1A1A",
+          "type": "color"
+        }
       }
     },
     "dimension": {
