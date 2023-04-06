@@ -50,20 +50,20 @@
         "type": "color"
       }
     },
-    "other": {
-      "fairfield-cherry": {
+    "fairfield": {
+      "cherry": {
         "value": "#D70029",
         "type": "color"
       },
-      "fairfield-lava": {
+      "lava": {
         "value": "#C8102E",
         "type": "color"
       },
-      "fairfield-green": {
+      "green": {
         "value": "#1C871C",
         "type": "color"
       },
-      "fairfield-blue": {
+      "blue": {
         "value": "#1a79af",
         "type": "color"
       },
@@ -83,7 +83,7 @@
     "action": {
       "primary": {
         "default": {
-          "value": "{theme.other.fairfield-lava}",
+          "value": "{theme.fairfield.lava}",
           "type": "color"
         },
         "hover": {
@@ -116,11 +116,11 @@
     },
     "presets": {
       "footer": {
-        "value": "{theme.other.raisin-black}",
+        "value": "{theme.fairfield.raisin-black}",
         "type": "color"
       },
       "header": {
-        "value": "{theme.other.fairfield-lava}",
+        "value": "{theme.fairfield.lava}",
         "type": "color"
       },
       "subheader": {
@@ -198,15 +198,15 @@
     },
     "fg": {
       "danger-bold": {
-        "value": "{theme.other.fairfield-lava}",
+        "value": "{theme.fairfield.lava}",
         "type": "color"
       },
       "brand-bold": {
-        "value": "{theme.other.fairfield-cherry}",
+        "value": "{theme.fairfield.cherry}",
         "type": "color"
       },
       "link-active": {
-        "value": "{theme.other.fairfield-lava}",
+        "value": "{theme.fairfield.lava}",
         "type": "color"
       },
       "primary": {
@@ -216,15 +216,15 @@
     },
     "bg": {
       "danger-bold": {
-        "value": "{theme.other.fairfield-lava}",
+        "value": "{theme.fairfield.lava}",
         "type": "color"
       },
       "brand-bold": {
-        "value": "{theme.other.fairfield-cherry}",
+        "value": "{theme.fairfield.cherry}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{theme.other.fairfield-lava}",
+        "value": "{theme.fairfield.lava}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -237,23 +237,23 @@
         }
       },
       "canvas": {
-        "value": "{theme.other.light-gray}",
+        "value": "{theme.fairfield.light-gray}",
         "type": "color"
       }
     },
     "border": {
       "danger-bold": {
-        "value": "{theme.other.fairfield-lava}",
+        "value": "{theme.fairfield.lava}",
         "type": "color"
       },
       "brand-bold": {
-        "value": "{theme.other.fairfield-cherry}",
+        "value": "{theme.fairfield.cherry}",
         "type": "color"
       }
     },
     "interactive": {
       "default": {
-        "value": "{theme.other.raisin-black}",
+        "value": "{theme.fairfield.raisin-black}",
         "type": "color"
       },
       "hover": {
