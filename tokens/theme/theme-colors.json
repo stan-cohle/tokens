@@ -21,10 +21,6 @@
         "value": "{theme.neutral.400}",
         "type": "color"
       },
-      "canvas": {
-        "type": "color",
-        "value": "{theme.neutral.100}"
-      },
       "inverse-primary": {
         "type": "color",
         "value": "{theme.neutral.1100}"
@@ -36,6 +32,10 @@
       "inverse-tertiary": {
         "type": "color",
         "value": "{theme.neutral.900}"
+      },
+      "canvas": {
+        "type": "color",
+        "value": "{theme.neutral.100}"
       },
       "scrim": {
         "value": "rgba({theme.neutral.900},{core.opacity.800})",
