@@ -1018,6 +1018,10 @@
         "value": "0",
         "type": "spacing"
       },
+      "1": {
+        "value": "1",
+        "type": "spacing"
+      },
       "25": {
         "value": "2",
         "type": "spacing"

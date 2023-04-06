@@ -13,7 +13,7 @@
           "value": {
             "sizing": "18",
             "borderRadius": "{semantic.border-radius.container.pill}",
-            "borderWidth": "1.68"
+            "borderWidth": "{core.border-width.2}"
           },
           "type": "composition"
         }
@@ -23,7 +23,7 @@
           "value": {
             "sizing": "18",
             "borderRadius": "{semantic.border-radius.container.pill}",
-            "borderWidth": "5"
+            "borderWidth": "{core.border-width.2}"
           },
           "type": "composition"
         }
@@ -40,8 +40,8 @@
       },
       "base": {
         "value": {
-          "width": "22",
-          "height": "24"
+          "horizontalPadding": "{core.space.1}",
+          "verticalPadding": "{core.space.1}"
         },
         "type": "composition"
       },
@@ -58,9 +58,9 @@
       "selected": {
         "shape": {
           "value": {
-            "sizing": "{semantic.size.icon.medium}",
+            "sizing": "22",
             "borderRadius": "{semantic.border-radius.container.pill}",
-            "borderWidth": "6"
+            "borderWidth": "{core.border-width.2}"
           },
           "type": "composition"
         }
