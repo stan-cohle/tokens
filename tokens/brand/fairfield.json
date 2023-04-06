@@ -51,7 +51,11 @@
       }
     },
     "other": {
-      "fairfield-red": {
+      "fairfield-cherry": {
+        "value": "#D70029",
+        "type": "color"
+      },
+      "fairfield-lava": {
         "value": "#C8102E",
         "type": "color"
       },
@@ -79,7 +83,7 @@
     "action": {
       "primary": {
         "default": {
-          "value": "{theme.other.fairfield-red}",
+          "value": "{theme.other.fairfield-lava}",
           "type": "color"
         },
         "hover": {
@@ -116,7 +120,7 @@
         "type": "color"
       },
       "header": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-lava}",
         "type": "color"
       },
       "subheader": {
@@ -194,25 +198,16 @@
     },
     "fg": {
       "danger-bold": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-lava}",
         "type": "color"
       },
       "brand-bold": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-cherry}",
         "type": "color"
       },
       "link-active": {
-        "value": "{theme.other.fairfield-red}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.button.hover-mod}",
-              "space": "lch"
-            }
-          }
-        }
+        "value": "{theme.other.fairfield-lava}",
+        "type": "color"
       },
       "primary": {
         "value": "{theme.neutral.1000}",
@@ -221,15 +216,15 @@
     },
     "bg": {
       "danger-bold": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-lava}",
         "type": "color"
       },
       "brand-bold": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-cherry}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-lava}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -248,11 +243,11 @@
     },
     "border": {
       "danger-bold": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-lava}",
         "type": "color"
       },
       "brand-bold": {
-        "value": "{theme.other.fairfield-red}",
+        "value": "{theme.other.fairfield-cherry}",
         "type": "color"
       }
     },
