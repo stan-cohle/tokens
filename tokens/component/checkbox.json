@@ -1,57 +1,47 @@
 {
-  "checkbox": {
-    "small": {
-      "base": {
-        "value": {
-          "width": "16",
-          "height": "20"
+  "comp": {
+    "checkbox": {
+      "small": {
+        "base": {
+          "value": {
+            "verticalPadding": "{semantic.spacing.xx-small}",
+            "horizontalPadding": "{semantic.spacing.xx-small}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "shape": {
-        "value": {
-          "sizing": "{semantic.size.icon.small}",
-          "borderRadius": "{semantic.border-radius.container.sm}",
-          "borderWidth": "1.68"
+        "shape": {
+          "value": {
+            "sizing": "{semantic.size.icon.small}",
+            "borderRadius": "{semantic.border-radius.container.sm}",
+            "borderWidth": "{semantic.border-width.md}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "space-between": {
+          "value": "{semantic.spacing.small}",
+          "type": "spacing"
+        }
       },
-      "icon": {
-        "value": {
-          "sizing": "{semantic.size.icon.medium}"
+      "medium": {
+        "base": {
+          "value": {
+            "verticalPadding": "{semantic.spacing.xx-small}",
+            "horizontalPadding": "{semantic.spacing.xx-small}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "space-between": {
-        "value": "{semantic.spacing.small}",
-        "type": "spacing"
-      }
-    },
-    "medium": {
-      "base": {
-        "value": {
-          "width": "20",
-          "height": "24"
+        "shape": {
+          "value": {
+            "sizing": "{semantic.size.icon.medium}",
+            "borderRadius": "{semantic.border-radius.container.sm}",
+            "borderWidth": "{semantic.border-width.md}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "shape": {
-        "value": {
-          "sizing": "{semantic.size.icon.medium}",
-          "borderRadius": "{semantic.border-radius.container.sm}",
-          "borderWidth": "2"
-        },
-        "type": "composition"
-      },
-      "icon": {
-        "value": {
-          "sizing": "{semantic.size.icon.large}"
-        },
-        "type": "composition"
-      },
-      "space-between": {
-        "value": "{semantic.spacing.small}",
-        "type": "spacing"
+        "space-between": {
+          "value": "{semantic.spacing.small}",
+          "type": "spacing"
+        }
       }
     }
   }

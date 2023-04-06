@@ -14,7 +14,7 @@
             "value": {
               "sizing": "18",
               "borderRadius": "{semantic.border-radius.container.pill}",
-              "borderWidth": "{core.border-width.2}"
+              "borderWidth": "{semantic.border-width.md}"
             },
             "type": "composition"
           }
@@ -24,7 +24,7 @@
             "value": {
               "sizing": "18",
               "borderRadius": "{semantic.border-radius.container.pill}",
-              "borderWidth": "{core.border-width.2}"
+              "borderWidth": "{semantic.border-width.md}"
             },
             "type": "composition"
           }
@@ -65,7 +65,7 @@
             "value": {
               "sizing": "22",
               "borderRadius": "{semantic.border-radius.container.pill}",
-              "borderWidth": "{core.border-width.2}"
+              "borderWidth": "{semantic.border-width.md}"
             },
             "type": "composition"
           }
