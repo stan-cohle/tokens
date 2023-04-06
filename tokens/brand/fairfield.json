@@ -83,30 +83,21 @@
     "action": {
       "primary": {
         "default": {
-          "value": "{theme.fairfield.lava}",
+          "value": "{theme.fairfield.cherry}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.primary.default}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.button.hover-mod}",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{theme.fairfield.lava}",
+          "type": "color"
         },
         "pressed": {
-          "value": "{theme.action.primary.default}",
+          "value": "{theme.action.primary.hover}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "value": "{semantic.color.modifiers.mix-delta}",
                 "space": "lch"
               }
             }
