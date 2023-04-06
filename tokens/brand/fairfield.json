@@ -55,6 +55,10 @@
         "value": "#C8102E",
         "type": "color"
       },
+      "fairfield-green": {
+        "value": "#1C871C",
+        "type": "color"
+      },
       "fairfield-blue": {
         "value": "#1a79af",
         "type": "color"
