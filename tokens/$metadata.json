@@ -3,7 +3,9 @@
     "core",
     "typography",
     "semantic",
-    "theme/colors",
+    "theme/theme-colors",
+    "theme/base_colors",
+    "theme/neutral_colors",
     "theme/effects",
     "theme/fonts",
     "component/button",
@@ -20,6 +22,7 @@
     "brand/ovago",
     "brand/wowfare",
     "brand/aran-grant",
+    "brand/fairfield",
     "brand/luxmiles",
     "brand/hop2",
     "brand/gurufare",
@@ -32,7 +35,6 @@
     "brand/myquility",
     "brand/purdue",
     "brand/abenity",
-    "brand/easemytrip",
-    "brand/fairfield"
+    "brand/easemytrip"
   ]
 }

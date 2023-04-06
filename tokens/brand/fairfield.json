@@ -138,6 +138,19 @@
       "brand-bold": {
         "value": "{theme.other.fairfield-red}",
         "type": "color"
+      },
+      "link-active": {
+        "value": "{theme.other.fairfield-red}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "bg": {
@@ -158,6 +171,42 @@
       "brand-bold": {
         "value": "{theme.other.fairfield-red}",
         "type": "color"
+      }
+    },
+    "interactive": {
+      "default": {
+        "value": "{theme.other.raisin-black}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{theme.interactive.default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "pressed": {
+        "value": "{theme.interactive.default}",
+        "type": "color"
+      },
+      "selected": {
+        "value": "{theme.interactive.default}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        }
       }
     }
   }
