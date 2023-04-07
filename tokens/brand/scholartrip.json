@@ -1,0 +1,40 @@
+{
+  "theme": {
+    "scholartrip": {
+      "green": {
+        "500": {
+          "value": "#23A978",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "{semantic.color.modifiers.mix-delta}",
+                "space": "lch",
+                "color": "{theme.generic.white}"
+              }
+            }
+          }
+        },
+        "600": {
+          "value": "#23A978",
+          "type": "color"
+        },
+        "700": {
+          "value": "#23A978",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "mix",
+                "value": "{semantic.color.modifiers.mix-delta}",
+                "space": "lch",
+                "color": "{theme.generic.black}"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

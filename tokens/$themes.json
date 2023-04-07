@@ -20,7 +20,8 @@
       "component/ifta": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme-colors": "enabled",
+      "brand/scholartrip": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:f582c5d91fe5fe746aba8a9d88d7540900f8971f,",
@@ -278,7 +279,8 @@
       "component/ifta": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme-colors": "enabled",
+      "brand/scholartrip": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:0a865ae5d2016223a2aab497c11dc64338d958ce,",
@@ -546,7 +548,8 @@
       "component/ifta": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme-colors": "enabled",
+      "brand/scholartrip": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.neutral.50": "S:801dc084c5b5b2cd67fede5c95af1e80575edbd9,",
@@ -813,7 +816,8 @@
       "component/ifta": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme-colors": "enabled",
+      "brand/scholartrip": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.primary": "S:eb081d4099b2c638f630e35d33e745de46603d91,",
@@ -1077,7 +1081,8 @@
       "brand/ovago_old": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme-colors": "enabled",
+      "brand/scholartrip": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -1102,7 +1107,8 @@
       "brand/fairfield": "enabled",
       "theme/base_colors": "source",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme-colors": "enabled",
+      "brand/scholartrip": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:3a65b0133a0eb605ce7814181d93c7453ba7fec7,",
@@ -1304,5 +1310,30 @@
       "theme.component.info": "S:1ea9faba6fc701df979216e829ac4087cb0033ff,",
       "theme.component.accent": "S:bc2c70678f511fd8b5a538d7f6bf10f148573571,"
     }
+  },
+  {
+    "id": "984135dab0db2da0e272f76bdc91e61513e15cc5",
+    "name": "Scholartrip",
+    "selectedTokenSets": {
+      "core": "source",
+      "typography": "source",
+      "semantic": "enabled",
+      "theme/theme-colors": "enabled",
+      "theme/base_colors": "enabled",
+      "theme/neutral_colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/scholartrip": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
