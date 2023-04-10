@@ -281,6 +281,23 @@
         "value": "{theme.bg.danger-bold}",
         "type": "color"
       },
+      "warning-bold": {
+        "value": "{theme.bg.warning-bold}",
+        "type": "color"
+      },
+      "warning-subtle": {
+        "value": "{theme.bg.warning-bold}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "brand-bold": {
         "value": "{theme.bg.brand-bold}",
         "type": "color"
