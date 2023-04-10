@@ -177,16 +177,7 @@
       },
       "link-active": {
         "type": "color",
-        "value": "{theme.info.intense}",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "{semantic.color.modifiers.mix-delta}",
-              "space": "hsl"
-            }
-          }
-        }
+        "value": "{theme.info.intense}"
       }
     },
     "border": {

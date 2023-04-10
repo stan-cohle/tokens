@@ -62,6 +62,14 @@
       "elephant": {
         "value": "#192F40",
         "type": "color"
+      },
+      "gradient-1": {
+        "value": "linear-gradient(0deg, #3060b0 0%, #3469c0 100%)",
+        "type": "color"
+      },
+      "gradient-2": {
+        "value": "linear-gradient(180deg, #f17834 0%, #e55505 100%)",
+        "type": "color"
       }
     },
     "action": {
@@ -241,6 +249,19 @@
       "link": {
         "value": "{theme.scholartrip.mariner}",
         "type": "color"
+      },
+      "link-active": {
+        "value": "{theme.scholartrip.mariner}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{semantic.color.modifiers.mix-delta}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "info-bold": {
         "value": "{theme.scholartrip.mariner}",
