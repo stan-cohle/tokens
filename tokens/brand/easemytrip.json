@@ -89,7 +89,7 @@
   },
   "presets": {
     "header": {
-      "value": "{theme.background.primary}",
+      "value": "{theme.bg.primary}",
       "type": "color"
     },
     "subheader": {
