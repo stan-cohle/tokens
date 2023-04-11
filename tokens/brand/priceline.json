@@ -280,7 +280,7 @@
       },
       "neutral": {
         "on-neutral": {
-          "value": "{theme.fg.brand-bold}",
+          "value": "{theme.content.brand-bold}",
           "type": "color"
         }
       }

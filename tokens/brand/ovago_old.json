@@ -177,7 +177,7 @@
       },
       "form": {
         "type": "color",
-        "value": "{theme.fg.secondary}"
+        "value": "{theme.content.secondary}"
       }
     }
   }

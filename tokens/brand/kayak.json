@@ -134,11 +134,11 @@
     },
     "interactive": {
       "bg": {
-        "value": "{theme.fg.info-bold}",
+        "value": "{theme.content.info-bold}",
         "type": "color"
       },
       "fg": {
-        "value": "{theme.fg.info-bold}",
+        "value": "{theme.content.info-bold}",
         "type": "color"
       }
     }

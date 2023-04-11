@@ -223,7 +223,7 @@
         "type": "color"
       }
     },
-    "fg": {
+    "content": {
       "warning-bold": {
         "value": "{theme.warning.base}",
         "type": "color"

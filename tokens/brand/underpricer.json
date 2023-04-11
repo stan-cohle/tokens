@@ -9,15 +9,15 @@
   },
   "presets": {
     "header": {
-      "value": "{theme.bg.inverse-secondary}",
+      "value": "{theme.background.inverse-secondary}",
       "type": "color"
     },
     "subheader": {
-      "value": "{theme.bg.inverse-primary}",
+      "value": "{theme.background.inverse-primary}",
       "type": "color"
     },
     "footer": {
-      "value": "{theme.bg.inverse-primary}",
+      "value": "{theme.background.inverse-primary}",
       "type": "color"
     }
   },
