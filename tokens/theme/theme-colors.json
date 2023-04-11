@@ -408,8 +408,7 @@
         },
         "hover": {
           "value": "{theme.border.strong}",
-          "type": "color",
-          "description": "default border"
+          "type": "color"
         },
         "active": {
           "value": "{theme.primary.base}",
