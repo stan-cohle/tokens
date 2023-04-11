@@ -42,14 +42,6 @@
         "type": "color",
         "description": "Scrim, Backdrop, Modal background"
       },
-      "brand-bold": {
-        "value": "{theme.primary.base}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{theme.primary.subtle}",
-        "type": "color"
-      },
       "success-bold": {
         "value": "{theme.success.base}",
         "type": "color"
@@ -98,6 +90,14 @@
         "value": "{theme.info.subtle}",
         "type": "color"
       },
+      "brand-bold": {
+        "value": "{theme.primary.base}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{theme.primary.subtle}",
+        "type": "color"
+      },
       "accent-bold": {
         "value": "{theme.accent.base}",
         "type": "color"
@@ -137,15 +137,15 @@
         "value": "rgba({theme.generic.white}, {core.opacity.600})",
         "type": "color"
       },
-      "brand-bold": {
-        "type": "color",
-        "value": "{theme.primary.base}"
+      "inverse-disabled": {
+        "value": "rgba({theme.generic.white}, {core.opacity.800})",
+        "type": "color"
       },
       "success-bold": {
         "type": "color",
         "value": "{theme.success.base}"
       },
-      "warning-bold": {
+      "warning": {
         "type": "color",
         "value": "{theme.warning.tone}",
         "$extensions": {
@@ -159,38 +159,42 @@
           }
         }
       },
-      "danger-bold": {
+      "danger": {
         "type": "color",
         "value": "{theme.danger.base}"
       },
-      "info-bold": {
+      "info": {
         "type": "color",
         "value": "{theme.info.base}"
       },
-      "accent-bold": {
+      "brand": {
+        "type": "color",
+        "value": "{theme.primary.base}"
+      },
+      "accent": {
         "type": "color",
         "value": "{theme.accent.base}"
       },
       "link": {
         "type": "color",
         "value": "{theme.info.tone}"
-      },
-      "link-active": {
-        "type": "color",
-        "value": "{theme.info.intense}"
       }
     },
     "border": {
       "light": {
-        "value": "rgba({theme.border.strong},{core.opacity.300})",
+        "value": "{theme.neutral.200}",
         "type": "color"
       },
       "medium": {
-        "value": "rgba({theme.border.strong},{core.opacity.500})",
+        "value": "{theme.neutral.300}",
         "type": "color"
       },
       "strong": {
         "value": "{theme.neutral.600}",
+        "type": "color"
+      },
+      "light-alpha": {
+        "value": "rgba({theme.border.strong},{core.opacity.300})",
         "type": "color"
       },
       "inverse-light": {
@@ -204,14 +208,6 @@
       "inverse-strong": {
         "value": "rgba({theme.generic.white}, {core.opacity.400})",
         "type": "color"
-      },
-      "brand-bold": {
-        "type": "color",
-        "value": "{theme.primary.base}"
-      },
-      "brand-subtle": {
-        "type": "color",
-        "value": "{theme.primary.pale}"
       },
       "success-bold": {
         "type": "color",
@@ -244,6 +240,14 @@
       "info-subtle": {
         "type": "color",
         "value": "{theme.info.pale}"
+      },
+      "brand-bold": {
+        "type": "color",
+        "value": "{theme.primary.base}"
+      },
+      "brand-subtle": {
+        "type": "color",
+        "value": "{theme.primary.pale}"
       },
       "accent-bold": {
         "type": "color",
@@ -314,26 +318,26 @@
         }
       },
       "neutral": {
-        "default": {
+        "subtle-default": {
           "value": "{theme.neutral-alpha.100}",
           "type": "color"
         },
-        "hover": {
+        "subtle-hover": {
           "value": "{theme.neutral-alpha.200}",
           "type": "color"
         },
-        "pressed": {
+        "subtle-pressed": {
           "value": "{theme.neutral-alpha.300}",
           "type": "color"
         },
-        "on-neutral": {
+        "on-subtle-neutral": {
           "type": "color",
           "value": "{theme.content.primary}"
         }
       },
       "clear": {
         "default": {
-          "value": "{theme.background.primary}",
+          "value": "rgba({theme.background.primary},{core.opacity.0})",
           "type": "color"
         },
         "hover": {
@@ -346,7 +350,7 @@
         }
       }
     },
-    "interactive": {
+    "interaction": {
       "default": {
         "type": "color",
         "value": "{theme.primary.base}"

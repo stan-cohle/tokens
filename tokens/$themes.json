@@ -142,10 +142,6 @@
       "theme.action.success.hover": "S:02fe3256dfe03110e384b72cd7a44baa58c4361e,",
       "theme.action.success.pressed": "S:d69a8fc348d95c592852877e47a19d58adfb90c6,",
       "theme.action.success.on-success": "S:ac45df8d977d7f5f0bb1b1774bb22835dc07e868,",
-      "theme.action.neutral.default": "S:04628471da24489a3dd679c7c321d0ac3a674ef2,",
-      "theme.action.neutral.hover": "S:a47e23ae72b3dab6df3e4befdb30c25a30ed74da,",
-      "theme.action.neutral.pressed": "S:56d2fdbe5a5b51f888e3b4817813473c340a809d,",
-      "theme.action.neutral.on-neutral": "S:31c857361dc958ec0394f833927de8df80439fe7,",
       "theme.action.clear.default": "S:9dd0fc47482f1a0e084bd018b2316ad8dbcda1e7,",
       "theme.action.clear.hover": "S:8d196bd47709d1e3731ea2b6d941656bf68c7757,",
       "theme.action.clear.pressed": "S:0f98798a979b25bfa0b1eab20b46fd0e243f29db,",
@@ -253,7 +249,11 @@
       "theme.component.warning": "S:3b61d353ad906bfafe54fde8b28381c5ed8a0919,",
       "theme.component.danger": "S:b0f4aa091ba11eb5ef5ea2c6a9b56cd420eff84a,",
       "theme.component.info": "S:9aaeef44434b47d5dead18b0bdb789ee04ce2d1e,",
-      "theme.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,"
+      "theme.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,",
+      "theme.action.neutral.subtle-default": "S:04628471da24489a3dd679c7c321d0ac3a674ef2,",
+      "theme.action.neutral.subtle-hover": "S:a47e23ae72b3dab6df3e4befdb30c25a30ed74da,",
+      "theme.action.neutral.subtle-pressed": "S:56d2fdbe5a5b51f888e3b4817813473c340a809d,",
+      "theme.action.neutral.on-subtle-neutral": "S:31c857361dc958ec0394f833927de8df80439fe7,"
     }
   },
   {
@@ -390,10 +390,6 @@
       "theme.action.success.hover": "S:1f3b4c2cf92ec2f3e2634ec5d734dc596cfb7664,",
       "theme.action.success.pressed": "S:ff3affd3898a93afa94165d013c1ad870e4d60b8,",
       "theme.action.success.on-success": "S:26c918203abe7c9b9f4bddf0f99287980ba490c2,",
-      "theme.action.neutral.default": "S:06f73ca89dd872a818a74eaa8494e477691a6516,",
-      "theme.action.neutral.hover": "S:dd1bb5c44e5dc36fdd493a0658b9e4e3899c2b68,",
-      "theme.action.neutral.pressed": "S:bb761d46552c4db73aed1fd9551096d371c701c5,",
-      "theme.action.neutral.on-neutral": "S:20cdd66481e3c6376180dc1128388ca338a093d4,",
       "theme.action.clear.default": "S:809a5a1dbada075d04a70346c541d2f60ceefa92,",
       "theme.action.clear.hover": "S:ab0ef4e834251d5bf871c7f729259537b35c14ac,",
       "theme.action.clear.pressed": "S:15332f5129d04c711e936e6ec67d6c8b2f5521c9,",
@@ -519,7 +515,11 @@
       "comp.button-label.x-large": "S:6add5ecba44e8b4c123dc6b077af8df5d25f3851,",
       "comp.ifta.label": "S:b96fb90b32d0f0d73a91c26a6d3916b045025722,",
       "comp.ifta.entry": "S:84dac85eaabed7942a97afa1d7d5126f099cd700,",
-      "comp.ifta.placeholder": "S:54cd150bbf6c5aba247c94c44d79adac243bb09b,"
+      "comp.ifta.placeholder": "S:54cd150bbf6c5aba247c94c44d79adac243bb09b,",
+      "theme.action.neutral.subtle-default": "S:06f73ca89dd872a818a74eaa8494e477691a6516,",
+      "theme.action.neutral.subtle-hover": "S:dd1bb5c44e5dc36fdd493a0658b9e4e3899c2b68,",
+      "theme.action.neutral.subtle-pressed": "S:bb761d46552c4db73aed1fd9551096d371c701c5,",
+      "theme.action.neutral.on-subtle-neutral": "S:20cdd66481e3c6376180dc1128388ca338a093d4,"
     }
   },
   {
@@ -642,10 +642,6 @@
       "theme.action.success.hover": "S:cde082c6ce2c3e6665d7aa10e85894a99d2ef874,",
       "theme.action.success.pressed": "S:542e5f6d7a011b9549645a5d84f78d166362d1c1,",
       "theme.action.success.on-success": "S:26dda50dc624f0d35f3715900c140d578296d92d,",
-      "theme.action.neutral.default": "S:10614da8a79b0a3d103939db380e486389030078,",
-      "theme.action.neutral.hover": "S:da52342b680e0b7f14cc99846f05e3e3bcd92df9,",
-      "theme.action.neutral.pressed": "S:d0aea91ef2f1b7555fc8a8f26f21d885529876c6,",
-      "theme.action.neutral.on-neutral": "S:61331178afaebfdd39f22314b047a2384ec500cc,",
       "theme.action.clear.default": "S:e8f60fb25d37e7bc343bcd0f671335110511df4a,",
       "theme.action.clear.hover": "S:c39e112f24d0beef1270467d367b9898d3102663,",
       "theme.action.clear.pressed": "S:952aeb8cd34dda3447ec1b037a9aa4295a106fd2,",
@@ -787,7 +783,11 @@
       "comp.ifta.label": "S:1e5b500bf58ab8096a8f23fa51e6160aaca55788,",
       "comp.ifta.entry": "S:751d427c0ee0b2d134bcf400db555a3309c89cc7,",
       "comp.ifta.placeholder": "S:c490422bce26f523a582506d30a8abf429a5e1c8,",
-      "theme.action.primary.on-primary": "S:d4438ed1209b95c32cbb065f3dc7dd640792b1d3,"
+      "theme.action.primary.on-primary": "S:d4438ed1209b95c32cbb065f3dc7dd640792b1d3,",
+      "theme.action.neutral.subtle-default": "S:10614da8a79b0a3d103939db380e486389030078,",
+      "theme.action.neutral.subtle-hover": "S:da52342b680e0b7f14cc99846f05e3e3bcd92df9,",
+      "theme.action.neutral.subtle-pressed": "S:d0aea91ef2f1b7555fc8a8f26f21d885529876c6,",
+      "theme.action.neutral.on-subtle-neutral": "S:61331178afaebfdd39f22314b047a2384ec500cc,"
     }
   },
   {
@@ -994,10 +994,6 @@
       "theme.action.success.hover": "S:7f297110ed3c6143caee44e7e5f1ae32894e9281,",
       "theme.action.success.pressed": "S:49e03e7cf5693977ab346b3e1dd7ed61b22a216f,",
       "theme.action.success.on-success": "S:0390053bd9bc64fcd3b5a097d9ad65349f82558a,",
-      "theme.action.neutral.default": "S:7ce53ef64ef3c01f999b484c491a0c07493a3fa1,",
-      "theme.action.neutral.hover": "S:7826845e953f2b99664ae6c7eba428478f95794d,",
-      "theme.action.neutral.pressed": "S:7337d5dd939dc120e118543ae261ecc344390c58,",
-      "theme.action.neutral.on-neutral": "S:2fa440e2113132ebcecca5c777f51ec3608dd6cb,",
       "theme.action.clear.default": "S:73aaf181130a40b1a04eff395b2210bf56b6bca2,",
       "theme.action.clear.hover": "S:56baf968d486ec456738c74792c27f3c34e9e712,",
       "theme.action.clear.pressed": "S:f7deb7eed2363c3b68c09080914a68c4cacb4e14,",
@@ -1034,7 +1030,11 @@
       "theme.component.warning": "S:66e7ce976fd81f6e075dce29a238ffd8614155c9,",
       "theme.component.danger": "S:617692243c16d48f45bbfe3e4fd3e0fe35497ab9,",
       "theme.component.info": "S:1ea9faba6fc701df979216e829ac4087cb0033ff,",
-      "theme.component.accent": "S:bc2c70678f511fd8b5a538d7f6bf10f148573571,"
+      "theme.component.accent": "S:bc2c70678f511fd8b5a538d7f6bf10f148573571,",
+      "theme.action.neutral.subtle-default": "S:7ce53ef64ef3c01f999b484c491a0c07493a3fa1,",
+      "theme.action.neutral.subtle-hover": "S:7826845e953f2b99664ae6c7eba428478f95794d,",
+      "theme.action.neutral.subtle-pressed": "S:7337d5dd939dc120e118543ae261ecc344390c58,",
+      "theme.action.neutral.on-subtle-neutral": "S:2fa440e2113132ebcecca5c777f51ec3608dd6cb,"
     }
   },
   {
@@ -1195,10 +1195,6 @@
       "theme.action.success.hover": "S:b820be933b4b1d7c776c2886c09e0392955088e1,",
       "theme.action.success.pressed": "S:a9b868f4743a2f84768039415a94f6284e933908,",
       "theme.action.success.on-success": "S:41edf806f2f9cef7cbac557071b0fea560854f9e,",
-      "theme.action.neutral.default": "S:8c0043d6d3b1b1a16de562730d64d2d70eb12bc1,",
-      "theme.action.neutral.hover": "S:8404f5fc97751fd50e78607fd3eb19aba581a06d,",
-      "theme.action.neutral.pressed": "S:39c6bc8546aea767a6324bdc58dc95bab611f0cf,",
-      "theme.action.neutral.on-neutral": "S:eb09a781844e183c609e3aef48b2d63dd7dec579,",
       "theme.action.clear.default": "S:776be8ae4db7d7d1ee3d06f74a059a481f28dd81,",
       "theme.action.clear.hover": "S:764d6b839fe8a9e7f7e3ece8c37e7404bb4caa95,",
       "theme.action.clear.pressed": "S:c6c7604367c22c6cc699bfd694249b375d954547,",
@@ -1251,7 +1247,11 @@
       "theme.component.warning": "S:22940b6d6a15516e3cdeed869adec92f98ef8310,",
       "theme.component.danger": "S:e4246e8c817bfd97f8c42a974990580ca7143d34,",
       "theme.component.info": "S:f9053f4d8b69966bdc3638bcea064d1a7bbf116c,",
-      "theme.component.accent": "S:197cd321bb7089980805b230746bf37ed38f7a42,"
+      "theme.component.accent": "S:197cd321bb7089980805b230746bf37ed38f7a42,",
+      "theme.action.neutral.subtle-default": "S:8c0043d6d3b1b1a16de562730d64d2d70eb12bc1,",
+      "theme.action.neutral.subtle-hover": "S:8404f5fc97751fd50e78607fd3eb19aba581a06d,",
+      "theme.action.neutral.subtle-pressed": "S:39c6bc8546aea767a6324bdc58dc95bab611f0cf,",
+      "theme.action.neutral.on-subtle-neutral": "S:eb09a781844e183c609e3aef48b2d63dd7dec579,"
     }
   },
   {
@@ -1338,10 +1338,6 @@
       "theme.action.success.hover": "S:3fb8f6e04bc2639d68dd55221d993f029f799ebb,",
       "theme.action.success.pressed": "S:32c22a1371e92f49db869ba097416e629978c950,",
       "theme.action.success.on-success": "S:f1806b35b4cff4e34c05873aefbb722aa49115ff,",
-      "theme.action.neutral.default": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
-      "theme.action.neutral.hover": "S:b5b82de89dbeb9f33deb9d1f8d7da670c2f24c23,",
-      "theme.action.neutral.pressed": "S:786082f2ca75640a17b1921c7025138ed0d6ebf6,",
-      "theme.action.neutral.on-neutral": "S:feb63b3051db9df02214a7878595280c03c83df0,",
       "theme.action.clear.default": "S:9b3e857c9a2090a5f8c7ba637f2017782c5a1b7d,",
       "theme.action.clear.hover": "S:03621aedf29b57145af887eeab3fc8e9a06d72c3,",
       "theme.action.clear.pressed": "S:b2d43d2bc3862e2c5cfb547ab77e34b63fb332e3,",
@@ -1548,14 +1544,17 @@
       "theme.content.inverse-primary": "S:c88c1387157415b038212651c2f48b87157b1a4a,",
       "theme.content.inverse-secondary": "S:ccae31a6071faff69ee6ccb08c958076fa04f5fb,",
       "theme.content.inverse-tertiary": "S:72a0c0a22652bbe726366c838777b02eabeab22c,",
-      "theme.content.brand-bold": "S:33eb34dea02a14508af3911ee36b60dbd243c04a,",
       "theme.content.success-bold": "S:f719e41e3316997b5aa666e6dbd4952cad4caea9,",
-      "theme.content.warning-bold": "S:7760f02f758e77e42b111768bf74cb0432156a2f,",
-      "theme.content.danger-bold": "S:e075b47630563412a4150894968e1d44241929a4,",
-      "theme.content.info-bold": "S:d2fd8dbf993c8959a5cfdaa5cb87af0431137345,",
-      "theme.content.accent-bold": "S:c69618a3507d035adb5f9cfe37d692730af2a684,",
       "theme.content.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
-      "theme.content.link-active": "S:536087b78b27946111c38211e2724f9e86d6be63,"
+      "theme.content.brand": "S:33eb34dea02a14508af3911ee36b60dbd243c04a,",
+      "theme.content.warning": "S:7760f02f758e77e42b111768bf74cb0432156a2f,",
+      "theme.content.danger": "S:e075b47630563412a4150894968e1d44241929a4,",
+      "theme.content.info": "S:d2fd8dbf993c8959a5cfdaa5cb87af0431137345,",
+      "theme.content.accent": "S:c69618a3507d035adb5f9cfe37d692730af2a684,",
+      "theme.action.neutral.subtle-default": "S:4bd7a38fc95a9f155745c143ef3f27eca9249c79,",
+      "theme.action.neutral.subtle-hover": "S:b5b82de89dbeb9f33deb9d1f8d7da670c2f24c23,",
+      "theme.action.neutral.subtle-pressed": "S:786082f2ca75640a17b1921c7025138ed0d6ebf6,",
+      "theme.action.neutral.on-subtle-neutral": "S:feb63b3051db9df02214a7878595280c03c83df0,"
     }
   }
 ]
