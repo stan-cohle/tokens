@@ -141,7 +141,7 @@
         "value": "rgba({theme.generic.white}, {core.opacity.800})",
         "type": "color"
       },
-      "success-bold": {
+      "success": {
         "type": "color",
         "value": "{theme.success.base}"
       },
@@ -314,7 +314,7 @@
         }
       },
       "neutral": {
-        "subtle-default": {
+        "subtle-normal": {
           "value": "{theme.neutral-alpha.100}",
           "type": "color"
         },
@@ -322,11 +322,11 @@
           "value": "{theme.neutral-alpha.200}",
           "type": "color"
         },
-        "subtle-pressed": {
+        "subtle-active": {
           "value": "{theme.neutral-alpha.300}",
           "type": "color"
         },
-        "on-subtle-neutral": {
+        "on-neutral-subtle": {
           "type": "color",
           "value": "{theme.content.primary}"
         }
@@ -356,7 +356,7 @@
           "type": "color",
           "value": "{theme.primary.tone}"
         },
-        "pressed": {
+        "active": {
           "type": "color",
           "value": "{theme.primary.intense}"
         },
@@ -380,6 +380,10 @@
           "type": "color",
           "value": "{theme.primary.weak}"
         }
+      },
+      "focus": {
+        "value": "{theme.info.base}",
+        "type": "color"
       }
     },
     "input": {
@@ -414,10 +418,6 @@
           "value": "{theme.primary.base}",
           "type": "color",
           "description": "default border"
-        },
-        "focus": {
-          "value": "{theme.info.base}",
-          "type": "color"
         },
         "danger": {
           "value": "{theme.border.danger}",

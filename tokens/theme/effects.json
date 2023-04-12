@@ -208,7 +208,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({theme.border.focus}, {core.opacity.300})",
+            "color": "rgba({theme.interactive.focus}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],
