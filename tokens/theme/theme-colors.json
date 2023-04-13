@@ -372,7 +372,7 @@
         },
         "selected": {
           "type": "color",
-          "value": "{theme.primary.base}"
+          "value": "{theme.interactive.default.normal}"
         },
         "subtle-normal": {
           "type": "color",

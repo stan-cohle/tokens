@@ -234,6 +234,49 @@
           "value": "{theme.interactive.default.normal}",
           "type": "color"
         },
+        "selected": {
+          "value": "{theme.fairfield.raisin-black}",
+          "type": "color"
+        },
+        "subtle-normal": {
+          "value": "{theme.interactive.default.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.96",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "subtle-hover": {
+          "value": "{theme.interactive.default.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.9",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "subtle-active": {
+          "value": "{theme.interactive.default.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.86",
+                "space": "lch"
+              }
+            }
+          }
+        },
         "subtle-selected": {
           "value": "{theme.interactive.default.normal}",
           "type": "color",
