@@ -391,6 +391,14 @@
         "value": "{theme.border.success-subtle}",
         "type": "color"
       }
+    },
+    "input": {
+      "border": {
+        "active": {
+          "value": "{theme.scholartrip.mariner}",
+          "type": "color"
+        }
+      }
     }
   }
 }
