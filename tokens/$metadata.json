@@ -3,7 +3,7 @@
     "core",
     "typography",
     "semantic",
-    "theme/theme-colors",
+    "theme/theme_colors",
     "theme/base_colors",
     "theme/neutral_colors",
     "theme/effects",

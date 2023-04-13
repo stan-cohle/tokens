@@ -19,7 +19,7 @@
       "brand/ovago_old": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme_colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -44,7 +44,7 @@
       "brand/fairfield": "enabled",
       "theme/base_colors": "source",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme_colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:3a65b0133a0eb605ce7814181d93c7453ba7fec7,",
@@ -275,7 +275,6 @@
       "core": "source",
       "typography": "source",
       "semantic": "enabled",
-      "theme/theme-colors": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
       "theme/effects": "enabled",
@@ -288,7 +287,8 @@
       "component/switch": "source",
       "component/checkbox": "source",
       "component/radio": "source",
-      "component/alert": "source"
+      "component/alert": "source",
+      "theme/theme_colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
@@ -529,7 +529,6 @@
       "core": "source",
       "typography": "source",
       "semantic": "enabled",
-      "theme/theme-colors": "enabled",
       "theme/base_colors": "source",
       "theme/neutral_colors": "enabled",
       "theme/effects": "enabled",
@@ -543,7 +542,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled"
+      "brand/scholartrip": "enabled",
+      "theme/theme_colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.success.subtle": "S:4b7021cc020b730e040a1b0309567489689a5bb7,",
@@ -782,7 +782,7 @@
       "component/ifta": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme_colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:0a865ae5d2016223a2aab497c11dc64338d958ce,",
@@ -1071,7 +1071,7 @@
       "component/ifta": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme_colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.neutral.50": "S:801dc084c5b5b2cd67fede5c95af1e80575edbd9,",
@@ -1359,7 +1359,7 @@
       "component/ifta": "enabled",
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
-      "theme/theme-colors": "enabled"
+      "theme/theme_colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:f582c5d91fe5fe746aba8a9d88d7540900f8971f,",
