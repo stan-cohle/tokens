@@ -137,7 +137,7 @@
         "type": "color"
       },
       "white-to-primary": {
-        "value": "linear-gradient(90deg, rgba({theme.bg.brand}, 0) 0%, {theme.bg.brand} 100%)",
+        "value": "linear-gradient(90deg, rgba({theme.primary.base}, 0) 0%, {theme.primary.base} 100%)",
         "type": "color"
       },
       "marketing": {
@@ -169,22 +169,12 @@
         "value": "{theme.other.rhino-1100}"
       }
     },
-    "interactive": {
-      "default": {
-        "type": "color",
-        "value": "{theme.primary.tone}"
-      },
-      "hover": {
-        "type": "color",
-        "value": "{theme.primary.intense}"
-      },
-      "pressed": {
-        "type": "color",
-        "value": "{theme.primary.intense}"
-      },
-      "selected": {
-        "type": "color",
-        "value": "{theme.primary.weak}"
+    "input": {
+      "border": {
+        "active": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
       }
     }
   }
