@@ -951,7 +951,6 @@
       "theme.fg.warning-bold": "S:433d846c2049f434fee12429caa9cabb67a81127,",
       "theme.fg.info-bold": "S:d580a7ba0da8e025037cba9bba327f0af1f12108,",
       "theme.fg.accent-bold": "S:2bd4a34c1b1ce219680c75177a11debeaf8442ca,",
-      "theme.fg.link": "S:da5cce18e73ce784a9fef0e32b6d80a5f9698a4a,",
       "theme.border.light": "S:184a801330b8a7ce8e5db1533c530115d91fcf7c,",
       "theme.border.medium": "S:a9daeca1b66873279c90e79e897dd238ef61564b,",
       "theme.border.strong": "S:5ac186a6995480433dd0bea5ea104cc4a5d4f17d,",
@@ -1056,7 +1055,7 @@
       "theme.interactive.default.subtle-normal": "S:9b80aac8dd75da55253dabe08fe794e3abcbcca5,",
       "theme.interactive.default.subtle-hover": "S:efe1e34b46be63b9e6fa5ce0b391a6cd71caf875,",
       "theme.interactive.default.subtle-active": "S:722c06b199b3cc2dd48cf485e857f6668af9b826,",
-      "theme.action.clear.active": "S:a629b75fb6c4eed0fd95a58c15cb4125a2bb6f76,"
+      "theme.action.clear.active": "S:f7deb7eed2363c3b68c09080914a68c4cacb4e14,"
     }
   },
   {
