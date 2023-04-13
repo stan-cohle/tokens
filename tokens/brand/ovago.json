@@ -2,7 +2,7 @@
   "theme": {
     "action": {
       "primary": {
-        "default": {
+        "normal": {
           "value": "{theme.success.base}",
           "type": "color"
         },
@@ -10,7 +10,7 @@
           "value": "{theme.success.tint}",
           "type": "color"
         },
-        "pressed": {
+        "active": {
           "value": "{theme.success.tone}",
           "type": "color"
         }

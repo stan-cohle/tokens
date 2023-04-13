@@ -174,10 +174,6 @@
       "footer": {
         "type": "color",
         "value": "{theme.other.midnight}"
-      },
-      "form": {
-        "type": "color",
-        "value": "{theme.content.secondary}"
       }
     }
   }
