@@ -82,7 +82,7 @@
     },
     "action": {
       "primary": {
-        "default": {
+        "normal": {
           "value": "{theme.fairfield.cherry}",
           "type": "color"
         },
@@ -90,8 +90,8 @@
           "value": "{theme.fairfield.lava}",
           "type": "color"
         },
-        "pressed": {
-          "value": "{theme.action.accent.hover}",
+        "active": {
+          "value": "{theme.action.primary.hover}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -188,29 +188,73 @@
       }
     },
     "content": {
-      "danger-bold": {
-        "value": "{theme.fairfield.lava}",
-        "type": "color"
-      },
-      "brand-bold": {
-        "value": "{theme.fairfield.cherry}",
-        "type": "color"
-      },
-      "link-active": {
-        "value": "{theme.fairfield.lava}",
-        "type": "color"
-      },
       "primary": {
         "value": "{theme.neutral.1000}",
         "type": "color"
-      }
-    },
-    "background": {
-      "danger-bold": {
+      },
+      "danger": {
         "value": "{theme.fairfield.lava}",
         "type": "color"
       },
-      "brand-bold": {
+      "brand": {
+        "value": "{theme.fairfield.cherry}",
+        "type": "color"
+      }
+    },
+    "interactive": {
+      "link": {
+        "hover": {
+          "value": "{theme.fairfield.lava}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{theme.fairfield.lava}",
+          "type": "color"
+        }
+      },
+      "default": {
+        "normal": {
+          "value": "{theme.fairfield.raisin-black}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.interactive.default.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.interactive.default.normal}",
+          "type": "color"
+        },
+        "subtle-selected": {
+          "value": "{theme.interactive.default.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.9",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
+    },
+    "bg": {
+      "danger": {
+        "value": "{theme.fairfield.lava}",
+        "type": "color"
+      },
+      "brand": {
         "value": "{theme.fairfield.cherry}",
         "type": "color"
       },
@@ -224,11 +268,11 @@
       }
     },
     "border": {
-      "danger-bold": {
+      "danger": {
         "value": "{theme.fairfield.lava}",
         "type": "color"
       },
-      "brand-bold": {
+      "brand": {
         "value": "{theme.fairfield.cherry}",
         "type": "color"
       },
@@ -237,39 +281,11 @@
         "type": "color"
       }
     },
-    "interactive": {
-      "default": {
-        "value": "{theme.fairfield.raisin-black}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{theme.interactive.default.normal}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "{semantic.color.modifiers.button.hover-mod}",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "pressed": {
-        "value": "{theme.interactive.default.normal}",
-        "type": "color"
-      },
-      "selected": {
-        "value": "{theme.interactive.default.normal}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "lch"
-            }
-          }
+    "input": {
+      "border": {
+        "active": {
+          "value": "{theme.fairfield.raisin-black}",
+          "type": "color"
         }
       }
     }

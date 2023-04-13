@@ -33,14 +33,14 @@
         "type": "color",
         "value": "{theme.neutral.900}"
       },
-      "canvas": {
-        "type": "color",
-        "value": "{theme.neutral.100}"
-      },
       "scrim": {
         "value": "rgba({theme.neutral.900},{core.opacity.800})",
         "type": "color",
         "description": "Scrim, Backdrop, Modal background"
+      },
+      "canvas": {
+        "type": "color",
+        "value": "{theme.neutral.100}"
       },
       "success": {
         "value": "{theme.success.base}",
@@ -336,7 +336,7 @@
           "value": "{theme.neutral-alpha.100}",
           "type": "color"
         },
-        "pressed": {
+        "active": {
           "value": "{theme.neutral-alpha.200}",
           "type": "color"
         }
