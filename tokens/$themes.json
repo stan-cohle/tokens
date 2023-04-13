@@ -19,7 +19,6 @@
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
       "theme/theme_colors": "enabled",
-      "core_generic": "disabled",
       "core_colors": "source"
     },
     "$figmaStyleReferences": {}
@@ -45,7 +44,6 @@
       "theme/base_colors": "source",
       "theme/neutral_colors": "enabled",
       "theme/theme_colors": "enabled",
-      "core_generic": "disabled",
       "core_colors": "source"
     },
     "$figmaStyleReferences": {
@@ -290,7 +288,6 @@
       "component/radio": "source",
       "component/alert": "source",
       "theme/theme_colors": "enabled",
-      "core_generic": "disabled",
       "core_colors": "source"
     },
     "$figmaStyleReferences": {
@@ -546,7 +543,6 @@
       "component/alert": "source",
       "brand/scholartrip": "enabled",
       "theme/theme_colors": "enabled",
-      "core_generic": "disabled",
       "core_colors": "source"
     },
     "$figmaStyleReferences": {
@@ -786,7 +782,6 @@
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
       "theme/theme_colors": "enabled",
-      "core_generic": "disabled",
       "core_colors": "source"
     },
     "$figmaStyleReferences": {
@@ -1076,7 +1071,6 @@
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
       "theme/theme_colors": "enabled",
-      "core_generic": "disabled",
       "core_colors": "source"
     },
     "$figmaStyleReferences": {
@@ -1365,7 +1359,6 @@
       "theme/base_colors": "enabled",
       "theme/neutral_colors": "enabled",
       "theme/theme_colors": "enabled",
-      "core_generic": "disabled",
       "core_colors": "source"
     },
     "$figmaStyleReferences": {
