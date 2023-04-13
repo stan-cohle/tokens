@@ -174,10 +174,60 @@
       "accent": {
         "type": "color",
         "value": "{theme.accent.base}"
-      },
+      }
+    },
+    "interactive": {
       "link": {
-        "type": "color",
-        "value": "{theme.info.tone}"
+        "normal": {
+          "type": "color",
+          "value": "{theme.info.tone}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{theme.info.intense}"
+        },
+        "active": {
+          "type": "color",
+          "value": "{theme.info.intense}"
+        }
+      },
+      "default": {
+        "normal": {
+          "type": "color",
+          "value": "{theme.primary.base}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{theme.primary.tone}"
+        },
+        "active": {
+          "type": "color",
+          "value": "{theme.primary.intense}"
+        },
+        "selected": {
+          "type": "color",
+          "value": "{theme.primary.base}"
+        },
+        "subtle-normal": {
+          "type": "color",
+          "value": "{theme.primary.subtle}"
+        },
+        "subtle-hover": {
+          "type": "color",
+          "value": "{theme.primary.weak}"
+        },
+        "subtle-active": {
+          "type": "color",
+          "value": "{theme.primary.pale}"
+        },
+        "subtle-selected": {
+          "type": "color",
+          "value": "{theme.primary.weak}"
+        }
+      },
+      "focus": {
+        "value": "{theme.info.base}",
+        "type": "color"
       }
     },
     "border": {
@@ -344,46 +394,6 @@
           "value": "{theme.neutral-alpha.200}",
           "type": "color"
         }
-      }
-    },
-    "interactive": {
-      "default": {
-        "normal": {
-          "type": "color",
-          "value": "{theme.primary.base}"
-        },
-        "hover": {
-          "type": "color",
-          "value": "{theme.primary.tone}"
-        },
-        "active": {
-          "type": "color",
-          "value": "{theme.primary.intense}"
-        },
-        "selected": {
-          "type": "color",
-          "value": "{theme.primary.base}"
-        },
-        "subtle-normal": {
-          "type": "color",
-          "value": "{theme.primary.subtle}"
-        },
-        "subtle-hover": {
-          "type": "color",
-          "value": "{theme.primary.weak}"
-        },
-        "subtle-active": {
-          "type": "color",
-          "value": "{theme.primary.pale}"
-        },
-        "subtle-selected": {
-          "type": "color",
-          "value": "{theme.primary.weak}"
-        }
-      },
-      "focus": {
-        "value": "{theme.info.base}",
-        "type": "color"
       }
     },
     "input": {

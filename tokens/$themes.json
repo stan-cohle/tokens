@@ -1250,7 +1250,7 @@
     }
   },
   {
-    "id": "e53fcd5fc6de3d3ee89c50de9609d064d44054ea",
+    "id": "8edf797954ac4d375dfa2ff1fc852b625e91b48b",
     "name": "Default",
     "selectedTokenSets": {
       "core": "source",
@@ -1325,7 +1325,9 @@
       "theme.content.info": "S:d2fd8dbf993c8959a5cfdaa5cb87af0431137345,",
       "theme.content.brand": "S:33eb34dea02a14508af3911ee36b60dbd243c04a,",
       "theme.content.accent": "S:c69618a3507d035adb5f9cfe37d692730af2a684,",
-      "theme.content.link": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
+      "theme.interactive.link.normal": "S:1308b0c378564f5ab572a909f2a46d0a404733e1,",
+      "theme.interactive.link.hover": "S:e849f3eb1843cb2c5c0333ec3d21c4ecfa6fcc51,",
+      "theme.interactive.link.active": "S:6f261f4d94231fe4b724cea379d6a1f5bb978126,",
       "theme.border.light": "S:0dbc5c23c516cc598861b21c4e2da2ca59d41437,",
       "theme.border.medium": "S:52f83403ac818e045900229454b8d40f5d1bbece,",
       "theme.border.strong": "S:152f7a141e081733a79072236bfe6d9b9d383587,",
