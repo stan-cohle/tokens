@@ -15,6 +15,22 @@
           "type": "color"
         }
       }
+    },
+    "interactive": {
+      "default": {
+        "normal": {
+          "value": "{base.brand.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.brand.800}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.brand.900}",
+          "type": "color"
+        }
+      }
     }
   }
 }

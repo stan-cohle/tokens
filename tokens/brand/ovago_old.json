@@ -165,7 +165,7 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{base.brand.600}"
+        "value": "{base.brand.800}"
       },
       "subheader": {
         "type": "color",

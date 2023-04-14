@@ -159,7 +159,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{base.brand.600}"
+        "value": "{base.brand.700}"
       },
       "accent": {
         "type": "color",
@@ -340,11 +340,11 @@
       "link": {
         "normal": {
           "type": "color",
-          "value": "{base.info.600}"
+          "value": "{base.info.700}"
         },
         "hover": {
           "type": "color",
-          "value": "{base.info.700}"
+          "value": "{base.info.800}"
         },
         "active": {
           "type": "color",
@@ -366,7 +366,7 @@
         },
         "selected": {
           "type": "color",
-          "value": "{base.brand.600}"
+          "value": "{theme.interactive.default.normal}"
         },
         "subtle-normal": {
           "type": "color",
@@ -382,7 +382,7 @@
         },
         "subtle-selected": {
           "type": "color",
-          "value": "{base.brand.200}"
+          "value": "{theme.interactive.default.subtle-hover}"
         }
       },
       "form": {
