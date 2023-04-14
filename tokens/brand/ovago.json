@@ -31,6 +31,12 @@
           "type": "color"
         }
       }
+    },
+    "content": {
+      "brand": {
+        "value": "{base.brand.700}",
+        "type": "color"
+      }
     }
   }
 }
