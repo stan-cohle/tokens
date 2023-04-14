@@ -159,7 +159,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{base.brand.700}"
+        "value": "{base.brand.600}"
       },
       "accent": {
         "type": "color",
