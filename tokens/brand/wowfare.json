@@ -2,35 +2,35 @@
   "theme": {
     "primary": {
       "subtle": {
-        "value": "{core.color.mint.100}",
+        "value": "{core.color.aquamarine.100}",
         "type": "color"
       },
       "weak": {
-        "value": "{core.color.mint.200}",
+        "value": "{core.color.aquamarine.200}",
         "type": "color"
       },
       "pale": {
-        "value": "{core.color.mint.300}",
+        "value": "{core.color.aquamarine.300}",
         "type": "color"
       },
       "muted": {
-        "value": "{core.color.mint.400}",
+        "value": "{core.color.aquamarine.400}",
         "type": "color"
       },
       "tint": {
-        "value": "{core.color.mint.500}",
+        "value": "{core.color.aquamarine.500}",
         "type": "color"
       },
       "base": {
-        "value": "{core.color.mint.600}",
+        "value": "{core.color.aquamarine.600}",
         "type": "color"
       },
       "tone": {
-        "value": "{core.color.mint.700}",
+        "value": "{core.color.aquamarine.700}",
         "type": "color"
       },
       "intense": {
-        "value": "{core.color.mint.800}",
+        "value": "{core.color.aquamarine.800}",
         "type": "color"
       }
     },

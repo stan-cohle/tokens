@@ -40,39 +40,39 @@
     },
     "success": {
       "100": {
-        "value": "{core.color.grass.100}",
+        "value": "{core.color.emerald.100}",
         "type": "color"
       },
       "200": {
-        "value": "{core.color.grass.200}",
+        "value": "{core.color.emerald.200}",
         "type": "color"
       },
       "300": {
-        "value": "{core.color.grass.300}",
+        "value": "{core.color.emerald.300}",
         "type": "color"
       },
       "400": {
-        "value": "{core.color.grass.400}",
+        "value": "{core.color.emerald.400}",
         "type": "color"
       },
       "500": {
-        "value": "{core.color.grass.500}",
+        "value": "{core.color.emerald.500}",
         "type": "color"
       },
       "600": {
-        "value": "{core.color.grass.600}",
+        "value": "{core.color.emerald.600}",
         "type": "color"
       },
       "700": {
-        "value": "{core.color.grass.700}",
+        "value": "{core.color.emerald.700}",
         "type": "color"
       },
       "800": {
-        "value": "{core.color.grass.800}",
+        "value": "{core.color.emerald.800}",
         "type": "color"
       },
       "900": {
-        "value": "{core.color.grass.900}",
+        "value": "{core.color.emerald.900}",
         "type": "color"
       }
     },
