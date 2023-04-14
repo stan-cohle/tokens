@@ -155,35 +155,35 @@
     },
     "accent": {
       "subtle": {
-        "value": "{theme.info.subtle}",
+        "value": "{base.info.subtle}",
         "type": "color"
       },
       "weak": {
-        "value": "{theme.info.weak}",
+        "value": "{base.info.weak}",
         "type": "color"
       },
       "pale": {
-        "value": "{theme.info.pale}",
+        "value": "{base.info.pale}",
         "type": "color"
       },
       "muted": {
-        "value": "{theme.info.muted}",
+        "value": "{base.info.muted}",
         "type": "color"
       },
       "tint": {
-        "value": "{theme.info.tint}",
+        "value": "{base.info.tint}",
         "type": "color"
       },
       "base": {
-        "value": "{theme.info.base}",
+        "value": "{base.info.base}",
         "type": "color"
       },
       "tone": {
-        "value": "{theme.info.tone}",
+        "value": "{base.info.tone}",
         "type": "color"
       },
       "intense": {
-        "value": "{theme.info.intense}",
+        "value": "{base.info.intense}",
         "type": "color"
       }
     },

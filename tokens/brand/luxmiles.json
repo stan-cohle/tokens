@@ -162,7 +162,7 @@
   "theme": {
     "utility": {
       "brand": {
-        "value": "{theme.primary.base}",
+        "value": "{base.brand.600}",
         "type": "color"
       }
     }

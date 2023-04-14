@@ -43,67 +43,67 @@
         "value": "{theme.neutral.100}"
       },
       "success": {
-        "value": "{theme.success.base}",
+        "value": "{base.success.base}",
         "type": "color"
       },
       "success-highlight": {
-        "value": "{theme.success.weak}",
+        "value": "{base.success.weak}",
         "type": "color"
       },
       "success-subtle": {
-        "value": "{theme.success.subtle}",
+        "value": "{base.success.subtle}",
         "type": "color"
       },
       "warning": {
-        "value": "{theme.warning.base}",
+        "value": "{base.warning.base}",
         "type": "color"
       },
       "warning-highlight": {
-        "value": "{theme.warning.weak}",
+        "value": "{base.warning.weak}",
         "type": "color"
       },
       "warning-subtle": {
-        "value": "{theme.warning.subtle}",
+        "value": "{base.warning.subtle}",
         "type": "color"
       },
       "danger": {
-        "value": "{theme.danger.base}",
+        "value": "{base.danger.base}",
         "type": "color"
       },
       "danger-highlight": {
-        "value": "{theme.danger.weak}",
+        "value": "{base.danger.weak}",
         "type": "color"
       },
       "danger-subtle": {
-        "value": "{theme.danger.subtle}",
+        "value": "{base.danger.subtle}",
         "type": "color"
       },
       "info": {
-        "value": "{theme.info.base}",
+        "value": "{base.info.base}",
         "type": "color"
       },
       "info-highlight": {
-        "value": "{theme.info.weak}",
+        "value": "{base.info.weak}",
         "type": "color"
       },
       "info-subtle": {
-        "value": "{theme.info.subtle}",
+        "value": "{base.info.subtle}",
         "type": "color"
       },
       "brand": {
-        "value": "{theme.primary.base}",
+        "value": "{base.brand.600}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{theme.primary.subtle}",
+        "value": "{base.brand.100}",
         "type": "color"
       },
       "accent": {
-        "value": "{theme.accent.base}",
+        "value": "{base.accent.base}",
         "type": "color"
       },
       "accent-subtle": {
-        "value": "{theme.accent.subtle}",
+        "value": "{base.accent.subtle}",
         "type": "color"
       }
     },
@@ -143,11 +143,11 @@
       },
       "success": {
         "type": "color",
-        "value": "{theme.success.base}"
+        "value": "{base.success.base}"
       },
       "warning": {
         "type": "color",
-        "value": "{theme.warning.tone}",
+        "value": "{base.warning.tone}",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -161,19 +161,19 @@
       },
       "danger": {
         "type": "color",
-        "value": "{theme.danger.base}"
+        "value": "{base.danger.base}"
       },
       "info": {
         "type": "color",
-        "value": "{theme.info.base}"
+        "value": "{base.info.base}"
       },
       "brand": {
         "type": "color",
-        "value": "{theme.primary.base}"
+        "value": "{base.brand.600}"
       },
       "accent": {
         "type": "color",
-        "value": "{theme.accent.base}"
+        "value": "{base.accent.base}"
       }
     },
     "border": {
@@ -207,65 +207,65 @@
       },
       "success": {
         "type": "color",
-        "value": "{theme.success.base}"
+        "value": "{base.success.base}"
       },
       "success-subtle": {
         "type": "color",
-        "value": "{theme.success.pale}"
+        "value": "{base.success.pale}"
       },
       "warning": {
         "type": "color",
-        "value": "{theme.warning.base}"
+        "value": "{base.warning.base}"
       },
       "warning-subtle": {
         "type": "color",
-        "value": "{theme.warning.pale}"
+        "value": "{base.warning.pale}"
       },
       "danger": {
         "type": "color",
-        "value": "{theme.danger.base}"
+        "value": "{base.danger.base}"
       },
       "danger-subtle": {
         "type": "color",
-        "value": "{theme.danger.pale}"
+        "value": "{base.danger.pale}"
       },
       "info": {
         "type": "color",
-        "value": "{theme.info.base}"
+        "value": "{base.info.base}"
       },
       "info-subtle": {
         "type": "color",
-        "value": "{theme.info.pale}"
+        "value": "{base.info.pale}"
       },
       "brand": {
         "type": "color",
-        "value": "{theme.primary.base}"
+        "value": "{base.brand.600}"
       },
       "brand-subtle": {
         "type": "color",
-        "value": "{theme.primary.pale}"
+        "value": "{base.brand.300}"
       },
       "accent": {
         "type": "color",
-        "value": "{theme.accent.base}"
+        "value": "{base.accent.base}"
       },
       "accent-subtle": {
         "type": "color",
-        "value": "{theme.accent.pale}"
+        "value": "{base.accent.pale}"
       }
     },
     "action": {
       "primary": {
         "normal": {
-          "value": "{theme.primary.base}",
+          "value": "{base.brand.600}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.primary.tint}",
+          "value": "{base.brand.500}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.primary.tone}",
+          "value": "{base.brand.700}",
           "type": "color"
         },
         "on-primary": {
@@ -275,15 +275,15 @@
       },
       "accent": {
         "normal": {
-          "value": "{theme.accent.base}",
+          "value": "{base.accent.base}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.accent.tint}",
+          "value": "{base.accent.tint}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.accent.tone}",
+          "value": "{base.accent.tone}",
           "type": "color"
         },
         "on-accent": {
@@ -293,15 +293,15 @@
       },
       "success": {
         "normal": {
-          "value": "{theme.success.base}",
+          "value": "{base.success.base}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.success.tint}",
+          "value": "{base.success.tint}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.success.tone}",
+          "value": "{base.success.tone}",
           "type": "color"
         },
         "on-success": {
@@ -346,53 +346,53 @@
       "link": {
         "normal": {
           "type": "color",
-          "value": "{theme.info.tone}"
+          "value": "{base.info.tone}"
         },
         "hover": {
           "type": "color",
-          "value": "{theme.info.intense}"
+          "value": "{base.info.intense}"
         },
         "active": {
           "type": "color",
-          "value": "{theme.info.intense}"
+          "value": "{base.info.intense}"
         }
       },
       "default": {
         "normal": {
           "type": "color",
-          "value": "{theme.primary.base}"
+          "value": "{base.brand.600}"
         },
         "hover": {
           "type": "color",
-          "value": "{theme.primary.tone}"
+          "value": "{base.brand.700}"
         },
         "active": {
           "type": "color",
-          "value": "{theme.primary.intense}"
+          "value": "{base.brand.800}"
         },
         "selected": {
           "type": "color",
-          "value": "{theme.primary.base}"
+          "value": "{base.brand.600}"
         },
         "subtle-normal": {
           "type": "color",
-          "value": "{theme.primary.subtle}"
+          "value": "{base.brand.100}"
         },
         "subtle-hover": {
           "type": "color",
-          "value": "{theme.primary.weak}"
+          "value": "{base.brand.200}"
         },
         "subtle-active": {
           "type": "color",
-          "value": "{theme.primary.pale}"
+          "value": "{base.brand.300}"
         },
         "subtle-selected": {
           "type": "color",
-          "value": "{theme.primary.weak}"
+          "value": "{base.brand.200}"
         }
       },
       "focus": {
-        "value": "{theme.info.base}",
+        "value": "{base.info.base}",
         "type": "color"
       }
     },
@@ -425,7 +425,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{theme.primary.base}",
+          "value": "{base.brand.600}",
           "type": "color",
           "description": "default border"
         },

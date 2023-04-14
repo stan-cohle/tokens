@@ -101,11 +101,11 @@
       "type": "color"
     },
     "controls": {
-      "value": "{theme.primary.base}",
+      "value": "{base.brand.600}",
       "type": "color"
     },
     "link": {
-      "value": "{theme.primary.base}",
+      "value": "{base.brand.600}",
       "type": "color"
     }
   },

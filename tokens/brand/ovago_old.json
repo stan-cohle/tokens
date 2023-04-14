@@ -154,7 +154,7 @@
     },
     "other": {
       "purple-gradient": {
-        "value": "linear-gradient(180deg, #5649A6 0%, {theme.primary.tone} 100%)",
+        "value": "linear-gradient(180deg, #5649A6 0%, {base.brand.700} 100%)",
         "type": "color"
       },
       "midnight": {
@@ -165,7 +165,7 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{theme.primary.base}"
+        "value": "{base.brand.600}"
       },
       "subheader": {
         "type": "color",
