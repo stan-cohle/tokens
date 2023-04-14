@@ -3,15 +3,15 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.success.base}",
+          "value": "{base.success.600}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.success.tint}",
+          "value": "{base.success.700}",
           "type": "color"
         },
         "active": {
-          "value": "{base.success.tone}",
+          "value": "{base.success.800}",
           "type": "color"
         }
       }
