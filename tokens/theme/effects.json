@@ -5,7 +5,7 @@
         "card": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -17,7 +17,7 @@
               "y": "1",
               "blur": "3",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow"
             }
           ],
@@ -26,7 +26,7 @@
         "overlay-top": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -38,7 +38,7 @@
               "y": "4",
               "blur": "8",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow"
             }
           ],
@@ -47,7 +47,7 @@
         "overlay-bottom": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -59,7 +59,7 @@
               "y": "-4",
               "blur": "8",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow"
             }
           ],
@@ -68,7 +68,7 @@
         "modal": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -80,7 +80,7 @@
               "y": "8",
               "blur": "16",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow"
             }
           ],
@@ -89,7 +89,7 @@
         "bottom-sheet": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.150})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
               "type": "dropShadow",
               "x": "0",
               "y": "-16",
@@ -104,7 +104,7 @@
         "card": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -116,7 +116,7 @@
               "y": "1",
               "blur": "3",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow"
             }
           ],
@@ -125,7 +125,7 @@
         "overlay-top": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -137,7 +137,7 @@
               "y": "4",
               "blur": "8",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow"
             }
           ],
@@ -146,7 +146,7 @@
         "overlay-bottom": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -158,7 +158,7 @@
               "y": "-4",
               "blur": "8",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow"
             }
           ],
@@ -167,7 +167,7 @@
         "modal": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow",
               "x": "0",
               "y": "0",
@@ -179,7 +179,7 @@
               "y": "8",
               "blur": "16",
               "spread": "0",
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow"
             }
           ],
@@ -188,7 +188,7 @@
         "bottom-sheet": {
           "value": [
             {
-              "color": "rgba({theme.neutral.1100}, {core.opacity.300})",
+              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
               "type": "dropShadow",
               "x": "0",
               "y": "-16",

@@ -155,11 +155,11 @@
       "type": "color"
     },
     "subheader": {
-      "value": "{theme.neutral.200}",
+      "value": "{base.neutral.200}",
       "type": "color"
     },
     "footer": {
-      "value": "{theme.neutral.1000}",
+      "value": "{base.neutral.1000}",
       "type": "color"
     },
     "controls": {

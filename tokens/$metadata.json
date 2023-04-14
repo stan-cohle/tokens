@@ -5,7 +5,7 @@
     "semantic/base-colors",
     "semantic/neutral-colors",
     "semantic/typography",
-    "semantic/generic",
+    "semantic/tokens",
     "theme/colors",
     "theme/effects",
     "theme/fonts",
