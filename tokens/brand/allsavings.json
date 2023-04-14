@@ -151,7 +151,7 @@
   },
   "presets": {
     "header": {
-      "value": "{core.color.white}",
+      "value": "{core.color.generic.white}",
       "type": "color"
     },
     "subheader": {

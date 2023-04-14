@@ -16,7 +16,7 @@
     },
     "content": {
       "primary": {
-        "value": "{core.color.black}",
+        "value": "{core.color.generic.black}",
         "type": "color"
       },
       "secondary": {
@@ -32,15 +32,15 @@
   "presets": {
     "header": {
       "type": "color",
-      "value": "{core.color.black}"
+      "value": "{core.color.generic.black}"
     },
     "subheader": {
       "type": "color",
-      "value": "{core.color.white}"
+      "value": "{core.color.generic.white}"
     },
     "footer": {
       "type": "color",
-      "value": "{core.color.black}"
+      "value": "{core.color.generic.black}"
     },
     "controls": {
       "type": "color",
@@ -48,7 +48,7 @@
     },
     "link": {
       "type": "color",
-      "value": "{core.color.black}"
+      "value": "{core.color.generic.black}"
     }
   },
   "colors": {

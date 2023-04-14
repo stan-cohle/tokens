@@ -62,7 +62,7 @@
         "value": "{core.color.space.900}"
       },
       "fg": {
-        "value": "{core.color.white}",
+        "value": "{core.color.generic.white}",
         "type": "color"
       }
     },
@@ -80,7 +80,7 @@
         "type": "color"
       },
       "inverse-primary": {
-        "value": "{core.color.white}",
+        "value": "{core.color.generic.white}",
         "type": "color"
       },
       "inverse-secondary": {
