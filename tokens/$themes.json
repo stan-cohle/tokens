@@ -3,8 +3,6 @@
     "id": "6e24ee5e097a80d681e5320b53ba5dcb74585674",
     "name": "Ovago (Old)",
     "selectedTokenSets": {
-      "typography": "source",
-      "semantic": "enabled",
       "theme/effects": "enabled",
       "theme/fonts": "source",
       "component/button": "enabled",
@@ -16,10 +14,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago_old": "enabled",
-      "theme/base_colors": "enabled",
-      "theme/neutral_colors": "enabled",
-      "theme/theme_colors": "enabled",
-      "core_colors": "source"
+      "theme/colors": "enabled",
+      "core/colors": "source",
+      "core/tokens": "disabled",
+      "semantic/typography": "source",
+      "semantic/generic": "enabled",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -27,8 +28,6 @@
     "id": "8f23fbdca781c75ff0821bf3a7405a2d542a93b8",
     "name": "Fairfield",
     "selectedTokenSets": {
-      "typography": "source",
-      "semantic": "enabled",
       "theme/effects": "enabled",
       "theme/fonts": "source",
       "component/button": "enabled",
@@ -41,10 +40,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "theme/base_colors": "source",
-      "theme/neutral_colors": "enabled",
-      "theme/theme_colors": "enabled",
-      "core_colors": "source"
+      "theme/colors": "enabled",
+      "core/colors": "source",
+      "core/tokens": "disabled",
+      "semantic/typography": "source",
+      "semantic/generic": "enabled",
+      "semantic/base-colors": "source",
+      "semantic/neutral-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:3a65b0133a0eb605ce7814181d93c7453ba7fec7,",
@@ -272,10 +274,6 @@
     "id": "984135dab0db2da0e272f76bdc91e61513e15cc5",
     "name": "Scholartrip",
     "selectedTokenSets": {
-      "typography": "source",
-      "semantic": "enabled",
-      "theme/base_colors": "source",
-      "theme/neutral_colors": "enabled",
       "theme/effects": "enabled",
       "theme/fonts": "source",
       "component/button": "enabled",
@@ -288,8 +286,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/scholartrip": "enabled",
-      "theme/theme_colors": "enabled",
-      "core_colors": "source"
+      "theme/colors": "enabled",
+      "core/colors": "source",
+      "core/tokens": "disabled",
+      "semantic/typography": "source",
+      "semantic/generic": "enabled",
+      "semantic/base-colors": "source",
+      "semantic/neutral-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.success.subtle": "S:4b7021cc020b730e040a1b0309567489689a5bb7,",
@@ -511,8 +514,6 @@
     "id": "cbf17b64ddac9b57901deb6e7256c734fdc4dff6",
     "name": "Wowfare",
     "selectedTokenSets": {
-      "typography": "source",
-      "semantic": "enabled",
       "theme/effects": "enabled",
       "theme/fonts": "source",
       "component/button": "enabled",
@@ -525,10 +526,13 @@
       "component/alert": "source",
       "brand/wowfare": "enabled",
       "component/ifta": "enabled",
-      "theme/base_colors": "enabled",
-      "theme/neutral_colors": "enabled",
-      "theme/theme_colors": "enabled",
-      "core_colors": "source"
+      "theme/colors": "enabled",
+      "core/colors": "source",
+      "core/tokens": "disabled",
+      "semantic/typography": "source",
+      "semantic/generic": "enabled",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:0a865ae5d2016223a2aab497c11dc64338d958ce,",
@@ -799,8 +803,6 @@
     "id": "c299bf7511e2a07b331a4c6105167b8584dcd65f",
     "name": "Ovago",
     "selectedTokenSets": {
-      "typography": "source",
-      "semantic": "enabled",
       "theme/effects": "enabled",
       "theme/fonts": "source",
       "component/button": "enabled",
@@ -814,10 +816,13 @@
       "brand/ovago": "enabled",
       "brand/ovago_old": "enabled",
       "component/ifta": "enabled",
-      "theme/base_colors": "enabled",
-      "theme/neutral_colors": "enabled",
-      "theme/theme_colors": "enabled",
-      "core_colors": "source"
+      "theme/colors": "enabled",
+      "core/colors": "source",
+      "core/tokens": "disabled",
+      "semantic/typography": "source",
+      "semantic/generic": "enabled",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.neutral.50": "S:801dc084c5b5b2cd67fede5c95af1e80575edbd9,",
@@ -1088,8 +1093,6 @@
     "id": "9a8ae3c9ba989e5a361c576d01e5d986e9ba5b4a",
     "name": "AranGrant",
     "selectedTokenSets": {
-      "typography": "source",
-      "semantic": "enabled",
       "theme/effects": "enabled",
       "theme/fonts": "source",
       "component/button": "enabled",
@@ -1102,10 +1105,13 @@
       "component/alert": "source",
       "brand/aran-grant": "enabled",
       "component/ifta": "enabled",
-      "theme/base_colors": "enabled",
-      "theme/neutral_colors": "enabled",
-      "theme/theme_colors": "enabled",
-      "core_colors": "source"
+      "theme/colors": "enabled",
+      "core/colors": "source",
+      "core/tokens": "disabled",
+      "semantic/typography": "source",
+      "semantic/generic": "enabled",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.primary.subtle": "S:f582c5d91fe5fe746aba8a9d88d7540900f8971f,",
@@ -1368,10 +1374,6 @@
     "id": "8edf797954ac4d375dfa2ff1fc852b625e91b48b",
     "name": "Default",
     "selectedTokenSets": {
-      "typography": "source",
-      "semantic": "enabled",
-      "theme/base_colors": "enabled",
-      "theme/neutral_colors": "enabled",
       "theme/effects": "enabled",
       "theme/fonts": "source",
       "component/button": "enabled",
@@ -1383,9 +1385,13 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "theme/theme_colors": "enabled",
-      "core_colors": "source",
-      "core_generic": "source"
+      "theme/colors": "enabled",
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/typography": "source",
+      "semantic/generic": "enabled",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
