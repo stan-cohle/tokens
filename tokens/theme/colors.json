@@ -330,12 +330,6 @@
           "value": "{base.neutral-alpha.200}",
           "type": "color"
         }
-      }
-    },
-    "interactive": {
-      "focus": {
-        "value": "{base.info.600}",
-        "type": "color"
       },
       "link": {
         "normal": {
@@ -350,6 +344,12 @@
           "type": "color",
           "value": "{base.info.800}"
         }
+      }
+    },
+    "interactive": {
+      "focus": {
+        "value": "{base.info.600}",
+        "type": "color"
       },
       "default": {
         "normal": {
