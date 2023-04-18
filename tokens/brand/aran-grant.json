@@ -159,6 +159,14 @@
         "value": "linear-gradient(220deg,  {base.neutral.900} 0%,  {base.neutral.900} 100%)",
         "type": "color"
       },
+      "sand": {
+        "value": "#f7f2ed",
+        "type": "color"
+      },
+      "retro": {
+        "value": "linear-gradient(221deg, #ffffff 0%, #eeecec 100%)",
+        "type": "color"
+      },
       "transparent-80": {
         "value": "rgba({base.neutral.900}, {core.opacity.1000})",
         "type": "color",
