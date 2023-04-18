@@ -458,7 +458,7 @@
         }
       },
       "footer": {
-        "value": "{base.neutral.1100}",
+        "value": "{theme.bg.inverse-primary}",
         "type": "color"
       }
     }
