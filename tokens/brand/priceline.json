@@ -189,7 +189,7 @@
     },
     "action": {
       "primary": {
-        "default": {
+        "normal": {
           "value": "{base.priceline.primary.base}",
           "type": "color"
         },
@@ -197,13 +197,13 @@
           "value": "{base.priceline.primary.tone}",
           "type": "color"
         },
-        "pressed": {
+        "active": {
           "value": "{base.priceline.primary.tone}",
           "type": "color"
         }
       },
       "accent": {
-        "default": {
+        "normal": {
           "value": "{base.priceline.secondary.base}",
           "type": "color"
         },
@@ -211,14 +211,8 @@
           "value": "{base.priceline.secondary.tone}",
           "type": "color"
         },
-        "pressed": {
+        "active": {
           "value": "{base.priceline.secondary.tone}",
-          "type": "color"
-        }
-      },
-      "neutral": {
-        "on-neutral": {
-          "value": "{theme.content.brand}",
           "type": "color"
         }
       },
