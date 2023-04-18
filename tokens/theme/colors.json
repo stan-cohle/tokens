@@ -283,15 +283,15 @@
       },
       "success": {
         "normal": {
-          "value": "{base.success.600}",
+          "value": "{base.priceline.secondary.base}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.success.700}",
+          "value": "{base.priceline.secondary.tone}",
           "type": "color"
         },
         "active": {
-          "value": "{base.success.800}",
+          "value": "{base.priceline.secondary.tone}",
           "type": "color"
         },
         "on-success": {
@@ -348,7 +348,7 @@
     },
     "interactive": {
       "focus": {
-        "value": "{base.info.600}",
+        "value": "{theme.border.info}",
         "type": "color"
       },
       "default": {

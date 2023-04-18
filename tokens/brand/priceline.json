@@ -216,6 +216,20 @@
           "type": "color"
         }
       },
+      "success": {
+        "normal": {
+          "value": "{base.priceline.secondary.base}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.priceline.secondary.tone}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.priceline.secondary.tone}",
+          "type": "color"
+        }
+      },
       "link": {
         "normal": {
           "value": "{base.priceline.primary.base}",
