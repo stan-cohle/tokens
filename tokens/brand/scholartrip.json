@@ -138,6 +138,38 @@
             }
           }
         }
+      },
+      "link": {
+        "normal": {
+          "value": "{base.scholartrip.mariner}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.scholartrip.mariner}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.mix-delta}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{base.scholartrip.mariner}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.mix-delta}",
+                "space": "lch"
+              }
+            }
+          }
+        }
       }
     },
     "interactive": {
@@ -197,38 +229,6 @@
                 "type": "darken",
                 "value": "0.025",
                 "space": "hsl"
-              }
-            }
-          }
-        }
-      },
-      "link": {
-        "normal": {
-          "value": "{base.scholartrip.mariner}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{base.scholartrip.mariner}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{base.scholartrip.mariner}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "lch"
               }
             }
           }
