@@ -1658,7 +1658,9 @@
       "theme.component.warning": "S:3b61d353ad906bfafe54fde8b28381c5ed8a0919,",
       "theme.component.danger": "S:b0f4aa091ba11eb5ef5ea2c6a9b56cd420eff84a,",
       "theme.component.info": "S:9aaeef44434b47d5dead18b0bdb789ee04ce2d1e,",
-      "theme.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,"
+      "theme.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,",
+      "base.arangrant.sand": "S:2ad53dee113f276ab130f910b589a1e789d19db3,",
+      "base.arangrant.retro": "S:37e00b8cd37f306bc8cb2037774a96837fba4875,"
     }
   }
 ]
