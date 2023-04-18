@@ -168,6 +168,15 @@
         "value": "linear-gradient(180deg, #4DC09E 0%, #42A9BC 100%)",
         "type": "color"
       },
+      "mint-gradient-2": {
+        "value": "linear-gradient(180deg, #4dc09e 0%, #179f9d 100%)",
+        "type": "color",
+        "description": "slightly darker update on mint-gradient"
+      },
+      "mint-gradient-3": {
+        "value": "linear-gradient(140deg, #0b978a 0%, #0a92b0 100%)",
+        "type": "color"
+      },
       "white-to-primary": {
         "value": "linear-gradient(90deg, rgba({base.brand.600}, 0) 0%, {base.brand.600} 100%)",
         "type": "color"
