@@ -414,9 +414,8 @@
             "type": "color"
           },
           "active": {
-            "value": "{base.brand.600}",
-            "type": "color",
-            "description": "default border"
+            "value": "{theme.border.brand}",
+            "type": "color"
           },
           "danger": {
             "value": "{theme.border.danger}",

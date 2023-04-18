@@ -1,280 +1,218 @@
 {
   "theme": {
     "bg": {
-      "primary": {
-        "base": {
-          "value": "{core.color.primary.base}",
-          "type": "color"
-        },
-        "tone": {
-          "value": "{core.color.primary.tone}",
-          "type": "color"
-        },
-        "tint": {
-          "value": "{core.color.primary.base}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "hsl"
-              }
+      "success": {
+        "type": "color",
+        "value": "{base.priceline.secondary.base}"
+      },
+      "success-highlight": {
+        "type": "color",
+        "value": "{base.priceline.secondary.base}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.85",
+              "space": "srgb"
             }
           }
-        },
-        "muted": {
-          "value": "{core.color.primary.tint}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{core.color.primary.light}",
-          "type": "color"
         }
       },
-      "success": {
-        "base": {
-          "type": "color",
-          "value": "{core.color.secondary.base}"
-        },
-        "tone": {
-          "type": "color",
-          "value": "{core.color.secondary.tone}"
-        },
-        "tint": {
-          "type": "color",
-          "value": "{core.color.secondary.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "hsl"
-              }
-            }
-          }
-        },
-        "muted": {
-          "type": "color",
-          "value": "{core.color.secondary.tint}"
-        },
-        "highlight": {
-          "type": "color",
-          "value": "{core.color.secondary.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.85",
-                "space": "srgb"
-              }
-            }
-          }
-        },
-        "subtle": {
-          "type": "color",
-          "value": "{core.color.secondary.light}"
-        }
+      "success-subtle": {
+        "type": "color",
+        "value": "{base.priceline.secondary.light}"
       },
       "warning": {
-        "base": {
-          "type": "color",
-          "value": "{core.color.alert.base}"
-        },
-        "tone": {
-          "type": "color",
-          "value": "{core.color.alert.tone}"
-        },
-        "tint": {
-          "type": "color",
-          "value": "{core.color.alert.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "hsl"
-              }
+        "type": "color",
+        "value": "{base.priceline.alert.base}"
+      },
+      "warning-highlight": {
+        "type": "color",
+        "value": "{base.priceline.alert.base}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.85",
+              "space": "lch"
             }
           }
-        },
-        "muted": {
-          "type": "color",
-          "value": "{core.color.alert.tint}"
-        },
-        "highlight": {
-          "type": "color",
-          "value": "{core.color.alert.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.85",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "subtle": {
-          "type": "color",
-          "value": "{core.color.alert.light}"
         }
+      },
+      "warning-subtle": {
+        "type": "color",
+        "value": "{base.priceline.alert.light}"
       },
       "danger": {
-        "base": {
-          "type": "color",
-          "value": "{core.color.error.base}"
-        },
-        "tone": {
-          "type": "color",
-          "value": "{core.color.error.tone}"
-        },
-        "tint": {
-          "type": "color",
-          "value": "{core.color.error.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "srgb"
-              }
+        "type": "color",
+        "value": "{base.priceline.error.base}"
+      },
+      "danger-highlight": {
+        "type": "color",
+        "value": "{base.priceline.error.base}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "hsl"
             }
           }
-        },
-        "muted": {
-          "type": "color",
-          "value": "{core.color.error.tint}"
-        },
-        "highlight": {
-          "type": "color",
-          "value": "{core.color.error.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.88",
-                "space": "hsl"
-              }
-            }
-          }
-        },
-        "subtle": {
-          "type": "color",
-          "value": "{core.color.error.light}"
         }
+      },
+      "danger-subtle": {
+        "type": "color",
+        "value": "{base.priceline.error.light}"
       },
       "info": {
-        "base": {
-          "type": "color",
-          "value": "{core.color.primary.base}"
-        },
-        "tone": {
-          "type": "color",
-          "value": "{core.color.primary.tone}"
-        },
-        "tint": {
-          "type": "color",
-          "value": "{core.color.primary.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "hsl"
-              }
+        "type": "color",
+        "value": "{base.priceline.primary.base}"
+      },
+      "info-highlight": {
+        "type": "color",
+        "value": "{base.priceline.primary.base}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.86",
+              "space": "srgb"
             }
           }
-        },
-        "muted": {
-          "type": "color",
-          "value": "{core.color.primary.tint}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "hsl"
-              }
-            }
-          }
-        },
-        "highlight": {
-          "type": "color",
-          "value": "{core.color.primary.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.86",
-                "space": "srgb"
-              }
-            }
-          }
-        },
-        "subtle": {
-          "type": "color",
-          "value": "{core.color.primary.light}"
         }
       },
+      "info-subtle": {
+        "type": "color",
+        "value": "{base.priceline.primary.light}"
+      },
+      "brand": {
+        "value": "{base.priceline.primary.base}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.priceline.primary.light}",
+        "type": "color"
+      },
       "accent": {
-        "base": {
-          "type": "color",
-          "value": "{core.color.secondary.base}"
-        },
-        "tone": {
-          "type": "color",
-          "value": "{core.color.secondary.tone}"
-        },
-        "tint": {
-          "type": "color",
-          "value": "{core.color.secondary.base}",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.mix-delta}",
-                "space": "hsl"
-              }
+        "type": "color",
+        "value": "{base.priceline.secondary.base}"
+      },
+      "accent-subtle": {
+        "type": "color",
+        "value": "{base.priceline.secondary.light}"
+      }
+    },
+    "content": {
+      "success": {
+        "value": "{base.priceline.secondary.base}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.priceline.alert.base}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{base.priceline.error.base}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.priceline.primary.base}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{base.priceline.primary.base}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.priceline.secondary.base}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "success": {
+        "type": "color",
+        "value": "{base.priceline.secondary.base}"
+      },
+      "success-subtle": {
+        "type": "color",
+        "value": "{base.priceline.secondary.tint}"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{base.priceline.alert.base}"
+      },
+      "warning-subtle": {
+        "type": "color",
+        "value": "{base.priceline.alert.tint}"
+      },
+      "danger": {
+        "type": "color",
+        "value": "{base.priceline.error.base}"
+      },
+      "danger-subtle": {
+        "type": "color",
+        "value": "{base.priceline.error.tint}"
+      },
+      "info": {
+        "type": "color",
+        "value": "{base.priceline.primary.base}",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "{semantic.color.modifiers.mix-delta}",
+              "space": "hsl"
             }
           }
-        },
-        "muted": {
-          "type": "color",
-          "value": "{core.color.secondary.tint}"
-        },
-        "subtle": {
-          "type": "color",
-          "value": "{core.color.secondary.light}"
         }
+      },
+      "info-subtle": {
+        "type": "color",
+        "value": "{base.priceline.primary.tint}"
+      },
+      "brand": {
+        "value": "{base.priceline.primary.base}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.priceline.primary.tint}",
+        "type": "color"
+      },
+      "accent": {
+        "type": "color",
+        "value": "{base.priceline.secondary.base}"
+      },
+      "accent-subtle": {
+        "type": "color",
+        "value": "{base.priceline.secondary.tint}"
       }
     },
     "action": {
       "primary": {
         "default": {
-          "value": "{core.color.primary.base}",
+          "value": "{base.priceline.primary.base}",
           "type": "color"
         },
         "hover": {
-          "value": "{core.color.primary.tone}",
+          "value": "{base.priceline.primary.tone}",
           "type": "color"
         },
         "pressed": {
-          "value": "{core.color.primary.tone}",
+          "value": "{base.priceline.primary.tone}",
           "type": "color"
         }
       },
       "accent": {
         "default": {
-          "value": "{core.color.secondary.base}",
+          "value": "{base.priceline.secondary.base}",
           "type": "color"
         },
         "hover": {
-          "value": "{core.color.secondary.tone}",
+          "value": "{base.priceline.secondary.tone}",
           "type": "color"
         },
         "pressed": {
-          "value": "{core.color.secondary.tone}",
+          "value": "{base.priceline.secondary.tone}",
           "type": "color"
         }
       },
@@ -283,12 +221,66 @@
           "value": "{theme.content.brand}",
           "type": "color"
         }
+      },
+      "link": {
+        "normal": {
+          "value": "{base.priceline.primary.base}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.priceline.primary.tone}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.priceline.primary.dark}",
+          "type": "color"
+        }
       }
     },
-    "fg": {
-      "warning": {
-        "value": "{theme.bg.warning.hover}",
-        "type": "color"
+    "interactive": {
+      "default": {
+        "normal": {
+          "value": "{base.priceline.primary.base}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.priceline.primary.tone}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.priceline.primary.dark}",
+          "type": "color"
+        },
+        "subtle-normal": {
+          "value": "{base.priceline.primary.light}",
+          "type": "color"
+        },
+        "subtle-hover": {
+          "value": "{base.priceline.primary.light}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.025",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "subtle-active": {
+          "value": "{base.priceline.primary.light}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.05",
+                "space": "hsl"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -312,8 +304,8 @@
       "type": "fontWeights"
     }
   },
-  "core": {
-    "color": {
+  "base": {
+    "priceline": {
       "primary": {
         "light": {
           "value": "#e8f2ff",

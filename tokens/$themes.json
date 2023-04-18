@@ -1662,5 +1662,31 @@
       "base.arangrant.sand": "S:2ad53dee113f276ab130f910b589a1e789d19db3,",
       "base.arangrant.retro": "S:37e00b8cd37f306bc8cb2037774a96837fba4875,"
     }
+  },
+  {
+    "id": "80e31558c603cd3dada7ab64ba0e0ad4a9e5e29b",
+    "name": "Priceline",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled",
+      "semantic/typography": "source",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "enabled",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/priceline": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
