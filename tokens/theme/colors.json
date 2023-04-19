@@ -283,15 +283,15 @@
       },
       "success": {
         "normal": {
-          "value": "{base.priceline.secondary.base}",
+          "value": "{base.success.600}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.priceline.secondary.tone}",
+          "value": "{base.success.700}",
           "type": "color"
         },
         "active": {
-          "value": "{base.priceline.secondary.tone}",
+          "value": "{base.success.800}",
           "type": "color"
         },
         "on-success": {

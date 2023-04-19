@@ -100,7 +100,7 @@
     },
     "footer": {
       "type": "color",
-      "value": "{colors.asphalt.500}"
+      "value": "{base.hop2.river-bed}"
     },
     "link": {
       "type": "color",

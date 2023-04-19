@@ -1944,5 +1944,31 @@
       "theme.component.info": "S:8898bce6397bac1b733ee86fef000a9893d47820,",
       "theme.component.accent": "S:2804acf27ce7cc8b4531570b5fb2ab1b6ad378d7,"
     }
+  },
+  {
+    "id": "69f4d476dec8f1989c00bbc4413f4491ec293014",
+    "name": "hop2",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled",
+      "semantic/typography": "source",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/hop2": "enabled",
+      "semantic/tokens": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
