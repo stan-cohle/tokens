@@ -2,51 +2,51 @@
   "base": {
     "brand": {
       "50": {
-        "value": "{core.color.cyan-blue.50}",
+        "value": "{core.color.sky-blue.50}",
         "type": "color"
       },
       "100": {
-        "value": "{core.color.cyan-blue.100}",
+        "value": "{core.color.sky-blue.100}",
         "type": "color"
       },
       "200": {
-        "value": "{core.color.cyan-blue.200}",
+        "value": "{core.color.sky-blue.200}",
         "type": "color"
       },
       "300": {
-        "value": "{core.color.cyan-blue.300}",
+        "value": "{core.color.sky-blue.300}",
         "type": "color"
       },
       "400": {
-        "value": "{core.color.cyan-blue.400}",
+        "value": "{core.color.sky-blue.400}",
         "type": "color"
       },
       "500": {
-        "value": "{core.color.cyan-blue.500}",
+        "value": "{core.color.sky-blue.500}",
         "type": "color"
       },
       "600": {
-        "value": "{core.color.cyan-blue.600}",
+        "value": "{core.color.sky-blue.600}",
         "type": "color"
       },
       "700": {
-        "value": "{core.color.cyan-blue.700}",
+        "value": "{core.color.sky-blue.700}",
         "type": "color"
       },
       "800": {
-        "value": "{core.color.cyan-blue.800}",
+        "value": "{core.color.sky-blue.800}",
         "type": "color"
       },
       "900": {
-        "value": "{core.color.cyan-blue.900}",
+        "value": "{core.color.sky-blue.900}",
         "type": "color"
       },
       "1000": {
-        "value": "{core.color.cyan-blue.1000}",
+        "value": "{core.color.sky-blue.1000}",
         "type": "color"
       },
       "1100": {
-        "value": "{core.color.cyan-blue.1100}",
+        "value": "{core.color.sky-blue.1100}",
         "type": "color"
       }
     },
@@ -214,7 +214,7 @@
         "type": "color"
       },
       "gradient": {
-        "value": "linear-gradient(180deg, #3aaae1 0%, #2099d4 100%)",
+        "value": "linear-gradient(180deg, #51A2CA 0%, #3B92BD 100%);",
         "type": "color"
       }
     }
@@ -223,11 +223,7 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{base.brand.600}"
-      },
-      "subheader": {
-        "type": "color",
-        "value": "{base.brand.500}"
+        "value": "{base.hop2.gradient}"
       },
       "footer": {
         "type": "color",

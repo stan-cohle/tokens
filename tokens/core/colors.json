@@ -461,6 +461,56 @@
           "type": "color"
         }
       },
+      "sky-blue": {
+        "50": {
+          "value": "#F5F9FF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#E9F5FA",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E0F6FF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#C7EEFF",
+          "type": "color"
+        },
+        "400": {
+          "value": "#A3E3FF",
+          "type": "color"
+        },
+        "500": {
+          "value": "#50B3E2",
+          "type": "color"
+        },
+        "600": {
+          "value": "#3999C6",
+          "type": "color"
+        },
+        "700": {
+          "value": "#2288B4",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1C77A0",
+          "type": "color"
+        },
+        "900": {
+          "value": "#176992",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#0E5880",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#043752",
+          "type": "color"
+        }
+      },
       "cyan-blue": {
         "50": {
           "value": "#F0F9FF",
@@ -471,7 +521,7 @@
           "type": "color"
         },
         "200": {
-          "value": "#E0F6FF",
+          "value": "#E0F1FF",
           "type": "color"
         },
         "300": {
