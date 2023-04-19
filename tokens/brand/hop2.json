@@ -201,10 +201,6 @@
       }
     },
     "hop2": {
-      "ball-blue-gradient": {
-        "value": "linear-gradient(180deg, #3aaae1 0%, #2099d4 100%)",
-        "type": "color"
-      },
       "teal": {
         "value": "#296785",
         "type": "color"
@@ -216,21 +212,27 @@
       "ebony-clay": {
         "value": "#1e2c3a",
         "type": "color"
+      },
+      "gradient": {
+        "value": "linear-gradient(180deg, #3aaae1 0%, #2099d4 100%)",
+        "type": "color"
       }
     }
   },
-  "presets": {
-    "header": {
-      "type": "color",
-      "value": "{base.brand.600}"
-    },
-    "subheader": {
-      "type": "color",
-      "value": "{base.brand.500}"
-    },
-    "footer": {
-      "type": "color",
-      "value": "{base.hop2.river-bed}"
+  "theme": {
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{base.brand.600}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{base.brand.500}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{base.hop2.river-bed}"
+      }
     }
   }
 }
