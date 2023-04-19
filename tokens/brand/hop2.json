@@ -229,6 +229,12 @@
         "type": "color",
         "value": "{base.hop2.river-bed}"
       }
+    },
+    "bg": {
+      "accent": {
+        "value": "{base.hop2.gradient}",
+        "type": "color"
+      }
     }
   }
 }
