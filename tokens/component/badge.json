@@ -21,47 +21,43 @@
       },
       "layout": {
         "small": {
-          "layout": {
-            "rect": {
-              "value": {
-                "horizontalPadding": "{comp.badge.small.hor-padding}",
-                "verticalPadding": "{comp.badge.small.vert-padding}",
-                "borderRadius": "{semantic.border-radius.container.sm}",
-                "itemSpacing": "{comp.badge.small.item-spacing}"
-              },
-              "type": "composition"
+          "rect": {
+            "value": {
+              "horizontalPadding": "{comp.badge.small.hor-padding}",
+              "verticalPadding": "{comp.badge.small.vert-padding}",
+              "borderRadius": "{semantic.border-radius.container.sm}",
+              "itemSpacing": "{comp.badge.small.item-spacing}"
             },
-            "pill": {
-              "value": {
-                "horizontalPadding": "{comp.badge.small.hor-padding}",
-                "verticalPadding": "{comp.badge.small.vert-padding}",
-                "borderRadius": "{semantic.border-radius.container.pill}",
-                "itemSpacing": "{comp.badge.small.item-spacing}"
-              },
-              "type": "composition"
-            }
+            "type": "composition"
+          },
+          "pill": {
+            "value": {
+              "horizontalPadding": "{comp.badge.small.hor-padding}",
+              "verticalPadding": "{comp.badge.small.vert-padding}",
+              "borderRadius": "{semantic.border-radius.container.pill}",
+              "itemSpacing": "{comp.badge.small.item-spacing}"
+            },
+            "type": "composition"
           }
         },
         "medium": {
-          "layout": {
-            "rect": {
-              "value": {
-                "horizontalPadding": "{comp.badge.medium.hor-padding}",
-                "verticalPadding": "{comp.badge.medium.vert-padding}",
-                "borderRadius": "{semantic.border-radius.container.sm}",
-                "itemSpacing": "{comp.badge.medium.item-spacing}"
-              },
-              "type": "composition"
+          "rect": {
+            "value": {
+              "horizontalPadding": "{comp.badge.medium.hor-padding}",
+              "verticalPadding": "{comp.badge.medium.vert-padding}",
+              "borderRadius": "{semantic.border-radius.container.sm}",
+              "itemSpacing": "{comp.badge.medium.item-spacing}"
             },
-            "pill": {
-              "value": {
-                "horizontalPadding": "{comp.badge.medium.hor-padding}",
-                "verticalPadding": "{comp.badge.medium.vert-padding}",
-                "borderRadius": "{semantic.border-radius.container.pill}",
-                "itemSpacing": "{comp.badge.medium.item-spacing}"
-              },
-              "type": "composition"
-            }
+            "type": "composition"
+          },
+          "pill": {
+            "value": {
+              "horizontalPadding": "{comp.badge.medium.hor-padding}",
+              "verticalPadding": "{comp.badge.medium.vert-padding}",
+              "borderRadius": "{semantic.border-radius.container.pill}",
+              "itemSpacing": "{comp.badge.medium.item-spacing}"
+            },
+            "type": "composition"
           }
         }
       },
