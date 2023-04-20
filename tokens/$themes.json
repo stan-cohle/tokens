@@ -306,7 +306,19 @@
       "base.ovago.midnight": "S:d8694fa13888b4fbe0c635ae1efc5e6ed91c135f,",
       "theme.action.link.normal": "S:8bccb33a55876f5a676f4e470ccd6d173a95f036,",
       "theme.action.link.hover": "S:57c0f3d343dc6001e95d76df947e9bab5ec7d99f,",
-      "theme.action.link.active": "S:e9d16e92674d5bc4376c246f958be3e25a719f4d,"
+      "theme.action.link.active": "S:e9d16e92674d5bc4376c246f958be3e25a719f4d,",
+      "comp.badge.label.small": "S:ed93f4a2a059723bea95d6371d9afcf4be610c55,",
+      "comp.badge.label.medium": "S:8695667c1c3b554ae297df8bf6305971e926ec94,",
+      "comp.button.label.small": "S:aa1990d7c9bfb1cb400ab7e2bcb6618413c3634a,",
+      "comp.button.label.medium": "S:c06eed7e037e5f40269203bc78fc88f0d7f02966,",
+      "comp.button.label.large": "S:d37a1637e95c9226802f0f8f30c65090d18da8d0,",
+      "comp.button.label.x-large": "S:fb895aea86fe0ea9b83b5b8d27922d64496ecb75,",
+      "theme.shadow.component.primary": "S:8b84e0ff96ab149ccabd690cbab133d4e522184e,",
+      "theme.shadow.component.success": "S:101f1ceabce7ac159b10d37d569999a0634d3f3c,",
+      "theme.shadow.component.warning": "S:8524497c07934295d364f2d01682199268750bf3,",
+      "theme.shadow.component.danger": "S:6f1ac1e205ef1e8265d21775b4bc573881f9dc97,",
+      "theme.shadow.component.info": "S:82e63f69a1b630b5c2ec030783354d21cc237c36,",
+      "theme.shadow.component.accent": "S:e2f05e094ad783f6b42bfce71549097c1c2714e8,"
     }
   },
   {
