@@ -198,6 +198,74 @@
           ],
           "type": "boxShadow"
         }
+      },
+      "component": {
+        "primary": {
+          "value": {
+            "x": "0",
+            "y": "12",
+            "blur": "8",
+            "spread": "-8",
+            "color": "rgba({base.brand.700},{core.opacity.300})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "success": {
+          "value": {
+            "x": "0",
+            "y": "12",
+            "blur": "8",
+            "spread": "-8",
+            "color": "rgba({base.success.700},{core.opacity.300})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "warning": {
+          "value": {
+            "x": "0",
+            "y": "12",
+            "blur": "8",
+            "spread": "-8",
+            "color": "rgba({base.warning.700},{core.opacity.300})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "danger": {
+          "value": {
+            "x": "0",
+            "y": "12",
+            "blur": "8",
+            "spread": "-8",
+            "color": "rgba({base.danger.700},{core.opacity.300})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "info": {
+          "value": {
+            "x": "0",
+            "y": "12",
+            "blur": "8",
+            "spread": "-8",
+            "color": "rgba({base.info.700},{core.opacity.300})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "accent": {
+          "value": {
+            "x": "0",
+            "y": "12",
+            "blur": "8",
+            "spread": "-8",
+            "color": "rgba({base.accent.700},{core.opacity.300})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
       }
     },
     "focus": {
@@ -290,74 +358,6 @@
             "type": "dropShadow"
           }
         ],
-        "type": "boxShadow"
-      }
-    },
-    "component": {
-      "primary": {
-        "value": {
-          "x": "0",
-          "y": "12",
-          "blur": "8",
-          "spread": "-8",
-          "color": "rgba({base.brand.700},{core.opacity.300})",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "success": {
-        "value": {
-          "x": "0",
-          "y": "12",
-          "blur": "8",
-          "spread": "-8",
-          "color": "rgba({base.success.700},{core.opacity.300})",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "warning": {
-        "value": {
-          "x": "0",
-          "y": "12",
-          "blur": "8",
-          "spread": "-8",
-          "color": "rgba({base.warning.700},{core.opacity.300})",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "danger": {
-        "value": {
-          "x": "0",
-          "y": "12",
-          "blur": "8",
-          "spread": "-8",
-          "color": "rgba({base.danger.700},{core.opacity.300})",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "info": {
-        "value": {
-          "x": "0",
-          "y": "12",
-          "blur": "8",
-          "spread": "-8",
-          "color": "rgba({base.info.700},{core.opacity.300})",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "accent": {
-        "value": {
-          "x": "0",
-          "y": "12",
-          "blur": "8",
-          "spread": "-8",
-          "color": "rgba({base.accent.700},{core.opacity.300})",
-          "type": "dropShadow"
-        },
         "type": "boxShadow"
       }
     }
