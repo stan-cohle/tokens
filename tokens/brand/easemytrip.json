@@ -101,11 +101,11 @@
       "type": "color"
     },
     "controls": {
-      "value": "{base.brand.600}",
+      "value": "{base.info.600}",
       "type": "color"
     },
     "link": {
-      "value": "{base.brand.600}",
+      "value": "{base.info.600}",
       "type": "color"
     }
   },

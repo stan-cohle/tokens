@@ -20,17 +20,61 @@
       "value": "#111827",
       "type": "color"
     },
-    "link": {
-      "value": "#007be5",
-      "type": "color"
-    },
     "header-backdrop": {
       "value": "linear-gradient(270deg, #0a141f00 0%, #0a141f66 75%, #0a141f80 100%)",
       "type": "color"
     }
   },
-  "base": {
+  "action": {
+    "link": {
+      "normal": {
+        "value": "{base.chatdeal.blue}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{action.primary.hover}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{action.primary.active}",
+        "type": "color"
+      }
+    },
     "primary": {
+      "normal": {
+        "value": "{base.chatdeal.blue}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{action.primary.normal}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.15",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "active": {
+        "value": "{action.primary.normal}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    }
+  },
+  "base": {
+    "info": {
       "100": {
         "value": "{core.color.blue.100}",
         "type": "color"
@@ -68,45 +112,7 @@
         "type": "color"
       }
     },
-    "info": {
-      "100": {
-        "value": "{base.brand.100}",
-        "type": "color"
-      },
-      "200": {
-        "value": "{base.brand.200}",
-        "type": "color"
-      },
-      "300": {
-        "value": "{base.brand.300}",
-        "type": "color"
-      },
-      "400": {
-        "value": "{base.brand.400}",
-        "type": "color"
-      },
-      "500": {
-        "value": "{base.brand.500}",
-        "type": "color"
-      },
-      "600": {
-        "value": "{base.brand.600}",
-        "type": "color"
-      },
-      "700": {
-        "value": "{base.brand.700}",
-        "type": "color"
-      },
-      "800": {
-        "value": "{base.brand.800}",
-        "type": "color"
-      },
-      "900": {
-        "value": "{theme.primary.900}",
-        "type": "color"
-      }
-    },
-    "other": {
+    "chatdeal": {
       "midnight": {
         "value": "#111827",
         "type": "color"
@@ -115,51 +121,55 @@
         "value": "#fe2072",
         "type": "color"
       },
+      "blue": {
+        "value": "#1570EF",
+        "type": "color"
+      },
       "coral": {
         "value": "#fe6656",
         "type": "color"
-      }
-    },
-    "gradient": {
-      "orange-pink": {
-        "value": "linear-gradient(270deg, #fea520 0%, #fe2072 98.65%)",
-        "type": "color",
-        "description": "Rose -> Orange-400, 270deg, 0% -> 100%"
       },
-      "blue-pink": {
-        "value": "linear-gradient(251deg, #4794ff 0%, #fe2072 98.65%)",
-        "type": "color",
-        "description": "Blue-400 -> Rose, 250deg, 35% -> 112%"
-      },
-      "blue": {
-        "value": "linear-gradient(90deg, #4794ff 0%, #0063ec 100%)",
-        "type": "color",
-        "description": "Blue-600 -> Blue-400, 180deg, -42% -> 66%"
-      },
-      "light-blue": {
-        "value": "linear-gradient(180deg, #4794ff 0%, #0063ec 100%)",
-        "type": "color",
-        "description": "Blue-400 -> Blue-600, 180deg, 0% -> 100%"
-      },
-      "orange": {
-        "value": "linear-gradient(180deg, #feaf39 0%, #fe2072 98.65%)",
-        "type": "color",
-        "description": "Rose -> Orange-400, 180deg, -42% -> 66%"
-      },
-      "red": {
-        "value": "linear-gradient(180deg, #fe9a9a 0%, #f12121 76.37%)",
-        "type": "color",
-        "description": "Red-400 -> Red-200, 180deg, -42% -> 66%"
-      },
-      "green": {
-        "value": "linear-gradient(180deg, #a5efe7 0%, #2ec4b6 76.37%)",
-        "type": "color",
-        "description": "Green-400 -> Green-200, 180deg, -42% -> 66%"
-      },
-      "neutral": {
-        "value": "linear-gradient(180deg, #4794ff 0%, #a7acb4 0.01%, #676e79 76.37%)",
-        "type": "color",
-        "description": "Neutral-600 -> Neutral-400, 180deg, -42% -> 66%"
+      "gradient": {
+        "orange-pink": {
+          "value": "linear-gradient(270deg, #fea520 0%, #fe2072 98.65%)",
+          "type": "color",
+          "description": "Rose -> Orange-400, 270deg, 0% -> 100%"
+        },
+        "blue-pink": {
+          "value": "linear-gradient(251deg, #4794ff 0%, #fe2072 98.65%)",
+          "type": "color",
+          "description": "Blue-400 -> Rose, 250deg, 35% -> 112%"
+        },
+        "blue": {
+          "value": "linear-gradient(90deg, #4794ff 0%, #0063ec 100%)",
+          "type": "color",
+          "description": "Blue-600 -> Blue-400, 180deg, -42% -> 66%"
+        },
+        "light-blue": {
+          "value": "linear-gradient(180deg, #4794ff 0%, #0063ec 100%)",
+          "type": "color",
+          "description": "Blue-400 -> Blue-600, 180deg, 0% -> 100%"
+        },
+        "orange": {
+          "value": "linear-gradient(180deg, #feaf39 0%, #fe2072 98.65%)",
+          "type": "color",
+          "description": "Rose -> Orange-400, 180deg, -42% -> 66%"
+        },
+        "red": {
+          "value": "linear-gradient(180deg, #fe9a9a 0%, #f12121 76.37%)",
+          "type": "color",
+          "description": "Red-400 -> Red-200, 180deg, -42% -> 66%"
+        },
+        "green": {
+          "value": "linear-gradient(180deg, #a5efe7 0%, #2ec4b6 76.37%)",
+          "type": "color",
+          "description": "Green-400 -> Green-200, 180deg, -42% -> 66%"
+        },
+        "neutral": {
+          "value": "linear-gradient(180deg, #4794ff 0%, #a7acb4 0.01%, #676e79 76.37%)",
+          "type": "color",
+          "description": "Neutral-600 -> Neutral-400, 180deg, -42% -> 66%"
+        }
       }
     }
   }

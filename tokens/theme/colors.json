@@ -91,11 +91,11 @@
         "type": "color"
       },
       "brand": {
-        "value": "{base.brand.600}",
+        "value": "{base.info.600}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{base.brand.100}",
+        "value": "{base.info.100}",
         "type": "color"
       },
       "accent": {
@@ -159,7 +159,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{base.brand.600}"
+        "value": "{base.info.600}"
       },
       "accent": {
         "type": "color",
@@ -229,11 +229,11 @@
       },
       "brand": {
         "type": "color",
-        "value": "{base.brand.600}"
+        "value": "{base.info.600}"
       },
       "brand-subtle": {
         "type": "color",
-        "value": "{base.brand.300}"
+        "value": "{base.info.300}"
       },
       "accent": {
         "type": "color",
@@ -247,15 +247,15 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.brand.600}",
+          "value": "{base.info.600}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.700}",
+          "value": "{base.info.700}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.800}",
+          "value": "{base.info.800}",
           "type": "color"
         },
         "on-primary": {
@@ -370,15 +370,15 @@
       "default": {
         "normal": {
           "type": "color",
-          "value": "{base.brand.600}"
+          "value": "{base.info.600}"
         },
         "hover": {
           "type": "color",
-          "value": "{base.brand.700}"
+          "value": "{base.info.700}"
         },
         "active": {
           "type": "color",
-          "value": "{base.brand.800}"
+          "value": "{base.info.800}"
         },
         "selected": {
           "type": "color",
@@ -386,15 +386,15 @@
         },
         "subtle-normal": {
           "type": "color",
-          "value": "{base.brand.100}"
+          "value": "{base.info.100}"
         },
         "subtle-hover": {
           "type": "color",
-          "value": "{base.brand.200}"
+          "value": "{base.info.200}"
         },
         "subtle-active": {
           "type": "color",
-          "value": "{base.brand.300}"
+          "value": "{base.info.300}"
         },
         "subtle-selected": {
           "type": "color",

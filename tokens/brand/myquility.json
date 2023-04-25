@@ -40,35 +40,35 @@
     },
     "success": {
       "100": {
-        "value": "{base.brand.100}",
+        "value": "{base.info.100}",
         "type": "color"
       },
       "200": {
-        "value": "{base.brand.200}",
+        "value": "{base.info.200}",
         "type": "color"
       },
       "300": {
-        "value": "{base.brand.300}",
+        "value": "{base.info.300}",
         "type": "color"
       },
       "400": {
-        "value": "{base.brand.400}",
+        "value": "{base.info.400}",
         "type": "color"
       },
       "500": {
-        "value": "{base.brand.500}",
+        "value": "{base.info.500}",
         "type": "color"
       },
       "600": {
-        "value": "{base.brand.600}",
+        "value": "{base.info.600}",
         "type": "color"
       },
       "700": {
-        "value": "{base.brand.700}",
+        "value": "{base.info.700}",
         "type": "color"
       },
       "800": {
-        "value": "{base.brand.800}",
+        "value": "{base.info.800}",
         "type": "color"
       },
       "900": {

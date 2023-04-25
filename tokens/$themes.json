@@ -2562,5 +2562,32 @@
       "theme.focus.info": "S:c59882a0b025a41e84fbdd7298834516fd8eada3,",
       "theme.focus.accent": "S:61c985cb6e9f71c51a1c45d1b9176e0fa1a4037c,"
     }
+  },
+  {
+    "id": "5c73594e6fd3df10362436e00c934500cee28151",
+    "name": "ChatDeal",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled",
+      "semantic/generic-colors": "enabled",
+      "semantic/typography": "source",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/chatdeal": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

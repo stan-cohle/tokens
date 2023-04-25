@@ -19,22 +19,22 @@
     "interactive": {
       "default": {
         "normal": {
-          "value": "{base.brand.700}",
+          "value": "{base.info.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.800}",
+          "value": "{base.info.800}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.900}",
+          "value": "{base.info.900}",
           "type": "color"
         }
       }
     },
     "content": {
       "brand": {
-        "value": "{base.brand.700}",
+        "value": "{base.info.700}",
         "type": "color"
       }
     }
