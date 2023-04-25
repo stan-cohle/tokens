@@ -35,11 +35,29 @@
       },
       "info-highlight": {
         "value": "{base.kayak.blue.200}",
-        "type": "color"
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       },
       "info-subtle": {
         "value": "{base.kayak.blue.100}",
-        "type": "color"
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
       },
       "success": {
         "value": "{base.kayak.green.400}",
@@ -47,7 +65,16 @@
       },
       "success-highlight": {
         "value": "{base.kayak.green.200}",
-        "type": "color"
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       },
       "success-subtle": {
         "value": "{base.kayak.green.100}",
@@ -59,7 +86,16 @@
       },
       "danger-highlight": {
         "value": "{base.kayak.red.200}",
-        "type": "color"
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       },
       "danger-subtle": {
         "value": "{base.kayak.red.100}",
@@ -71,19 +107,37 @@
       },
       "brand-highlight": {
         "value": "{base.kayak.orange.200}",
-        "type": "color"
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       },
       "brand-subtle": {
         "value": "{base.kayak.orange.100}",
         "type": "color"
       },
       "accent": {
-        "value": "{base.kayak.blue.400}",
+        "value": "{base.kayak.blue.500}",
         "type": "color"
       },
       "accent-highlight": {
         "value": "{base.kayak.blue.200}",
-        "type": "color"
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
       },
       "accent-subtle": {
         "value": "{base.kayak.blue.100}",
