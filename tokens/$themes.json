@@ -317,8 +317,8 @@
       "theme.shadow.component.danger": "S:6f1ac1e205ef1e8265d21775b4bc573881f9dc97,",
       "theme.shadow.component.info": "S:82e63f69a1b630b5c2ec030783354d21cc237c36,",
       "theme.shadow.component.accent": "S:e2f05e094ad783f6b42bfce71549097c1c2714e8,",
-      "base.kayak.green.600": "S:c9aa0e48f9535c820711fda1d7af953d8b938974,",
-      "base.kayak.green.100": "S:be338bf9c910a755c5e2281594b27de3643ac41a,"
+      "base.kayak.green.100": "S:be338bf9c910a755c5e2281594b27de3643ac41a,",
+      "base.kayak.green.500": "S:c9aa0e48f9535c820711fda1d7af953d8b938974,"
     }
   },
   {
@@ -568,8 +568,8 @@
       "theme.action.link.normal": "S:ab8f26b8f4b388ec8afb6a5cba5cbbf455d067bc,",
       "theme.action.link.hover": "S:312c70d35ada307b70cdfbe5a329017bf90eafa5,",
       "theme.action.link.active": "S:cc692c016fc86e6a488734ce1de27f2fcc32278b,",
-      "base.kayak.green.600": "S:7535b36ccb0d7ed39c9736fcc1d975042aafaddd,",
-      "base.kayak.green.100": "S:85b2f94ede14431f9e20005cc808ad4764d50d62,"
+      "base.kayak.green.100": "S:85b2f94ede14431f9e20005cc808ad4764d50d62,",
+      "base.kayak.green.500": "S:7535b36ccb0d7ed39c9736fcc1d975042aafaddd,"
     }
   },
   {
@@ -808,8 +808,8 @@
       "theme.component.danger": "S:617692243c16d48f45bbfe3e4fd3e0fe35497ab9,",
       "theme.component.info": "S:1ea9faba6fc701df979216e829ac4087cb0033ff,",
       "theme.component.accent": "S:bc2c70678f511fd8b5a538d7f6bf10f148573571,",
-      "base.kayak.green.600": "S:33c38470d0c56c60769044555db7e1560dc294e1,",
-      "base.kayak.green.100": "S:59d012e40401b08a5ae9fc7b8fa89ee7e394bc11,"
+      "base.kayak.green.100": "S:59d012e40401b08a5ae9fc7b8fa89ee7e394bc11,",
+      "base.kayak.green.500": "S:33c38470d0c56c60769044555db7e1560dc294e1,"
     }
   },
   {
@@ -1100,8 +1100,8 @@
       "theme.shadow.component.danger": "S:e563080b318ba8ff7a1e35ce4625b14cb7c106a8,",
       "theme.shadow.component.info": "S:e7b517825ffb5772a5d9d379e3bc002eafa60cf0,",
       "theme.shadow.component.accent": "S:3c8898ff17df5fff2eeb728a81a7547e16dbb06c,",
-      "base.kayak.green.600": "S:9f1055f39d0253a800e8661314b5136717cc5a41,",
-      "base.kayak.green.100": "S:262b01d869feff7f63a69e03a0ebe78a806fad94,"
+      "base.kayak.green.100": "S:262b01d869feff7f63a69e03a0ebe78a806fad94,",
+      "base.kayak.green.500": "S:9f1055f39d0253a800e8661314b5136717cc5a41,"
     }
   },
   {
@@ -1395,8 +1395,8 @@
       "theme.shadow.component.danger": "S:c01244b6383dd8cbd01a93e229e352a491ed5b22,",
       "theme.shadow.component.info": "S:8898bce6397bac1b733ee86fef000a9893d47820,",
       "theme.shadow.component.accent": "S:2804acf27ce7cc8b4531570b5fb2ab1b6ad378d7,",
-      "base.kayak.green.600": "S:6ffc8fb452ea8e52fb89442e6e1500a1e47da55a,",
-      "base.kayak.green.100": "S:04038d656b053d59fe909e3348e57782ee55a83c,"
+      "base.kayak.green.100": "S:04038d656b053d59fe909e3348e57782ee55a83c,",
+      "base.kayak.green.500": "S:6ffc8fb452ea8e52fb89442e6e1500a1e47da55a,"
     }
   },
   {
@@ -1697,8 +1697,8 @@
       "theme.shadow.component.danger": "S:b0f4aa091ba11eb5ef5ea2c6a9b56cd420eff84a,",
       "theme.shadow.component.info": "S:9aaeef44434b47d5dead18b0bdb789ee04ce2d1e,",
       "theme.shadow.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,",
-      "base.kayak.green.600": "S:c3a141f9d5cb39104c7272a56c8ea7eca04b5c6d,",
-      "base.kayak.green.100": "S:d9ce033bde89b87bf7bf36fdbde9c68d477b24ac,"
+      "base.kayak.green.100": "S:d9ce033bde89b87bf7bf36fdbde9c68d477b24ac,",
+      "base.kayak.green.500": "S:c3a141f9d5cb39104c7272a56c8ea7eca04b5c6d,"
     }
   },
   {
@@ -1994,8 +1994,8 @@
       "theme.shadow.component.danger": "S:93500d5aed22a55d35a83f201021fc20a7cab311,",
       "theme.shadow.component.info": "S:dd3a5f6c0584fdfd4eb29907d519f05c6ffcdb4b,",
       "theme.shadow.component.accent": "S:ed6c9ddb7d6a9266ad324bf486c55f4fbceb9033,",
-      "base.kayak.green.600": "S:b4b8fb8b1803fa2f201f1854f80ab1782da7dd07,",
-      "base.kayak.green.100": "S:17da06f25865bb4642ca62741a4313a36b5162eb,"
+      "base.kayak.green.100": "S:17da06f25865bb4642ca62741a4313a36b5162eb,",
+      "base.kayak.green.500": "S:b4b8fb8b1803fa2f201f1854f80ab1782da7dd07,"
     }
   },
   {
@@ -2289,8 +2289,8 @@
       "theme.component.accent": "S:0f512438de97d94ea590ae76e1d6f932964984fa,",
       "base.wowfare.mint-gradient-2": "S:a23af63ef3ff0688be4094800b704303dd6db158,",
       "base.wowfare.mint-gradient-3": "S:a7cdd53547d602ae5fd2cd4b060d94f5344412dc,",
-      "base.kayak.green.600": "S:c5021b3d00a251f384e6767a194101d5d67a2e4a,",
-      "base.kayak.green.100": "S:65a112dd00d0a552857071eb7a33a0f64699929a,"
+      "base.kayak.green.100": "S:65a112dd00d0a552857071eb7a33a0f64699929a,",
+      "base.kayak.green.500": "S:c5021b3d00a251f384e6767a194101d5d67a2e4a,"
     }
   },
   {
@@ -2299,8 +2299,8 @@
     "selectedTokenSets": {
       "core/colors": "source",
       "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
+      "semantic/base-colors": "source",
+      "semantic/neutral-colors": "source",
       "semantic/typography": "source",
       "semantic/tokens": "enabled",
       "theme/colors": "enabled",

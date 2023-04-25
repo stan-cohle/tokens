@@ -410,7 +410,7 @@
         }
       },
       "accent": {
-        "value": "{base.kayak.green.600}",
+        "value": "{base.kayak.green.500}",
         "type": "color"
       },
       "accent-subtle": {
