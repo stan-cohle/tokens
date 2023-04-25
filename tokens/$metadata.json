@@ -4,6 +4,7 @@
     "core/tokens",
     "semantic/base-colors",
     "semantic/neutral-colors",
+    "semantic/generic-colors",
     "semantic/typography",
     "semantic/tokens",
     "theme/colors",

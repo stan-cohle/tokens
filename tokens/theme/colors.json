@@ -300,6 +300,22 @@
         }
       },
       "neutral": {
+        "normal": {
+          "value": "{base.neutral.1000}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.neutral.900}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        },
+        "on-neutral": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
         "subtle-normal": {
           "value": "{base.neutral-alpha.100}",
           "type": "color"

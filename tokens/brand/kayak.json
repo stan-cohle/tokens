@@ -13,15 +13,15 @@
         "value": "{base.kayak.white.400}",
         "type": "color"
       },
-      "primary-inverse": {
+      "inverse-primary": {
         "value": "{base.kayak.black.700}",
         "type": "color"
       },
-      "secondary-inverse": {
+      "inverse-secondary": {
         "value": "{base.kayak.black.600}",
         "type": "color"
       },
-      "tertiary-inverse": {
+      "inverse-tertiary": {
         "value": "{base.kayak.black.500}",
         "type": "color"
       },
@@ -103,20 +103,16 @@
         "value": "{base.kayak.black.300}",
         "type": "color"
       },
-      "inverse-primary": {
-        "value": "{core.color.generic.white}",
-        "type": "color"
-      },
-      "inverse-secondary": {
-        "value": "#a0afba",
-        "type": "color"
-      },
       "info": {
         "value": "{base.kayak.blue.500}",
         "type": "color"
       },
       "success": {
         "value": "{base.kayak.green.500}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.warning.700}",
         "type": "color"
       },
       "danger": {
@@ -133,16 +129,16 @@
       }
     },
     "border": {
-      "primary": {
-        "value": "#e5ebf0",
+      "light": {
+        "value": "{base.kayak.white.400}",
         "type": "color"
       },
-      "secondary": {
-        "value": "#b3c1cb",
+      "medium": {
+        "value": "{base.kayak.white.700}",
         "type": "color"
       },
       "strong": {
-        "value": "#8596A3",
+        "value": "{base.kayak.black.200}",
         "type": "color"
       },
       "info": {
@@ -228,9 +224,17 @@
           "type": "color",
           "value": "{base.kayak.black.700}"
         },
-        "on-neutral": {
-          "value": "{core.color.generic.white}",
-          "type": "color"
+        "subtle-normal": {
+          "type": "color",
+          "value": "{base.kayak.neutral-alpha.100}"
+        },
+        "subtle-hover": {
+          "type": "color",
+          "value": "{base.kayak.neutral-alpha.200}"
+        },
+        "subtle-active": {
+          "type": "color",
+          "value": "{base.kayak.neutral-alpha.300}"
         }
       },
       "link": {
@@ -245,6 +249,16 @@
         "active": {
           "type": "color",
           "value": "{base.kayak.blue.700}"
+        }
+      },
+      "clear": {
+        "hover": {
+          "value": "{theme.action.neutral.subtle-normal}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{theme.action.neutral.subtle-hover}",
+          "type": "color"
         }
       }
     },
@@ -265,11 +279,35 @@
         "selected": {
           "value": "{base.kayak.blue.500}",
           "type": "color"
+        },
+        "subtle-normal": {
+          "value": "{base.kayak.blue.100}",
+          "type": "color"
+        },
+        "subtle-selected": {
+          "value": "{base.kayak.blue.200}",
+          "type": "color"
+        },
+        "subtle-active": {
+          "value": "{base.kayak.blue.300}",
+          "type": "color"
+        },
+        "subtle-hover": {
+          "value": "{base.kayak.blue.200}",
+          "type": "color"
         }
       },
       "focus": {
         "value": "{base.kayak.blue.500}",
         "type": "color"
+      },
+      "form": {
+        "border": {
+          "active": {
+            "value": "{base.kayak.blue.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "presets": {
@@ -535,6 +573,28 @@
             "value": "linear-gradient(135deg, #e55e0d 0%, #cf3218 100%)",
             "type": "color"
           }
+        }
+      },
+      "neutral-alpha": {
+        "100": {
+          "value": "rgba({base.kayak.black.700},{core.opacity.75})",
+          "type": "color"
+        },
+        "200": {
+          "value": "rgba({base.kayak.black.700},{core.opacity.150})",
+          "type": "color"
+        },
+        "300": {
+          "value": "rgba({base.kayak.black.700},{core.opacity.250})",
+          "type": "color"
+        },
+        "400": {
+          "value": "rgba({base.kayak.black.700},{core.opacity.300})",
+          "type": "color"
+        },
+        "500": {
+          "value": "rgba({base.kayak.black.700},{core.opacity.400})",
+          "type": "color"
         }
       }
     }
