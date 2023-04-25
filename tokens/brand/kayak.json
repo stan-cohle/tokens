@@ -2,15 +2,15 @@
   "theme": {
     "bg": {
       "secondary": {
-        "value": "{base.kayak.white.200}",
-        "type": "color"
-      },
-      "tertiary": {
         "value": "{base.kayak.white.300}",
         "type": "color"
       },
-      "disabled": {
+      "tertiary": {
         "value": "{base.kayak.white.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{base.kayak.white.500}",
         "type": "color"
       },
       "inverse-primary": {
@@ -27,6 +27,10 @@
       },
       "scrim": {
         "value": "rgba({base.kayak.black.600},{core.opacity.800})",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{base.kayak.white.300}",
         "type": "color"
       },
       "info": {
