@@ -316,7 +316,7 @@
         "type": "color"
       },
       "footer": {
-        "value": "{base.kayak.black.700}",
+        "value": "{base.kayak.black.600}",
         "type": "color"
       }
     },
