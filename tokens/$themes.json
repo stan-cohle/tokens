@@ -103,9 +103,7 @@
       "theme.bg.inverse-tertiary": "S:a30673ac7255c442cd07ace2e57cda054a1db91b,",
       "theme.bg.scrim": "S:8a84ddbdb7f30777ab6f829ee739c298a6718992,",
       "theme.bg.canvas": "S:81df36396f9b2cbc174385a14441081e76b4459c,",
-      "theme.bg.success": "S:c9aa0e48f9535c820711fda1d7af953d8b938974,",
       "theme.bg.success-highlight": "S:19a3a463b0b2955120e5de01c824ad7c13f0ed92,",
-      "theme.bg.success-subtle": "S:be338bf9c910a755c5e2281594b27de3643ac41a,",
       "theme.bg.warning": "S:1ffb8c1a1ede10cf4185ce83be9fd9e5f4ab060c,",
       "theme.bg.warning-highlight": "S:860d284952b0e27d7b72ca52949cd882477a5645,",
       "theme.bg.warning-subtle": "S:a970aa8f66097f589554c4bd0c4d0e2495fd7874,",
@@ -318,7 +316,9 @@
       "theme.shadow.component.warning": "S:8524497c07934295d364f2d01682199268750bf3,",
       "theme.shadow.component.danger": "S:6f1ac1e205ef1e8265d21775b4bc573881f9dc97,",
       "theme.shadow.component.info": "S:82e63f69a1b630b5c2ec030783354d21cc237c36,",
-      "theme.shadow.component.accent": "S:e2f05e094ad783f6b42bfce71549097c1c2714e8,"
+      "theme.shadow.component.accent": "S:e2f05e094ad783f6b42bfce71549097c1c2714e8,",
+      "base.kayak.green.600": "S:c9aa0e48f9535c820711fda1d7af953d8b938974,",
+      "base.kayak.green.100": "S:be338bf9c910a755c5e2281594b27de3643ac41a,"
     }
   },
   {
@@ -415,9 +415,7 @@
       "theme.bg.inverse-tertiary": "S:bdc0967072867f08dfce63df61b1ce034a22e250,",
       "theme.bg.scrim": "S:3b8508604340aa6db210ce61ed89fb844fb08226,",
       "theme.bg.canvas": "S:8fe408b6042165f2b839b5cb164ff08ed03dd8a1,",
-      "theme.bg.success": "S:7535b36ccb0d7ed39c9736fcc1d975042aafaddd,",
       "theme.bg.success-highlight": "S:d8e835da4d51d303d59c645e030ee5ffe0fc65a4,",
-      "theme.bg.success-subtle": "S:85b2f94ede14431f9e20005cc808ad4764d50d62,",
       "theme.bg.danger-highlight": "S:8ed3b33e5d2ff500e29ee0f3e8eb0695bc570e29,",
       "theme.bg.danger-subtle": "S:dec47d5520da4c1bd7261910a240c23869c5f51c,",
       "theme.content.primary": "S:82e6d166746dbfd3338eaac957fe42c969d6d1cf,",
@@ -569,7 +567,9 @@
       "base.scholartrip.gradient-2": "S:996d2b6e591a0cbbf80cae0881db21e67125d8d8,",
       "theme.action.link.normal": "S:ab8f26b8f4b388ec8afb6a5cba5cbbf455d067bc,",
       "theme.action.link.hover": "S:312c70d35ada307b70cdfbe5a329017bf90eafa5,",
-      "theme.action.link.active": "S:cc692c016fc86e6a488734ce1de27f2fcc32278b,"
+      "theme.action.link.active": "S:cc692c016fc86e6a488734ce1de27f2fcc32278b,",
+      "base.kayak.green.600": "S:7535b36ccb0d7ed39c9736fcc1d975042aafaddd,",
+      "base.kayak.green.100": "S:85b2f94ede14431f9e20005cc808ad4764d50d62,"
     }
   },
   {
@@ -662,9 +662,7 @@
       "theme.bg.inverse-tertiary": "S:5aded60d059e2db5bd00d5a70ca59a4eb61bdb64,",
       "theme.bg.scrim": "S:b758621ea48d80d399ccad99609b4bd26f238c97,",
       "theme.bg.canvas": "S:c59645e985ac49c1c16d24d1f1dd93d3fee0cd6c,",
-      "theme.bg.success": "S:33c38470d0c56c60769044555db7e1560dc294e1,",
       "theme.bg.success-highlight": "S:f63538f991676e0db3a1fa39d0b5e2a3909986af,",
-      "theme.bg.success-subtle": "S:59d012e40401b08a5ae9fc7b8fa89ee7e394bc11,",
       "theme.bg.warning": "S:8c4534a0a809e24c2d51a45a435b2ebc32a35ba2,",
       "theme.bg.warning-highlight": "S:768e9cb24ac973f8e66381d1638103ae86c8cd3f,",
       "theme.bg.warning-subtle": "S:08c570a9c9f22c7147c44fd55a65d110eb7aec2b,",
@@ -809,7 +807,9 @@
       "theme.component.warning": "S:66e7ce976fd81f6e075dce29a238ffd8614155c9,",
       "theme.component.danger": "S:617692243c16d48f45bbfe3e4fd3e0fe35497ab9,",
       "theme.component.info": "S:1ea9faba6fc701df979216e829ac4087cb0033ff,",
-      "theme.component.accent": "S:bc2c70678f511fd8b5a538d7f6bf10f148573571,"
+      "theme.component.accent": "S:bc2c70678f511fd8b5a538d7f6bf10f148573571,",
+      "base.kayak.green.600": "S:33c38470d0c56c60769044555db7e1560dc294e1,",
+      "base.kayak.green.100": "S:59d012e40401b08a5ae9fc7b8fa89ee7e394bc11,"
     }
   },
   {
@@ -972,9 +972,7 @@
       "theme.bg.inverse-tertiary": "S:8d31a3d20bfcb70e1ac5368bf9e289366d76afe8,",
       "theme.bg.scrim": "S:0cf139f9e1f7d0aaaca2dc3482d6a99c250b6cba,",
       "theme.bg.canvas": "S:99ce05d9b5388f448082fb5e4688571d7edb9868,",
-      "theme.bg.success": "S:9f1055f39d0253a800e8661314b5136717cc5a41,",
       "theme.bg.success-highlight": "S:05e40eb537b54691c2114e520ded835bc8e32510,",
-      "theme.bg.success-subtle": "S:262b01d869feff7f63a69e03a0ebe78a806fad94,",
       "theme.bg.warning": "S:0d8d816fa16361c2491595c2bd2aaccd76e16799,",
       "theme.bg.warning-highlight": "S:2edfa0e1f8199bfe148ed5e113f172e48a4fc819,",
       "theme.bg.warning-subtle": "S:872ea2d0ed19be9080b349b384379220ea9cacf9,",
@@ -1101,7 +1099,9 @@
       "theme.shadow.component.warning": "S:caa59c8d59086b29f49d208740a93ad9aad4f64f,",
       "theme.shadow.component.danger": "S:e563080b318ba8ff7a1e35ce4625b14cb7c106a8,",
       "theme.shadow.component.info": "S:e7b517825ffb5772a5d9d379e3bc002eafa60cf0,",
-      "theme.shadow.component.accent": "S:3c8898ff17df5fff2eeb728a81a7547e16dbb06c,"
+      "theme.shadow.component.accent": "S:3c8898ff17df5fff2eeb728a81a7547e16dbb06c,",
+      "base.kayak.green.600": "S:9f1055f39d0253a800e8661314b5136717cc5a41,",
+      "base.kayak.green.100": "S:262b01d869feff7f63a69e03a0ebe78a806fad94,"
     }
   },
   {
@@ -1129,9 +1129,7 @@
       "brand/priceline": "enabled"
     },
     "$figmaStyleReferences": {
-      "theme.bg.success": "S:6ffc8fb452ea8e52fb89442e6e1500a1e47da55a,",
       "theme.bg.success-highlight": "S:a1d3373083e93fa5b8fd5fdfa0e784304a4094fc,",
-      "theme.bg.success-subtle": "S:04038d656b053d59fe909e3348e57782ee55a83c,",
       "theme.bg.warning": "S:cbc8fccb8c26ecb52fc7e37fdd016adc080ede31,",
       "theme.bg.warning-highlight": "S:ce1364217507ee9a9723630f34d90f959d8c28b9,",
       "theme.bg.warning-subtle": "S:0146d3f9574e9d6738333237d6d1d6972870bf04,",
@@ -1396,7 +1394,9 @@
       "theme.shadow.component.warning": "S:fcb0fb3e74e3f562d0e69a2cc263c332b23ef755,",
       "theme.shadow.component.danger": "S:c01244b6383dd8cbd01a93e229e352a491ed5b22,",
       "theme.shadow.component.info": "S:8898bce6397bac1b733ee86fef000a9893d47820,",
-      "theme.shadow.component.accent": "S:2804acf27ce7cc8b4531570b5fb2ab1b6ad378d7,"
+      "theme.shadow.component.accent": "S:2804acf27ce7cc8b4531570b5fb2ab1b6ad378d7,",
+      "base.kayak.green.600": "S:6ffc8fb452ea8e52fb89442e6e1500a1e47da55a,",
+      "base.kayak.green.100": "S:04038d656b053d59fe909e3348e57782ee55a83c,"
     }
   },
   {
@@ -1561,9 +1561,7 @@
       "theme.bg.inverse-tertiary": "S:fa92b394462fcd686c6ea8478dcd3a4dfe147ba0,",
       "theme.bg.scrim": "S:a2d7a40abb01d9555fe6f211b5409eb382382051,",
       "theme.bg.canvas": "S:dc376925fd6878e1112241ebaf74385e8b0b074b,",
-      "theme.bg.success": "S:c3a141f9d5cb39104c7272a56c8ea7eca04b5c6d,",
       "theme.bg.success-highlight": "S:975888879fcd006603fd1d4a9975e8e0f586a4eb,",
-      "theme.bg.success-subtle": "S:d9ce033bde89b87bf7bf36fdbde9c68d477b24ac,",
       "theme.bg.warning": "S:535663c15d7bf6cda1de634bf0df81e8c7f3f7aa,",
       "theme.bg.warning-highlight": "S:c4d08e106dda8e39effee2dcfd7cf009c1093ce7,",
       "theme.bg.warning-subtle": "S:b2eb45846b70b054678e474b188f5b485ff6f61f,",
@@ -1698,7 +1696,9 @@
       "theme.shadow.component.warning": "S:3b61d353ad906bfafe54fde8b28381c5ed8a0919,",
       "theme.shadow.component.danger": "S:b0f4aa091ba11eb5ef5ea2c6a9b56cd420eff84a,",
       "theme.shadow.component.info": "S:9aaeef44434b47d5dead18b0bdb789ee04ce2d1e,",
-      "theme.shadow.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,"
+      "theme.shadow.component.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,",
+      "base.kayak.green.600": "S:c3a141f9d5cb39104c7272a56c8ea7eca04b5c6d,",
+      "base.kayak.green.100": "S:d9ce033bde89b87bf7bf36fdbde9c68d477b24ac,"
     }
   },
   {
@@ -1787,9 +1787,7 @@
       "theme.bg.inverse-tertiary": "S:2411ced83c20d76874927b50912d4a4a551e67f5,",
       "theme.bg.scrim": "S:efc6dc469a6318f378cc23c07cb4d772760a03d4,",
       "theme.bg.canvas": "S:d0e7ffb192ee9b9e378b0e40376948d91fd6ce20,",
-      "theme.bg.success": "S:b4b8fb8b1803fa2f201f1854f80ab1782da7dd07,",
       "theme.bg.success-highlight": "S:234fff587a78d7a0e40566ac9adb9512c90608d6,",
-      "theme.bg.success-subtle": "S:17da06f25865bb4642ca62741a4313a36b5162eb,",
       "theme.bg.warning": "S:bf2686f5639e3af32a9be05187e5f0fe138fcbd2,",
       "theme.bg.warning-highlight": "S:041e21780c78a82e5214848f44ed7ed2ff19774a,",
       "theme.bg.warning-subtle": "S:6625567b924af242a8bac681139d9a37d7818ad3,",
@@ -1995,7 +1993,9 @@
       "theme.shadow.component.warning": "S:454739fa2c715ed06f902f22bc1637fd8773db8a,",
       "theme.shadow.component.danger": "S:93500d5aed22a55d35a83f201021fc20a7cab311,",
       "theme.shadow.component.info": "S:dd3a5f6c0584fdfd4eb29907d519f05c6ffcdb4b,",
-      "theme.shadow.component.accent": "S:ed6c9ddb7d6a9266ad324bf486c55f4fbceb9033,"
+      "theme.shadow.component.accent": "S:ed6c9ddb7d6a9266ad324bf486c55f4fbceb9033,",
+      "base.kayak.green.600": "S:b4b8fb8b1803fa2f201f1854f80ab1782da7dd07,",
+      "base.kayak.green.100": "S:17da06f25865bb4642ca62741a4313a36b5162eb,"
     }
   },
   {
@@ -2160,9 +2160,7 @@
       "theme.bg.inverse-tertiary": "S:ed19b551533046b84a230d98fc3dc5f527303480,",
       "theme.bg.scrim": "S:7043cc5c683b438bf338c9506cbadd0893bb6cf8,",
       "theme.bg.canvas": "S:b067d0b4a9c664d986e2828d780652ed5e51290d,",
-      "theme.bg.success": "S:c5021b3d00a251f384e6767a194101d5d67a2e4a,",
       "theme.bg.success-highlight": "S:94ccba3791f4653ecf90c840949ffd548cf0cf57,",
-      "theme.bg.success-subtle": "S:65a112dd00d0a552857071eb7a33a0f64699929a,",
       "theme.bg.warning": "S:39ba4dd0ae6059a1b4e2f84c45030ea9ecb1520d,",
       "theme.bg.warning-highlight": "S:f11789034374ccf2c31673c2efdd0049f44b0b38,",
       "theme.bg.warning-subtle": "S:414eb19a299916e0659a620ef5994be0bb8ad152,",
@@ -2290,7 +2288,35 @@
       "theme.component.info": "S:befd8749049dd76c21c5c9b1440d97caa85a1d2b,",
       "theme.component.accent": "S:0f512438de97d94ea590ae76e1d6f932964984fa,",
       "base.wowfare.mint-gradient-2": "S:a23af63ef3ff0688be4094800b704303dd6db158,",
-      "base.wowfare.mint-gradient-3": "S:a7cdd53547d602ae5fd2cd4b060d94f5344412dc,"
+      "base.wowfare.mint-gradient-3": "S:a7cdd53547d602ae5fd2cd4b060d94f5344412dc,",
+      "base.kayak.green.600": "S:c5021b3d00a251f384e6767a194101d5d67a2e4a,",
+      "base.kayak.green.100": "S:65a112dd00d0a552857071eb7a33a0f64699929a,"
     }
+  },
+  {
+    "id": "1038cb0c03a736cc2aeb5f87113756ed662896c4",
+    "name": "KAYAK",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled",
+      "semantic/typography": "source",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/kayak": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

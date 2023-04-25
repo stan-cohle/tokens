@@ -40,7 +40,7 @@
       },
       "canvas": {
         "type": "color",
-        "value": "{base.neutral.100}"
+        "value": "{theme.bg.tertiary}"
       },
       "success": {
         "value": "{base.success.600}",
