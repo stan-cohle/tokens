@@ -3,6 +3,7 @@
     "core/colors",
     "core/tokens",
     "semantic/base-colors",
+    "semantic/brand-colors",
     "semantic/neutral-colors",
     "semantic/generic-colors",
     "semantic/typography",

@@ -1,0 +1,104 @@
+{
+  "base": {
+    "brand": {
+      "50": {
+        "value": "{core.color.indigo.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.indigo.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.indigo.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.indigo.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.indigo.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.indigo.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.indigo.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.indigo.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.indigo.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.indigo.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.indigo.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.indigo.1100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "50": {
+        "value": "{core.color.cranberry.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.cranberry.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.cranberry.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.cranberry.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.cranberry.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.cranberry.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.cranberry.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.cranberry.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.cranberry.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.cranberry.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.cranberry.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.cranberry.1100}",
+        "type": "color"
+      }
+    }
+  }
+}
