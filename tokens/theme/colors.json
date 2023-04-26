@@ -247,15 +247,15 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.info.600}",
+          "value": "{base.brand.600}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.info.700}",
+          "value": "{base.brand.700}",
           "type": "color"
         },
         "active": {
-          "value": "{base.info.800}",
+          "value": "{base.brand.800}",
           "type": "color"
         },
         "on-primary": {
@@ -370,15 +370,15 @@
       "default": {
         "normal": {
           "type": "color",
-          "value": "{base.info.600}"
+          "value": "{base.brand.600}"
         },
         "hover": {
           "type": "color",
-          "value": "{base.info.700}"
+          "value": "{base.brand.700}"
         },
         "active": {
           "type": "color",
-          "value": "{base.info.800}"
+          "value": "{base.brand.800}"
         },
         "selected": {
           "type": "color",
@@ -386,15 +386,15 @@
         },
         "subtle-normal": {
           "type": "color",
-          "value": "{base.info.100}"
+          "value": "{base.brand.100}"
         },
         "subtle-hover": {
           "type": "color",
-          "value": "{base.info.200}"
+          "value": "{base.brand.200}"
         },
         "subtle-active": {
           "type": "color",
-          "value": "{base.info.300}"
+          "value": "{base.brand.300}"
         },
         "subtle-selected": {
           "type": "color",
