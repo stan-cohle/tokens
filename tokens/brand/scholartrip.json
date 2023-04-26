@@ -253,7 +253,7 @@
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{theme.bg.brand}",
+        "value": "{theme.bg.brand-subtle}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -310,7 +310,7 @@
         }
       },
       "info": {
-        "value": "{theme.bg.brand}",
+        "value": "{theme.bg.brand-subtle}",
         "type": "color"
       },
       "info-highlight": {
@@ -393,7 +393,7 @@
         }
       },
       "brand": {
-        "value": "{theme.bg.brand}",
+        "value": "{theme.bg.brand-subtle}",
         "type": "color"
       },
       "brand-subtle": {

@@ -456,7 +456,7 @@
     },
     "presets": {
       "header": {
-        "value": "{theme.bg.brand}",
+        "value": "{theme.bg.brand-subtle}",
         "type": "color"
       },
       "subheader": {
