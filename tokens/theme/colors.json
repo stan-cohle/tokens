@@ -91,11 +91,11 @@
         "type": "color"
       },
       "brand": {
-        "value": "{base.info.600}",
+        "value": "{base.brand.600}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{base.info.100}",
+        "value": "{base.brand.100}",
         "type": "color"
       },
       "accent": {
@@ -159,7 +159,7 @@
       },
       "brand": {
         "type": "color",
-        "value": "{base.info.600}"
+        "value": "{base.brand.600}"
       },
       "accent": {
         "type": "color",
@@ -229,11 +229,11 @@
       },
       "brand": {
         "type": "color",
-        "value": "{base.info.600}"
+        "value": "{base.brand.600}"
       },
       "brand-subtle": {
         "type": "color",
-        "value": "{base.info.300}"
+        "value": "{base.brand.300}"
       },
       "accent": {
         "type": "color",
