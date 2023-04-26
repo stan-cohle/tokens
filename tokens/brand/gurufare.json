@@ -134,7 +134,7 @@
         }
       },
       "gradient": {
-        "value": "linear-gradient(180deg,#315fcc 0,#51a2ca 100%)",
+        "value": "linear-gradient(180deg, #315fCC 0, #51A2CA 100%)",
         "type": "color"
       }
     }
