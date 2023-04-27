@@ -1,6 +1,146 @@
 {
   "base": {
+    "luxmiles": {
+      "gradient": {
+        "cover": {
+          "value": "linear-gradient(180deg, rgba({base.luxmiles.other.flint}, 0.88) 0%,  rgba({base.neutral.1100}, 0.9) 70%, rgba({base.neutral.1100}, 0.97) 82%, {base.neutral.1100} 100%)",
+          "type": "color"
+        },
+        "135-100": {
+          "value": "linear-gradient(135deg, {base.neutral.1100} 0%, rgba({base.neutral.1100}, 0.4) 50%, rgba({base.neutral.1100}, 0.4) 100%)",
+          "type": "color"
+        },
+        "135-50": {
+          "value": "linear-gradient(135deg, rgba({base.neutral.900}, 0.7) 0%, rgba({base.neutral.900}, 0.3) 48%, rgba({base.neutral.900}, 0.3) 100%)",
+          "type": "color"
+        }
+      },
+      "other": {
+        "flint": {
+          "value": "#75695F",
+          "type": "color"
+        }
+      },
+      "magic-mint": {
+        "default": {
+          "value": "#B4EDD2",
+          "type": "color"
+        },
+        "muted": {
+          "value": "rgba({base.luxmiles.magic-mint.default}, 0.48)",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "rgba({base.luxmiles.magic-mint.default}, 0.24)",
+          "type": "color"
+        }
+      }
+    },
+    "brand": {
+      "50": {
+        "value": "{core.color.aquamarine.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.aquamarine.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.aquamarine.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.aquamarine.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.aquamarine.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.aquamarine.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.aquamarine.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.aquamarine.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.aquamarine.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.aquamarine.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.aquamarine.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.aquamarine.1100}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "50": {
+        "value": "{base.brand.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{base.brand.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.brand.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.brand.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.brand.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.brand.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.brand.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.brand.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.brand.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.brand.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{base.brand.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{base.brand.1100}",
+        "type": "color"
+      }
+    },
     "neutral": {
+      "50": {
+        "value": "{core.color.steel.50}",
+        "type": "color"
+      },
       "100": {
         "value": "{core.color.steel.100}",
         "type": "color"
@@ -44,126 +184,6 @@
       "1100": {
         "value": "{core.color.steel.1100}",
         "type": "color"
-      }
-    },
-    "other": {
-      "grad-2": {
-        "value": "linear-gradient(180deg, rgba({base.other.flint}, 0.88) 0%,  rgba({base.neutral.1100}, 0.9) 70%, rgba({base.neutral.1100}, 0.97) 82%, {base.neutral.1100} 100%)",
-        "type": "color"
-      },
-      "grad-2-copy": {
-        "value": "linear-gradient(180deg,  {base.generic.white} 0%, {base.generic.black} 100%)",
-        "type": "color"
-      },
-      "grad-1": {
-        "value": "linear-gradient(135deg, {base.neutral.1100} 0%, rgba({base.neutral.1100}, 0.4) 50%, rgba({base.neutral.1100}, 0.4) 100%)",
-        "type": "color"
-      },
-      "grad-3": {
-        "value": "linear-gradient(135deg, rgba({base.neutral.900}, 0.7) 0%, rgba({base.neutral.900}, 0.3) 48%, rgba({base.neutral.900}, 0.3) 100%)",
-        "type": "color"
-      },
-      "pine-green": {
-        "value": "#007C77",
-        "type": "color"
-      },
-      "flint": {
-        "value": "#75695F",
-        "type": "color"
-      },
-      "pine-green-subtle": {
-        "value": "rgba({base.luxmiles.pine-green.600}, 0.24)",
-        "type": "color"
-      },
-      "magic-mint": {
-        "value": "#B4EDD2",
-        "type": "color"
-      },
-      "magic-mint-muted": {
-        "value": "rgba({base.other.magic-mint}, 0.48)",
-        "type": "color"
-      },
-      "magic-mint-subtle": {
-        "value": "rgba({base.other.magic-mint}, 0.24)",
-        "type": "color"
-      }
-    },
-    "success": {
-      "100": {
-        "value": "{base.luxmiles.pine-green.100}",
-        "type": "color"
-      },
-      "200": {
-        "value": "{base.luxmiles.pine-green.200}",
-        "type": "color"
-      },
-      "300": {
-        "value": "{base.luxmiles.pine-green.300}",
-        "type": "color"
-      },
-      "400": {
-        "value": "{base.luxmiles.pine-green.400}",
-        "type": "color"
-      },
-      "500": {
-        "value": "{base.luxmiles.pine-green.500}",
-        "type": "color"
-      },
-      "600": {
-        "value": "{base.luxmiles.pine-green.600}",
-        "type": "color"
-      },
-      "700": {
-        "value": "{base.luxmiles.pine-green.700}",
-        "type": "color"
-      },
-      "800": {
-        "value": "{base.luxmiles.pine-green.800}",
-        "type": "color"
-      },
-      "900": {
-        "value": "{base.luxmiles.pine-green.900}",
-        "type": "color"
-      }
-    },
-    "luxmiles": {
-      "pine-green": {
-        "100": {
-          "value": "#DAF1E9",
-          "type": "color"
-        },
-        "200": {
-          "value": "#ADDFCE",
-          "type": "color"
-        },
-        "300": {
-          "value": "#82CAB7",
-          "type": "color"
-        },
-        "400": {
-          "value": "#57B3A2",
-          "type": "color"
-        },
-        "500": {
-          "value": "#2B998D",
-          "type": "color"
-        },
-        "600": {
-          "value": "#007C77",
-          "type": "color"
-        },
-        "700": {
-          "value": "#00726D",
-          "type": "color"
-        },
-        "800": {
-          "value": "#006662",
-          "type": "color"
-        },
-        "900": {
-          "value": "#005955",
-          "type": "color"
-        }
       }
     }
   },
