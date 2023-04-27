@@ -133,9 +133,45 @@
           "type": "color"
         }
       },
-      "gradient": {
-        "value": "linear-gradient(180deg, #315fCC 0, #51A2CA 100%)",
-        "type": "color"
+      "other": {
+        "mariner-gradient": {
+          "value": "linear-gradient(180deg, {base.gurufare.other.mariner} 0, #51A2CA 100%)",
+          "type": "color"
+        },
+        "mariner": {
+          "value": "#315FCC",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "default": {
+          "value": "{base.gurufare.stone.700}",
+          "type": "color"
+        },
+        "emblem-1": {
+          "value": "#F14064",
+          "type": "color"
+        },
+        "emblem-2": {
+          "value": "#B42E49",
+          "type": "color"
+        },
+        "emblem-3": {
+          "value": "#BC9B69",
+          "type": "color"
+        },
+        "emblem-4": {
+          "value": "#8D7651",
+          "type": "color"
+        },
+        "emblem-5": {
+          "value": "#F7F0E1",
+          "type": "color"
+        },
+        "emblem-6": {
+          "value": "#F2C94C",
+          "type": "color"
+        }
       }
     }
   },
@@ -175,7 +211,7 @@
         "value": "{base.gurufare.mandy.600}",
         "type": "color"
       },
-      "subtle": {
+      "accent-subtle": {
         "value": "{base.gurufare.mandy.600}",
         "type": "color",
         "$extensions": {

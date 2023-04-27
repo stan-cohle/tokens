@@ -2974,7 +2974,7 @@
       "theme.bg.brand": "S:d6c03ae68d6d7e633f4272142e3a054bc951739a,",
       "theme.bg.brand-subtle": "S:85c92934106ae2044301469d5059d8800a48eaf4,",
       "theme.bg.accent": "S:9d3aecc09b4f56ea8083ba0f3d2be24e7680f839,",
-      "theme.bg.accent-subtle": "S:be719ddfbc102ee937e5e5c89e78771091075637,",
+      "theme.bg.accent-subtle": "S:6447c966e5763de0bcf2c9f259cdc7fbbb4fd290,",
       "theme.content.primary": "S:5931e7decd6b70f2a9d8572fde409409fe5180fb,",
       "theme.content.secondary": "S:c2a0ee1a78de00434108a77b7403fedc743c6512,",
       "theme.content.tertiary": "S:bed90dc63789ee4ff3033a57c7e02e9cecf33ca8,",
@@ -3057,8 +3057,6 @@
       "theme.presets.header": "S:c6615001a14c1d29f3fa9e754283f05080aaaa07,",
       "theme.presets.subheader": "S:f34a7702db17bb9e966d5153846647977974a7c6,",
       "theme.presets.footer": "S:3b3de48a6689dc478c82c1f9525d367961bf9a24,",
-      "theme.presets.controls": "S:7ba0617effc63dc80c0de01d80f5fc9a11cf4f32,",
-      "theme.presets.link": "S:0cee8cb7de26ee65b8e8355c5f373ea56b308107,",
       "base.gurufare.macaw-blue.100": "S:294e3aadb8567c550e706f9089c88660644c1eeb,",
       "base.gurufare.macaw-blue.200": "S:39974447284ab973133fc8f467e3811c3b4500c1,",
       "base.gurufare.macaw-blue.300": "S:4716cb6df9a63fb389fa1fee3ab32694284643d2,",
@@ -3113,8 +3111,6 @@
       "comp.ifta.label": "S:de3c8040ebd6038cb9c4fd688b67bcab6249f972,",
       "comp.ifta.entry": "S:b8038c1213a500185b5f5c5d0858456d9b384606,",
       "comp.ifta.placeholder": "S:94ec801ea0b08656a82b386105a1474c8e3e4c0a,",
-      "base.gurufare.gradient": "S:688317b842bbdef813202f6c296d1ccb68900266,",
-      "theme.bg.subtle": "S:6447c966e5763de0bcf2c9f259cdc7fbbb4fd290,",
       "base.brand.50": "S:6ba8a4465af9475a71cbb3ecff36af93aa05434e,",
       "base.brand.100": "S:6468e7aaa776f5d27e819f8d0f23f8fc60074754,",
       "base.brand.200": "S:51793ef95485ff6e64e2e53b6900a4c47f413f0a,",
@@ -3138,7 +3134,16 @@
       "base.accent.800": "S:b0a79b9373d3e05d9ce4690fc4dc866f6ea88601,",
       "base.accent.900": "S:b3eaca6aa97251e113fdb501a9e74176a543bddd,",
       "base.accent.1000": "S:66dbdc62e3a74e671362a090a62f12c59974bc6f,",
-      "base.accent.1100": "S:c09ef74272d857b1c64fd8288813f488abb6b990,"
+      "base.accent.1100": "S:c09ef74272d857b1c64fd8288813f488abb6b990,",
+      "base.gurufare.other.mariner-gradient": "S:688317b842bbdef813202f6c296d1ccb68900266,",
+      "base.gurufare.other.mariner": "S:17e7b53c72a1ca98335ad37fdd5f6198cc770514,",
+      "base.gurufare.brand.default": "S:d5c61fe913b2c7c24f7e151a5531aec96e2c5010,",
+      "base.gurufare.brand.emblem-1": "S:a932f5593a7681a737116e24b9d55febd7d4552b,",
+      "base.gurufare.brand.emblem-2": "S:5d4a74bed6bbcebaa18755261e4ef6f09df00fb2,",
+      "base.gurufare.brand.emblem-3": "S:68781af6afea4530ed279ab4823e856f6f99000a,",
+      "base.gurufare.brand.emblem-4": "S:9a0245f315fe38b123e9e06095c8567ae27ed728,",
+      "base.gurufare.brand.emblem-5": "S:f69d4cc5e3769ba599d42dd3f786cb93be467fae,",
+      "base.gurufare.brand.emblem-6": "S:b787ad91665bf0783f30e5cd7049378e764de452,"
     }
   }
 ]
