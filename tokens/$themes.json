@@ -3120,5 +3120,33 @@
       "base.gurufare.brand.emblem-5": "S:f69d4cc5e3769ba599d42dd3f786cb93be467fae,",
       "base.gurufare.brand.emblem-6": "S:b787ad91665bf0783f30e5cd7049378e764de452,"
     }
+  },
+  {
+    "id": "8cebdd1fbc353b3efd4f362465e441e342797202",
+    "name": "Luxmiles",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/neutral-colors": "enabled",
+      "semantic/generic-colors": "enabled",
+      "semantic/typography": "source",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/luxmiles": "enabled",
+      "semantic/brand-colors": "source"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

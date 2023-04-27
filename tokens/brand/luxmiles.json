@@ -1,180 +1,124 @@
 {
   "base": {
-    "color": {
-      "primary": {
-        "100": {
-          "value": "{core.color.pine-green.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{core.color.pine-green.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{core.color.pine-green.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{core.color.pine-green.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{core.color.pine-green.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{core.color.pine-green.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{core.color.pine-green.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{core.color.pine-green.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{core.color.pine-green.900}",
-          "type": "color"
-        }
+    "neutral": {
+      "100": {
+        "value": "{core.color.steel.100}",
+        "type": "color"
       },
-      "neutral": {
-        "100": {
-          "value": "{core.color.steel.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{core.color.steel.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{core.color.steel.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{core.color.steel.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{core.color.steel.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{core.color.steel.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{core.color.steel.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{core.color.steel.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{core.color.steel.900}",
-          "type": "color"
-        },
-        "1000": {
-          "value": "{core.color.steel.1000}",
-          "type": "color"
-        },
-        "1100": {
-          "value": "{core.color.steel.1100}",
-          "type": "color"
-        }
+      "200": {
+        "value": "{core.color.steel.200}",
+        "type": "color"
       },
-      "other": {
-        "grad-2": {
-          "value": "linear-gradient(180deg, #75695fe0 0%, rgba({theme.bg.canvas-inverse}, 0.9) 70%, rgba({theme.bg.canvas-inverse}, 0.97) 82%, {theme.bg.canvas-inverse} 100%)",
-          "type": "color"
-        },
-        "grad-1": {
-          "value": "linear-gradient(135deg, {theme.bg.canvas-inverse} 0%,   rgba({theme.bg.canvas-inverse}, 0.4) 50%, rgba({theme.bg.canvas-inverse}, 0.4) 100%)",
-          "type": "color"
-        },
-        "grad-3": {
-          "value": "linear-gradient(135deg, rgba({base.neutral.900}, 0.7) 0%, rgba({base.neutral.900}, 0.3) 48%, rgba({base.neutral.900}, 0.3) 100%)",
-          "type": "color"
-        },
-        "pine-green": {
-          "value": "{core.color.pine-green.600}",
-          "type": "color"
-        },
-        "pine-green-subtle": {
-          "value": "rgba({core.color.pine-green.600}, 0.24)",
-          "type": "color"
-        },
-        "magic-mint": {
-          "value": "#B4EDD2",
-          "type": "color"
-        },
-        "magic-mint-muted": {
-          "value": "rgba({base.color.other.magic-mint}, 0.48)",
-          "type": "color"
-        },
-        "magic-mint-subtle": {
-          "value": "rgba({base.color.other.magic-mint}, 0.24)",
-          "type": "color"
-        }
+      "300": {
+        "value": "{core.color.steel.300}",
+        "type": "color"
       },
-      "success": {
-        "100": {
-          "value": "{core.color.pine-green.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{core.color.pine-green.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{core.color.pine-green.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{core.color.pine-green.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{core.color.pine-green.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{core.color.pine-green.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{core.color.pine-green.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{core.color.pine-green.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{core.color.pine-green.900}",
-          "type": "color"
-        }
-      }
-    }
-  },
-  "theme": {
-    "utility": {
-      "brand": {
-        "value": "{base.info.600}",
+      "400": {
+        "value": "{core.color.steel.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.steel.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.steel.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.steel.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.steel.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.steel.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.steel.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.steel.1100}",
         "type": "color"
       }
-    }
-  },
-  "font-family": {
-    "primary": {
-      "value": "Mulish",
-      "type": "fontFamilies"
-    }
-  },
-  "core": {
-    "color": {
+    },
+    "other": {
+      "grad-2": {
+        "value": "linear-gradient(180deg, #75695FE0 0%, rgba({base.neutral.1100}, 0.9) 70%,  rgba({base.neutral.1100}, 0.97) 82%,  {base.neutral.1100} 100%)",
+        "type": "color"
+      },
+      "grad-1": {
+        "value": "linear-gradient(135deg, {base.neutral.1100} 0%,   rgba( {base.neutral.1100}, 0.4) 50%, rgba({base.neutral.1100}, 0.4) 100%)",
+        "type": "color"
+      },
+      "grad-3": {
+        "value": "linear-gradient(135deg, rgba({base.neutral.900}, 0.7) 0%, rgba({base.neutral.900}, 0.3) 48%, rgba({base.neutral.900}, 0.3) 100%)",
+        "type": "color"
+      },
+      "pine-green": {
+        "value": "{base.luxmiles.pine-green.600}",
+        "type": "color"
+      },
+      "pine-green-subtle": {
+        "value": "rgba({base.luxmiles.pine-green.600}, 0.24)",
+        "type": "color"
+      },
+      "magic-mint": {
+        "value": "#B4EDD2",
+        "type": "color"
+      },
+      "magic-mint-muted": {
+        "value": "rgba({base.other.magic-mint}, 0.48)",
+        "type": "color"
+      },
+      "magic-mint-subtle": {
+        "value": "rgba({base.other.magic-mint}, 0.24)",
+        "type": "color"
+      }
+    },
+    "success": {
+      "100": {
+        "value": "{base.luxmiles.pine-green.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.luxmiles.pine-green.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.luxmiles.pine-green.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.luxmiles.pine-green.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.luxmiles.pine-green.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.luxmiles.pine-green.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.luxmiles.pine-green.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.luxmiles.pine-green.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.luxmiles.pine-green.900}",
+        "type": "color"
+      }
+    },
+    "luxmiles": {
       "pine-green": {
         "100": {
           "value": "#DAF1E9",
@@ -213,6 +157,12 @@
           "type": "color"
         }
       }
+    }
+  },
+  "font-family": {
+    "primary": {
+      "value": "Mulish",
+      "type": "fontFamilies"
     }
   }
 }
