@@ -258,6 +258,20 @@
           "value": "{base.brand.800}",
           "type": "color"
         }
+      },
+      "primary": {
+        "normal": {
+          "value": "{base.brand.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.brand.600}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.brand.800}",
+          "type": "color"
+        }
       }
     }
   }
