@@ -48,11 +48,15 @@
     },
     "other": {
       "grad-2": {
-        "value": "linear-gradient(180deg, #75695FE0 0%, rgba({base.neutral.1100}, 0.9) 70%,  rgba({base.neutral.1100}, 0.97) 82%,  {base.neutral.1100} 100%)",
+        "value": "linear-gradient(180deg, rgba({base.other.flint}, 0.88) 0%,  rgba({base.neutral.1100}, 0.9) 70%, rgba({base.neutral.1100}, 0.97) 82%, {base.neutral.1100} 100%)",
+        "type": "color"
+      },
+      "grad-2-copy": {
+        "value": "linear-gradient(180deg,  {base.generic.white} 0%, {base.generic.black} 100%)",
         "type": "color"
       },
       "grad-1": {
-        "value": "linear-gradient(135deg, {base.neutral.1100} 0%,   rgba( {base.neutral.1100}, 0.4) 50%, rgba({base.neutral.1100}, 0.4) 100%)",
+        "value": "linear-gradient(135deg, {base.neutral.1100} 0%, rgba({base.neutral.1100}, 0.4) 50%, rgba({base.neutral.1100}, 0.4) 100%)",
         "type": "color"
       },
       "grad-3": {
@@ -60,7 +64,11 @@
         "type": "color"
       },
       "pine-green": {
-        "value": "{base.luxmiles.pine-green.600}",
+        "value": "#007C77",
+        "type": "color"
+      },
+      "flint": {
+        "value": "#75695F",
         "type": "color"
       },
       "pine-green-subtle": {
