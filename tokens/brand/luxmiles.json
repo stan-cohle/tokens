@@ -192,5 +192,59 @@
       "value": "Mulish",
       "type": "fontFamilies"
     }
+  },
+  "theme": {
+    "presets": {
+      "header": {
+        "value": "{base.brand.700}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{base.brand.600}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "accent": {
+        "value": "{base.neutral.1000}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{theme.bg.secondary}",
+        "type": "color"
+      }
+    },
+    "content": {
+      "accent": {
+        "value": "{base.neutral.1000}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "accent": {
+        "value": "{base.neutral.1000}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{base.neutral.400}",
+        "type": "color"
+      }
+    },
+    "action": {
+      "accent": {
+        "normal": {
+          "value": "{base.neutral.1000}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        }
+      }
+    }
   }
 }
