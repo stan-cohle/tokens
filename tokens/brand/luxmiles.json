@@ -290,5 +290,30 @@
         }
       }
     }
+  },
+  "comp": {
+    "input": {
+      "label": {
+        "value": "{base.text.sm.medium.default}",
+        "type": "typography"
+      },
+      "entry": {
+        "value": {
+          "fontFamily": "{font-family.body}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "{line-height.text.lg.par}",
+          "fontSize": "{font-size.text.md}"
+        },
+        "type": "typography"
+      },
+      "error": {
+        "value": "{base.text.xs.medium.default}",
+        "type": "typography"
+      },
+      "helper": {
+        "value": "{base.text.xs.medium.default}",
+        "type": "typography"
+      }
+    }
   }
 }
