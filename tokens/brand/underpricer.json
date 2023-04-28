@@ -60,7 +60,7 @@
             }
           }
         },
-        "on-primary": {
+        "on-accent": {
           "value": "{theme.content.primary}",
           "type": "color",
           "$extensions": {
