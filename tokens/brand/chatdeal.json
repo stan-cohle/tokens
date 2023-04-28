@@ -71,11 +71,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.primary.active}",
+          "value": "{theme.action.primary.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.primary.active}",
+          "value": "{theme.action.primary.hover}",
           "type": "color"
         }
       }
@@ -113,7 +113,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.primary.active}",
+          "value": "{theme.action.primary.hover}",
           "type": "color"
         }
       }

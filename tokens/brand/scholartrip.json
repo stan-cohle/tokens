@@ -183,7 +183,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.primary.active}",
+          "value": "{theme.action.primary.hover}",
           "type": "color"
         },
         "selected": {
