@@ -17,7 +17,21 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.underpricer.yellow-gradient}",
+          "value": "{base.neutral.1000}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "{base.underpricer.orange}",
           "type": "color"
         },
         "hover": {
@@ -60,12 +74,130 @@
           }
         }
       }
+    },
+    "interactive": {
+      "default": {
+        "normal": {
+          "value": "{base.neutral.1000}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        },
+        "subtle-normal": {
+          "value": "{base.neutral.100}",
+          "type": "color"
+        },
+        "subtle-hover": {
+          "value": "{base.neutral.200}",
+          "type": "color"
+        },
+        "subtle-active": {
+          "value": "{base.neutral.300}",
+          "type": "color"
+        }
+      },
+      "form": {
+        "border": {
+          "active": {
+            "value": "{theme.border.info}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "bg": {
+      "brand": {
+        "value": "{base.underpricer.orange}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.underpricer.orange}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{theme.bg.info}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{theme.bg.info-subtle}",
+        "type": "color"
+      }
+    },
+    "content": {
+      "brand": {
+        "value": "{base.underpricer.orange}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{theme.content.info}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "brand": {
+        "value": "{base.underpricer.orange}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{semantic.color.modifiers.button.hover-mod}",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "brand-subtle": {
+        "value": "{base.underpricer.orange}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.66",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{theme.border.info}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{theme.border.info-subtle}",
+        "type": "color"
+      }
     }
   },
   "base": {
     "underpricer": {
       "yellow-gradient": {
-        "value": "linear-gradient(180deg, #ffc63a 0%, #fea538 100%)",
+        "value": "linear-gradient(180deg, #FFC63A 0%, {base.underpricer.orange} 100%)",
         "type": "color"
       },
       "alice-blue": {
@@ -131,7 +263,7 @@
   "button": {
     "x-large": {
       "border-radius": {
-        "value": "{border-radius.12}",
+        "value": "{core.border-radius.150}",
         "type": "borderRadius"
       }
     }
