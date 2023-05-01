@@ -3657,5 +3657,33 @@
       "theme.focus.info": "S:c4436a3dbd59b435c5d87892686883f1f4f8b85c,",
       "theme.focus.accent": "S:0799367bc751211ebd3ab0562e978e9c45dbd492,"
     }
+  },
+  {
+    "id": "fc901bb7cbd73af7ac14c59d313e030c5ee97627",
+    "name": "MyQuility",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/brand-colors": "enabled",
+      "semantic/neutral-colors": "enabled",
+      "semantic/generic-colors": "enabled",
+      "semantic/typography": "source",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/myquility": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
