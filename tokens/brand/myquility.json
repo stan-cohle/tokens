@@ -161,31 +161,23 @@
       }
     }
   },
-  "presets": {
-    "header": {
-      "type": "color",
-      "value": "{core.color.turquoise.700}"
-    },
-    "subheader": {
-      "type": "color",
-      "value": "{core.color.turquoise.600}"
-    },
-    "controls": {
-      "type": "color",
-      "value": "{core.color.turquoise.600}"
-    },
-    "footer": {
-      "type": "color",
-      "value": "{base.myquility.deep-teal}"
-    }
-  },
   "theme": {
-    "interactive": {
-      "default": {
-        "normal": {
-          "type": "color",
-          "value": "{core.color.turquoise.600}"
-        }
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{core.color.turquoise.700}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{core.color.turquoise.600}"
+      },
+      "controls": {
+        "type": "color",
+        "value": "{core.color.turquoise.600}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{base.myquility.deep-teal}"
       }
     }
   }
