@@ -130,7 +130,7 @@
         }
       },
       "accent": {
-        "value": "{theme.bg.info}",
+        "value": "{theme.bg.info-subtle}",
         "type": "color"
       },
       "accent-subtle": {

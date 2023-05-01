@@ -50,7 +50,11 @@
         "type": "color"
       }
     },
-    "other": {
+    "allsavingstravel": {
+      "sky-blue": {
+        "value": "#007CFF",
+        "type": "color"
+      },
       "violet": {
         "value": "#000edb",
         "type": "color"
@@ -70,29 +74,309 @@
       "gradient": {
         "value": "linear-gradient(135deg, #00ffd4 0%, #00cff9 15%, #007cff 49%, #681aea 100%)",
         "type": "color"
-      },
-      "sky-blue": {
-        "value": "#007CFF",
-        "type": "color"
       }
     }
   },
-  "presets": {
-    "header": {
-      "value": "{core.color.generic.white}",
-      "type": "color"
+  "theme": {
+    "presets": {
+      "header": {
+        "value": "{core.color.generic.white}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{base.neutral.200}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{base.neutral.1000}",
+        "type": "color"
+      }
     },
-    "subheader": {
-      "value": "{base.neutral.200}",
-      "type": "color"
+    "interactive": {
+      "default": {
+        "normal": {
+          "value": "{base.allsavingstravel.sky-blue}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.allsavingstravel.sky-blue}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.15",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{base.allsavingstravel.sky-blue}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.25",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "subtle-normal": {
+          "value": "{base.allsavingstravel.sky-blue}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.92",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "subtle-hover": {
+          "value": "{base.allsavingstravel.sky-blue}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "subtle-active": {
+          "value": "{base.allsavingstravel.sky-blue}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.82",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      }
     },
-    "footer": {
-      "value": "{base.neutral.1000}",
-      "type": "color"
+    "action": {
+      "primary": {
+        "normal": {
+          "value": "{base.allsavingstravel.sky-blue}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.action.primary.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.15",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.action.primary.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.25",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "{theme.action.success.normal}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.action.success.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{theme.action.success.active}",
+          "type": "color"
+        }
+      },
+      "link": {
+        "normal": {
+          "value": "{theme.content.info}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.action.link.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.action.link.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
     },
-    "controls": {
-      "value": "{base.other.sky-blue}",
-      "type": "color"
+    "bg": {
+      "info": {
+        "value": "{base.allsavingstravel.sky-blue}",
+        "type": "color"
+      },
+      "info-highlight": {
+        "value": "{base.allsavingstravel.sky-blue}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "info-subtle": {
+        "value": "{base.allsavingstravel.sky-blue}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.92",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "brand": {
+        "value": "{theme.bg.info}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{theme.bg.info-subtle}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{theme.bg.success}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{theme.bg.success-subtle}",
+        "type": "color"
+      }
+    },
+    "content": {
+      "info": {
+        "value": "{base.allsavingstravel.sky-blue}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "brand": {
+        "value": "{theme.content.info}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{theme.content.success}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "border": {
+      "info": {
+        "value": "{base.allsavingstravel.sky-blue}",
+        "type": "color"
+      },
+      "info-subtle": {
+        "value": "{base.allsavingstravel.sky-blue}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "brand": {
+        "value": "{theme.border.info}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{theme.border.info-subtle}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{theme.content.success}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "accent-subtle": {
+        "value": "{theme.border.success-subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      }
     }
   }
 }
