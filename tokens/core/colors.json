@@ -361,6 +361,56 @@
           "type": "color"
         }
       },
+      "turquoise": {
+        "50": {
+          "value": "#F0FAF9",
+          "type": "color"
+        },
+        "100": {
+          "value": "#E2F8F5",
+          "type": "color"
+        },
+        "200": {
+          "value": "#DAF6F2",
+          "type": "color"
+        },
+        "300": {
+          "value": "#C5F2EC",
+          "type": "color"
+        },
+        "400": {
+          "value": "#8BE4D8",
+          "type": "color"
+        },
+        "500": {
+          "value": "#25AC9A",
+          "type": "color"
+        },
+        "600": {
+          "value": "#1F8E83",
+          "type": "color"
+        },
+        "700": {
+          "value": "#008073",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1A7064",
+          "type": "color"
+        },
+        "900": {
+          "value": "#005851",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#0D4A47",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#012D2C",
+          "type": "color"
+        }
+      },
       "aquamarine": {
         "50": {
           "value": "#F0FAFA",
