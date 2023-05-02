@@ -4468,5 +4468,33 @@
       "base.danger.1000": "S:b98f376851e87cb61e25d1e7844d84486d85b332,",
       "base.danger.1100": "S:353144d95ed4a8defff6ad19528eaca7a612fe22,"
     }
+  },
+  {
+    "id": "103c272a901e2664aa81af740c3daa19dc603378",
+    "name": "Abenity",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/brand-colors": "source",
+      "semantic/neutral-colors": "enabled",
+      "semantic/generic-colors": "enabled",
+      "semantic/typography": "source",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/abenity": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
