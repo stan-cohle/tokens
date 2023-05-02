@@ -231,36 +231,36 @@
           "value": "{core.color.blue-jay.900}"
         }
       }
-    }
-  },
-  "abenity": {
-    "03": {
-      "value": "#d5dde9",
-      "type": "color"
     },
-    "02": {
-      "value": "#d6d7d9",
-      "type": "color"
-    },
-    "04": {
-      "value": "#99a6b7",
-      "type": "color"
-    },
-    "01": {
-      "value": "#f7f8fa",
-      "type": "color"
-    },
-    "link-water": {
-      "value": "#e0eeff",
-      "type": "color"
-    },
-    "cornflower-blue": {
-      "value": "#418bdb",
-      "type": "color"
-    },
-    "sahara-sand": {
-      "value": "#f4ec80",
-      "type": "color"
+    "abenity": {
+      "03": {
+        "value": "#d5dde9",
+        "type": "color"
+      },
+      "02": {
+        "value": "#d6d7d9",
+        "type": "color"
+      },
+      "04": {
+        "value": "#99a6b7",
+        "type": "color"
+      },
+      "01": {
+        "value": "#f7f8fa",
+        "type": "color"
+      },
+      "link-water": {
+        "value": "#e0eeff",
+        "type": "color"
+      },
+      "cornflower-blue": {
+        "value": "#418bdb",
+        "type": "color"
+      },
+      "sahara-sand": {
+        "value": "#f4ec80",
+        "type": "color"
+      }
     }
   }
 }
