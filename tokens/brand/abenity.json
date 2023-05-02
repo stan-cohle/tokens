@@ -201,34 +201,66 @@
       }
     }
   },
-  "presets": {
-    "header": {
-      "type": "color",
-      "value": "{core.color.blue-jay.800}"
-    },
-    "subheader": {
-      "type": "color",
-      "value": "{core.color.blue-jay.900}"
-    },
-    "footer": {
-      "type": "color",
-      "value": "#f4f4f4"
-    }
-  },
-  "action": {
-    "link": {
-      "normal": {
-        "type": "color",
-        "value": "{core.color.blue-jay.700}"
-      },
-      "hover": {
+  "theme": {
+    "presets": {
+      "header": {
         "type": "color",
         "value": "{core.color.blue-jay.800}"
       },
-      "active": {
+      "subheader": {
         "type": "color",
         "value": "{core.color.blue-jay.900}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "#f4f4f4"
       }
+    },
+    "action": {
+      "link": {
+        "normal": {
+          "type": "color",
+          "value": "{core.color.blue-jay.700}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{core.color.blue-jay.800}"
+        },
+        "active": {
+          "type": "color",
+          "value": "{core.color.blue-jay.900}"
+        }
+      }
+    }
+  },
+  "abenity": {
+    "03": {
+      "value": "#d5dde9",
+      "type": "color"
+    },
+    "02": {
+      "value": "#d6d7d9",
+      "type": "color"
+    },
+    "04": {
+      "value": "#99a6b7",
+      "type": "color"
+    },
+    "01": {
+      "value": "#f7f8fa",
+      "type": "color"
+    },
+    "link-water": {
+      "value": "#e0eeff",
+      "type": "color"
+    },
+    "cornflower-blue": {
+      "value": "#418bdb",
+      "type": "color"
+    },
+    "sahara-sand": {
+      "value": "#f4ec80",
+      "type": "color"
     }
   }
 }
