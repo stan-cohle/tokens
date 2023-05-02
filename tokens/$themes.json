@@ -4766,5 +4766,33 @@
       "theme.interactive.default.subtle-active": "S:4c89eb58aa631e28b1e1f7700874e3e3952c51c1,",
       "theme.interactive.default.subtle-selected": "S:f0de945b7976aabc052be69111b26fba8fbce9c9,"
     }
+  },
+  {
+    "id": "8cbe97dbe5fafeb37b1dc699f45c3c2ac378d5a5",
+    "name": "EaseMyTrip",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "enabled",
+      "semantic/brand-colors": "source",
+      "semantic/neutral-colors": "enabled",
+      "semantic/generic-colors": "enabled",
+      "semantic/typography": "source",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/easemytrip": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

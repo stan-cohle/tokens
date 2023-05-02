@@ -1,44 +1,10 @@
 {
   "base": {
-    "primary": {
-      "100": {
-        "value": "{colors.mango-tango.100}",
-        "type": "color"
-      },
-      "200": {
-        "value": "{colors.mango-tango.200}",
-        "type": "color"
-      },
-      "300": {
-        "value": "{colors.mango-tango.300}",
-        "type": "color"
-      },
-      "400": {
-        "value": "{colors.mango-tango.400}",
-        "type": "color"
-      },
-      "500": {
-        "value": "{colors.mango-tango.500}",
-        "type": "color"
-      },
-      "600": {
-        "value": "{colors.mango-tango.500}",
-        "type": "color"
-      },
-      "700": {
-        "value": "{colors.mango-tango.700}",
-        "type": "color"
-      },
-      "800": {
-        "value": "{colors.mango-tango.800}",
-        "type": "color"
-      },
-      "900": {
-        "value": "{colors.mango-tango.1000}",
-        "type": "color"
-      }
-    },
     "success": {
+      "50": {
+        "value": "{core.color.jade.50}",
+        "type": "color"
+      },
       "100": {
         "value": "{core.color.jade.100}",
         "type": "color"
@@ -74,88 +40,76 @@
       "900": {
         "value": "{core.color.jade.900}",
         "type": "color"
-      }
-    },
-    "other": {
-      "gradient-light": {
-        "value": "linear-gradient(90deg, {colors.other.geyser} 0%, {colors.other.mabel} 100%)",
+      },
+      "1000": {
+        "value": "{core.color.jade.1000}",
         "type": "color"
       },
-      "gradient-dark": {
-        "value": "linear-gradient(90deg, {colors.other.sky-blue} 0%, {colors.other.malibu} 100%)",
+      "1100": {
+        "value": "{core.color.jade.1100}",
         "type": "color"
       }
-    }
-  },
-  "presets": {
-    "header": {
-      "value": "{theme.bg.primary}",
-      "type": "color"
     },
-    "subheader": {
-      "value": "{base.other.gradient-dark}",
-      "type": "color"
-    },
-    "footer": {
-      "value": "#333333",
-      "type": "color"
-    },
-    "controls": {
-      "value": "{base.info.600}",
-      "type": "color"
-    },
-    "link": {
-      "value": "{base.info.600}",
-      "type": "color"
-    }
-  },
-  "colors": {
-    "mango-tango": {
+    "accent": {
+      "50": {
+        "value": "{base.info.50}",
+        "type": "color"
+      },
       "100": {
-        "value": "#FEF4F3",
+        "value": "{base.info.100}",
         "type": "color"
       },
       "200": {
-        "value": "#FBD7D1",
+        "value": "{base.info.200}",
         "type": "color"
       },
       "300": {
-        "value": "#F9B9AD",
+        "value": "{base.info.300}",
         "type": "color"
       },
       "400": {
-        "value": "#F79984",
+        "value": "{base.info.400}",
         "type": "color"
       },
       "500": {
-        "value": "#F6754D",
+        "value": "{base.info.500}",
         "type": "color"
       },
       "600": {
-        "value": "#EF6614",
+        "value": "{base.info.600}",
         "type": "color"
       },
       "700": {
-        "value": "#E25B18",
+        "value": "{base.info.700}",
         "type": "color"
       },
       "800": {
-        "value": "#BC4F26",
+        "value": "{base.info.800}",
         "type": "color"
       },
       "900": {
-        "value": "#9C411E",
+        "value": "{base.info.900}",
         "type": "color"
       },
       "1000": {
-        "value": "#7D3216",
+        "value": "{base.info.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{base.info.1100}",
         "type": "color"
       }
     },
-    "other": {
-      "sky-blue": {
-        "value": "#2f80ed",
-        "type": "color"
+    "easemytrip": {
+      "gradient": {
+        "gradient-light": {
+          "value": "linear-gradient(90deg, {base.easemytrip.geyser} 0%, {base.easemytrip.mabel} 100%)",
+          "type": "color"
+        },
+        "gradient-dark": {
+          "value": "linear-gradient(90deg, {base.info.600} 0%, {base.easemytrip.malibu} 100%)",
+          "type": "color"
+        }
       },
       "malibu": {
         "value": "#56ccf2",
@@ -172,6 +126,126 @@
       "mabel": {
         "value": "#d8f2ff",
         "type": "color"
+      },
+      "mango-tango": {
+        "value": "#EF6614",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "presets": {
+      "header": {
+        "value": "{theme.bg.primary}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{base.easemytrip.gradient.gradient-dark}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "#333333",
+        "type": "color"
+      }
+    },
+    "interactive": {
+      "default": {
+        "normal": {
+          "value": "{base.info.600}",
+          "type": "color"
+        }
+      },
+      "form": {
+        "border": {
+          "active": {
+            "value": "{theme.border.info}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "action": {
+      "link": {
+        "normal": {
+          "value": "{base.info.600}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "normal": {
+          "value": "{base.easemytrip.mango-tango}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.easemytrip.mango-tango}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{base.easemytrip.mango-tango}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
+    },
+    "bg": {
+      "brand": {
+        "value": "{base.easemytrip.mango-tango}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.easemytrip.mango-tango}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.91",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "content": {
+      "brand": {
+        "value": "{base.easemytrip.mango-tango}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "brand": {
+        "value": "{base.easemytrip.mango-tango}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.easemytrip.mango-tango}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
       }
     }
   }
