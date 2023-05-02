@@ -45,15 +45,15 @@
       },
       "green-pea": {
         "600": {
-          "value": "#1F6935",
+          "value": "#288744",
           "type": "color"
         },
         "700": {
-          "value": "#1C6030",
+          "value": "#1f6935",
           "type": "color"
         },
         "800": {
-          "value": "#19562B",
+          "value": "#1c6030",
           "type": "color"
         }
       },
