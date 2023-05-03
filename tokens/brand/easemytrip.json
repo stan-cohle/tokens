@@ -50,7 +50,7 @@
         "type": "color"
       }
     },
-    "accent": {
+    "brand": {
       "50": {
         "value": "{base.info.50}",
         "type": "color"
@@ -171,7 +171,7 @@
           "type": "color"
         }
       },
-      "primary": {
+      "accent": {
         "normal": {
           "value": "{base.easemytrip.mango-tango}",
           "type": "color"
@@ -206,11 +206,19 @@
     },
     "bg": {
       "brand": {
-        "value": "{base.easemytrip.mango-tango}",
+        "value": "{theme.bg.info}",
         "type": "color"
       },
       "brand-subtle": {
+        "value": "{theme.bg.info-subtle}",
+        "type": "color"
+      },
+      "accent": {
         "value": "{base.easemytrip.mango-tango}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{theme.bg.accent}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -225,17 +233,29 @@
     },
     "content": {
       "brand": {
+        "value": "{theme.content.info}",
+        "type": "color"
+      },
+      "accent": {
         "value": "{base.easemytrip.mango-tango}",
         "type": "color"
       }
     },
     "border": {
       "brand": {
-        "value": "{base.easemytrip.mango-tango}",
+        "value": "{theme.border.info}",
         "type": "color"
       },
       "brand-subtle": {
+        "value": "{theme.border.info-subtle}",
+        "type": "color"
+      },
+      "accent": {
         "value": "{base.easemytrip.mango-tango}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{theme.border.accent}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

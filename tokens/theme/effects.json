@@ -217,7 +217,7 @@
             "y": "12",
             "blur": "8",
             "spread": "-8",
-            "color": "rgba({base.accent.700},{core.opacity.300})",
+            "color": "rgba({base.brand.700},{core.opacity.300})",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -354,7 +354,7 @@
             "y": "0",
             "blur": "0",
             "spread": "4",
-            "color": "rgba({base.accent.600}, {core.opacity.300})",
+            "color": "rgba({base.brand.600}, {core.opacity.300})",
             "type": "dropShadow"
           }
         ],

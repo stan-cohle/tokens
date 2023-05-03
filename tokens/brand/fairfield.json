@@ -193,7 +193,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.primary.hover}",
+          "value": "{theme.action.accent.hover}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {

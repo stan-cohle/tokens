@@ -99,11 +99,11 @@
         "type": "color"
       },
       "accent": {
-        "value": "{base.accent.600}",
+        "value": "{base.brand.600}",
         "type": "color"
       },
       "accent-subtle": {
-        "value": "{base.accent.100}",
+        "value": "{base.brand.100}",
         "type": "color"
       }
     },
@@ -163,7 +163,7 @@
       },
       "accent": {
         "type": "color",
-        "value": "{base.accent.600}"
+        "value": "{base.brand.600}"
       }
     },
     "border": {
@@ -237,11 +237,11 @@
       },
       "accent": {
         "type": "color",
-        "value": "{base.accent.600}"
+        "value": "{base.brand.600}"
       },
       "accent-subtle": {
         "type": "color",
-        "value": "{base.accent.300}"
+        "value": "{base.brand.300}"
       }
     },
     "action": {
@@ -265,15 +265,15 @@
       },
       "accent": {
         "normal": {
-          "value": "{base.accent.600}",
+          "value": "{base.brand.600}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.accent.700}",
+          "value": "{base.brand.700}",
           "type": "color"
         },
         "active": {
-          "value": "{base.accent.800}",
+          "value": "{base.brand.800}",
           "type": "color"
         },
         "on-accent": {
@@ -430,7 +430,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{theme.border.brand}",
+            "value": "{theme.border.accent}",
             "type": "color"
           },
           "danger": {
@@ -456,7 +456,7 @@
     },
     "presets": {
       "header": {
-        "value": "{theme.bg.brand-subtle}",
+        "value": "{theme.bg.accent-subtle}",
         "type": "color"
       },
       "subheader": {

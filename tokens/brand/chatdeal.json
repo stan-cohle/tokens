@@ -7,7 +7,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.primary.normal}",
+          "value": "{theme.action.accent.normal}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -20,7 +20,7 @@
           }
         },
         "active": {
-          "value": "{theme.action.primary.normal}",
+          "value": "{theme.action.accent.normal}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -67,15 +67,15 @@
       },
       "link": {
         "normal": {
-          "value": "{theme.action.primary.normal}",
+          "value": "{theme.action.accent.normal}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.primary.hover}",
+          "value": "{theme.action.accent.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.primary.hover}",
+          "value": "{theme.action.accent.hover}",
           "type": "color"
         }
       }
@@ -105,15 +105,15 @@
       },
       "default": {
         "normal": {
-          "value": "{theme.action.primary.normal}",
+          "value": "{theme.action.accent.normal}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.primary.hover}",
+          "value": "{theme.action.accent.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.primary.hover}",
+          "value": "{theme.action.accent.hover}",
           "type": "color"
         }
       }
