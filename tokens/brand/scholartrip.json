@@ -50,6 +50,56 @@
         "type": "color"
       }
     },
+    "accent": {
+      "50": {
+        "value": "{base.success.100}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{base.success.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.success.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.success.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.success.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.success.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.success.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.success.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.success.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.success.800}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{base.success.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{base.success.1100}",
+        "type": "color"
+      }
+    },
     "scholartrip": {
       "jade": {
         "value": "#23A978",
@@ -253,7 +303,7 @@
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{theme.bg.accent-subtle}",
+        "value": "{theme.bg.brand}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -310,11 +360,11 @@
         }
       },
       "info": {
-        "value": "{theme.bg.accent-subtle}",
+        "value": "{theme.bg.brand}",
         "type": "color"
       },
       "info-highlight": {
-        "value": "{theme.bg.info-subtle}",
+        "value": "{theme.bg.info}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -327,7 +377,7 @@
         }
       },
       "info-subtle": {
-        "value": "{theme.bg.info-subtle}",
+        "value": "{theme.bg.info}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -344,7 +394,7 @@
         "type": "color"
       },
       "accent-subtle": {
-        "value": "{base.kayak.green.100}",
+        "value": "{theme.bg.accent}",
         "type": "color"
       }
     },
@@ -392,12 +442,8 @@
           }
         }
       },
-      "brand": {
-        "value": "{theme.bg.accent-subtle}",
-        "type": "color"
-      },
       "brand-subtle": {
-        "value": "{theme.border.accent}",
+        "value": "{theme.border.brand}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -408,14 +454,6 @@
             }
           }
         }
-      },
-      "accent": {
-        "value": "{base.kayak.green.500}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.border.success-subtle}",
-        "type": "color"
       }
     }
   }
