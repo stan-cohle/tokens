@@ -1,0 +1,106 @@
+{
+  "base": {
+    "other": {
+      "navy": {
+        "value": "#0C2340",
+        "type": "color"
+      },
+      "teal": {
+        "value": "#009499",
+        "type": "color"
+      },
+      "glacier": {
+        "value": "#87b2d8",
+        "type": "color"
+      },
+      "moonstone": {
+        "value": "#6da1cf",
+        "type": "color"
+      },
+      "salmon": {
+        "value": "#f47a6a",
+        "type": "color"
+      },
+      "sunset": {
+        "value": "#f25c49",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "primary": {
+      "tone": {
+        "value": "{base.other.sunset}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{base.other.sunset}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{base.other.salmon}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "rgba({base.other.salmon}, 0.8)",
+        "type": "color"
+      },
+      "muted": {
+        "value": "rgba({base.other.salmon}, 0.4)",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "rgba({base.other.salmon}, 0.16)",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "inverse-primary": {
+        "value": "{base.other.navy}",
+        "type": "color"
+      }
+    }
+  },
+  "presets": {
+    "header": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    },
+    "footer": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    },
+    "subheader": {
+      "value": "{base.other.moonstone}",
+      "type": "color"
+    },
+    "link": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    },
+    "controls": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    },
+    "form": {
+      "value": "rgba({base.other.navy}, 0.8)",
+      "type": "color"
+    }
+  },
+  "font-family": {
+    "helvetica": {
+      "value": "Helvetica Now Display",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "{font-family.helvetica}",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "semi-bold-secondary": {
+      "value": "{font-weight.bold}",
+      "type": "fontWeights"
+    }
+  }
+}

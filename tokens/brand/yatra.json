@@ -1,0 +1,295 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "value": "{base.red.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{base.red.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{base.red.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{base.red.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.red.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{base.red.100}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "dark": {
+        "value": "{base.blue.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{base.blue.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{base.blue.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{base.blue.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.blue.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.blue.100}",
+        "type": "color"
+      }
+    }
+  },
+  "presets": {
+    "header": {
+      "value": "{colors.basic.white}",
+      "type": "color"
+    },
+    "link": {
+      "value": "{theme.info.tone}",
+      "type": "color"
+    },
+    "controls": {
+      "value": "{theme.info.default}",
+      "type": "color"
+    },
+    "subheader": {
+      "value": "{base.other.gradient}",
+      "type": "color"
+    },
+    "footer": {
+      "value": "{base.neutral.dark.900}",
+      "type": "color"
+    }
+  },
+  "base": {
+    "blue": {
+      "300": {
+        "value": "#228ee9",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.3",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "400": {
+        "value": "#228ee9",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.2",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "500": {
+        "value": "#228ee9",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "600": {
+        "value": "#228ee9",
+        "type": "color"
+      },
+      "700": {
+        "value": "#228ee9",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "800": {
+        "value": "#228ee9",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "900": {
+        "value": "#228ee9",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.3",
+              "space": "hsl"
+            }
+          }
+        }
+      }
+    },
+    "neutral": {
+      "light": {
+        "100": {
+          "value": "{colors.grey.light.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{colors.grey.light.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{colors.grey.light.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{colors.grey.light.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{colors.grey.light.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{colors.grey.light.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{colors.grey.light.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{colors.dolphin.light.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{colors.grey.light.900}",
+          "type": "color"
+        }
+      },
+      "dark": {
+        "100": {
+          "value": "{colors.grey.dark.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{colors.grey.dark.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{colors.grey.dark.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{colors.grey.dark.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{colors.grey.dark.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{colors.grey.dark.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{colors.grey.dark.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{colors.grey.dark.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{colors.grey.dark.900}",
+          "type": "color"
+        }
+      }
+    },
+    "red": {
+      "100": {
+        "value": "#FCE4E3",
+        "type": "color"
+      },
+      "500": {
+        "value": "#F34F4F",
+        "type": "color"
+      },
+      "600": {
+        "value": "#D64443",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ce2d2d",
+        "type": "color"
+      },
+      "800": {
+        "value": "#bd2a29",
+        "type": "color"
+      }
+    },
+    "other": {
+      "gradient": {
+        "value": "linear-gradient(90deg, #B7243A 0%, #43264E 100%);",
+        "type": "color",
+        "description": "Subheader gradient"
+      }
+    }
+  },
+  "font-family": {
+    "secondary": {
+      "value": "Rubik",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "semi-bold-secondary": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    }
+  },
+  "layout": {
+    "footer": {
+      "title-font": {
+        "value": "{Base-Secondary.Heading.X-Small.Uppercase.Semi-bold}",
+        "type": "typography"
+      },
+      "title-color": {
+        "value": "{theme.primary.default}",
+        "type": "color"
+      }
+    }
+  }
+}
