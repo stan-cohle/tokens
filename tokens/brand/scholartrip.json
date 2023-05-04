@@ -141,33 +141,19 @@
   },
   "theme": {
     "action": {
-      "accent": {
-        "normal": {
-          "value": "{theme.action.success.normal}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.success.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{theme.action.success.active}",
-          "type": "color"
-        }
-      },
       "primary": {
         "normal": {
           "value": "{base.scholartrip.mariner}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.accent.normal}",
+          "value": "{theme.action.primary.normal}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "mix",
-                "value": "{semantic.color.modifiers.mix-delta}",
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
                 "space": "lch",
                 "color": "{theme.generic.white}"
               }
@@ -175,13 +161,13 @@
           }
         },
         "active": {
-          "value": "{theme.action.accent.normal}",
+          "value": "{theme.action.primary.normal}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
-                "type": "mix",
-                "value": "{semantic.color.modifiers.mix-delta}",
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
                 "space": "lch",
                 "color": "{theme.generic.black}"
               }
@@ -225,23 +211,19 @@
     "interactive": {
       "default": {
         "normal": {
-          "value": "{theme.action.accent.normal}",
+          "value": "{theme.action.primary.normal}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.accent.hover}",
+          "value": "{theme.action.primary.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.accent.hover}",
-          "type": "color"
-        },
-        "selected": {
-          "value": "{theme.action.accent.normal}",
+          "value": "{theme.action.primary.active}",
           "type": "color"
         },
         "subtle-normal": {
-          "value": "{theme.bg.accent-subtle}",
+          "value": "{theme.bg.brand-subtle}",
           "type": "color"
         },
         "subtle-hover": {
@@ -371,7 +353,7 @@
             "modify": {
               "type": "lighten",
               "value": "0.76",
-              "space": "lch"
+              "space": "hsl"
             }
           }
         }
@@ -383,19 +365,11 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.88",
-              "space": "lch"
+              "value": "0.92",
+              "space": "hsl"
             }
           }
         }
-      },
-      "accent": {
-        "value": "{base.success.600}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.bg.accent}",
-        "type": "color"
       }
     },
     "content": {
@@ -413,10 +387,6 @@
       },
       "brand": {
         "value": "{base.scholartrip.mariner}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{base.success.600}",
         "type": "color"
       }
     },
@@ -442,6 +412,10 @@
           }
         }
       },
+      "brand": {
+        "value": "{base.scholartrip.mariner}",
+        "type": "color"
+      },
       "brand-subtle": {
         "value": "{theme.border.brand}",
         "type": "color",
@@ -449,7 +423,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.6",
+              "value": "0.68",
               "space": "lch"
             }
           }
