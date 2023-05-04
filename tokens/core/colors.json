@@ -1,16 +1,6 @@
 {
   "core": {
     "color": {
-      "generic": {
-        "white": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "black": {
-          "value": "#000000",
-          "type": "color"
-        }
-      },
       "orange": {
         "50": {
           "value": "#FFF5EB",
