@@ -163,7 +163,7 @@
       },
       "accent": {
         "type": "color",
-        "value": "{base.brand.600}"
+        "value": "{base.accent.600}"
       }
     },
     "border": {
@@ -430,7 +430,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{theme.border.accent}",
+            "value": "{theme.border.brand}",
             "type": "color"
           },
           "danger": {
@@ -456,7 +456,7 @@
     },
     "presets": {
       "header": {
-        "value": "{theme.bg.accent-subtle}",
+        "value": "{theme.bg.brand}",
         "type": "color"
       },
       "subheader": {
