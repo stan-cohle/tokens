@@ -16,25 +16,9 @@
         }
       }
     },
-    "interactive": {
-      "default": {
-        "normal": {
-          "value": "{base.info.700}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{base.info.800}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{base.info.900}",
-          "type": "color"
-        }
-      }
-    },
     "content": {
       "brand": {
-        "value": "{base.info.700}",
+        "value": "{base.brand.700}",
         "type": "color"
       }
     }
