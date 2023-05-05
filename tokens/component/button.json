@@ -6,9 +6,9 @@
           "text": {
             "value": {
               "paddingTop": "{comp.button.small.vert-padding}",
+              "paddingRight": "{comp.button.small.hor-padding}",
               "paddingBottom": "{comp.button.small.vert-padding}",
               "paddingLeft": "{comp.button.small.hor-padding}",
-              "paddingRight": "{comp.button.small.hor-padding}",
               "borderWidth": "{comp.button.small.border-width}",
               "borderRadius": "{comp.button.small.border-radius}",
               "itemSpacing": "{comp.button.no-spacing}"

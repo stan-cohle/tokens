@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "core/colors",
     "core/tokens",
+    "core/archive",
     "semantic/base-colors",
     "semantic/brand-colors",
     "semantic/neutral-colors",
@@ -39,7 +40,6 @@
     "brand/abenity",
     "brand/easemytrip",
     "brand/purdue",
-    "core/archive",
     "brand/monmouth",
     "brand/clemson",
     "brand/yatra",
