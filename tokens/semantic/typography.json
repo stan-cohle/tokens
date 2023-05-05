@@ -21,7 +21,7 @@
           "textCase": "{semantic.textCase.display}"
         },
         "type": "typography",
-        "description": "64 Base"
+        "description": "64"
       },
       "heavy": {
         "value": {
@@ -56,7 +56,7 @@
           "textCase": "{semantic.textCase.display}"
         },
         "type": "typography",
-        "description": "56 Base"
+        "description": "56"
       },
       "heavy": {
         "value": {
@@ -91,7 +91,7 @@
           "fontFamily": "{semantic.fontFamily.display}"
         },
         "type": "typography",
-        "description": "40 Base"
+        "description": "40"
       },
       "heavy": {
         "value": {
@@ -126,7 +126,7 @@
           "textCase": "{semantic.textCase.headline}"
         },
         "type": "typography",
-        "description": "32 Base"
+        "description": "32"
       },
       "heavy": {
         "value": {
@@ -161,7 +161,7 @@
           "textCase": "{semantic.textCase.headline}"
         },
         "type": "typography",
-        "description": "28 Base"
+        "description": "28"
       },
       "heavy": {
         "value": {
@@ -196,7 +196,7 @@
           "textCase": "{semantic.textCase.headline}"
         },
         "type": "typography",
-        "description": "24 Base"
+        "description": "24"
       },
       "heavy": {
         "value": {
@@ -231,7 +231,7 @@
           "textCase": "{semantic.textCase.title}"
         },
         "type": "typography",
-        "description": "20 Base"
+        "description": "20"
       },
       "heavy": {
         "value": {
@@ -301,7 +301,7 @@
           "textCase": "{semantic.textCase.title}"
         },
         "type": "typography",
-        "description": "16 Base"
+        "description": "16"
       },
       "heavy": {
         "value": {
@@ -336,7 +336,7 @@
           "textCase": "{semantic.textCase.title}"
         },
         "type": "typography",
-        "description": "14 Base"
+        "description": "14"
       },
       "heavy": {
         "value": {
@@ -360,7 +360,7 @@
           "textCase": "{semantic.textCase.upper}"
         },
         "type": "typography",
-        "description": "12 Base"
+        "description": "12"
       },
       "strong": {
         "value": {
@@ -371,7 +371,7 @@
           "textCase": "{semantic.textCase.upper}"
         },
         "type": "typography",
-        "description": "12 Base"
+        "description": "12"
       },
       "heavy": {
         "value": {
