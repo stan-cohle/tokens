@@ -203,44 +203,6 @@
           }
         }
       },
-      "label": {
-        "small": {
-          "value": {
-            "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.medium}",
-            "lineHeight": "{comp.button.small.icon-size}",
-            "fontSize": "{semantic.fontSize.text.sm}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.semi-bold}",
-            "lineHeight": "{comp.button.medium.icon-size}",
-            "fontSize": "{semantic.fontSize.text.sm}"
-          },
-          "type": "typography"
-        },
-        "large": {
-          "value": {
-            "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.semi-bold}",
-            "lineHeight": "{comp.button.large.icon-size}",
-            "fontSize": "{semantic.fontSize.text.md}"
-          },
-          "type": "typography"
-        },
-        "x-large": {
-          "value": {
-            "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.semi-bold}",
-            "lineHeight": "{comp.button.x-large.icon-size}",
-            "fontSize": "{semantic.fontSize.text.lg}"
-          },
-          "type": "typography"
-        }
-      },
       "small": {
         "hor-padding": {
           "value": "{semantic.spacing.medium}",
@@ -348,6 +310,46 @@
       "no-spacing": {
         "value": "{semantic.spacing.none}",
         "type": "spacing"
+      }
+    },
+    "_button": {
+      "label": {
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.medium}",
+            "lineHeight": "{comp.button.small.icon-size}",
+            "fontSize": "{semantic.fontSize.text.sm}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.semi-bold}",
+            "lineHeight": "{comp.button.medium.icon-size}",
+            "fontSize": "{semantic.fontSize.text.sm}"
+          },
+          "type": "typography"
+        },
+        "large": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.semi-bold}",
+            "lineHeight": "{comp.button.large.icon-size}",
+            "fontSize": "{semantic.fontSize.text.md}"
+          },
+          "type": "typography"
+        },
+        "x-large": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.semi-bold}",
+            "lineHeight": "{comp.button.x-large.icon-size}",
+            "fontSize": "{semantic.fontSize.text.lg}"
+          },
+          "type": "typography"
+        }
       }
     }
   }

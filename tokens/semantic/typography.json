@@ -1,6 +1,6 @@
 {
   "base": {
-    "Display-XLarge": {
+    "D1": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.display}",
@@ -35,7 +35,7 @@
         "description": "64"
       }
     },
-    "Display-Large": {
+    "D2": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.display}",
@@ -70,7 +70,7 @@
         "description": "56"
       }
     },
-    "Display-Medium": {
+    "D3": {
       "default": {
         "value": {
           "fontWeight": "{semantic.fontWeight.display.default}",
@@ -105,7 +105,7 @@
         "description": "40"
       }
     },
-    "Display-Small": {
+    "D4": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.display}",
@@ -140,7 +140,7 @@
         "description": "32"
       }
     },
-    "Display-XSmall": {
+    "D5": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.display}",
@@ -175,7 +175,7 @@
         "description": "28"
       }
     },
-    "T1": {
+    "H1": {
       "default": {
         "value": {
           "fontWeight": "{semantic.fontWeight.title.default}",
@@ -210,7 +210,7 @@
         "description": "24"
       }
     },
-    "T2": {
+    "H2": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.title}",
@@ -245,7 +245,7 @@
         "description": "20"
       }
     },
-    "T3": {
+    "H3": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.title}",
@@ -280,7 +280,7 @@
         "description": "18"
       }
     },
-    "T4": {
+    "H4": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.title}",
@@ -315,7 +315,7 @@
         "description": "16"
       }
     },
-    "T5": {
+    "H5": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.title}",
@@ -350,7 +350,7 @@
         "description": "14"
       }
     },
-    "T6": {
+    "H6": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.title}",
@@ -385,7 +385,7 @@
         "description": "12"
       }
     },
-    "Text-2XLarge": {
+    "Text 2XLarge": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.text}",
@@ -418,7 +418,7 @@
         "description": "20"
       }
     },
-    "Text-XLarge": {
+    "Text XLarge": {
       "default": {
         "value": {
           "fontFamily": "{semantic.fontFamily.text}",
@@ -450,7 +450,7 @@
         "description": "18"
       }
     },
-    "Text-Large": {
+    "Text Large": {
       "default": {
         "label": {
           "value": {
@@ -617,7 +617,7 @@
         }
       }
     },
-    "Text-Medium": {
+    "Text Medium": {
       "default": {
         "label": {
           "value": {
@@ -784,7 +784,7 @@
         }
       }
     },
-    "Text-Small": {
+    "Text Small": {
       "regular": {
         "default": {
           "value": {
@@ -918,7 +918,7 @@
         }
       }
     },
-    "Text-XSmall": {
+    "Text XSmall": {
       "regular": {
         "default": {
           "value": {
@@ -1008,7 +1008,7 @@
         }
       }
     },
-    "Text-2XSmall": {
+    "Text Tiny": {
       "regular": {
         "default": {
           "value": {
@@ -1098,7 +1098,7 @@
         }
       }
     },
-    "Text-3XSmall": {
+    "Text Micro": {
       "regular": {
         "default": {
           "value": {

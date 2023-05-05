@@ -19,6 +19,48 @@
           "type": "sizing"
         }
       },
+      "medium": {
+        "hor-padding": {
+          "value": "{semantic.spacing.small}",
+          "type": "spacing"
+        },
+        "vert-padding": {
+          "value": "{semantic.spacing.x-small}",
+          "type": "spacing"
+        },
+        "item-spacing": {
+          "value": "{semantic.spacing.x-small}",
+          "type": "spacing"
+        },
+        "icon-size": {
+          "value": "{semantic.size.icon.small}",
+          "type": "sizing"
+        }
+      },
+      "label": {
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.text}",
+            "fontWeight": "{semantic.fontWeight.medium}",
+            "lineHeight": "{comp.badge.small.icon-size}",
+            "fontSize": "{semantic.fontSize.disclaimer.md}",
+            "textCase": "{semantic.textCase.upper}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.text}",
+            "fontWeight": "{semantic.fontWeight.medium}",
+            "lineHeight": "{comp.badge.small.icon-size}",
+            "fontSize": "{semantic.fontSize.text.sm}",
+            "textCase": "{semantic.textCase.capitalize}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "_badge": {
       "layout": {
         "small": {
           "rect": {
@@ -59,46 +101,6 @@
             },
             "type": "composition"
           }
-        }
-      },
-      "medium": {
-        "hor-padding": {
-          "value": "{semantic.spacing.small}",
-          "type": "spacing"
-        },
-        "vert-padding": {
-          "value": "{semantic.spacing.x-small}",
-          "type": "spacing"
-        },
-        "item-spacing": {
-          "value": "{semantic.spacing.x-small}",
-          "type": "spacing"
-        },
-        "icon-size": {
-          "value": "{semantic.size.icon.small}",
-          "type": "sizing"
-        }
-      },
-      "label": {
-        "small": {
-          "value": {
-            "fontFamily": "{semantic.fontFamily.text}",
-            "fontWeight": "{semantic.fontWeight.medium}",
-            "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{semantic.fontSize.disclaimer.md}",
-            "textCase": "{semantic.textCase.upper}"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{semantic.fontFamily.text}",
-            "fontWeight": "{semantic.fontWeight.medium}",
-            "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{semantic.fontSize.text.sm}",
-            "textCase": ""
-          },
-          "type": "typography"
         }
       }
     }
