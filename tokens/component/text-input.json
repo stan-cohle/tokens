@@ -2,24 +2,24 @@
   "comp": {
     "input": {
       "label": {
-        "value": "{base.text.sm.regular.default}",
+        "value": "{typography.Text-Small.regular.default}",
         "type": "typography"
       },
       "entry": {
         "value": {
-          "fontFamily": "{font-family.body}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.text.lg.par}",
-          "fontSize": "{font-size.text.md}"
+          "fontFamily": "{semantic.fontFamily.body}",
+          "fontWeight": "{semantic.fontWeight.regular}",
+          "lineHeight": "{semantic.lineHeight.text.lg.par}",
+          "fontSize": "{semantic.fontSize.text.md}"
         },
         "type": "typography"
       },
       "error": {
-        "value": "{base.text.xs.regular.default}",
+        "value": "{typography.Text-XSmall.regular.default}",
         "type": "typography"
       },
       "helper": {
-        "value": "{base.text.xs.regular.default}",
+        "value": "{typography.Text-XSmall.regular.default}",
         "type": "typography"
       },
       "layout": {

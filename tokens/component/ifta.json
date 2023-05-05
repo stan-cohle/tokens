@@ -2,23 +2,23 @@
   "comp": {
     "ifta": {
       "label": {
-        "value": "{base.text.xs.regular.default}",
+        "value": "{typography.Text-XSmall.regular.default}",
         "type": "typography"
       },
       "entry": {
         "value": {
-          "fontFamily": "{font-family.inter}",
-          "fontWeight": "{font-weight.medium}",
-          "lineHeight": "{line-height.text.lg.default}",
+          "fontFamily": "{semantic.fontFamily.inter}",
+          "fontWeight": "{semantic.fontWeight.medium}",
+          "lineHeight": "{semantic.lineHeight.text.lg.default}",
           "fontSize": "15"
         },
         "type": "typography"
       },
       "placeholder": {
         "value": {
-          "fontFamily": "{font-family.inter}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.text.lg.default}",
+          "fontFamily": "{semantic.fontFamily.inter}",
+          "fontWeight": "{semantic.fontWeight.regular}",
+          "lineHeight": "{semantic.lineHeight.text.lg.default}",
           "fontSize": "15"
         },
         "type": "typography"

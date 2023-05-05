@@ -278,33 +278,33 @@
       "type": "fontFamilies"
     },
     "display": {
-      "value": "{font-family.primary}",
+      "value": "{semantic.fontFamily.primary}",
       "type": "fontFamilies"
     },
     "headline": {
-      "value": "{font-family.primary}",
+      "value": "{semantic.fontFamily.primary}",
       "type": "fontFamilies"
     },
     "title": {
-      "value": "{font-family.primary}",
+      "value": "{semantic.fontFamily.primary}",
       "type": "fontFamilies"
     }
   },
   "text-case": {
     "secondary": {
-      "value": "{text-case.upper}",
+      "value": "{semantic.textCase.upper}",
       "type": "textCase"
     },
     "display": {
-      "value": "{text-case.upper}",
+      "value": "{semantic.textCase.upper}",
       "type": "textCase"
     },
     "headline": {
-      "value": "{text-case.upper}",
+      "value": "{semantic.textCase.upper}",
       "type": "textCase"
     },
     "title": {
-      "value": "{text-case.upper}",
+      "value": "{semantic.textCase.upper}",
       "type": "textCase"
     }
   },

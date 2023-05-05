@@ -82,20 +82,20 @@
       "label": {
         "small": {
           "value": {
-            "fontFamily": "{font-family.body}",
-            "fontWeight": "{font-weight.medium}",
+            "fontFamily": "{semantic.fontFamily.body}",
+            "fontWeight": "{semantic.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{font-size.disclaimer.md}",
-            "textCase": "{text-case.upper}"
+            "fontSize": "{semantic.fontSize.disclaimer.md}",
+            "textCase": "{semantic.textCase.upper}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{font-family.body}",
-            "fontWeight": "{font-weight.medium}",
+            "fontFamily": "{semantic.fontFamily.body}",
+            "fontWeight": "{semantic.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{font-size.text.sm}",
+            "fontSize": "{semantic.fontSize.text.sm}",
             "textCase": ""
           },
           "type": "typography"

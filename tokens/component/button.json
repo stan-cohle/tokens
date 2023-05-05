@@ -206,37 +206,37 @@
       "label": {
         "small": {
           "value": {
-            "fontFamily": "{font-family.action}",
-            "fontWeight": "{font-weight.medium}",
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.medium}",
             "lineHeight": "{comp.button.small.icon-size}",
-            "fontSize": "{font-size.text.sm}"
+            "fontSize": "{semantic.fontSize.text.sm}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{font-family.action}",
-            "fontWeight": "{font-weight.semi-bold}",
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.medium.icon-size}",
-            "fontSize": "{font-size.text.sm}"
+            "fontSize": "{semantic.fontSize.text.sm}"
           },
           "type": "typography"
         },
         "large": {
           "value": {
-            "fontFamily": "{font-family.action}",
-            "fontWeight": "{font-weight.semi-bold}",
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.large.icon-size}",
-            "fontSize": "{font-size.text.md}"
+            "fontSize": "{semantic.fontSize.text.md}"
           },
           "type": "typography"
         },
         "x-large": {
           "value": {
-            "fontFamily": "{font-family.action}",
-            "fontWeight": "{font-weight.semi-bold}",
+            "fontFamily": "{semantic.fontFamily.action}",
+            "fontWeight": "{semantic.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.x-large.icon-size}",
-            "fontSize": "{font-size.text.lg}"
+            "fontSize": "{semantic.fontSize.text.lg}"
           },
           "type": "typography"
         }
