@@ -2,7 +2,7 @@
   "comp": {
     "ifta": {
       "label": {
-        "value": "{typography.Text-XSmall.regular.default}",
+        "value": "{base.Text-XSmall.regular.default}",
         "type": "typography"
       },
       "entry": {

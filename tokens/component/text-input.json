@@ -2,12 +2,12 @@
   "comp": {
     "input": {
       "label": {
-        "value": "{typography.Text-Small.regular.default}",
+        "value": "{base.Text-Small.regular.default}",
         "type": "typography"
       },
       "entry": {
         "value": {
-          "fontFamily": "{semantic.fontFamily.body}",
+          "fontFamily": "{semantic.fontFamily.text}",
           "fontWeight": "{semantic.fontWeight.regular}",
           "lineHeight": "{semantic.lineHeight.text.lg.par}",
           "fontSize": "{semantic.fontSize.text.md}"
@@ -15,11 +15,11 @@
         "type": "typography"
       },
       "error": {
-        "value": "{typography.Text-XSmall.regular.default}",
+        "value": "{base.Text-XSmall.regular.default}",
         "type": "typography"
       },
       "helper": {
-        "value": "{typography.Text-XSmall.regular.default}",
+        "value": "{base.Text-XSmall.regular.default}",
         "type": "typography"
       },
       "layout": {

@@ -294,12 +294,12 @@
   "comp": {
     "input": {
       "label": {
-        "value": "{typography.Text-Small.strong.default}",
+        "value": "{base.Text-Small.strong.default}",
         "type": "typography"
       },
       "entry": {
         "value": {
-          "fontFamily": "{semantic.fontFamily.body}",
+          "fontFamily": "{semantic.fontFamily.text}",
           "fontWeight": "{semantic.fontWeight.medium}",
           "lineHeight": "{semantic.lineHeight.text.lg.par}",
           "fontSize": "{semantic.fontSize.text.md}"
@@ -307,11 +307,11 @@
         "type": "typography"
       },
       "error": {
-        "value": "{typography.Text-XSmall.strong.default}",
+        "value": "{base.Text-XSmall.strong.default}",
         "type": "typography"
       },
       "helper": {
-        "value": "{typography.Text-XSmall.strong.default}",
+        "value": "{base.Text-XSmall.strong.default}",
         "type": "typography"
       }
     }

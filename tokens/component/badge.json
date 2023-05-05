@@ -82,7 +82,7 @@
       "label": {
         "small": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
+            "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
             "fontSize": "{semantic.fontSize.disclaimer.md}",
@@ -92,7 +92,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
+            "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
             "fontSize": "{semantic.fontSize.text.sm}",
