@@ -4576,12 +4576,6 @@
       "base.Text Large.heavy.label-upper": "S:cba3ea1618a044291e71843cf49cea151de222eb,",
       "base.Text Large.heavy.par": "S:6c990bd0b21578be75fe387aaa367838ebaea9ce,",
       "base.Text Large.heavy.par-under": "S:5cc596a223806c2d82c16f1b6fa8987d8d2e498d,",
-      "base.Text XSmall.regular.par": "S:3e0758689872e2bd94f4a49ba74bf0e90e76aac3,",
-      "base.Text XSmall.strong.par": "S:4f14307cc202952d84e0f5763d383c6b10342442,",
-      "base.Text Tiny.regular.par": "S:da5edbb593354a37a8b51b3328784ec58061dd53,",
-      "base.Text Tiny.strong.par": "S:23fa07c9af3f862076786f77dbed36bab1a04c1f,",
-      "base.Text Micro.regular.par": "S:567430b895bbe221ea3eced0b136552f4d3a0f8e,",
-      "base.Text Micro.strong.par": "S:a86064e05f6c57e47117b292d7ee315ed0d40eeb,",
       "theme.action.neutral.normal": "S:1de2031a116b3e6b352c9bbd53d3f0a4bc748271,",
       "theme.action.neutral.hover": "S:6869cc91b20e2ac398667e3ec26fdfc68b34d154,",
       "theme.action.neutral.active": "S:383f317011fe7e270f62ba07553132256aa9ed73,",
@@ -4628,7 +4622,13 @@
       "base.body.micro.strong.default": "S:643c4c001fbf42a08b9d4ae1215827268d1aef2c,",
       "base.body.micro.strong.link": "S:c323d6c2e5de6184d3715b5da4199e4606ca6c99,",
       "base.body.micro.strong.upper": "S:5f9d2c23cdc56490121e3aa66920b76bcc34d6e8,",
-      "base.body.micro.regular.upper": "S:996a23439f0d5e7a41c669f8346cfc5a683c2948,"
+      "base.body.micro.regular.upper": "S:996a23439f0d5e7a41c669f8346cfc5a683c2948,",
+      "base.paragraph.xsmall.regular.default": "S:3e0758689872e2bd94f4a49ba74bf0e90e76aac3,",
+      "base.paragraph.xsmall.strong.default": "S:4f14307cc202952d84e0f5763d383c6b10342442,",
+      "base.paragraph.tiny.strong.default": "S:23fa07c9af3f862076786f77dbed36bab1a04c1f,",
+      "base.paragraph.micro.regular": "S:567430b895bbe221ea3eced0b136552f4d3a0f8e,",
+      "base.paragraph.micro.strong": "S:a86064e05f6c57e47117b292d7ee315ed0d40eeb,",
+      "base.paragraph.tiny.regular.link": "S:da5edbb593354a37a8b51b3328784ec58061dd53,"
     }
   },
   {
@@ -5548,12 +5548,6 @@
       "base.Text Large.heavy.label-upper": "S:cba3ea1618a044291e71843cf49cea151de222eb,",
       "base.Text Large.heavy.par": "S:6c990bd0b21578be75fe387aaa367838ebaea9ce,",
       "base.Text Large.heavy.par-under": "S:5cc596a223806c2d82c16f1b6fa8987d8d2e498d,",
-      "base.Text XSmall.regular.par": "S:4119cf02a4f188212c9765cc9dfb1c137d76b9da,",
-      "base.Text XSmall.strong.par": "S:ee6975f9b99a337fab1d1ad214a0fd29eae401cf,",
-      "base.Text Tiny.regular.par": "S:41a6a6764d0b5dc37e4eda01ba9051475840b19e,",
-      "base.Text Tiny.strong.par": "S:96b143ca5a27bd4f59127f960eb967d52e3d6102,",
-      "base.Text Micro.regular.par": "S:842bc1893f3df6499b0437ac8bbab6cd89d23630,",
-      "base.Text Micro.strong.par": "S:265fad99fe293738a578cf59366c355ee9131028,",
       "comp.badge.label.small": "S:97a653727758fe9f680f8ad5cdc81536f73bd2c2,",
       "comp.badge.label.medium": "S:7339cab9b4cfe9b3283fad2a3c5c8e9042411b27,",
       "base.body.lg.regular.default": "S:18c56d00a939e571cde64b9a15bf1aa82a8f1783,",
@@ -5609,7 +5603,13 @@
       "base.body.micro.strong.default": "S:73a6fbf00fc4fa24954f50fe66e31eb64b5ef54c,",
       "base.body.micro.strong.link": "S:542105f64e3df58632902e3a78440ff943f42b4b,",
       "base.body.micro.strong.upper": "S:62a045c932dcacb1144fd0ddc7e5620470ec11fe,",
-      "base.body.micro.regular.upper": "S:196029c27a13ec69ec13e3e74a7ebd8021c6bbf8,"
+      "base.body.micro.regular.upper": "S:196029c27a13ec69ec13e3e74a7ebd8021c6bbf8,",
+      "base.paragraph.xsmall.regular.default": "S:4119cf02a4f188212c9765cc9dfb1c137d76b9da,",
+      "base.paragraph.xsmall.strong.default": "S:ee6975f9b99a337fab1d1ad214a0fd29eae401cf,",
+      "base.paragraph.tiny.strong.default": "S:96b143ca5a27bd4f59127f960eb967d52e3d6102,",
+      "base.paragraph.micro.regular": "S:842bc1893f3df6499b0437ac8bbab6cd89d23630,",
+      "base.paragraph.micro.strong": "S:265fad99fe293738a578cf59366c355ee9131028,",
+      "base.paragraph.tiny.regular.link": "S:41a6a6764d0b5dc37e4eda01ba9051475840b19e,"
     }
   }
 ]
