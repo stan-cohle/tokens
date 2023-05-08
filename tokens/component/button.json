@@ -317,7 +317,7 @@
         "small": {
           "value": {
             "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.medium}",
+            "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.button.small.icon-size}",
             "fontSize": "{semantic.fontSize.body.sm}"
           },
@@ -326,7 +326,7 @@
         "medium": {
           "value": {
             "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.semi-bold}",
+            "fontWeight": "{base.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.medium.icon-size}",
             "fontSize": "{semantic.fontSize.body.sm}"
           },
@@ -335,7 +335,7 @@
         "large": {
           "value": {
             "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.semi-bold}",
+            "fontWeight": "{base.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.large.icon-size}",
             "fontSize": "{semantic.fontSize.body.md}"
           },
@@ -344,7 +344,7 @@
         "x-large": {
           "value": {
             "fontFamily": "{semantic.fontFamily.action}",
-            "fontWeight": "{semantic.fontWeight.semi-bold}",
+            "fontWeight": "{base.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.x-large.icon-size}",
             "fontSize": "{semantic.fontSize.body.lg}"
           },

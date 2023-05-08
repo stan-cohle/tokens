@@ -40,18 +40,18 @@
       "label": {
         "small": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.text}",
-            "fontWeight": "{semantic.fontWeight.medium}",
+            "fontFamily": "{semantic.fontFamily.body}",
+            "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{semantic.fontSize.body.tiny}",
+            "fontSize": "{semantic.fontSize.body.2xs}",
             "textCase": "{semantic.textCase.upper}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.text}",
-            "fontWeight": "{semantic.fontWeight.medium}",
+            "fontFamily": "{semantic.fontFamily.body}",
+            "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
             "fontSize": "{semantic.fontSize.body.sm}",
             "textCase": "{semantic.textCase.capitalize}"

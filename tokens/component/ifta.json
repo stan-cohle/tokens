@@ -7,8 +7,8 @@
       },
       "entry": {
         "value": {
-          "fontFamily": "{semantic.fontFamily.inter}",
-          "fontWeight": "{semantic.fontWeight.medium}",
+          "fontFamily": "{base.fontFamily.inter}",
+          "fontWeight": "{base.fontWeight.medium}",
           "lineHeight": "{semantic.lineHeight.body.lg.default}",
           "fontSize": "15"
         },
@@ -16,8 +16,8 @@
       },
       "placeholder": {
         "value": {
-          "fontFamily": "{semantic.fontFamily.inter}",
-          "fontWeight": "{semantic.fontWeight.regular}",
+          "fontFamily": "{base.fontFamily.inter}",
+          "fontWeight": "{base.fontWeight.regular}",
           "lineHeight": "{semantic.lineHeight.body.lg.default}",
           "fontSize": "15"
         },

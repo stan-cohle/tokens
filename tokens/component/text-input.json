@@ -7,9 +7,9 @@
       },
       "entry": {
         "value": {
-          "fontFamily": "{semantic.fontFamily.text}",
-          "fontWeight": "{semantic.fontWeight.regular}",
-          "lineHeight": "{semantic.lineHeight.body.lg.par}",
+          "fontFamily": "{semantic.fontFamily.body}",
+          "fontWeight": "{base.fontWeight.regular}",
+          "lineHeight": "{semantic.lineHeight.body.lg.paragraph}",
           "fontSize": "{semantic.fontSize.body.md}"
         },
         "type": "typography"

@@ -299,9 +299,9 @@
       },
       "entry": {
         "value": {
-          "fontFamily": "{semantic.fontFamily.text}",
-          "fontWeight": "{semantic.fontWeight.medium}",
-          "lineHeight": "{semantic.lineHeight.body.lg.par}",
+          "fontFamily": "{semantic.fontFamily.body}",
+          "fontWeight": "{base.fontWeight.medium}",
+          "lineHeight": "{semantic.lineHeight.body.lg.paragraph}",
           "fontSize": "{semantic.fontSize.body.md}"
         },
         "type": "typography"

@@ -3,8 +3,7 @@
     "id": "25779fe62b26ef390570a8522fa9e3807ae318e3",
     "name": "Core Colors",
     "selectedTokenSets": {
-      "core/colors": "enabled",
-      "archive": "disabled"
+      "core/colors": "enabled"
     },
     "$figmaStyleReferences": {
       "core.color.generic.white": "S:ed81915eebc81058f35ce841a6efd6bc17c764dd,",
@@ -285,8 +284,7 @@
       "semantic/base-colors": "enabled",
       "semantic/neutral-colors": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled",
-      "archive": "disabled"
+      "semantic/generic-colors": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -313,8 +311,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "semantic/generic-colors": "enabled",
-      "archive": "disabled"
+      "semantic/generic-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:3a65b0133a0eb605ce7814181d93c7453ba7fec7,",
@@ -547,8 +544,7 @@
       "component/alert": "source",
       "brand/hop2": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled",
-      "archive": "disabled"
+      "semantic/generic-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "base.brand.50": "S:1d26852c22de2be848bf12db374660e51a61dc7a,",
@@ -838,8 +834,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/kayak": "enabled",
-      "semantic/generic-colors": "enabled",
-      "archive": "disabled"
+      "semantic/generic-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.secondary": "S:da82faad4c415e6e5571ab5149959569e0fcce5b,",
@@ -1094,8 +1089,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/chatdeal": "enabled",
-      "semantic/brand-colors": "source",
-      "archive": "disabled"
+      "semantic/brand-colors": "source"
     },
     "$figmaStyleReferences": {
       "theme.shadow.light.card": "S:a420bdf034fcdfca3919ae20a5ca3c97a54ef319,",
@@ -1363,8 +1357,7 @@
       "component/alert": "source",
       "brand/wowfare": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "archive": "disabled"
+      "semantic/brand-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:b3cec805e1150e89958c11a7277c66839547e0c0,",
@@ -1653,8 +1646,7 @@
       "component/alert": "source",
       "brand/aran-grant": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "archive": "disabled"
+      "semantic/brand-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:7eedd45d71dc45e548d7019f423e5d3c38fbff7a,",
@@ -1949,8 +1941,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/gurufare": "enabled",
-      "archive": "disabled"
+      "brand/gurufare": "enabled"
     },
     "$figmaStyleReferences": {
       "base.info.50": "S:3a30f31811a463f8beffdcd45eda906149cdafc4,",
@@ -2232,8 +2223,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/luxmiles": "enabled",
-      "semantic/brand-colors": "source",
-      "archive": "disabled"
+      "semantic/brand-colors": "source"
     },
     "$figmaStyleReferences": {
       "comp.ifta.label": "S:04b51926f19f616b4935fdfcbddd286970f35b30,",
@@ -2508,8 +2498,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/underpricer": "enabled",
-      "archive": "disabled"
+      "brand/underpricer": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.presets.header": "S:2f3a414bfdf0a4e09cbb69031d2810ea5efddb7d,",
@@ -2768,8 +2757,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/myquility": "enabled",
-      "archive": "disabled"
+      "brand/myquility": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.ifta.label": "S:9ffce8164e8493d421bddf4f005b57e95ae56db7,",
@@ -3053,8 +3041,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/allsavings": "enabled",
-      "archive": "disabled"
+      "brand/allsavings": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.shadow.light.card": "S:fef64e0564aa3e55d3d58eab453ee55f97ca24b6,",
@@ -3318,8 +3305,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/volunteerhq": "enabled",
-      "archive": "disabled"
+      "brand/volunteerhq": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.shadow.light.card": "S:91994266dd870eb6fb3bae91f0ea79df83f42723,",
@@ -3593,8 +3579,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/abenity": "enabled",
-      "archive": "disabled"
+      "brand/abenity": "enabled"
     },
     "$figmaStyleReferences": {
       "base.info.50": "S:9f13a59f8dc2ec3140b26d7ca2884f42f0668f3b,",
@@ -3883,8 +3868,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/easemytrip": "enabled",
-      "archive": "disabled"
+      "brand/easemytrip": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.ifta.label": "S:e7b77db60c51b7a28f585edb004de19640f6064f,",
@@ -4164,8 +4148,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "archive": "disabled"
+      "semantic/brand-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
@@ -4746,8 +4729,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled",
-      "archive": "disabled"
+      "brand/scholartrip": "enabled"
     },
     "$figmaStyleReferences": {
       "base.neutral.50": "S:d18dc6c9f916a84166b60360e4255a5db0f502d5,",
@@ -4996,8 +4978,7 @@
       "brand/ovago_old": "enabled",
       "brand/ovago": "enabled",
       "semantic/brand-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "archive": "disabled"
+      "semantic/generic-colors": "enabled"
     },
     "$figmaStyleReferences": {
       "theme.action.primary.normal": "S:5647efc32ec9f10e98c77c161191664f0f7464b9,",
@@ -5288,8 +5269,7 @@
       "component/alert": "source",
       "brand/priceline": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "source",
-      "archive": "disabled"
+      "semantic/brand-colors": "source"
     },
     "$figmaStyleReferences": {
       "theme.bg.success-highlight": "S:a1d3373083e93fa5b8fd5fdfa0e784304a4094fc,",
@@ -5585,8 +5565,7 @@
       "component/switch": "source",
       "component/checkbox": "source",
       "component/radio": "source",
-      "component/alert": "source",
-      "archive": "disabled"
+      "component/alert": "source"
     },
     "$figmaStyleReferences": {
       "base.D1.default": "S:dc7756af671f629e70e9611f827fea4a6a689ef8,",
