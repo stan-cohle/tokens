@@ -211,7 +211,7 @@
       },
       "display": {
         "regular": {
-          "value": "{base.fontWeight.medium} }",
+          "value": "{base.fontWeight.medium}",
           "type": "fontWeights"
         },
         "strong": {

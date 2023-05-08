@@ -516,6 +516,22 @@
         "value": "{base.fontFamily.montserrat}",
         "type": "fontFamilies"
       }
+    },
+    "fontWeight": {
+      "body": {
+        "regular": {
+          "value": "{base.fontWeight.medium}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.fontWeight.semi-bold}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.fontWeight.bold}",
+          "type": "fontWeights"
+        }
+      }
     }
   }
 }

@@ -112,7 +112,7 @@
             "fontWeight": "{semantic.fontWeight.display.regular}",
             "lineHeight": "{semantic.lineHeight.display.md}",
             "fontSize": "{semantic.fontSize.display.md}",
-            "textCase": "{semantic.textCase.headline}",
+            "textCase": "{semantic.textCase.display}",
             "fontFamily": "{semantic.fontFamily.display}"
           },
           "type": "typography",
@@ -123,7 +123,7 @@
             "fontWeight": "{semantic.fontWeight.display.strong}",
             "lineHeight": "{semantic.lineHeight.display.md}",
             "fontSize": "{semantic.fontSize.display.md}",
-            "textCase": "{semantic.textCase.headline}",
+            "textCase": "{semantic.textCase.display}",
             "fontFamily": "{semantic.fontFamily.display}"
           },
           "type": "typography",
@@ -135,7 +135,7 @@
             "fontWeight": "{semantic.fontWeight.display.heavy}",
             "lineHeight": "{semantic.lineHeight.display.md}",
             "fontSize": "{semantic.fontSize.display.md}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
           "description": "40"
@@ -148,7 +148,7 @@
             "fontWeight": "{semantic.fontWeight.display.regular}",
             "lineHeight": "{semantic.lineHeight.display.sm}",
             "fontSize": "{semantic.fontSize.display.sm}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
           "description": "32"
@@ -159,7 +159,7 @@
             "fontWeight": "{semantic.fontWeight.display.strong}",
             "lineHeight": "{semantic.lineHeight.display.sm}",
             "fontSize": "{semantic.fontSize.display.sm}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
           "description": "32"
@@ -169,7 +169,7 @@
             "fontWeight": "{semantic.fontWeight.display.heavy}",
             "lineHeight": "{semantic.lineHeight.display.sm}",
             "fontSize": "{semantic.fontSize.display.sm}",
-            "textCase": "{semantic.textCase.headline}",
+            "textCase": "{semantic.textCase.display}",
             "fontFamily": "{semantic.fontFamily.display}"
           },
           "type": "typography",
@@ -185,7 +185,7 @@
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.3xl}",
             "fontSize": "{semantic.fontSize.title.3xl}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "28"
@@ -196,7 +196,7 @@
             "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.3xl}",
             "fontSize": "{semantic.fontSize.title.3xl}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "28"
@@ -207,7 +207,7 @@
             "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.3xl}",
             "fontSize": "{semantic.fontSize.title.3xl}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "28"
@@ -219,7 +219,7 @@
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.2xl}",
             "fontSize": "{semantic.fontSize.title.2xl}",
-            "textCase": "{semantic.textCase.headline}",
+            "textCase": "{semantic.textCase.title}",
             "fontFamily": "{semantic.fontFamily.title}"
           },
           "type": "typography",
@@ -231,7 +231,7 @@
             "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.2xl}",
             "fontSize": "{semantic.fontSize.title.2xl}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "24"
@@ -242,7 +242,7 @@
             "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.2xl}",
             "fontSize": "{semantic.fontSize.title.2xl}",
-            "textCase": "{semantic.textCase.headline}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "24"
@@ -395,7 +395,7 @@
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.xs}",
             "fontSize": "{semantic.fontSize.title.xs}",
-            "textCase": "{semantic.textCase.upper}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "12"
@@ -406,7 +406,7 @@
             "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.xs}",
             "fontSize": "{semantic.fontSize.title.xs}",
-            "textCase": "{semantic.textCase.upper}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "12"
@@ -417,7 +417,7 @@
             "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.xs}",
             "fontSize": "{semantic.fontSize.title.xs}",
-            "textCase": "{semantic.textCase.upper}"
+            "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
           "description": "12"
@@ -431,8 +431,7 @@
             "fontFamily": "{semantic.fontFamily.body}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.body.2xl}",
-            "fontSize": "{semantic.fontSize.body.2xl}",
-            "textCase": "{semantic.textCase.none}"
+            "fontSize": "{semantic.fontSize.body.2xl}"
           },
           "type": "typography",
           "description": "20"
