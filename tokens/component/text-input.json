@@ -1,6 +1,6 @@
 {
   "comp": {
-    "_input": {
+    "input": {
       "label": {
         "value": "{base.Text-Small.regular.default}",
         "type": "typography"
@@ -21,9 +21,7 @@
       "helper": {
         "value": "{base.Text-XSmall.regular.default}",
         "type": "typography"
-      }
-    },
-    "input": {
+      },
       "layout": {
         "medium": {
           "icon-lead": {

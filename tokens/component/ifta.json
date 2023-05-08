@@ -1,8 +1,8 @@
 {
   "comp": {
-    "_ifta": {
+    "ifta": {
       "label": {
-        "value": "{base.Text-XSmall.regular.default}",
+        "value": "{base.body.xs.regular.default}",
         "type": "typography"
       },
       "entry": {

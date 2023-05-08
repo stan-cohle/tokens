@@ -310,9 +310,7 @@
       "no-spacing": {
         "value": "{semantic.spacing.none}",
         "type": "spacing"
-      }
-    },
-    "_button": {
+      },
       "label": {
         "small": {
           "value": {

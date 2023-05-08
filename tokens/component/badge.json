@@ -58,9 +58,7 @@
           },
           "type": "typography"
         }
-      }
-    },
-    "_badge": {
+      },
       "layout": {
         "small": {
           "rect": {
