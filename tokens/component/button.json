@@ -310,8 +310,12 @@
       "no-spacing": {
         "value": "{semantic.spacing.none}",
         "type": "spacing"
-      },
-      "label": {
+      }
+    }
+  },
+  "typography": {
+    "component": {
+      "button": {
         "small": {
           "value": {
             "fontFamily": "{semantic.fontFamily.action}",
