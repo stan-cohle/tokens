@@ -182,7 +182,7 @@
         "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
-            "fontWeight": "{semantic.fontWeight.display.regular}",
+            "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.3xl}",
             "fontSize": "{semantic.fontSize.title.3xl}",
             "textCase": "{semantic.textCase.headline}"
@@ -193,7 +193,7 @@
         "strong": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
-            "fontWeight": "{semantic.fontWeight.display.strong}",
+            "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.3xl}",
             "fontSize": "{semantic.fontSize.title.3xl}",
             "textCase": "{semantic.textCase.headline}"
@@ -204,7 +204,7 @@
         "heavy": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
-            "fontWeight": "{semantic.fontWeight.display.heavy}",
+            "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.3xl}",
             "fontSize": "{semantic.fontSize.title.3xl}",
             "textCase": "{semantic.textCase.headline}"
@@ -1351,6 +1351,10 @@
       },
       "bold": {
         "value": "700",
+        "type": "fontWeights"
+      },
+      "extra-bold": {
+        "value": "800",
         "type": "fontWeights"
       }
     }
