@@ -1,27 +1,29 @@
 {
-  "comp": {
-    "ifta": {
-      "label": {
-        "value": "{base.text.xs.regular.default}",
-        "type": "typography"
-      },
-      "entry": {
-        "value": {
-          "fontFamily": "{font-family.inter}",
-          "fontWeight": "{font-weight.medium}",
-          "lineHeight": "{line-height.text.lg.default}",
-          "fontSize": "15"
+  "typography": {
+    "component": {
+      "ifta": {
+        "label": {
+          "value": "{typography.body.xs.regular.default}",
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "placeholder": {
-        "value": {
-          "fontFamily": "{font-family.inter}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.text.lg.default}",
-          "fontSize": "15"
+        "entry": {
+          "value": {
+            "fontFamily": "{base.fontFamily.inter}",
+            "fontWeight": "{base.fontWeight.medium}",
+            "lineHeight": "{semantic.lineHeight.body.lg.default}",
+            "fontSize": "15"
+          },
+          "type": "typography"
         },
-        "type": "typography"
+        "placeholder": {
+          "value": {
+            "fontFamily": "{base.fontFamily.inter}",
+            "fontWeight": "{base.fontWeight.regular}",
+            "lineHeight": "{semantic.lineHeight.body.lg.default}",
+            "fontSize": "15"
+          },
+          "type": "typography"
+        }
       }
     }
   }

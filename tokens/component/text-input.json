@@ -1,27 +1,33 @@
 {
+  "typography": {
+    "component": {
+      "input": {
+        "label": {
+          "value": "{typography.body.sm.regular.default}",
+          "type": "typography"
+        },
+        "entry": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.body}",
+            "fontWeight": "{semantic.fontWeight.body.regular}",
+            "lineHeight": "24",
+            "fontSize": "{semantic.fontSize.body.md}"
+          },
+          "type": "typography"
+        },
+        "error": {
+          "value": "{typography.body.xs.regular.default}",
+          "type": "typography"
+        },
+        "helper": {
+          "value": "{typography.body.xs.regular.default}",
+          "type": "typography"
+        }
+      }
+    }
+  },
   "comp": {
     "input": {
-      "label": {
-        "value": "{base.text.sm.regular.default}",
-        "type": "typography"
-      },
-      "entry": {
-        "value": {
-          "fontFamily": "{font-family.body}",
-          "fontWeight": "{font-weight.regular}",
-          "lineHeight": "{line-height.text.lg.par}",
-          "fontSize": "{font-size.text.md}"
-        },
-        "type": "typography"
-      },
-      "error": {
-        "value": "{base.text.xs.regular.default}",
-        "type": "typography"
-      },
-      "helper": {
-        "value": "{base.text.xs.regular.default}",
-        "type": "typography"
-      },
       "layout": {
         "medium": {
           "icon-lead": {

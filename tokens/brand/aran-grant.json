@@ -272,43 +272,31 @@
       }
     }
   },
-  "font-family": {
-    "secondary": {
-      "value": "Oswald",
-      "type": "fontFamilies"
-    },
-    "display": {
-      "value": "{font-family.primary}",
-      "type": "fontFamilies"
-    },
-    "headline": {
-      "value": "{font-family.primary}",
-      "type": "fontFamilies"
-    },
-    "title": {
-      "value": "{font-family.primary}",
-      "type": "fontFamilies"
-    }
-  },
-  "text-case": {
-    "secondary": {
-      "value": "{text-case.upper}",
-      "type": "textCase"
-    },
-    "display": {
-      "value": "{text-case.upper}",
-      "type": "textCase"
-    },
-    "headline": {
-      "value": "{text-case.upper}",
-      "type": "textCase"
-    },
-    "title": {
-      "value": "{text-case.upper}",
-      "type": "textCase"
-    }
-  },
   "semantic": {
+    "fontFamily": {
+      "secondary": {
+        "value": "Oswald",
+        "type": "fontFamilies"
+      },
+      "display": {
+        "value": "{semantic.fontFamily.secondary}",
+        "type": "fontFamilies"
+      },
+      "title": {
+        "value": "{semantic.fontFamily.secondary}",
+        "type": "fontFamilies"
+      }
+    },
+    "textCase": {
+      "display": {
+        "value": "{semantic.textCase.upper}",
+        "type": "textCase"
+      },
+      "title": {
+        "value": "{semantic.textCase.upper}",
+        "type": "textCase"
+      }
+    },
     "border-radius": {
       "action": {
         "sm": {
@@ -318,6 +306,36 @@
         "md": {
           "value": "{core.border-radius.50}",
           "type": "borderRadius"
+        }
+      }
+    },
+    "fontWeight": {
+      "display": {
+        "regular": {
+          "value": "{base.fontWeight.regular}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.fontWeight.medium}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.fontWeight.semi-bold}",
+          "type": "fontWeights"
+        }
+      },
+      "title": {
+        "regular": {
+          "value": "{base.fontWeight.regular}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.fontWeight.medium}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.fontWeight.semi-bold}",
+          "type": "fontWeights"
         }
       }
     }

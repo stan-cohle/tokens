@@ -292,27 +292,13 @@
       }
     }
   },
-  "font-family": {
-    "montserrat": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
-    },
-    "primary": {
-      "value": "{font-family.montserrat}",
-      "type": "fontFamilies"
-    },
-    "secondary": {
-      "value": "{font-family.montserrat}",
-      "type": "fontFamilies"
-    }
-  },
-  "font-weight": {
-    "semi-bold": {
-      "value": "SemiBold",
-      "type": "fontWeights"
-    }
-  },
   "base": {
+    "fontFamily": {
+      "montserrat": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      }
+    },
     "priceline": {
       "primary": {
         "light": {
@@ -520,6 +506,30 @@
         "shade": {
           "value": "#701b39",
           "type": "color"
+        }
+      }
+    }
+  },
+  "semantic": {
+    "fontFamily": {
+      "primary": {
+        "value": "{base.fontFamily.montserrat}",
+        "type": "fontFamilies"
+      }
+    },
+    "fontWeight": {
+      "body": {
+        "regular": {
+          "value": "{base.fontWeight.medium}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.fontWeight.semi-bold}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.fontWeight.bold}",
+          "type": "fontWeights"
         }
       }
     }

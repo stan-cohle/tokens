@@ -321,11 +321,11 @@
   "sys": {
     "font-family": {
       "title": {
-        "value": "{font-family.montserrat}",
+        "value": "{base.fontFamily.montserrat}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{font-family.inter}",
+        "value": "{base.fontFamily.inter}",
         "type": "fontFamilies"
       }
     }

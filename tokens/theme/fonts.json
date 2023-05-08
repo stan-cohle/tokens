@@ -2,129 +2,129 @@
   "theme": {
     "display": {
       "x-large": {
-        "value": "{base.display.xl.semi-bold}",
+        "value": "{base.Display-XLarge.strong}",
         "type": "typography",
         "description": "80 bold"
       },
       "large": {
-        "value": "{base.display.lg.semi-bold}",
+        "value": "{base.Display-Large.strong}",
         "type": "typography",
         "description": "72 bold"
       },
       "medium": {
-        "value": "{base.display.md.semi-bold}",
+        "value": "{base.Display-XLarge.strong}",
         "type": "typography",
         "description": "64 bold"
       },
       "small": {
-        "value": "{base.display.sm.semi-bold}",
+        "value": "{base.Display-Large.strong}",
         "type": "typography",
         "description": "56 semibold"
       }
     },
     "headline": {
       "2x-large": {
-        "value": "{base.headline.2xl.semi-bold}",
+        "value": "{base.Display-Medium.strong}",
         "type": "typography",
         "description": "48 semibold"
       },
       "x-large": {
-        "value": "{base.headline.xl.semi-bold}",
+        "value": "{base.Display-Medium.strong}",
         "type": "typography",
         "description": "48 semibold"
       },
       "large": {
-        "value": "{base.headline.lg.semi-bold}",
+        "value": "{base.Display-Small.strong}",
         "type": "typography",
         "description": "40 semibold"
       },
       "medium": {
-        "value": "{base.headline.md.semi-bold}",
+        "value": "{base.Display-XSmall.strong}",
         "type": "typography",
         "description": "32 semibold"
       },
       "small": {
-        "value": "{base.headline.sm.semi-bold}",
+        "value": "{base.T1.strong}",
         "type": "typography",
         "description": "28 semibold"
       }
     },
     "title": {
       "2X-Large": {
-        "value": "{base.title.2xl.semi-bold}",
+        "value": "{base.T2.strong}",
         "type": "typography",
         "description": "24 semibold"
       },
       "x-large": {
-        "value": "{base.title.xl.semi-bold}",
+        "value": "{base.T3.strong}",
         "type": "typography",
         "description": "24 semibold"
       },
       "large": {
-        "value": "{base.title.lg.semi-bold}",
+        "value": "{base.T4.strong}",
         "type": "typography",
         "description": "20 semibold"
       },
       "medium": {
-        "value": "{base.title.md.semi-bold}",
+        "value": "{base.T5.strong}",
         "type": "typography",
         "description": "18 semibold"
       },
       "x-small": {
-        "value": "{base.title.xs.semi-bold}",
+        "value": "{base.T6.heavy}",
         "type": "typography",
         "description": "16 semibold"
       }
     },
     "text": {
       "2xl": {
-        "value": "{base.text.2xl.semi-bold}",
+        "value": "{base.Text-2XLarge.heavy}",
         "type": "typography",
         "description": "14 semibold"
       },
       "xl": {
-        "value": "{base.text.xl.semi-bold}",
+        "value": "{base.Text-XLarge.heavy}",
         "type": "typography",
         "description": "14 semibold"
       },
       "lg": {
-        "value": "{base.text.lg.semi-bold.default}",
+        "value": "{base.Text-Large.heavy.label}",
         "type": "typography",
         "description": "14 semibold"
       },
       "md": {
-        "value": "{base.text.md.regular.default}",
+        "value": "{base.Text-Medium.default.label}",
         "type": "typography",
         "description": "13 regular"
       },
       "sm": {
-        "value": "{base.text.sm.regular.default}",
+        "value": "{base.Text-Small.regular.default}",
         "type": "typography",
         "description": "12 regular"
       },
       "xs": {
-        "value": "{base.text.xs.regular.default}",
+        "value": "{base.Text-XSmall.regular.default}",
         "type": "typography",
         "description": "12 regular"
       },
       "par": {
         "lg": {
-          "value": "{base.text.lg.regular.par}",
+          "value": "{base.Text-Large.default.par}",
           "type": "typography",
           "description": "16 regular"
         },
         "md": {
-          "value": "{base.text.md.regular.par}",
+          "value": "{base.Text-Medium.default.par}",
           "type": "typography",
           "description": "14 regular"
         },
         "sm": {
-          "value": "{base.text.sm.regular.par}",
+          "value": "{base.Text-Small.regular.par}",
           "type": "typography",
           "description": "13 regular"
         },
         "xs": {
-          "value": "{base.text.xs.regular.par}",
+          "value": "{base.Text-XSmall.regular.par}",
           "type": "typography",
           "description": "12 regular"
         }
@@ -132,12 +132,12 @@
     },
     "disclaimer": {
       "md": {
-        "value": "{base.disclaimer.md.regular.default}",
+        "value": "{base.Text-2XSmall.regular.default}",
         "type": "typography",
         "description": "11 regular"
       },
       "sm": {
-        "value": "{base.disclaimer.sm.regular.default}",
+        "value": "{base.Text-3XSmall.regular.default}",
         "type": "typography",
         "description": "11 regular"
       }

@@ -19,6 +19,24 @@
           "type": "sizing"
         }
       },
+      "medium": {
+        "hor-padding": {
+          "value": "{semantic.spacing.small}",
+          "type": "spacing"
+        },
+        "vert-padding": {
+          "value": "{semantic.spacing.x-small}",
+          "type": "spacing"
+        },
+        "item-spacing": {
+          "value": "{semantic.spacing.x-small}",
+          "type": "spacing"
+        },
+        "icon-size": {
+          "value": "{semantic.size.icon.small}",
+          "type": "sizing"
+        }
+      },
       "layout": {
         "small": {
           "rect": {
@@ -60,43 +78,29 @@
             "type": "composition"
           }
         }
-      },
-      "medium": {
-        "hor-padding": {
-          "value": "{semantic.spacing.small}",
-          "type": "spacing"
-        },
-        "vert-padding": {
-          "value": "{semantic.spacing.x-small}",
-          "type": "spacing"
-        },
-        "item-spacing": {
-          "value": "{semantic.spacing.x-small}",
-          "type": "spacing"
-        },
-        "icon-size": {
-          "value": "{semantic.size.icon.small}",
-          "type": "sizing"
-        }
-      },
-      "label": {
+      }
+    }
+  },
+  "typography": {
+    "component": {
+      "badge": {
         "small": {
           "value": {
-            "fontFamily": "{font-family.body}",
-            "fontWeight": "{font-weight.medium}",
+            "fontFamily": "{semantic.fontFamily.body}",
+            "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{font-size.disclaimer.md}",
-            "textCase": "{text-case.upper}"
+            "fontSize": "{semantic.fontSize.body.2xs}",
+            "textCase": "{semantic.textCase.upper}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{font-family.body}",
-            "fontWeight": "{font-weight.medium}",
+            "fontFamily": "{semantic.fontFamily.body}",
+            "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{font-size.text.sm}",
-            "textCase": ""
+            "fontSize": "{semantic.fontSize.body.sm}",
+            "textCase": "{semantic.textCase.capitalize}"
           },
           "type": "typography"
         }
