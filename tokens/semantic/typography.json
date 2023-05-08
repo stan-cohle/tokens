@@ -6,8 +6,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
-            "lineHeight": "{semantic.lineHeight.display.md}",
-            "fontSize": "{semantic.fontSize.display.md}",
+            "lineHeight": "{semantic.lineHeight.display.lg}",
+            "fontSize": "{semantic.fontSize.display.2xl}",
             "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
@@ -17,8 +17,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.strong}",
-            "lineHeight": "{semantic.lineHeight.display.md}",
-            "fontSize": "{semantic.fontSize.display.md}",
+            "lineHeight": "{semantic.lineHeight.display.lg}",
+            "fontSize": "{semantic.fontSize.display.2xl}",
             "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
@@ -28,8 +28,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.heavy}",
-            "lineHeight": "{semantic.lineHeight.display.md}",
-            "fontSize": "{semantic.fontSize.display.md}",
+            "lineHeight": "{semantic.lineHeight.display.lg}",
+            "fontSize": "{semantic.fontSize.display.2xl}",
             "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
@@ -41,8 +41,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
-            "lineHeight": "{semantic.lineHeight.display.sm}",
-            "fontSize": "{semantic.fontSize.display.sm}",
+            "lineHeight": "{semantic.lineHeight.display.md}",
+            "fontSize": "{semantic.fontSize.display.xl}",
             "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
@@ -52,8 +52,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.strong}",
-            "lineHeight": "{semantic.lineHeight.display.sm}",
-            "fontSize": "{semantic.fontSize.display.sm}",
+            "lineHeight": "{semantic.lineHeight.display.md}",
+            "fontSize": "{semantic.fontSize.display.xl}",
             "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
@@ -63,8 +63,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.heavy}",
-            "lineHeight": "{semantic.lineHeight.display.sm}",
-            "fontSize": "{semantic.fontSize.display.sm}",
+            "lineHeight": "{semantic.lineHeight.display.md}",
+            "fontSize": "{semantic.fontSize.display.xl}",
             "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
@@ -74,71 +74,71 @@
       "lg": {
         "default": {
           "value": {
+            "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
-            "lineHeight": "{semantic.lineHeight.headline.xl}",
-            "fontSize": "{semantic.fontSize.headline.xl}",
-            "textCase": "{semantic.textCase.headline}",
-            "fontFamily": "{semantic.fontFamily.display}"
+            "lineHeight": "{semantic.lineHeight.display.md}",
+            "fontSize": "{semantic.fontSize.display.xl}",
+            "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
-          "description": "40"
+          "description": "56"
         },
         "strong": {
           "value": {
+            "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.strong}",
-            "lineHeight": "{semantic.lineHeight.headline.xl}",
-            "fontSize": "{semantic.fontSize.headline.xl}",
-            "textCase": "{semantic.textCase.headline}",
-            "fontFamily": "{semantic.fontFamily.display}"
+            "lineHeight": "{semantic.lineHeight.display.md}",
+            "fontSize": "{semantic.fontSize.display.xl}",
+            "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
-          "description": "40"
+          "description": "56"
         },
         "heavy": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.heavy}",
-            "lineHeight": "{semantic.lineHeight.headline.xl}",
-            "fontSize": "{semantic.fontSize.headline.xl}",
-            "textCase": "{semantic.textCase.headline}"
+            "lineHeight": "{semantic.lineHeight.display.md}",
+            "fontSize": "{semantic.fontSize.display.xl}",
+            "textCase": "{semantic.textCase.display}"
           },
           "type": "typography",
-          "description": "40"
+          "description": "56"
         }
       },
       "md": {
         "default": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
-            "lineHeight": "{semantic.lineHeight.headline.lg}",
-            "fontSize": "{semantic.fontSize.headline.lg}",
-            "textCase": "{semantic.textCase.headline}"
-          },
-          "type": "typography",
-          "description": "32"
-        },
-        "strong": {
-          "value": {
-            "fontFamily": "{semantic.fontFamily.display}",
-            "fontWeight": "{semantic.fontWeight.display.strong}",
-            "lineHeight": "{semantic.lineHeight.headline.lg}",
-            "fontSize": "{semantic.fontSize.headline.lg}",
-            "textCase": "{semantic.textCase.headline}"
-          },
-          "type": "typography",
-          "description": "32"
-        },
-        "heavy": {
-          "value": {
-            "fontWeight": "{semantic.fontWeight.display.heavy}",
-            "lineHeight": "{semantic.lineHeight.headline.lg}",
-            "fontSize": "{semantic.fontSize.headline.lg}",
+            "lineHeight": "{semantic.lineHeight.title.xl}",
+            "fontSize": "{semantic.fontSize.display.md}",
             "textCase": "{semantic.textCase.headline}",
             "fontFamily": "{semantic.fontFamily.display}"
           },
           "type": "typography",
-          "description": "32"
+          "description": "40"
+        },
+        "strong": {
+          "value": {
+            "fontWeight": "{semantic.fontWeight.display.strong}",
+            "lineHeight": "{semantic.lineHeight.title.xl}",
+            "fontSize": "{semantic.fontSize.display.md}",
+            "textCase": "{semantic.textCase.headline}",
+            "fontFamily": "{semantic.fontFamily.display}"
+          },
+          "type": "typography",
+          "description": "40"
+        },
+        "heavy": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.display}",
+            "fontWeight": "{semantic.fontWeight.display.heavy}",
+            "lineHeight": "{semantic.lineHeight.title.xl}",
+            "fontSize": "{semantic.fontSize.display.md}",
+            "textCase": "{semantic.textCase.headline}"
+          },
+          "type": "typography",
+          "description": "40"
         }
       },
       "sm": {
@@ -146,8 +146,45 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
-            "lineHeight": "{semantic.lineHeight.headline.md}",
-            "fontSize": "{semantic.fontSize.headline.md}",
+            "lineHeight": "{semantic.lineHeight.title.lg}",
+            "fontSize": "{semantic.fontSize.display.sm}",
+            "textCase": "{semantic.textCase.headline}"
+          },
+          "type": "typography",
+          "description": "32"
+        },
+        "strong": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.display}",
+            "fontWeight": "{semantic.fontWeight.display.strong}",
+            "lineHeight": "{semantic.lineHeight.title.lg}",
+            "fontSize": "{semantic.fontSize.display.sm}",
+            "textCase": "{semantic.textCase.headline}"
+          },
+          "type": "typography",
+          "description": "32"
+        },
+        "heavy": {
+          "value": {
+            "fontWeight": "{semantic.fontWeight.display.heavy}",
+            "lineHeight": "{semantic.lineHeight.title.lg}",
+            "fontSize": "{semantic.fontSize.display.sm}",
+            "textCase": "{semantic.textCase.headline}",
+            "fontFamily": "{semantic.fontFamily.display}"
+          },
+          "type": "typography",
+          "description": "32"
+        }
+      }
+    },
+    "title": {
+      "3xl": {
+        "default": {
+          "value": {
+            "fontFamily": "{semantic.fontFamily.display}",
+            "fontWeight": "{semantic.fontWeight.display.regular}",
+            "lineHeight": "{semantic.lineHeight.title.md}",
+            "fontSize": "{semantic.fontSize.title.lg}",
             "textCase": "{semantic.textCase.headline}"
           },
           "type": "typography",
@@ -157,8 +194,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.strong}",
-            "lineHeight": "{semantic.lineHeight.headline.md}",
-            "fontSize": "{semantic.fontSize.headline.md}",
+            "lineHeight": "{semantic.lineHeight.title.md}",
+            "fontSize": "{semantic.fontSize.title.lg}",
             "textCase": "{semantic.textCase.headline}"
           },
           "type": "typography",
@@ -168,22 +205,20 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.heavy}",
-            "lineHeight": "{semantic.lineHeight.headline.md}",
-            "fontSize": "{semantic.fontSize.headline.md}",
+            "lineHeight": "{semantic.lineHeight.title.md}",
+            "fontSize": "{semantic.fontSize.title.lg}",
             "textCase": "{semantic.textCase.headline}"
           },
           "type": "typography",
           "description": "28"
         }
-      }
-    },
-    "title": {
+      },
       "2xl": {
         "default": {
           "value": {
             "fontWeight": "{semantic.fontWeight.title.regular}",
-            "lineHeight": "{semantic.lineHeight.headline.sm}",
-            "fontSize": "{semantic.fontSize.headline.sm}",
+            "lineHeight": "{semantic.lineHeight.title.sm}",
+            "fontSize": "{semantic.fontSize.title.sm}",
             "textCase": "{semantic.textCase.headline}",
             "fontFamily": "{semantic.fontFamily.title}"
           },
@@ -194,8 +229,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.strong}",
-            "lineHeight": "{semantic.lineHeight.headline.sm}",
-            "fontSize": "{semantic.fontSize.headline.sm}",
+            "lineHeight": "{semantic.lineHeight.title.sm}",
+            "fontSize": "{semantic.fontSize.title.sm}",
             "textCase": "{semantic.textCase.headline}"
           },
           "type": "typography",
@@ -205,8 +240,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.heavy}",
-            "lineHeight": "{semantic.lineHeight.headline.sm}",
-            "fontSize": "{semantic.fontSize.headline.sm}",
+            "lineHeight": "{semantic.lineHeight.title.sm}",
+            "fontSize": "{semantic.fontSize.title.sm}",
             "textCase": "{semantic.textCase.headline}"
           },
           "type": "typography",
@@ -219,7 +254,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.2xl}",
-            "fontSize": "{semantic.fontSize.title.2xl}",
+            "fontSize": "{semantic.fontSize.title.3xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -230,7 +265,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.2xl}",
-            "fontSize": "{semantic.fontSize.title.2xl}",
+            "fontSize": "{semantic.fontSize.title.3xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -241,7 +276,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.2xl}",
-            "fontSize": "{semantic.fontSize.title.2xl}",
+            "fontSize": "{semantic.fontSize.title.3xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -254,7 +289,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.xl}",
-            "fontSize": "{semantic.fontSize.title.xl}",
+            "fontSize": "{semantic.fontSize.title.2xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -265,7 +300,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.xl}",
-            "fontSize": "{semantic.fontSize.title.xl}",
+            "fontSize": "{semantic.fontSize.title.2xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -276,7 +311,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.xl}",
-            "fontSize": "{semantic.fontSize.title.xl}",
+            "fontSize": "{semantic.fontSize.title.2xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -289,7 +324,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.lg}",
-            "fontSize": "{semantic.fontSize.title.lg}",
+            "fontSize": "{semantic.fontSize.title.xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -300,7 +335,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.lg}",
-            "fontSize": "{semantic.fontSize.title.lg}",
+            "fontSize": "{semantic.fontSize.title.xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -311,7 +346,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.lg}",
-            "fontSize": "{semantic.fontSize.title.lg}",
+            "fontSize": "{semantic.fontSize.title.xl}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -324,7 +359,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.md}",
-            "fontSize": "{semantic.fontSize.title.md}",
+            "fontSize": "{semantic.fontSize.title.lg}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -335,7 +370,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.strong}",
             "lineHeight": "{semantic.lineHeight.title.md}",
-            "fontSize": "{semantic.fontSize.title.md}",
+            "fontSize": "{semantic.fontSize.title.lg}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -346,7 +381,7 @@
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.heavy}",
             "lineHeight": "{semantic.lineHeight.title.md}",
-            "fontSize": "{semantic.fontSize.title.md}",
+            "fontSize": "{semantic.fontSize.title.lg}",
             "textCase": "{semantic.textCase.title}"
           },
           "type": "typography",
@@ -395,8 +430,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
-            "lineHeight": "{semantic.lineHeight.text.2xl}",
-            "fontSize": "{semantic.fontSize.text.2xl}",
+            "lineHeight": "{semantic.lineHeight.body.2xl}",
+            "fontSize": "{semantic.fontSize.body.2xl}",
             "textCase": "{semantic.textCase.none}"
           },
           "type": "typography",
@@ -406,8 +441,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.title.strong}",
-            "lineHeight": "{semantic.lineHeight.text.2xl}",
-            "fontSize": "{semantic.fontSize.text.2xl}"
+            "lineHeight": "{semantic.lineHeight.body.2xl}",
+            "fontSize": "{semantic.fontSize.body.2xl}"
           },
           "type": "typography",
           "description": "20"
@@ -416,8 +451,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.title.heavy}",
-            "lineHeight": "{semantic.lineHeight.text.2xl}",
-            "fontSize": "{semantic.fontSize.text.2xl}"
+            "lineHeight": "{semantic.lineHeight.body.2xl}",
+            "fontSize": "{semantic.fontSize.body.2xl}"
           },
           "type": "typography",
           "description": "20"
@@ -428,8 +463,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
-            "lineHeight": "{semantic.lineHeight.text.xl}",
-            "fontSize": "{semantic.fontSize.text.xl}"
+            "lineHeight": "{semantic.lineHeight.body.xl}",
+            "fontSize": "{semantic.fontSize.body.xl}"
           },
           "type": "typography",
           "description": "18"
@@ -438,8 +473,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.title.strong}",
-            "lineHeight": "{semantic.lineHeight.text.xl}",
-            "fontSize": "{semantic.fontSize.text.xl}"
+            "lineHeight": "{semantic.lineHeight.body.xl}",
+            "fontSize": "{semantic.fontSize.body.xl}"
           },
           "type": "typography",
           "description": "18"
@@ -448,8 +483,8 @@
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.title.heavy}",
-            "lineHeight": "{semantic.lineHeight.text.xl}",
-            "fontSize": "{semantic.fontSize.text.xl}"
+            "lineHeight": "{semantic.lineHeight.body.xl}",
+            "fontSize": "{semantic.fontSize.body.xl}"
           },
           "type": "typography",
           "description": "18"
@@ -461,8 +496,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}"
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}"
             },
             "type": "typography",
             "description": "16"
@@ -471,8 +506,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -482,8 +517,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -495,8 +530,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}"
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}"
             },
             "type": "typography",
             "description": "16"
@@ -505,8 +540,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -516,8 +551,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -529,8 +564,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}"
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}"
             },
             "type": "typography",
             "description": "16"
@@ -539,8 +574,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -550,8 +585,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.lg.default}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -565,8 +600,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}"
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}"
             },
             "type": "typography",
             "description": "14"
@@ -575,8 +610,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -586,8 +621,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -599,8 +634,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}"
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}"
             },
             "type": "typography",
             "description": "14"
@@ -609,8 +644,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -620,8 +655,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -633,8 +668,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}"
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}"
             },
             "type": "typography",
             "description": "14"
@@ -643,8 +678,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -654,8 +689,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.md.default}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -669,8 +704,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}"
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}"
             },
             "type": "typography",
             "description": "13"
@@ -679,8 +714,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -690,8 +725,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -703,8 +738,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}"
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}"
             },
             "type": "typography",
             "description": "13"
@@ -713,8 +748,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -724,8 +759,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -737,8 +772,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}"
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}"
             },
             "type": "typography",
             "description": "13"
@@ -747,8 +782,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -758,8 +793,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.sm.default}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -773,8 +808,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.xs.default}",
-              "fontSize": "{semantic.fontSize.text.xs}"
+              "lineHeight": "{semantic.lineHeight.body.xs.default}",
+              "fontSize": "{semantic.fontSize.body.xs}"
             },
             "type": "typography",
             "description": "12"
@@ -783,8 +818,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.xs.default}",
-              "fontSize": "{semantic.fontSize.text.xs}",
+              "lineHeight": "{semantic.lineHeight.body.xs.default}",
+              "fontSize": "{semantic.fontSize.body.xs}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -794,8 +829,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.xs.default}",
-              "fontSize": "{semantic.fontSize.text.xs}",
+              "lineHeight": "{semantic.lineHeight.body.xs.default}",
+              "fontSize": "{semantic.fontSize.body.xs}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -807,8 +842,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.xs.default}",
-              "fontSize": "{semantic.fontSize.text.xs}"
+              "lineHeight": "{semantic.lineHeight.body.xs.default}",
+              "fontSize": "{semantic.fontSize.body.xs}"
             },
             "type": "typography",
             "description": "12"
@@ -817,8 +852,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.xs.default}",
-              "fontSize": "{semantic.fontSize.text.xs}",
+              "lineHeight": "{semantic.lineHeight.body.xs.default}",
+              "fontSize": "{semantic.fontSize.body.xs}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -828,8 +863,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.xs.default}",
-              "fontSize": "{semantic.fontSize.text.xs}",
+              "lineHeight": "{semantic.lineHeight.body.xs.default}",
+              "fontSize": "{semantic.fontSize.body.xs}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -844,7 +879,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}"
+              "fontSize": "{semantic.fontSize.body.tiny}"
             },
             "type": "typography",
             "description": "11"
@@ -854,7 +889,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}",
+              "fontSize": "{semantic.fontSize.body.tiny}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -865,7 +900,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}",
+              "fontSize": "{semantic.fontSize.body.tiny}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -878,7 +913,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}"
+              "fontSize": "{semantic.fontSize.body.tiny}"
             },
             "type": "typography",
             "description": "11"
@@ -888,7 +923,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}",
+              "fontSize": "{semantic.fontSize.body.tiny}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -899,7 +934,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}",
+              "fontSize": "{semantic.fontSize.body.tiny}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -914,7 +949,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.sm.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.sm}"
+              "fontSize": "{semantic.fontSize.body.micro}"
             },
             "type": "typography",
             "description": "10"
@@ -924,7 +959,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.title.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.sm.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.sm}",
+              "fontSize": "{semantic.fontSize.body.micro}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -935,7 +970,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.sm.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.sm}",
+              "fontSize": "{semantic.fontSize.body.micro}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -948,7 +983,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.sm.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.sm}"
+              "fontSize": "{semantic.fontSize.body.micro}"
             },
             "type": "typography",
             "description": "10"
@@ -958,7 +993,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.sm.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.sm}",
+              "fontSize": "{semantic.fontSize.body.micro}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -969,7 +1004,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.sm.default}",
-              "fontSize": "{semantic.fontSize.disclaimer.sm}",
+              "fontSize": "{semantic.fontSize.body.micro}",
               "textCase": "{semantic.textCase.upper}"
             },
             "type": "typography",
@@ -985,8 +1020,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.lg.par}",
-              "fontSize": "{semantic.fontSize.text.lg}"
+              "lineHeight": "{semantic.lineHeight.body.lg.par}",
+              "fontSize": "{semantic.fontSize.body.lg}"
             },
             "type": "typography",
             "description": "16"
@@ -995,8 +1030,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.lg.par}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.par}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1008,8 +1043,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.lg.par}",
-              "fontSize": "{semantic.fontSize.text.lg}"
+              "lineHeight": "{semantic.lineHeight.body.lg.par}",
+              "fontSize": "{semantic.fontSize.body.lg}"
             },
             "type": "typography",
             "description": "16"
@@ -1018,8 +1053,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.lg.par}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.par}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1031,8 +1066,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.lg.par}",
-              "fontSize": "{semantic.fontSize.text.lg}"
+              "lineHeight": "{semantic.lineHeight.body.lg.par}",
+              "fontSize": "{semantic.fontSize.body.lg}"
             },
             "type": "typography",
             "description": "16"
@@ -1041,8 +1076,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.lg.par}",
-              "fontSize": "{semantic.fontSize.text.lg}",
+              "lineHeight": "{semantic.lineHeight.body.lg.par}",
+              "fontSize": "{semantic.fontSize.body.lg}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1056,8 +1091,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.md.par}",
-              "fontSize": "{semantic.fontSize.text.md}"
+              "lineHeight": "{semantic.lineHeight.body.md.par}",
+              "fontSize": "{semantic.fontSize.body.md}"
             },
             "type": "typography",
             "description": "14"
@@ -1066,8 +1101,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.md.par}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.par}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1079,8 +1114,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.md.par}",
-              "fontSize": "{semantic.fontSize.text.md}"
+              "lineHeight": "{semantic.lineHeight.body.md.par}",
+              "fontSize": "{semantic.fontSize.body.md}"
             },
             "type": "typography",
             "description": "14"
@@ -1089,8 +1124,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.md.par}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.par}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1102,8 +1137,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.md.par}",
-              "fontSize": "{semantic.fontSize.text.md}"
+              "lineHeight": "{semantic.lineHeight.body.md.par}",
+              "fontSize": "{semantic.fontSize.body.md}"
             },
             "type": "typography",
             "description": "14"
@@ -1112,8 +1147,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.md.par}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "lineHeight": "{semantic.lineHeight.body.md.par}",
+              "fontSize": "{semantic.fontSize.body.md}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1127,8 +1162,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.sm.par}",
-              "fontSize": "{semantic.fontSize.text.sm}"
+              "lineHeight": "{semantic.lineHeight.body.sm.par}",
+              "fontSize": "{semantic.fontSize.body.sm}"
             },
             "type": "typography",
             "description": "13"
@@ -1137,8 +1172,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.sm.par}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.par}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1150,8 +1185,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.sm.par}",
-              "fontSize": "{semantic.fontSize.text.sm}"
+              "lineHeight": "{semantic.lineHeight.body.sm.par}",
+              "fontSize": "{semantic.fontSize.body.sm}"
             },
             "type": "typography",
             "description": "13"
@@ -1160,8 +1195,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.sm.par}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.par}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1173,8 +1208,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.sm.par}",
-              "fontSize": "{semantic.fontSize.text.sm}"
+              "lineHeight": "{semantic.lineHeight.body.sm.par}",
+              "fontSize": "{semantic.fontSize.body.sm}"
             },
             "type": "typography",
             "description": "13"
@@ -1183,8 +1218,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.heavy}",
-              "lineHeight": "{semantic.lineHeight.text.sm.par}",
-              "fontSize": "{semantic.fontSize.text.sm}",
+              "lineHeight": "{semantic.lineHeight.body.sm.par}",
+              "fontSize": "{semantic.fontSize.body.sm}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1198,8 +1233,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.xs.par}",
-              "fontSize": "{semantic.fontSize.text.xs}"
+              "lineHeight": "{semantic.lineHeight.body.xs.par}",
+              "fontSize": "{semantic.fontSize.body.xs}"
             },
             "type": "typography",
             "description": "12"
@@ -1208,8 +1243,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.regular}",
-              "lineHeight": "{semantic.lineHeight.text.xs.par}",
-              "fontSize": "{semantic.fontSize.text.xs}",
+              "lineHeight": "{semantic.lineHeight.body.xs.par}",
+              "fontSize": "{semantic.fontSize.body.xs}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1221,8 +1256,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.xs.par}",
-              "fontSize": "{semantic.fontSize.text.xs}"
+              "lineHeight": "{semantic.lineHeight.body.xs.par}",
+              "fontSize": "{semantic.fontSize.body.xs}"
             },
             "type": "typography",
             "description": "12"
@@ -1231,8 +1266,8 @@
             "value": {
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
-              "lineHeight": "{semantic.lineHeight.text.xs.par}",
-              "fontSize": "{semantic.fontSize.text.xs}",
+              "lineHeight": "{semantic.lineHeight.body.xs.par}",
+              "fontSize": "{semantic.fontSize.body.xs}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1247,7 +1282,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.par}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}"
+              "fontSize": "{semantic.fontSize.body.tiny}"
             },
             "type": "typography",
             "description": "11"
@@ -1257,7 +1292,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.regular}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.par}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}",
+              "fontSize": "{semantic.fontSize.body.tiny}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1270,7 +1305,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.par}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}"
+              "fontSize": "{semantic.fontSize.body.tiny}"
             },
             "type": "typography",
             "description": "11"
@@ -1280,7 +1315,7 @@
               "fontFamily": "{semantic.fontFamily.text}",
               "fontWeight": "{semantic.fontWeight.text.strong}",
               "lineHeight": "{semantic.lineHeight.disclaimer.md.par}",
-              "fontSize": "{semantic.fontSize.disclaimer.md}",
+              "fontSize": "{semantic.fontSize.body.tiny}",
               "textDecoration": "{semantic.textDecoration.under}"
             },
             "type": "typography",
@@ -1294,7 +1329,7 @@
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.text.regular}",
             "lineHeight": "{semantic.lineHeight.disclaimer.sm.par}",
-            "fontSize": "{semantic.fontSize.disclaimer.sm}"
+            "fontSize": "{semantic.fontSize.body.micro}"
           },
           "type": "typography",
           "description": "10"
@@ -1304,7 +1339,7 @@
             "fontFamily": "{semantic.fontFamily.text}",
             "fontWeight": "{semantic.fontWeight.text.strong}",
             "lineHeight": "{semantic.lineHeight.disclaimer.sm.par}",
-            "fontSize": "{semantic.fontSize.disclaimer.sm}"
+            "fontSize": "{semantic.fontSize.body.micro}"
           },
           "type": "typography",
           "description": "10"
@@ -1315,12 +1350,8 @@
   "semantic": {
     "lineHeight": {
       "display": {
-        "sm": {
-          "value": "64",
-          "type": "lineHeights"
-        },
         "md": {
-          "value": "ceil(roundTo({semantic.fontSize.display.md}*{semantic.lineHeight.scale.display},0) /{semantic.lineHeight.factor})*{semantic.lineHeight.factor}",
+          "value": "48",
           "type": "lineHeights"
         },
         "lg": {
@@ -1330,27 +1361,9 @@
         "xl": {
           "value": "ceil(roundTo({semantic.fontSize.display.xl}*{semantic.lineHeight.scale.display},0) /{semantic.lineHeight.factor})*{semantic.lineHeight.factor}",
           "type": "lineHeights"
-        }
-      },
-      "headline": {
-        "sm": {
-          "value": "roundTo({semantic.fontSize.headline.sm}*{semantic.lineHeight.scale.headline}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
-          "type": "lineHeights"
-        },
-        "md": {
-          "value": "34",
-          "type": "lineHeights"
-        },
-        "lg": {
-          "value": "roundTo({semantic.fontSize.headline.lg}*{semantic.lineHeight.scale.headline}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
-          "type": "lineHeights"
-        },
-        "xl": {
-          "value": "roundTo({semantic.fontSize.headline.xl}*{semantic.lineHeight.scale.headline}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
-          "type": "lineHeights"
         },
         "2xl": {
-          "value": "roundTo({semantic.fontSize.headline.2xl}*{semantic.lineHeight.scale.headline}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+          "value": "ceil(roundTo({semantic.fontSize.display.2xl}*{semantic.lineHeight.scale.display},0) /{semantic.lineHeight.factor})*{semantic.lineHeight.factor}",
           "type": "lineHeights"
         }
       },
@@ -1359,24 +1372,32 @@
           "value": "roundTo({semantic.fontSize.title.xs}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
           "type": "lineHeights"
         },
-        "md": {
-          "value": "roundTo({semantic.fontSize.title.md}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+        "sm": {
+          "value": "roundTo({semantic.fontSize.title.sm}*{semantic.lineHeight.scale.headline}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
           "type": "lineHeights"
         },
-        "lg": {
+        "md": {
           "value": "roundTo({semantic.fontSize.title.lg}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
           "type": "lineHeights"
         },
-        "xl": {
+        "lg": {
           "value": "roundTo({semantic.fontSize.title.xl}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
           "type": "lineHeights"
         },
-        "2xl": {
+        "xl": {
           "value": "roundTo({semantic.fontSize.title.2xl}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+          "type": "lineHeights"
+        },
+        "2xl": {
+          "value": "roundTo({semantic.fontSize.title.3xl}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+          "type": "lineHeights"
+        },
+        "3xl": {
+          "value": "roundTo({semantic.fontSize.title.3xl}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
           "type": "lineHeights"
         }
       },
-      "text": {
+      "body": {
         "2xl": {
           "value": "26",
           "type": "lineHeights"
@@ -1473,42 +1494,24 @@
     },
     "fontSize": {
       "display": {
-        "sm": {
-          "value": "56",
-          "type": "fontSizes"
-        },
         "md": {
-          "value": "64",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "72",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "80",
-          "type": "fontSizes"
-        }
-      },
-      "headline": {
-        "sm": {
-          "value": "24",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "28",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "32",
-          "type": "fontSizes"
-        },
-        "xl": {
           "value": "40",
           "type": "fontSizes"
         },
-        "2xl": {
+        "lg": {
           "value": "48",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "56",
+          "type": "fontSizes"
+        },
+        "2xl": {
+          "value": "64",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "32",
           "type": "fontSizes"
         }
       },
@@ -1517,24 +1520,40 @@
           "value": "12",
           "type": "fontSizes"
         },
-        "md": {
+        "sm": {
           "value": "14",
           "type": "fontSizes"
         },
-        "lg": {
+        "md": {
           "value": "16",
           "type": "fontSizes"
         },
-        "xl": {
+        "lg": {
           "value": "18",
           "type": "fontSizes"
         },
-        "2xl": {
+        "xl": {
           "value": "20",
+          "type": "fontSizes"
+        },
+        "2xl": {
+          "value": "24",
+          "type": "fontSizes"
+        },
+        "3xl": {
+          "value": "28",
           "type": "fontSizes"
         }
       },
-      "text": {
+      "body": {
+        "micro": {
+          "value": "10",
+          "type": "fontSizes"
+        },
+        "tiny": {
+          "value": "11",
+          "type": "fontSizes"
+        },
         "xs": {
           "value": "12",
           "type": "fontSizes"
@@ -1557,16 +1576,6 @@
         },
         "2xl": {
           "value": "20",
-          "type": "fontSizes"
-        }
-      },
-      "disclaimer": {
-        "sm": {
-          "value": "10",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "11",
           "type": "fontSizes"
         }
       }

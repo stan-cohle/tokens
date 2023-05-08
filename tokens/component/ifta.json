@@ -9,7 +9,7 @@
         "value": {
           "fontFamily": "{semantic.fontFamily.inter}",
           "fontWeight": "{semantic.fontWeight.medium}",
-          "lineHeight": "{semantic.lineHeight.text.lg.default}",
+          "lineHeight": "{semantic.lineHeight.body.lg.default}",
           "fontSize": "15"
         },
         "type": "typography"
@@ -18,7 +18,7 @@
         "value": {
           "fontFamily": "{semantic.fontFamily.inter}",
           "fontWeight": "{semantic.fontWeight.regular}",
-          "lineHeight": "{semantic.lineHeight.text.lg.default}",
+          "lineHeight": "{semantic.lineHeight.body.lg.default}",
           "fontSize": "15"
         },
         "type": "typography"

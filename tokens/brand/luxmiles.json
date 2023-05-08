@@ -301,8 +301,8 @@
         "value": {
           "fontFamily": "{semantic.fontFamily.text}",
           "fontWeight": "{semantic.fontWeight.medium}",
-          "lineHeight": "{semantic.lineHeight.text.lg.par}",
-          "fontSize": "{semantic.fontSize.text.md}"
+          "lineHeight": "{semantic.lineHeight.body.lg.par}",
+          "fontSize": "{semantic.fontSize.body.md}"
         },
         "type": "typography"
       },
