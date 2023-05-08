@@ -3,7 +3,7 @@
     "component": {
       "ifta": {
         "label": {
-          "value": "{base.body.xs.regular.default}",
+          "value": "{typography.body.xs.regular.default}",
           "type": "typography"
         },
         "entry": {

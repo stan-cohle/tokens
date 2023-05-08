@@ -1,5 +1,5 @@
 {
-  "base": {
+  "typography": {
     "display": {
       "2xl": {
         "default": {
@@ -1327,7 +1327,9 @@
           }
         }
       }
-    },
+    }
+  },
+  "base": {
     "fontFamily": {
       "inter": {
         "value": "Inter",

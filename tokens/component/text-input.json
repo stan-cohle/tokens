@@ -3,7 +3,7 @@
     "component": {
       "input": {
         "label": {
-          "value": "{base.body.sm.regular.default}",
+          "value": "{typography.body.sm.regular.default}",
           "type": "typography"
         },
         "entry": {
@@ -16,11 +16,11 @@
           "type": "typography"
         },
         "error": {
-          "value": "{base.body.xs.regular.default}",
+          "value": "{typography.body.xs.regular.default}",
           "type": "typography"
         },
         "helper": {
-          "value": "{base.body.xs.regular.default}",
+          "value": "{typography.body.xs.regular.default}",
           "type": "typography"
         }
       }
