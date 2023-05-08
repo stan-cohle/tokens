@@ -2,7 +2,7 @@
   "typography": {
     "display": {
       "2xl": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
@@ -37,7 +37,7 @@
         }
       },
       "xl": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
@@ -72,7 +72,7 @@
         }
       },
       "lg": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
@@ -107,7 +107,7 @@
         }
       },
       "md": {
-        "default": {
+        "regular": {
           "value": {
             "fontWeight": "{semantic.fontWeight.display.regular}",
             "lineHeight": "{semantic.lineHeight.display.md}",
@@ -142,7 +142,7 @@
         }
       },
       "sm": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
@@ -179,7 +179,7 @@
     },
     "title": {
       "3xl": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.display}",
             "fontWeight": "{semantic.fontWeight.display.regular}",
@@ -214,7 +214,7 @@
         }
       },
       "2xl": {
-        "default": {
+        "regular": {
           "value": {
             "fontWeight": "{semantic.fontWeight.title.regular}",
             "lineHeight": "{semantic.lineHeight.title.2xl}",
@@ -249,7 +249,7 @@
         }
       },
       "xl": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
@@ -284,7 +284,7 @@
         }
       },
       "lg": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
@@ -319,7 +319,7 @@
         }
       },
       "md": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
@@ -354,7 +354,7 @@
         }
       },
       "sm": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
@@ -389,7 +389,7 @@
         }
       },
       "xs": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.title}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
@@ -426,7 +426,7 @@
     },
     "body": {
       "2xl": {
-        "default": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.body}",
             "fontWeight": "{semantic.fontWeight.title.regular}",
