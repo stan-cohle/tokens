@@ -385,8 +385,8 @@
         "description": "12"
       }
     },
-    "title": {
-      "medium": {
+    "body": {
+      "2xl": {
         "default": {
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
@@ -419,7 +419,7 @@
           "description": "20"
         }
       },
-      "small": {
+      "xl": {
         "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamily.text}",
@@ -450,10 +450,8 @@
           "type": "typography",
           "description": "18"
         }
-      }
-    },
-    "body": {
-      "large": {
+      },
+      "lg": {
         "regular": {
           "default": {
             "value": {
@@ -557,7 +555,7 @@
           }
         }
       },
-      "medium": {
+      "md": {
         "regular": {
           "default": {
             "value": {
@@ -661,7 +659,7 @@
           }
         }
       },
-      "small": {
+      "sm": {
         "regular": {
           "default": {
             "value": {
@@ -765,7 +763,7 @@
           }
         }
       },
-      "xsmall": {
+      "xs": {
         "regular": {
           "default": {
             "value": {
@@ -1048,7 +1046,7 @@
           }
         }
       },
-      "medium": {
+      "md": {
         "regular": {
           "default": {
             "value": {
@@ -1119,7 +1117,7 @@
           }
         }
       },
-      "small": {
+      "sm": {
         "regular": {
           "default": {
             "value": {
@@ -1190,7 +1188,7 @@
           }
         }
       },
-      "xsmall": {
+      "xs": {
         "regular": {
           "default": {
             "value": {
