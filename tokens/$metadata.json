@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
+    "archive",
     "core/colors",
     "core/tokens",
-    "core/archive",
     "semantic/base-colors",
     "semantic/brand-colors",
     "semantic/neutral-colors",

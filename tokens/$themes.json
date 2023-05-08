@@ -3,7 +3,8 @@
     "id": "25779fe62b26ef390570a8522fa9e3807ae318e3",
     "name": "Core Colors",
     "selectedTokenSets": {
-      "core/colors": "enabled"
+      "core/colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "core.color.generic.white": "S:ed81915eebc81058f35ce841a6efd6bc17c764dd,",
@@ -284,7 +285,8 @@
       "semantic/base-colors": "enabled",
       "semantic/neutral-colors": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -311,7 +313,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:3a65b0133a0eb605ce7814181d93c7453ba7fec7,",
@@ -544,7 +547,8 @@
       "component/alert": "source",
       "brand/hop2": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "base.brand.50": "S:1d26852c22de2be848bf12db374660e51a61dc7a,",
@@ -834,7 +838,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/kayak": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.secondary": "S:da82faad4c415e6e5571ab5149959569e0fcce5b,",
@@ -1089,7 +1094,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/chatdeal": "enabled",
-      "semantic/brand-colors": "source"
+      "semantic/brand-colors": "source",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.shadow.light.card": "S:a420bdf034fcdfca3919ae20a5ca3c97a54ef319,",
@@ -1357,7 +1363,8 @@
       "component/alert": "source",
       "brand/wowfare": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:b3cec805e1150e89958c11a7277c66839547e0c0,",
@@ -1646,7 +1653,8 @@
       "component/alert": "source",
       "brand/aran-grant": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:7eedd45d71dc45e548d7019f423e5d3c38fbff7a,",
@@ -1941,7 +1949,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/gurufare": "enabled"
+      "brand/gurufare": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "base.info.50": "S:3a30f31811a463f8beffdcd45eda906149cdafc4,",
@@ -2223,7 +2232,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/luxmiles": "enabled",
-      "semantic/brand-colors": "source"
+      "semantic/brand-colors": "source",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.ifta.label": "S:04b51926f19f616b4935fdfcbddd286970f35b30,",
@@ -2498,7 +2508,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/underpricer": "enabled"
+      "brand/underpricer": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.presets.header": "S:2f3a414bfdf0a4e09cbb69031d2810ea5efddb7d,",
@@ -2757,7 +2768,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/myquility": "enabled"
+      "brand/myquility": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.ifta.label": "S:9ffce8164e8493d421bddf4f005b57e95ae56db7,",
@@ -3041,7 +3053,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/allsavings": "enabled"
+      "brand/allsavings": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.shadow.light.card": "S:fef64e0564aa3e55d3d58eab453ee55f97ca24b6,",
@@ -3305,7 +3318,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/volunteerhq": "enabled"
+      "brand/volunteerhq": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.shadow.light.card": "S:91994266dd870eb6fb3bae91f0ea79df83f42723,",
@@ -3579,7 +3593,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/abenity": "enabled"
+      "brand/abenity": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "base.info.50": "S:9f13a59f8dc2ec3140b26d7ca2884f42f0668f3b,",
@@ -3868,7 +3883,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/easemytrip": "enabled"
+      "brand/easemytrip": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.ifta.label": "S:e7b77db60c51b7a28f585edb004de19640f6064f,",
@@ -4148,7 +4164,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.button-label.small": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
@@ -4387,8 +4404,8 @@
       "base.accent.1000": "S:4b672f45b20a8209d7f8129403baa731942940bf,",
       "theme.action.link.hover": "S:928300cb8280850ef490d097cfed898ed7903402,",
       "theme.action.link.active": "S:fe13607b2ed7be0f15c817f98fc1bb1b3c5277b0,",
-      "comp.badge.label.small": "S:3ae86f84ef6dfd3c4539c78ed743f9e926b54907,",
-      "comp.badge.label.medium": "S:9407bb832f146b2e9d40980828f931169c51dd8a,",
+      "comp.badge.label.small": "S:fe79e17a6559c3b25ed1548f625e2175e079345e,",
+      "comp.badge.label.medium": "S:5749bdcbfc81275da0d089355faec2cd02ca06d6,",
       "comp.button.label.small": "S:12d9d67fc21bc6ae6f10857acd4903f7a7958d34,",
       "comp.button.label.medium": "S:62fab3d20c9b7aa1b3e42af302db4c052c7adbfe,",
       "comp.button.label.large": "S:68417350b4f8c50aedfdd27391e007176d67966d,",
@@ -4580,55 +4597,129 @@
       "theme.action.neutral.hover": "S:6869cc91b20e2ac398667e3ec26fdfc68b34d154,",
       "theme.action.neutral.active": "S:383f317011fe7e270f62ba07553132256aa9ed73,",
       "theme.action.neutral.on-neutral": "S:e658b628f22f47c237578f0552ff6dfacef20730,",
-      "base.body.md.regular.default": "S:c6ccb5a56a2ce7c2b3122a307ac2ad135feff33d,",
-      "base.body.md.regular.link": "S:1bb072b40ae42ff5dcfd6c93a66f0226ee0d9ed8,",
-      "base.body.md.regular.upper": "S:a31fe685e16e64d1d9025e1189f3bbb9acc18c38,",
-      "base.body.md.strong.default": "S:db17c6ebad4a3b6a92875a7b3e2992863bed1330,",
-      "base.body.md.strong.link": "S:626c9ed17061d66e23f4a0da7f48c67aaf5fedfc,",
-      "base.body.md.strong.upper": "S:61d1471e573c2338b5e80db916a7fcdafe8a2215,",
-      "base.body.md.heavy.default": "S:dc65f33ac1e0b8f845432722cb215cf915802349,",
-      "base.body.md.heavy.link": "S:f288e6697b7b52490163b79a86f944ab7e374170,",
-      "base.body.md.heavy.upper": "S:3e4c344883ef99ed8de93df4925028ab810a9b1c,",
-      "base.paragraph.md.regular.default": "S:c126e8eb173b2672f4eb0c32f37927fce6f13670,",
-      "base.paragraph.md.regular.link": "S:008c4753c9894c733eac500e1b98c8a3b9ba0e21,",
-      "base.paragraph.md.strong.default": "S:0cb2e97b9d9adb34615088843a689af0b68eca0f,",
-      "base.paragraph.md.strong.link": "S:2ac8cdeb176611201b1af98f49a53fa8837c4216,",
-      "base.paragraph.md.heavy.default": "S:edf45fda971cb0a2a0b8bb94faf7dc52b61e8cb9,",
-      "base.paragraph.md.heavy.link": "S:0d4e0ba28048c9f92dec3b7249575ac6b4087db1,",
-      "base.paragraph.sm.regular.default": "S:10b9e11c52fcbf5b872d0b3c4e2b0f873adaaff6,",
-      "base.paragraph.sm.strong.default": "S:4c07b6f99c261400cf9e46e198896e97d2c3de85,",
-      "base.paragraph.sm.heavy.default": "S:2d8a355dd9ac7bcd7e3ce7902c7e13a8f30adbf4,",
-      "base.body.sm.regular.default": "S:30c73e930c5eb7f21129c4aa93f8a453cf03aead,",
-      "base.body.sm.regular.link": "S:d4a1f32dbcc02ca6fdeeb617a677db489d802dba,",
-      "base.body.sm.regular.upper": "S:27bdf033749920f55135a4733fc7728ee7bd8e7e,",
-      "base.body.sm.strong.default": "S:70e82c1eaf4bd19ffdb8beff43fce719517d4d8f,",
-      "base.body.sm.strong.link": "S:92ae28e7237833f4abbcf6cf7633128b88413ad8,",
-      "base.body.sm.strong.upper": "S:3b28b7c6043d26c5fb537209f09b1ae43bad325b,",
-      "base.body.sm.heavy.default": "S:511e33b1dc9411abc8f2ea66c0fc27d272261b68,",
-      "base.body.sm.heavy.link": "S:11fc817b8e65d73a5faa4f23eecebd463cc8f79c,",
-      "base.body.sm.heavy.upper": "S:3e9203b356665604e9f4ebe00dfb4e480a816ace,",
-      "base.body.xs.regular.default": "S:a88a2e9f33e6e4ca3c410b639a6c167570a23f29,",
-      "base.body.xs.regular.link": "S:936602b3f9499e71af389cc2f9d49a1dae8f35c4,",
-      "base.body.xs.regular.upper": "S:560b9d5f0298e5abe149309d243d015f5e30d77e,",
-      "base.body.xs.strong.default": "S:8e9b69b433ef08ff04ab982bfa591ac2a5c3a0a9,",
-      "base.body.xs.strong.link": "S:e2861536ff86685dacbe52b78ea2b1e955a065c0,",
-      "base.body.xs.strong.upper": "S:0a7ebe5fb2590a594087bbc8d1c48862acd20a9c,",
+      "base.body.md.regular.default": "S:4a0b46267d5d486444b95f710cee03a8cd9ce722,",
+      "base.body.md.regular.link": "S:2aabfebff3ffb68dd956d2847d685c403e56da9b,",
+      "base.body.md.regular.upper": "S:b73e3871169b67bfd6ee99aaef63f31c0e1836d6,",
+      "base.body.md.strong.default": "S:8d8273c10d702829dc963e63ee3361cf79f1bb31,",
+      "base.body.md.strong.link": "S:8ed1bced93f913a8f1685a273dc55ab3b4e6ecb1,",
+      "base.body.md.strong.upper": "S:916ebf5e16e0713c5eb2fcafa9573e16d896f384,",
+      "base.body.md.heavy.default": "S:0d4655fc8dc2bcdecd3bedcd772574cf7a4ceb36,",
+      "base.body.md.heavy.link": "S:fb211532208d67094225d779d9417d2f64263887,",
+      "base.body.md.heavy.upper": "S:68dcbd7f197c4c168bacd479c49377fb1283589c,",
+      "base.body.sm.regular.default": "S:c0449cbc263999ff132917d3499db330a0c59316,",
+      "base.body.sm.regular.link": "S:8dda19b46a3512722826b84b8a256ace0b1b68ad,",
+      "base.body.sm.regular.upper": "S:82143510e2bd18a03f4b0083158efa359968b4e4,",
+      "base.body.sm.strong.default": "S:7a2192ae0863613ec4470c1d63c62a166881572c,",
+      "base.body.sm.strong.link": "S:d308bb42273c49f48c2b7fa0f514ace9b6601071,",
+      "base.body.sm.strong.upper": "S:57ff6bb4716ffbb7817f8ff6e17c6c970120c20c,",
+      "base.body.sm.heavy.default": "S:33dff9ca350239bd95f40f215cbef7699aa61c60,",
+      "base.body.sm.heavy.link": "S:123b59b99459bea5b4fa3d6550227eea7e7b0f9c,",
+      "base.body.sm.heavy.upper": "S:a5be0f7572f0293b066dda2a9c8641571f1b719c,",
+      "base.body.xs.regular.default": "S:ba5cb02bdae62e36ec77cdeebe65a17c7888143a,",
+      "base.body.xs.regular.link": "S:61e011b63154a17e22551807f987db07a5e69541,",
+      "base.body.xs.regular.upper": "S:67db94365cd6449ed278df44f39f1c6df3278486,",
+      "base.body.xs.strong.default": "S:d43c83a5e50760b2f29de692eebbffa5de4cd4a3,",
+      "base.body.xs.strong.link": "S:b735837d8369fbc3d11efc1c37d4f7e835665c05,",
+      "base.body.xs.strong.upper": "S:4f776f4d349fd0bf87365b9b14aa50143db7d1dc,",
       "base.body.xxs.strong.default": "S:8709e714447672f6385a9fd51f3aa112f3af2f8a,",
       "base.body.xxs.strong.link": "S:e3a4a855e04a345e0432be91ccb656cb55566358,",
       "base.body.xxs.regular.upper": "S:413653c78da5bd853996d07428440cc352ef3e59,",
       "base.body.xxs.strong.upper": "S:04de0ce6e9f753f773fbf597be12a23054e2faba,",
-      "base.body.micro.regular.default": "S:b445de914e01dcc91efa371ea19984c528f8d09c,",
-      "base.body.micro.regular.link": "S:2b24cd1c838984dd875370b64b5111a3dbfb8468,",
-      "base.body.micro.strong.default": "S:643c4c001fbf42a08b9d4ae1215827268d1aef2c,",
-      "base.body.micro.strong.link": "S:c323d6c2e5de6184d3715b5da4199e4606ca6c99,",
-      "base.body.micro.strong.upper": "S:5f9d2c23cdc56490121e3aa66920b76bcc34d6e8,",
-      "base.body.micro.regular.upper": "S:996a23439f0d5e7a41c669f8346cfc5a683c2948,",
+      "base.body.micro.regular.default": "S:4b4e16bea657530379e1484141a76e24b2dde445,",
+      "base.body.micro.regular.link": "S:10ad9643446aacc5bce34ff019a985f698b22efb,",
+      "base.body.micro.strong.default": "S:9f7f2400547108435361dab5a5478f2d5bf0717b,",
+      "base.body.micro.strong.link": "S:330bd7c157d092c5bb0b80788f967d662c41f432,",
+      "base.body.micro.strong.upper": "S:ed980cf2d047b91fe0c7844f45d157763847f325,",
+      "base.body.micro.regular.upper": "S:76edb5d9ac81bb6273b2370dd38bea2d5534af00,",
       "base.paragraph.xsmall.regular.default": "S:3e0758689872e2bd94f4a49ba74bf0e90e76aac3,",
       "base.paragraph.xsmall.strong.default": "S:4f14307cc202952d84e0f5763d383c6b10342442,",
-      "base.paragraph.tiny.strong.default": "S:23fa07c9af3f862076786f77dbed36bab1a04c1f,",
-      "base.paragraph.micro.regular": "S:567430b895bbe221ea3eced0b136552f4d3a0f8e,",
-      "base.paragraph.micro.strong": "S:a86064e05f6c57e47117b292d7ee315ed0d40eeb,",
-      "base.paragraph.tiny.regular.link": "S:da5edbb593354a37a8b51b3328784ec58061dd53,"
+      "base.display.2xl.default": "S:a871603fb67d283fb3155c1a70d3c3628989738e,",
+      "base.display.2xl.strong": "S:2cb97bf5d3832791b48f8ece77de515b7dcdd2d8,",
+      "base.display.2xl.heavy": "S:4233f2c53b91fb93f9d9ea24099aa65a1a56cd0d,",
+      "base.display.xl.default": "S:5747b2d0008faec79a5a1415498ae857293e32bf,",
+      "base.display.xl.strong": "S:b5cffe272ed66a1e470c79c07f51cdce01fbc944,",
+      "base.display.xl.heavy": "S:4b3b098d27cc504911a7556475b85332a9cbacb5,",
+      "base.display.lg.default": "S:f3c2ee01f226c94c137eced2e0f2848e71264770,",
+      "base.display.lg.strong": "S:8d7d668aba9cba6c19c6996415a9f85af840ae91,",
+      "base.display.lg.heavy": "S:ff76c87712b68b7a57cfcfea88332d78222eac01,",
+      "base.display.md.default": "S:7fd9da4b2e2dc7a91f1a789d705476c07ba7a522,",
+      "base.display.md.strong": "S:8857e9d0575b4f5add3cd73cf89fb3803fdfd6a0,",
+      "base.display.md.heavy": "S:4ca99f6471921a2b1f0da5f7bca004998297a2ce,",
+      "base.display.sm.default": "S:3cc40e6eb2136066e28659edf2afc9a508030503,",
+      "base.display.sm.strong": "S:49ad72597bf6f0826ac31448383e044006d63680,",
+      "base.display.sm.heavy": "S:8b4f32b0f750b12520accaafca953141ece3f313,",
+      "base.title.3xl.default": "S:964a178e1674c046a7a1aeffc922ffaefd17cca5,",
+      "base.title.3xl.strong": "S:16958685404b7fffedc0a4fc995db722b427d2e9,",
+      "base.title.3xl.heavy": "S:bc92973dceab8dc63baa312c5cd146f210da24d9,",
+      "base.title.2xl.default": "S:830739840e99d985baa4ec080bd05b63d1bbb0ea,",
+      "base.title.2xl.strong": "S:6e86aa276487eef0a219f26b114a3b6a7150c6a6,",
+      "base.title.2xl.heavy": "S:c7deb3dec83e249a7f9d45c003ef545849ca2869,",
+      "base.title.xl.default": "S:bfe33a28eff35b0344ee09f06d85f8d951788676,",
+      "base.title.xl.strong": "S:3e00dab66a566d0a847edcb35476519aac36ceae,",
+      "base.title.xl.heavy": "S:b4f22bd346eac00a796af701091dffb5ce1db934,",
+      "base.title.lg.default": "S:f68edd3223c0711babd83526af461286eb2d1354,",
+      "base.title.lg.strong": "S:dee69ce0e649f35909552d0bf2d1a065da6f7341,",
+      "base.title.lg.heavy": "S:87c0391e5113a934720b3ba98b090deb43021193,",
+      "base.title.md.default": "S:edd7349671d626a88287b98419e3f12c80b93013,",
+      "base.title.md.strong": "S:a405fb837757abf23a8ae9d7b1b97ecf094ce112,",
+      "base.title.md.heavy": "S:5112f4f067b10c3f0b973b16796b9cf9bef35c17,",
+      "base.title.sm.default": "S:e34e321c595e466444c98a69360569ed9cc69c2b,",
+      "base.title.sm.strong": "S:b97868491c300bb58b6ba4c0dc5ce0d7bf951bca,",
+      "base.title.sm.heavy": "S:f7be5af3840c7c2e761544f43ade02942fdefa80,",
+      "base.title.xs.default": "S:43fbf36ced7146895cae687c78768e5e89e35b34,",
+      "base.title.xs.strong": "S:6561c68fcc301c62b0af835ab0121516a5394f9e,",
+      "base.title.xs.heavy": "S:9e95a0eb6f0f7d4939b8eaa7ab7be6906714fef0,",
+      "base.body.2xl.default": "S:1b91d30cc81b0b1d46687b0cda8fc6401e9937b2,",
+      "base.body.2xl.strong": "S:a92da0bca06f0c079b8c89ac13111edb2fcec93b,",
+      "base.body.2xl.heavy": "S:a66fc2a618644f76928b7bc4928c6bc1899d8892,",
+      "base.body.xl.regular": "S:ceca767085dcd9bddd573c1b6b7962c0158b3f6d,",
+      "base.body.xl.strong": "S:05bd271aafed2b0e9803802e469627dfd63bde04,",
+      "base.body.xl.heavy": "S:6964ca69d20bcf71811b884ab9cea63302b187d8,",
+      "base.body.lg.regular.default": "S:631d6f913e99b252ae2c0999fafb1e60414c118e,",
+      "base.body.lg.regular.link": "S:d06f8702673a5e6faea1f7cffb12e00adda23117,",
+      "base.body.lg.regular.upper": "S:f323b44f5f61789fc7db46a102e96167934a7bfe,",
+      "base.body.lg.strong.default": "S:f5c213cb4a4a6ce747a176c976f8f2858e01a086,",
+      "base.body.lg.strong.link": "S:ca8fcc916e676de59fabcc77efc40ed26f063b31,",
+      "base.body.lg.strong.upper": "S:649a338c52346b4e47801f5a98ca4ba720af9bb9,",
+      "base.body.lg.heavy.default": "S:f53d5d14b57563ceb69151835d26d395af5b7134,",
+      "base.body.lg.heavy.link": "S:ecdbd42c1148db757559abc34780acc0b72c8918,",
+      "base.body.lg.heavy.upper": "S:65a3ca392660ae745e31b0e780a169231e74e1bf,",
+      "base.body.tiny.regular.default": "S:ed705c893894abaf1d7833ac4b5aa60c6070ab90,",
+      "base.body.tiny.regular.link": "S:100453db79da148a547aa6b08ed0ec04b4b4fd19,",
+      "base.body.tiny.regular.upper": "S:9a4953dcefb06e2c0ff4c72adc1ba38f48395320,",
+      "base.body.tiny.strong.default": "S:687aa71a04f50a17087fd34b9ece61813c49f022,",
+      "base.body.tiny.strong.link": "S:d9eab62d19c68907f54c31979f6bc1b6937dda5a,",
+      "base.body.tiny.strong.upper": "S:7dc61398b4385044d26bd8034f61a39b4eebb8c7,",
+      "base.body.lg.regular.paragraph-link": "S:3188cae08ece443d9efff2139cb8bfc18f5a2323,",
+      "base.body.lg.strong.paragraph-link": "S:e2b20342026e19bef031abf34b05f52206db8eff,",
+      "base.body.lg.heavy.paragraph-link": "S:8fcc3bc2adaf9be0aaad931f92ff768fafb6a372,",
+      "base.body.lg.regular.paragraph": "S:d1f2b201f55b27b35fb0cb61ba25988f79797979,",
+      "base.body.lg.strong.paragraph": "S:2f2d1cd5b92e3bbebac03dbb87f30497c00d62c4,",
+      "base.body.lg.heavy.paragraph": "S:29b6b5361a0a487aa2ac76cd6b6f2e0b2da7fbd6,",
+      "base.body.md.heavy.paragraph": "S:5ebf13a9e4b6def5856b3ab6e7950acb683e9046,",
+      "base.body.md.heavy.paragraph-link": "S:02dbc400e4c9c4072c19d14d61c73dea2d6ea3df,",
+      "base.body.sm.regular.paragraph-link": "S:363aed985b0acfdfb70a25d4f7ff11090663ba6c,",
+      "base.body.sm.strong.paragraph": "S:eedf4fa1adf7dc693453f76553de4e06f0028236,",
+      "base.body.sm.strong.paragraph-link": "S:ed02034bb389f3743ad87c8cab5016000e343e9b,",
+      "base.body.sm.heavy.paragraph": "S:8257c771cffda2bddc42c8e2372b283045835750,",
+      "base.body.sm.heavy.paragraph-link": "S:0572d86f9a21fb70638cb12323a80419546a5a93,",
+      "base.body.xs.regular.paragraph": "S:da5a65464b4f047a079865b37546147f5267217f,",
+      "base.body.xs.regular.paragraph-link": "S:803c97bc98179eae8b0c8866b69f4cf914ad99f5,",
+      "base.body.xs.strong.paragraph": "S:75afd79ee62b5907008a9e5e6129a51b1c6a408b,",
+      "base.body.xs.strong.paragraph-link": "S:1714cce370ad882091ce8c66b7c7d20b4124ff39,",
+      "base.body.tiny.regular.paragraph": "S:7df2b0ca5929c559ff5d4ce139e7d36bd06b7382,",
+      "base.body.tiny.regular.paragraph-link": "S:d6395e6d3253cba06c64118876dae2e211f197e6,",
+      "base.body.tiny.strong.paragraph": "S:87c5a07071ee893dda27be6d07b96465e7098994,",
+      "base.body.tiny.strong.paragraph-link": "S:ee63651918cdc46cf0aacaf4d952ad06d304fc3b,",
+      "base.body.micro.regular.paragraph": "S:707c5931a2d958ea1bda937878de1c5bca1b9ae4,",
+      "base.body.micro.strong.paragraph": "S:243b55599e0ea638bc1debeef295a45f2311f5fa,",
+      "base.body.md.regular.paragraph": "S:6fbbbf083292b9e4a00bf697830129babe84ea72,",
+      "base.body.md.regular.paragraph-link": "S:60eb8117cfbb61862ee5410bea331a082a3f853c,",
+      "base.body.md.strong.paragraph": "S:e969192bdf0764668b759fbbf9da07a004bb24bc,",
+      "base.body.md.strong.paragraph-link": "S:5b0bd04173119dbeefa76e988c3d7a150cc902c9,",
+      "base.body.sm.regular.paragraph": "S:25b2182aced1bc93b7ede1080ff7a8172e6250f8,",
+      "base.body.micro.regular.paragraph-link": "S:f79ad30c78017b7d2834518502aabe788b09ce3b,",
+      "base.body.micro.strong.paragraph-link": "S:84e5bb7ce7f5d8af31871f36ec19bdd41d58b36d,"
     }
   },
   {
@@ -4655,7 +4746,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled"
+      "brand/scholartrip": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "base.neutral.50": "S:d18dc6c9f916a84166b60360e4255a5db0f502d5,",
@@ -4904,7 +4996,8 @@
       "brand/ovago_old": "enabled",
       "brand/ovago": "enabled",
       "semantic/brand-colors": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.action.primary.normal": "S:5647efc32ec9f10e98c77c161191664f0f7464b9,",
@@ -5195,7 +5288,8 @@
       "component/alert": "source",
       "brand/priceline": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "source"
+      "semantic/brand-colors": "source",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "theme.bg.success-highlight": "S:a1d3373083e93fa5b8fd5fdfa0e784304a4094fc,",
@@ -5491,7 +5585,8 @@
       "component/switch": "source",
       "component/checkbox": "source",
       "component/radio": "source",
-      "component/alert": "source"
+      "component/alert": "source",
+      "archive": "disabled"
     },
     "$figmaStyleReferences": {
       "base.D1.default": "S:dc7756af671f629e70e9611f827fea4a6a689ef8,",
@@ -5564,21 +5659,6 @@
       "base.body.md.regular.upper": "S:2653afa8d44605b06d77b156401a794bdc8c6b4c,",
       "base.body.md.strong.default": "S:6a92e7083114ee3f4fadc8bb98b399817f5e0803,",
       "base.body.md.heavy.link": "S:d70ef92528c9a70b96c3540f73b17938ad015b4e,",
-      "base.paragraph.lg.regular.default": "S:d526dac6159910a4a37a49fb874325d3789d12ed,",
-      "base.paragraph.lg.regular.link": "S:e296aebce9f9aaed41db97dffb47f6fcaf19e590,",
-      "base.paragraph.lg.strong.default": "S:b573fe211ec09dec054f1db1049e9ecd412c7510,",
-      "base.paragraph.lg.strong.link": "S:7a7130e7f905d94de634872206643468864408b3,",
-      "base.paragraph.lg.heavy.default": "S:061892befae1958fba43cd2aba8182894f827c06,",
-      "base.paragraph.lg.heavy.link": "S:ca918f6c493a21c50a5bbf82ddf72d7e216dc8b2,",
-      "base.paragraph.md.regular.default": "S:f9e8b3203eec00c1618f09a5e3722b79ea56cab5,",
-      "base.paragraph.md.regular.link": "S:7007843d1bcfa7f9070197f5266f68ece0df7d70,",
-      "base.paragraph.md.strong.default": "S:23fca0521a2785b8671620f156aa2e845cc790e1,",
-      "base.paragraph.md.strong.link": "S:62a81f9ff581a38b9b1c3f13836eb2278d875f92,",
-      "base.paragraph.md.heavy.default": "S:ccf3f101e7edcdc9694ad872994fd2b7bd5b29a3,",
-      "base.paragraph.md.heavy.link": "S:7ecb4694ec5b330c99c8a0e29ceadcc0ec37e274,",
-      "base.paragraph.sm.regular.default": "S:aace27980f8414e54072fbb330c9ea3e692286fa,",
-      "base.paragraph.sm.strong.default": "S:6a925a4042625bb915408ce435cf7a7f9e537ab0,",
-      "base.paragraph.sm.heavy.default": "S:8d2ed7ef4f2e002ded74009ad2aba6948048ca9f,",
       "base.body.sm.regular.default": "S:4859f3000f627874df1a82625234fee5c3f0a5e9,",
       "base.body.sm.regular.link": "S:90eb07a36a102ecb2184c4e3225801a22323454a,",
       "base.body.sm.regular.upper": "S:5fa579262aad2d251926ff114086f5d92473ceb8,",
@@ -5606,10 +5686,25 @@
       "base.body.micro.regular.upper": "S:196029c27a13ec69ec13e3e74a7ebd8021c6bbf8,",
       "base.paragraph.xsmall.regular.default": "S:4119cf02a4f188212c9765cc9dfb1c137d76b9da,",
       "base.paragraph.xsmall.strong.default": "S:ee6975f9b99a337fab1d1ad214a0fd29eae401cf,",
-      "base.paragraph.tiny.strong.default": "S:96b143ca5a27bd4f59127f960eb967d52e3d6102,",
-      "base.paragraph.micro.regular": "S:842bc1893f3df6499b0437ac8bbab6cd89d23630,",
-      "base.paragraph.micro.strong": "S:265fad99fe293738a578cf59366c355ee9131028,",
-      "base.paragraph.tiny.regular.link": "S:41a6a6764d0b5dc37e4eda01ba9051475840b19e,"
+      "base.body.lg.regular.paragraph": "S:d526dac6159910a4a37a49fb874325d3789d12ed,",
+      "base.body.lg.strong.paragraph": "S:b573fe211ec09dec054f1db1049e9ecd412c7510,",
+      "base.body.lg.heavy.paragraph": "S:061892befae1958fba43cd2aba8182894f827c06,",
+      "base.body.lg.regular.paragraph-link": "S:e296aebce9f9aaed41db97dffb47f6fcaf19e590,",
+      "base.body.lg.strong.paragraph-link": "S:7a7130e7f905d94de634872206643468864408b3,",
+      "base.body.lg.heavy.paragraph-link": "S:ca918f6c493a21c50a5bbf82ddf72d7e216dc8b2,",
+      "base.body.md.regular.paragraph": "S:f9e8b3203eec00c1618f09a5e3722b79ea56cab5,",
+      "base.body.md.regular.paragraph-link": "S:7007843d1bcfa7f9070197f5266f68ece0df7d70,",
+      "base.body.md.strong.paragraph": "S:23fca0521a2785b8671620f156aa2e845cc790e1,",
+      "base.body.md.strong.paragraph-link": "S:62a81f9ff581a38b9b1c3f13836eb2278d875f92,",
+      "base.body.md.heavy.paragraph": "S:ccf3f101e7edcdc9694ad872994fd2b7bd5b29a3,",
+      "base.body.md.heavy.paragraph-link": "S:7ecb4694ec5b330c99c8a0e29ceadcc0ec37e274,",
+      "base.body.sm.regular.paragraph": "S:aace27980f8414e54072fbb330c9ea3e692286fa,",
+      "base.body.sm.strong.paragraph": "S:6a925a4042625bb915408ce435cf7a7f9e537ab0,",
+      "base.body.sm.heavy.paragraph": "S:8d2ed7ef4f2e002ded74009ad2aba6948048ca9f,",
+      "base.body.tiny.regular.paragraph-link": "S:41a6a6764d0b5dc37e4eda01ba9051475840b19e,",
+      "base.body.tiny.strong.paragraph": "S:96b143ca5a27bd4f59127f960eb967d52e3d6102,",
+      "base.body.micro.regular.paragraph": "S:842bc1893f3df6499b0437ac8bbab6cd89d23630,",
+      "base.body.micro.strong.paragraph": "S:265fad99fe293738a578cf59366c355ee9131028,"
     }
   }
 ]
