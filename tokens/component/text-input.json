@@ -9,7 +9,7 @@
         "entry": {
           "value": {
             "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{semantic.fontWeight.body.regular}",
+            "fontWeight": "{semantic.fontWeight.body.normal}",
             "lineHeight": "24",
             "fontSize": "{semantic.fontSize.body.md}"
           },
