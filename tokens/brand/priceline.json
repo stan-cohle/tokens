@@ -531,6 +531,34 @@
           "value": "{base.fontWeight.bold}",
           "type": "fontWeights"
         }
+      },
+      "title": {
+        "regular": {
+          "value": "{base.fontWeight.medium}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.fontWeight.semi-bold}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.fontWeight.bold}",
+          "type": "fontWeights"
+        }
+      },
+      "display": {
+        "regular": {
+          "value": "{base.fontWeight.medium}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.fontWeight.semi-bold}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.fontWeight.bold}",
+          "type": "fontWeights"
+        }
       }
     }
   }
