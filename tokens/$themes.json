@@ -5309,12 +5309,6 @@
       "typography.title.xs.regular": "S:9980e2eda7292c672ae7257c20861ef073954e9c,",
       "typography.title.xs.strong": "S:fbca3f1a657336af5176594d148dcc6907b75b1f,",
       "typography.title.xs.heavy": "S:0a45471c027cbf151638eed0c22364c500fbc127,",
-      "typography.body.2xl.regular": "S:d2de0bcfd1771ac43f4127988cce2dd3b47cb3a4,",
-      "typography.body.2xl.strong": "S:c89a2730e0e376448645ca9457a8430c7ec89a07,",
-      "typography.body.2xl.heavy": "S:6dadc6f812f49755a7557b5ccb5b2622b6fb12c5,",
-      "typography.body.xl.regular": "S:5390410d8d0991930048c341fa7a0b37999f58c2,",
-      "typography.body.xl.strong": "S:5da705521ab1b41503c1c2b5f732da1afda4c785,",
-      "typography.body.xl.heavy": "S:d3cc9c9217285439ce3f9d69d384f175edca40b2,",
       "typography.body.lg.regular.default": "S:d697e2ec597224cfbb595a4bcc2a55f56b3f6f23,",
       "typography.body.lg.regular.link": "S:23fa1492449d9d94f1d1ccd82503f4708a98ef0a,",
       "typography.body.lg.regular.upper": "S:b5ebee8fbb057d6cc85dfc41216a1cc7bc18cf7c,",
@@ -5389,7 +5383,13 @@
       "typography.body.3xs.strong.link": "S:ba3de77aca9aaac4e1ec4692a1999ddf5cd77d52,",
       "typography.body.3xs.strong.upper": "S:582e55a143bbbee98fbf1acc8c52fde34eb208dc,",
       "typography.body.3xs.strong.paragraph": "S:e562d4c8464227c9f282f7c8657ea5f153f3638c,",
-      "typography.body.3xs.strong.paragraph-link": "S:880f76f28276e0ba921766ea85243bf664e1fa83,"
+      "typography.body.3xs.strong.paragraph-link": "S:880f76f28276e0ba921766ea85243bf664e1fa83,",
+      "typography.body.2xl.regular1.default": "S:d2de0bcfd1771ac43f4127988cce2dd3b47cb3a4,",
+      "typography.body.2xl.strong1.default": "S:c89a2730e0e376448645ca9457a8430c7ec89a07,",
+      "typography.body.2xl.heavy1.default": "S:6dadc6f812f49755a7557b5ccb5b2622b6fb12c5,",
+      "typography.body.xl.regular1.default": "S:5390410d8d0991930048c341fa7a0b37999f58c2,",
+      "typography.body.xl.strong1.default": "S:5da705521ab1b41503c1c2b5f732da1afda4c785,",
+      "typography.body.xl.heavy1.default": "S:d3cc9c9217285439ce3f9d69d384f175edca40b2,"
     }
   }
 ]
