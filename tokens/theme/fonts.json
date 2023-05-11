@@ -3,23 +3,23 @@
     "Typography": {
       "Display": {
         "2X-Large": {
-          "value": "{base.display.xxl.strong.default}",
-          "type": "typography"
-        },
-        "X-Large": {
           "value": "{base.display.xl.strong.default}",
           "type": "typography"
         },
-        "Large": {
+        "X-Large": {
           "value": "{base.display.lg.strong.default}",
           "type": "typography"
         },
-        "Medium": {
+        "Large": {
           "value": "{base.display.md.strong.default}",
           "type": "typography"
         },
-        "Small": {
+        "Medium": {
           "value": "{base.display.sm.strong.default}",
+          "type": "typography"
+        },
+        "Small": {
+          "value": "{base.display.xs.strong.default}",
           "type": "typography"
         },
         "X-Small": {
@@ -33,11 +33,11 @@
           "type": "typography"
         },
         "3X-Large": {
-          "value": "{base.title.xl.strong.default}",
+          "value": "{base.title.lg.strong.default}",
           "type": "typography"
         },
         "2X-Large": {
-          "value": "{base.title.lg.strong.default}",
+          "value": "{base.title.md.strong.default}",
           "type": "typography"
         },
         "Medium": {
