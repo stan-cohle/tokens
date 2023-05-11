@@ -5354,7 +5354,6 @@
       "typography.body.xl.regular1.default": "S:5390410d8d0991930048c341fa7a0b37999f58c2,",
       "typography.body.xl.strong1.default": "S:5da705521ab1b41503c1c2b5f732da1afda4c785,",
       "typography.body.xl.heavy1.default": "S:d3cc9c9217285439ce3f9d69d384f175edca40b2,",
-      "typography.display.2xl.normal": "S:56aa81e82843c3acab5d93c4a5d2f1d4e1b9331f,",
       "typography.display.md.strong": "S:862c868cb2a2a52ea2aa30839ac47529e7ff11dc,",
       "typography.display.sm.strong": "S:0c4872139246bb7aa85696dac5f1150e865a02f4,",
       "typography.title.3xl.normal": "S:7b0e88ceb50252b9fe99ad30c2337ee2cdbb1409,",
@@ -5378,8 +5377,6 @@
       "typography.title.md.strong": "S:a347bfbeb2167b3b7a3f8b318bd7f5ee6b6674b5,",
       "typography.title.sm.strong": "S:0c80e3fd28abf90ab7b3f95b1f552c905da99c73,",
       "typography.title.xs.strong": "S:0a45471c027cbf151638eed0c22364c500fbc127,",
-      "typography.display.2xl.medium": "S:e585ba3916c3111a8aedc16276429128155b711d,",
-      "typography.display.2xl.strong": "S:65067585e42ea41ddee339580363167cbfdf4901,",
       "typography.display.xl.normal": "S:11d43924cc00dbc2abc3de00afb6705d2dfd31be,",
       "typography.display.xl.medium": "S:ae6e0f62cbefddc6f8cb734f748b24bf2a2b668a,",
       "typography.display.xl.strong": "S:02431680b7d50f86d4b036eefc1976b1f96a5dda,",
@@ -5461,7 +5458,10 @@
       "typography.body.3xs.medium.link": "S:ba3de77aca9aaac4e1ec4692a1999ddf5cd77d52,",
       "typography.body.3xs.medium.upper": "S:582e55a143bbbee98fbf1acc8c52fde34eb208dc,",
       "typography.body.3xs.medium.paragraph": "S:e562d4c8464227c9f282f7c8657ea5f153f3638c,",
-      "typography.body.3xs.medium.paragraph-link": "S:880f76f28276e0ba921766ea85243bf664e1fa83,"
+      "typography.body.3xs.medium.paragraph-link": "S:880f76f28276e0ba921766ea85243bf664e1fa83,",
+      "typography.display.2xl.normal1.default": "S:56aa81e82843c3acab5d93c4a5d2f1d4e1b9331f,",
+      "typography.display.2xl.medium1.default": "S:e585ba3916c3111a8aedc16276429128155b711d,",
+      "typography.display.2xl.strong1.default": "S:65067585e42ea41ddee339580363167cbfdf4901,"
     }
   }
 ]
