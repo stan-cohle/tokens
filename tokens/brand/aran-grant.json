@@ -289,11 +289,11 @@
     },
     "textCase": {
       "display": {
-        "value": "{semantic.textCase.upper}",
+        "value": "{base.textCase.upper}",
         "type": "textCase"
       },
       "title": {
-        "value": "{semantic.textCase.upper}",
+        "value": "{base.textCase.upper}",
         "type": "textCase"
       }
     },
