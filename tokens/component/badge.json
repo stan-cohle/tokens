@@ -89,7 +89,7 @@
             "fontFamily": "{semantic.fontFamily.body}",
             "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{semantic.fontSize.body.2xs}",
+            "fontSize": "{semantic.fontSize.body.xs}",
             "textCase": "{base.textCase.upper}"
           },
           "type": "typography"
@@ -99,7 +99,7 @@
             "fontFamily": "{semantic.fontFamily.body}",
             "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{semantic.fontSize.body.sm}",
+            "fontSize": "{semantic.fontSize.body.md}",
             "textCase": "{base.textCase.capitalize}"
           },
           "type": "typography"

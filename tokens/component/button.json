@@ -321,7 +321,7 @@
             "fontFamily": "{semantic.fontFamily.action}",
             "fontWeight": "{base.fontWeight.medium}",
             "lineHeight": "{comp.button.small.icon-size}",
-            "fontSize": "{semantic.fontSize.body.sm}"
+            "fontSize": "{semantic.fontSize.body.md}"
           },
           "type": "typography"
         },
@@ -330,7 +330,7 @@
             "fontFamily": "{semantic.fontFamily.action}",
             "fontWeight": "{base.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.medium.icon-size}",
-            "fontSize": "{semantic.fontSize.body.sm}"
+            "fontSize": "{semantic.fontSize.body.md}"
           },
           "type": "typography"
         },
@@ -339,7 +339,7 @@
             "fontFamily": "{semantic.fontFamily.action}",
             "fontWeight": "{base.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.large.icon-size}",
-            "fontSize": "{semantic.fontSize.body.md}"
+            "fontSize": "{semantic.fontSize.body.lg}"
           },
           "type": "typography"
         },
@@ -348,7 +348,7 @@
             "fontFamily": "{semantic.fontFamily.action}",
             "fontWeight": "{base.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.x-large.icon-size}",
-            "fontSize": "{semantic.fontSize.body.lg}"
+            "fontSize": "{semantic.fontSize.body.xl}"
           },
           "type": "typography"
         }

@@ -3,14 +3,14 @@
     "component": {
       "ifta": {
         "label": {
-          "value": "{typography.body.xs.normal.default}",
+          "value": "{base.body.sm.normal.default}",
           "type": "typography"
         },
         "entry": {
           "value": {
             "fontFamily": "{base.fontFamily.inter}",
             "fontWeight": "{base.fontWeight.medium}",
-            "lineHeight": "{semantic.lineHeight.body.lg.default}",
+            "lineHeight": "{semantic.lineHeight.body.xl.default}",
             "fontSize": "15"
           },
           "type": "typography"
@@ -19,7 +19,7 @@
           "value": {
             "fontFamily": "{base.fontFamily.inter}",
             "fontWeight": "{base.fontWeight.regular}",
-            "lineHeight": "{semantic.lineHeight.body.lg.default}",
+            "lineHeight": "{semantic.lineHeight.body.xl.default}",
             "fontSize": "15"
           },
           "type": "typography"
