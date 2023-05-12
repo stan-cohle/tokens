@@ -348,7 +348,7 @@
             "fontFamily": "{semantic.fontFamily.action}",
             "fontWeight": "{base.fontWeight.semi-bold}",
             "lineHeight": "{comp.button.x-large.icon-size}",
-            "fontSize": "{semantic.fontSize.body.xl}"
+            "fontSize": "{semantic.fontSize.title.xs}"
           },
           "type": "typography"
         }

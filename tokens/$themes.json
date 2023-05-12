@@ -1065,7 +1065,20 @@
       "base.wowfare.mint-gradient-2": "S:a23af63ef3ff0688be4094800b704303dd6db158,",
       "base.wowfare.mint-gradient-3": "S:a7cdd53547d602ae5fd2cd4b060d94f5344412dc,",
       "base.kayak.green.100": "S:65a112dd00d0a552857071eb7a33a0f64699929a,",
-      "base.kayak.green.500": "S:c5021b3d00a251f384e6767a194101d5d67a2e4a,"
+      "base.kayak.green.500": "S:c5021b3d00a251f384e6767a194101d5d67a2e4a,",
+      "typography.component.button.small": "S:b3cec805e1150e89958c11a7277c66839547e0c0,",
+      "typography.component.button.medium": "S:c178e61d8744c9f1689ade233078fa9d680d0da6,",
+      "typography.component.button.large": "S:c7e93517b6c26f69f7cd97b8493b2b290cd23eb7,",
+      "typography.component.button.x-large": "S:6add5ecba44e8b4c123dc6b077af8df5d25f3851,",
+      "typography.component.badge.small": "S:1300459e4e87b37d96a4adec0de5367d352c4000,",
+      "typography.component.badge.medium": "S:7083e7084d542d8f76d1dc00d71c1d4ce9f77a84,",
+      "typography.component.input.label": "S:69c53e90b08a1ec37f38a0afe3603c42bf8c4fa0,",
+      "typography.component.input.entry": "S:8c3b8884db1288fdbdcaf233ca84744e5f95e15f,",
+      "typography.component.input.error": "S:994c75eb45c4f435cadb11b2fce9bade74f91f7e,",
+      "typography.component.input.helper": "S:faf378fa6923c1a7e7aafd1d93f1399daf09963d,",
+      "typography.component.ifta.label": "S:b96fb90b32d0f0d73a91c26a6d3916b045025722,",
+      "typography.component.ifta.entry": "S:84dac85eaabed7942a97afa1d7d5126f099cd700,",
+      "typography.component.ifta.placeholder": "S:54cd150bbf6c5aba247c94c44d79adac243bb09b,"
     }
   },
   {
