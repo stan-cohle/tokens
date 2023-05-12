@@ -2020,7 +2020,7 @@
           "Default": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
-              "fontWeight": "{semantic.fontWeight.body.medium}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
               "lineHeight": "{semantic.lineHeight.body.xxs.default}",
               "fontSize": "{semantic.fontSize.body.xxs}"
             },
@@ -2030,7 +2030,7 @@
           "Link": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
-              "fontWeight": "{semantic.fontWeight.body.medium}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
               "lineHeight": "{semantic.lineHeight.body.xxs.default}",
               "fontSize": "{semantic.fontSize.body.xxs}",
               "textDecoration": "{semantic.textDecoration.under}"
@@ -2041,7 +2041,7 @@
           "Upper": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
-              "fontWeight": "{semantic.fontWeight.body.medium}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
               "lineHeight": "{semantic.lineHeight.body.xxs.default}",
               "fontSize": "{semantic.fontSize.body.xxs}",
               "textCase": "{base.textCase.upper}"
@@ -2052,7 +2052,7 @@
           "Paragraph": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
-              "fontWeight": "{semantic.fontWeight.body.medium}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
               "lineHeight": "{semantic.lineHeight.body.xxs.paragraph}",
               "fontSize": "{semantic.fontSize.body.xxs}"
             },
@@ -2062,7 +2062,7 @@
           "Paragraph-link": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
-              "fontWeight": "{semantic.fontWeight.body.medium}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
               "lineHeight": "{semantic.lineHeight.body.xxs.paragraph}",
               "fontSize": "{semantic.fontSize.body.xxs}",
               "textDecoration": "{semantic.textDecoration.under}"
@@ -2141,25 +2141,9 @@
         }
       },
       "title": {
-        "xs": {
+        "xl": {
           "default": {
-            "value": "roundTo({semantic.fontSize.title.xs}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
-            "type": "lineHeights"
-          },
-          "paragraph": {
-            "value": "roundTo({semantic.fontSize.title.xs}*{semantic.lineHeight.scale.body}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
-            "type": "lineHeights"
-          }
-        },
-        "sm": {
-          "default": {
-            "value": "roundTo({semantic.fontSize.title.sm}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
-            "type": "lineHeights"
-          }
-        },
-        "md": {
-          "default": {
-            "value": "roundTo({semantic.fontSize.title.md}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "roundTo({semantic.fontSize.title.xl}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
             "type": "lineHeights"
           }
         },
@@ -2169,9 +2153,25 @@
             "type": "lineHeights"
           }
         },
-        "xl": {
+        "md": {
           "default": {
-            "value": "roundTo({semantic.fontSize.title.xl}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "roundTo({semantic.fontSize.title.md}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "type": "lineHeights"
+          }
+        },
+        "sm": {
+          "default": {
+            "value": "roundTo({semantic.fontSize.title.sm}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "type": "lineHeights"
+          }
+        },
+        "xs": {
+          "default": {
+            "value": "roundTo({semantic.fontSize.title.xs}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "type": "lineHeights"
+          },
+          "paragraph": {
+            "value": "roundTo({semantic.fontSize.title.xs}*{semantic.lineHeight.scale.body}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
             "type": "lineHeights"
           }
         }
