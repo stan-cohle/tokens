@@ -2143,35 +2143,35 @@
       "title": {
         "xl": {
           "default": {
-            "value": "roundTo({semantic.fontSize.title.xl}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "32",
             "type": "lineHeights"
           }
         },
         "lg": {
           "default": {
-            "value": "roundTo({semantic.fontSize.title.lg}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "28",
             "type": "lineHeights"
           }
         },
         "md": {
           "default": {
-            "value": "roundTo({semantic.fontSize.title.md}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "24",
             "type": "lineHeights"
           }
         },
         "sm": {
           "default": {
-            "value": "roundTo({semantic.fontSize.title.sm}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "22",
             "type": "lineHeights"
           }
         },
         "xs": {
           "default": {
-            "value": "roundTo({semantic.fontSize.title.xs}*{semantic.lineHeight.scale.title}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "20",
             "type": "lineHeights"
           },
           "paragraph": {
-            "value": "roundTo({semantic.fontSize.title.xs}*{semantic.lineHeight.scale.body}/{semantic.lineHeight.factor},0) *{semantic.lineHeight.factor}",
+            "value": "24",
             "type": "lineHeights"
           }
         }
