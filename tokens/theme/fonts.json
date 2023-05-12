@@ -2,80 +2,68 @@
   "theme": {
     "Typography": {
       "Display": {
-        "2X-Large": {
-          "value": "{base.Display.XL.strong.default}",
+        "XL": {
+          "value": "{base.Display.XL.Strong.Default}",
           "type": "typography"
         },
-        "X-Large": {
-          "value": "{base.Display.lg.strong.default}",
+        "LG": {
+          "value": "{base.Display.LG.Strong.Default}",
           "type": "typography"
         },
-        "Large": {
-          "value": "{base.Display.md.strong.default}",
+        "MD": {
+          "value": "{base.Display.MD.Strong.Default}",
           "type": "typography"
         },
-        "Medium": {
-          "value": "{base.Display.sm.strong.default}",
+        "SM": {
+          "value": "{base.Display.SM.Strong.Default}",
           "type": "typography"
         },
-        "Small": {
-          "value": "{base.Display.xs.strong.default}",
-          "type": "typography"
-        },
-        "X-Small": {
-          "value": "{base.title.3xl.strong.default}",
+        "XS": {
+          "value": "{base.Display.XS.Strong.Default}",
           "type": "typography"
         }
       },
       "Title": {
-        "4X-Large": {
-          "value": "{base.title.2xl.strong.default}",
+        "XL": {
+          "value": "{base.Title.XL.Strong.Default}",
           "type": "typography"
         },
-        "3X-Large": {
-          "value": "{base.Title.lg.strong.default}",
+        "LG": {
+          "value": "{base.Title.LG.Strong.Default}",
           "type": "typography"
         },
-        "2X-Large": {
-          "value": "{base.Title.md.strong.default}",
+        "MD": {
+          "value": "{base.Title.MD.Strong.Default}",
           "type": "typography"
         },
-        "Medium": {
-          "value": "{base.body.2xl.strong.default}",
+        "SM": {
+          "value": "{base.Title.SM.Strong.Default}",
           "type": "typography"
         },
-        "Small": {
-          "value": "{base.body.xl.strong.default}",
-          "type": "typography"
-        },
-        "X-Small": {
-          "value": "{base.body.xl.strong.default}",
+        "XS": {
+          "value": "{base.Title.XS.Strong.Default}",
           "type": "typography"
         }
       },
       "Body": {
-        "Large": {
-          "value": "{base.body.xl.normal.default}",
+        "LG": {
+          "value": "{base.Body.LG.Normal.Default}",
           "type": "typography"
         },
-        "Medium": {
-          "value": "{base.Body.lg.normal.default}",
+        "MD": {
+          "value": "{base.Body.MD.Normal.Default}",
           "type": "typography"
         },
-        "Small": {
-          "value": "{base.Body.md.normal.default}",
+        "SM": {
+          "value": "{base.Body.SM.Normal.Default}",
           "type": "typography"
         },
-        "X-Small": {
-          "value": "{base.Body.sm.normal.default}",
+        "XS": {
+          "value": "{base.Body.XS.Normal.Default}",
           "type": "typography"
         },
-        "2X-Small": {
-          "value": "{base.Body.xs.normal.default}",
-          "type": "typography"
-        },
-        "3X-Small": {
-          "value": "{base.Body.xxs.normal.default}",
+        "XXS": {
+          "value": "{base.Body.XXS.Normal.Default}",
           "type": "typography"
         }
       }
