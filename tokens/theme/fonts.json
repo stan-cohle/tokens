@@ -3,23 +3,23 @@
     "Typography": {
       "Display": {
         "2X-Large": {
-          "value": "{base.display.xl.strong.default}",
+          "value": "{base.Display.XL.strong.default}",
           "type": "typography"
         },
         "X-Large": {
-          "value": "{base.display.lg.strong.default}",
+          "value": "{base.Display.lg.strong.default}",
           "type": "typography"
         },
         "Large": {
-          "value": "{base.display.md.strong.default}",
+          "value": "{base.Display.md.strong.default}",
           "type": "typography"
         },
         "Medium": {
-          "value": "{base.display.sm.strong.default}",
+          "value": "{base.Display.sm.strong.default}",
           "type": "typography"
         },
         "Small": {
-          "value": "{base.display.xs.strong.default}",
+          "value": "{base.Display.xs.strong.default}",
           "type": "typography"
         },
         "X-Small": {
@@ -33,11 +33,11 @@
           "type": "typography"
         },
         "3X-Large": {
-          "value": "{base.title.lg.strong.default}",
+          "value": "{base.Title.lg.strong.default}",
           "type": "typography"
         },
         "2X-Large": {
-          "value": "{base.title.md.strong.default}",
+          "value": "{base.Title.md.strong.default}",
           "type": "typography"
         },
         "Medium": {
@@ -59,23 +59,23 @@
           "type": "typography"
         },
         "Medium": {
-          "value": "{base.body.lg.normal.default}",
+          "value": "{base.Body.lg.normal.default}",
           "type": "typography"
         },
         "Small": {
-          "value": "{base.body.md.normal.default}",
+          "value": "{base.Body.md.normal.default}",
           "type": "typography"
         },
         "X-Small": {
-          "value": "{base.body.sm.normal.default}",
+          "value": "{base.Body.sm.normal.default}",
           "type": "typography"
         },
         "2X-Small": {
-          "value": "{base.body.xs.normal.default}",
+          "value": "{base.Body.xs.normal.default}",
           "type": "typography"
         },
         "3X-Small": {
-          "value": "{base.body.xxs.normal.default}",
+          "value": "{base.Body.xxs.normal.default}",
           "type": "typography"
         }
       }
