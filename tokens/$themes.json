@@ -5149,7 +5149,20 @@
       "base.Body.XXS.Strong.Link": "S:6c55172c89b854c5351d55f02045067f4d68bdff,",
       "base.Body.XXS.Strong.Upper": "S:980776b600ddc57b20a09c8c0de514fecfb06880,",
       "base.Body.XXS.Strong.Paragraph": "S:4ad7f3efca650013398d44664ed32d9358ea7559,",
-      "base.Body.XXS.Strong.Paragraph-link": "S:4b03ebd3b74613da0afec78ebe7df35e06b34e89,"
+      "base.Body.XXS.Strong.Paragraph-link": "S:4b03ebd3b74613da0afec78ebe7df35e06b34e89,",
+      "typography.component.button.small": "S:0e7c63c4e763d411bf73b77bb9755740d06440ae,",
+      "typography.component.button.medium": "S:835c7e5a1d76b2d97698aa7b9657de73f2455e17,",
+      "typography.component.button.large": "S:424fb518f8f932d6970fa45d40d74be556c4ef41,",
+      "typography.component.button.x-large": "S:3a300fb54223e48914ff653b32f96e5d58a1db46,",
+      "typography.component.badge.small": "S:a0d3dd69fbcd70e20258400745dd4c914f96fd37,",
+      "typography.component.badge.medium": "S:b6d4be4089608bcb8d1dd972f7689d9a707fa95c,",
+      "typography.component.input.label": "S:ff88e169414f104dae1eeeb5f2f9cc9b82028bd3,",
+      "typography.component.input.entry": "S:daf0d86df7a83e453d58ff08b9bb369910372721,",
+      "typography.component.input.error": "S:f84df92754b78533f0ee88fa592f9361b9bc3198,",
+      "typography.component.input.helper": "S:efe7a740485869902d8cdd78bec1045118f0e97d,",
+      "typography.component.ifta.label": "S:92089a8e9a8b70707bb1f655bf412aa6ffe732e4,",
+      "typography.component.ifta.entry": "S:0fa73540ee80c800808056d4bf4a61fcb8e1f153,",
+      "typography.component.ifta.placeholder": "S:9baf9b8a95ff53b8d3729a22cb6568cd6d017f43,"
     }
   },
   {
