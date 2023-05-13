@@ -884,7 +884,7 @@
               "textCase": ""
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Upper": {
             "value": {
@@ -895,7 +895,7 @@
               "textCase": "{base.textCase.upper}"
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Paragraph": {
             "value": {
@@ -906,7 +906,7 @@
               "textCase": ""
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           }
         },
         "Medium": {
@@ -919,7 +919,7 @@
               "textCase": ""
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Upper": {
             "value": {
@@ -930,7 +930,7 @@
               "textCase": "{base.textCase.upper}"
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Paragraph": {
             "value": {
@@ -941,7 +941,7 @@
               "textCase": ""
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           }
         },
         "Strong": {
@@ -954,7 +954,7 @@
               "textCase": ""
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Upper": {
             "value": {
@@ -965,7 +965,7 @@
               "textCase": "{base.textCase.upper}"
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Paragraph": {
             "value": {
@@ -976,7 +976,7 @@
               "textCase": ""
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           }
         },
         "Heavy": {
@@ -989,7 +989,7 @@
               "textCase": "{semantic.textCase.title}"
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Upper": {
             "value": {
@@ -1000,7 +1000,7 @@
               "textCase": "{base.textCase.upper}"
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           },
           "Paragraph": {
             "value": {
@@ -1011,7 +1011,7 @@
               "textCase": ""
             },
             "type": "typography",
-            "description": "14"
+            "description": "16"
           }
         }
       }
