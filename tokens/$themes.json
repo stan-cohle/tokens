@@ -5162,7 +5162,13 @@
       "typography.component.input.helper": "S:efe7a740485869902d8cdd78bec1045118f0e97d,",
       "typography.component.ifta.label": "S:92089a8e9a8b70707bb1f655bf412aa6ffe732e4,",
       "typography.component.ifta.entry": "S:0fa73540ee80c800808056d4bf4a61fcb8e1f153,",
-      "typography.component.ifta.placeholder": "S:9baf9b8a95ff53b8d3729a22cb6568cd6d017f43,"
+      "typography.component.ifta.placeholder": "S:9baf9b8a95ff53b8d3729a22cb6568cd6d017f43,",
+      "base.Body.LG.Normal.Strike": "S:6f45b60fe60598946ecdf523e19ecf73515dc256,",
+      "base.Body.LG.Medium.Strike": "S:c495373e40b633e06ea7e4439b1cff9cfb582dfa,",
+      "base.Body.MD.Normal.Strike": "S:f20089c12873f5924cd0940da0cca17c87cb26b5,",
+      "base.Body.MD.Medium.Strike": "S:e87c416251e91e22184518cdc409d1caee597e32,",
+      "base.Body.SM.Normal.Strike": "S:9925ed362138941eb8cb70ab97b8feb810b59c7f,",
+      "base.Body.SM.Medium.Strike": "S:770f6c6629b5a7ff57f8b70ff477b7b7f22588bc,"
     }
   },
   {
