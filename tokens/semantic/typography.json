@@ -1183,6 +1183,17 @@
             "type": "typography",
             "description": "14"
           },
+          "Strike": {
+            "value": {
+              "fontFamily": "{semantic.fontFamily.body}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
+              "textDecoration": "{semantic.textDecoration.strike}"
+            },
+            "type": "typography",
+            "description": "14"
+          },
           "Paragraph": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
@@ -1234,6 +1245,17 @@
               "lineHeight": "{semantic.lineHeight.body.lg.default}",
               "fontSize": "{semantic.fontSize.body.lg}",
               "textCase": "{base.textCase.upper}"
+            },
+            "type": "typography",
+            "description": "14"
+          },
+          "Strike": {
+            "value": {
+              "fontFamily": "{semantic.fontFamily.body}",
+              "fontWeight": "{semantic.fontWeight.body.heavy}",
+              "lineHeight": "{semantic.lineHeight.body.lg.default}",
+              "fontSize": "{semantic.fontSize.body.lg}",
+              "textDecoration": "{semantic.textDecoration.strike}"
             },
             "type": "typography",
             "description": "14"
@@ -1427,6 +1449,17 @@
             "type": "typography",
             "description": "13"
           },
+          "Strike": {
+            "value": {
+              "fontFamily": "{semantic.fontFamily.body}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
+              "textDecoration": "{semantic.textDecoration.strike}"
+            },
+            "type": "typography",
+            "description": "13"
+          },
           "Paragraph": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
@@ -1478,6 +1511,17 @@
               "lineHeight": "{semantic.lineHeight.body.md.default}",
               "fontSize": "{semantic.fontSize.body.md}",
               "textCase": "{base.textCase.upper}"
+            },
+            "type": "typography",
+            "description": "13"
+          },
+          "Strike": {
+            "value": {
+              "fontFamily": "{semantic.fontFamily.body}",
+              "fontWeight": "{semantic.fontWeight.body.heavy}",
+              "lineHeight": "{semantic.lineHeight.body.md.default}",
+              "fontSize": "{semantic.fontSize.body.md}",
+              "textDecoration": "{semantic.textDecoration.strike}"
             },
             "type": "typography",
             "description": "13"
@@ -1671,6 +1715,17 @@
             "type": "typography",
             "description": "12"
           },
+          "Strike": {
+            "value": {
+              "fontFamily": "{semantic.fontFamily.body}",
+              "fontWeight": "{semantic.fontWeight.body.strong}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
+              "textDecoration": "{semantic.textDecoration.strike}"
+            },
+            "type": "typography",
+            "description": "12"
+          },
           "Paragraph": {
             "value": {
               "fontFamily": "{semantic.fontFamily.body}",
@@ -1722,6 +1777,17 @@
               "lineHeight": "{semantic.lineHeight.body.sm.default}",
               "fontSize": "{semantic.fontSize.body.sm}",
               "textCase": "{base.textCase.upper}"
+            },
+            "type": "typography",
+            "description": "12"
+          },
+          "Strike": {
+            "value": {
+              "fontFamily": "{semantic.fontFamily.body}",
+              "fontWeight": "{semantic.fontWeight.body.heavy}",
+              "lineHeight": "{semantic.lineHeight.body.sm.default}",
+              "fontSize": "{semantic.fontSize.body.sm}",
+              "textDecoration": "{semantic.textDecoration.strike}"
             },
             "type": "typography",
             "description": "12"
