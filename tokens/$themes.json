@@ -3835,9 +3835,6 @@
   {
     "id": "25779fe62b26ef390570a8522fa9e3807ae318e3",
     "name": "Core Colors",
-    "selectedTokenSets": {
-      "core/colors": "enabled"
-    },
     "$figmaStyleReferences": {
       "core.color.generic.white": "S:ed81915eebc81058f35ce841a6efd6bc17c764dd,",
       "core.color.generic.black": "S:d454cac90e8eb6ec4ea1a70ca4e5bf13d5a82f6a,",
@@ -4093,6 +4090,9 @@
       "core.color.warm-gray.900": "S:52629515d41a535b17ccce5e6ab734c4cfcb2149,",
       "core.color.warm-gray.1000": "S:e870eb83d65302f6a1d69f27c8ef8f6d606e377b,",
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
+    },
+    "selectedTokenSets": {
+      "core/colors": "enabled"
     }
   },
   {
