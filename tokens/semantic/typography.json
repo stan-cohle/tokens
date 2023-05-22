@@ -2482,7 +2482,8 @@
               "fontFamily": "{semantic.fontFamily.body}",
               "fontWeight": "{semantic.fontWeight.body.strong}",
               "lineHeight": "{semantic.lineHeight.body.xxs.paragraph}",
-              "fontSize": "{semantic.fontSize.body.xxs}"
+              "fontSize": "{semantic.fontSize.body.xxs}",
+              "textCase": "{base.textCase.upper}"
             },
             "type": "typography",
             "description": "10"
