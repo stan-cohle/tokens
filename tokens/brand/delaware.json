@@ -103,10 +103,6 @@
             }
           }
         }
-      },
-      "canvas": {
-        "value": "{base.delaware.light-gray}",
-        "type": "color"
       }
     },
     "content": {
