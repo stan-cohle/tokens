@@ -62,6 +62,10 @@
       "ducky-yellow": {
         "value": "#FFD300",
         "type": "color"
+      },
+      "light-gray": {
+        "value": "#EEEEEE",
+        "type": "color"
       }
     },
     "info": {
@@ -198,7 +202,7 @@
     },
     "presets": {
       "footer": {
-        "value": "{base.delaware.raisin-black}",
+        "value": "{base.delaware.blue-whale}",
         "type": "color"
       },
       "header": {
@@ -215,40 +219,27 @@
         "value": "{base.neutral.1000}",
         "type": "color"
       },
-      "danger": {
-        "value": "{base.delaware.lava}",
-        "type": "color"
-      },
       "brand": {
-        "value": "{base.delaware.cherry}",
+        "value": "{base.delaware.electric-blue}",
         "type": "color"
       }
     },
     "interactive": {
       "default": {
         "normal": {
-          "value": "{base.delaware.raisin-black}",
+          "value": "{base.delaware.electric-blue}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.interactive.default.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "{semantic.color.modifiers.button.hover-mod}",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{base.delaware.blue-whale}",
+          "type": "color"
         },
         "active": {
-          "value": "{theme.interactive.default.normal}",
+          "value": "{theme.interactive.default.hover}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.delaware.raisin-black}",
+          "value": "{theme.interactive.default.normal}",
           "type": "color"
         },
         "subtle-normal": {
@@ -258,7 +249,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.96",
+                "value": "0.92",
                 "space": "lch"
               }
             }
@@ -271,7 +262,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.9",
+                "value": "0.88",
                 "space": "lch"
               }
             }
@@ -284,30 +275,21 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.86",
+                "value": "0.84",
                 "space": "lch"
               }
             }
           }
         },
         "subtle-selected": {
-          "value": "{theme.interactive.default.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.9",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{theme.interactive.default.subtle-hover}",
+          "type": "color"
         }
       },
       "form": {
         "border": {
           "active": {
-            "value": "{base.delaware.raisin-black}",
+            "value": "{base.delaware.blue-whale}",
             "type": "color"
           }
         }
@@ -323,7 +305,7 @@
         "type": "color"
       },
       "canvas": {
-        "value": "#EEEEEE",
+        "value": "{base.delaware.light-gray}",
         "type": "color"
       }
     },
