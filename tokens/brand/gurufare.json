@@ -185,17 +185,89 @@
         "type": "color",
         "value": "{base.gurufare.ship.600}"
       },
-      "controls": {
-        "type": "color",
-        "value": "{base.gurufare.macaw-blue.600}"
-      },
       "footer": {
         "type": "color",
         "value": "{base.gurufare.stone.900}"
-      },
+      }
+    },
+    "action": {
       "link": {
-        "type": "color",
-        "value": "{base.gurufare.ship.700}"
+        "normal": {
+          "type": "color",
+          "value": "{base.gurufare.ship.700}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{base.gurufare.ship.700}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "type": "color",
+          "value": "{base.gurufare.ship.700}",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "primary": {
+        "normal": {
+          "value": "{base.gurufare.macaw-blue.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.gurufare.macaw-blue.700}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.gurufare.macaw-blue.700}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "{base.gurufare.mandy.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.gurufare.mandy.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{base.gurufare.mandy.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
+        }
       }
     },
     "bg": {
@@ -262,54 +334,6 @@
         }
       }
     },
-    "action": {
-      "primary": {
-        "normal": {
-          "value": "{base.gurufare.macaw-blue.600}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{base.gurufare.macaw-blue.700}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{base.gurufare.macaw-blue.700}",
-          "type": "color"
-        }
-      },
-      "accent": {
-        "normal": {
-          "value": "{base.gurufare.mandy.600}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{base.gurufare.mandy.600}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.button.hover-mod}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{base.gurufare.mandy.600}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.button.hover-mod}",
-                "space": "lch"
-              }
-            }
-          }
-        }
-      }
-    },
     "interactive": {
       "default": {
         "normal": {
@@ -369,6 +393,66 @@
           "active": {
             "value": "{base.gurufare.ship.600}",
             "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "_system": {
+    "color": {
+      "shadow": {
+        "primary": {
+          "value": "{base.gurufare.ship.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{core.opacity.300}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "accent": {
+          "value": "{base.gurufare.mandy.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{core.opacity.300}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "focus": {
+        "primary": {
+          "value": "{base.gurufare.ship.700}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{core.opacity.300}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "accent": {
+          "value": "{base.gurufare.mandy.600}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{core.opacity.300}",
+                "space": "lch"
+              }
+            }
           }
         }
       }
