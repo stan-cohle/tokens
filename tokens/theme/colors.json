@@ -34,9 +34,18 @@
         "value": "{base.neutral.900}"
       },
       "scrim": {
-        "value": "rgba({base.neutral.900},{core.opacity.800})",
+        "value": "{base.neutral.900}",
         "type": "color",
-        "description": "Scrim, Backdrop, Modal background"
+        "description": "Scrim, Backdrop, Modal background",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.800}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "canvas": {
         "type": "color",
