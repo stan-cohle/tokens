@@ -7,30 +7,12 @@
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.button.hover-mod}",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{theme.action.accent.hover}",
+          "type": "color"
         },
         "active": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.button.pressed-mod}",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{theme.action.accent.active}",
+          "type": "color"
         }
       },
       "accent": {
@@ -115,6 +97,45 @@
         "active": {
           "value": "{theme.action.accent.hover}",
           "type": "color"
+        },
+        "subtle-normal": {
+          "value": "{theme.action.accent.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.94",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "subtle-hover": {
+          "value": "{theme.action.accent.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.9",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "subtle-active": {
+          "value": "{theme.action.accent.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.86",
+                "space": "lch"
+              }
+            }
+          }
         }
       }
     },
@@ -154,6 +175,10 @@
         "value": "{base.chatdeal.blue}",
         "type": "color"
       },
+      "brand-subtle": {
+        "value": "{theme.border.info-subtle}",
+        "type": "color"
+      },
       "accent": {
         "value": "{base.chatdeal.coral}",
         "type": "color"
@@ -165,7 +190,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.7",
+              "value": "0.76",
               "space": "lch"
             }
           }
