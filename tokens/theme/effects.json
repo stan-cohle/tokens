@@ -366,7 +366,7 @@
     "color": {
       "shadow": {
         "primary": {
-          "value": "{base.brand.700}",
+          "value": "{_system.color.base.primary}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -379,7 +379,7 @@
           }
         },
         "accent": {
-          "value": "{base.accent.700}",
+          "value": "{_system.color.base.accent}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -392,7 +392,7 @@
           }
         },
         "success": {
-          "value": "{base.success.700}",
+          "value": "{_system.color.base.success}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -405,7 +405,7 @@
           }
         },
         "warning": {
-          "value": "{base.warning.700}",
+          "value": "{_system.color.base.warning}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -418,7 +418,7 @@
           }
         },
         "danger": {
-          "value": "{base.danger.700}",
+          "value": "{_system.color.base.danger}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -431,7 +431,7 @@
           }
         },
         "info": {
-          "value": "{base.info.700}",
+          "value": "{_system.color.base.info}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -446,7 +446,7 @@
       },
       "focus": {
         "primary": {
-          "value": "{base.brand.600}",
+          "value": "{_system.color.base.primary}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -459,7 +459,7 @@
           }
         },
         "accent": {
-          "value": "{base.accent.600}",
+          "value": "{_system.color.base.accent}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -472,7 +472,7 @@
           }
         },
         "success": {
-          "value": "{base.success.600}",
+          "value": "{_system.color.base.success}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -485,7 +485,7 @@
           }
         },
         "warning": {
-          "value": "{base.warning.600}",
+          "value": "{_system.color.base.warning}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -498,7 +498,7 @@
           }
         },
         "danger": {
-          "value": "{base.danger.600}",
+          "value": "{_system.color.base.danger}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -511,7 +511,7 @@
           }
         },
         "info": {
-          "value": "{base.info.600}",
+          "value": "{_system.color.base.info}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -535,6 +535,32 @@
               }
             }
           }
+        }
+      },
+      "base": {
+        "primary": {
+          "value": "{base.brand.600}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{base.accent.600}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{base.success.600}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{base.warning.600}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{base.danger.600}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{base.info.600}",
+          "type": "color"
         }
       }
     }

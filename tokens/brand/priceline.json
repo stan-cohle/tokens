@@ -573,5 +573,19 @@
         }
       }
     }
+  },
+  "_system": {
+    "color": {
+      "base": {
+        "primary": {
+          "value": "{base.priceline.primary.base}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{base.priceline.secondary.base}",
+          "type": "color"
+        }
+      }
+    }
   }
 }
