@@ -148,6 +148,10 @@
         "value": "{base.chatdeal.blue}",
         "type": "color"
       },
+      "brand-subtle": {
+        "value": "{theme.bg.info-subtle}",
+        "type": "color"
+      },
       "accent": {
         "value": "{base.chatdeal.coral}",
         "type": "color"
