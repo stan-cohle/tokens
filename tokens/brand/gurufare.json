@@ -179,11 +179,11 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{base.gurufare.ship.700}"
+        "value": "{base.gurufare.other.mariner}"
       },
       "subheader": {
         "type": "color",
-        "value": "{base.gurufare.ship.600}"
+        "value": "{base.gurufare.other.mariner-gradient}"
       },
       "footer": {
         "type": "color",
@@ -194,11 +194,11 @@
       "link": {
         "normal": {
           "type": "color",
-          "value": "{base.gurufare.ship.700}"
+          "value": "{base.gurufare.other.mariner}"
         },
         "hover": {
           "type": "color",
-          "value": "{base.gurufare.ship.700}",
+          "value": "{theme.action.link.normal}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -211,7 +211,7 @@
         },
         "active": {
           "type": "color",
-          "value": "{base.gurufare.ship.700}",
+          "value": "{theme.action.link.normal}",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -225,16 +225,34 @@
       },
       "primary": {
         "normal": {
-          "value": "{base.gurufare.macaw-blue.600}",
+          "value": "{base.gurufare.other.mariner}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.gurufare.macaw-blue.700}",
-          "type": "color"
+          "value": "{theme.action.primary.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
         },
         "active": {
-          "value": "{base.gurufare.macaw-blue.700}",
-          "type": "color"
+          "value": "{theme.action.primary.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "lch"
+              }
+            }
+          }
         }
       },
       "accent": {
@@ -272,12 +290,21 @@
     },
     "bg": {
       "brand": {
-        "value": "{base.gurufare.macaw-blue.600}",
+        "value": "{base.gurufare.other.mariner}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{base.gurufare.macaw-blue.100}",
-        "type": "color"
+        "value": "{base.gurufare.other.mariner}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.92",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "accent": {
         "value": "{base.gurufare.mandy.600}",
@@ -299,7 +326,7 @@
     },
     "content": {
       "brand": {
-        "value": "{base.gurufare.macaw-blue.700}",
+        "value": "{base.gurufare.other.mariner}",
         "type": "color"
       },
       "accent": {
@@ -309,12 +336,21 @@
     },
     "border": {
       "brand": {
-        "value": "{base.gurufare.macaw-blue.600}",
+        "value": "{base.gurufare.other.mariner}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{base.gurufare.macaw-blue.300}",
-        "type": "color"
+        "value": "{base.gurufare.other.mariner}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.74",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "accent": {
         "value": "{base.gurufare.mandy.600}",
@@ -337,16 +373,34 @@
     "interactive": {
       "default": {
         "normal": {
-          "value": "{base.gurufare.asphalt.700}",
+          "value": "{theme.action.link.normal}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.gurufare.asphalt.500}",
-          "type": "color"
+          "value": "{theme.interactive.default.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod}",
+                "space": "lch"
+              }
+            }
+          }
         },
         "active": {
-          "value": "{base.gurufare.asphalt.700}",
-          "type": "color"
+          "value": "{theme.interactive.default.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod}",
+                "space": "lch"
+              }
+            }
+          }
         },
         "subtle-normal": {
           "value": "{base.gurufare.asphalt.700}",
@@ -391,7 +445,7 @@
       "form": {
         "border": {
           "active": {
-            "value": "{base.gurufare.ship.600}",
+            "value": "{base.gurufare.other.mariner}",
             "type": "color"
           }
         }
