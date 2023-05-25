@@ -454,60 +454,14 @@
   },
   "_system": {
     "color": {
-      "shadow": {
+      "base": {
         "primary": {
-          "value": "{base.gurufare.ship.600}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{core.opacity.300}",
-                "space": "lch"
-              }
-            }
-          }
+          "value": "{base.gurufare.other.mariner}",
+          "type": "color"
         },
         "accent": {
           "value": "{base.gurufare.mandy.600}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{core.opacity.300}",
-                "space": "lch"
-              }
-            }
-          }
-        }
-      },
-      "focus": {
-        "primary": {
-          "value": "{base.gurufare.ship.700}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{core.opacity.300}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "accent": {
-          "value": "{base.gurufare.mandy.600}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{core.opacity.300}",
-                "space": "lch"
-              }
-            }
-          }
+          "type": "color"
         }
       }
     }
