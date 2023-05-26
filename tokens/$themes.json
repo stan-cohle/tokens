@@ -1306,7 +1306,8 @@
       "theme.border.brand": "S:1b487e22d652f72a40101327ed30deb308a86f3f,",
       "theme.border.brand-subtle": "S:13fce18b17a3fc8db152fc4b6ba7b8db9e939f68,",
       "theme.action.primary.active": "S:7b4002ccb4d8b5fd1fbb90949dc7d73ad090062f,",
-      "theme.action.link.normal": "S:604da965de4bc16c9c0db26f8e4748efe689888c,"
+      "theme.action.link.normal": "S:604da965de4bc16c9c0db26f8e4748efe689888c,",
+      "theme.bg.brand": "S:af9612811b35286eaf9958550007382dbc2fc5d2,"
     },
     "selectedTokenSets": {
       "core/colors": "source",
