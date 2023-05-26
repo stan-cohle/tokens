@@ -86,20 +86,20 @@
       "badge": {
         "small": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{base.fontWeight.medium}",
+            "fontFamily": "{semantic.font-family.body}",
+            "fontWeight": "{base.font-weight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{semantic.fontSize.body.xs}",
+            "fontSize": "{semantic.font-size.body.xs}",
             "textCase": "{base.textCase.upper}"
           },
           "type": "typography"
         },
         "medium": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{base.fontWeight.medium}",
+            "fontFamily": "{semantic.font-family.body}",
+            "fontWeight": "{base.font-weight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
-            "fontSize": "{semantic.fontSize.body.md}",
+            "fontSize": "{semantic.font-size.body.md}",
             "textCase": "{base.textCase.capitalize}"
           },
           "type": "typography"

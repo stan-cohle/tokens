@@ -329,7 +329,7 @@
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{base.fontFamily.inter}",
+        "value": "{base.font-family.inter}",
         "type": "fontFamilies"
       }
     }

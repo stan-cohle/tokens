@@ -264,8 +264,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "semantic/generic-colors": "enabled",
-      "theme/system": "source"
+      "semantic/generic-colors": "enabled"
     }
   },
   {
@@ -519,8 +518,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/kayak": "enabled",
-      "semantic/generic-colors": "enabled",
-      "theme/system": "source"
+      "semantic/generic-colors": "enabled"
     }
   },
   {
@@ -1026,8 +1024,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/chatdeal": "enabled",
-      "semantic/brand-colors": "source",
-      "theme/system": "source"
+      "semantic/brand-colors": "source"
     }
   },
   {
@@ -1357,8 +1354,7 @@
       "component/alert": "source",
       "brand/aran-grant": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "theme/system": "source"
+      "semantic/brand-colors": "enabled"
     }
   },
   {
@@ -1877,8 +1873,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/gurufare": "enabled",
-      "theme/system": "source"
+      "brand/gurufare": "enabled"
     }
   },
   {
@@ -2153,8 +2148,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/luxmiles": "enabled",
-      "semantic/brand-colors": "source",
-      "theme/system": "source"
+      "semantic/brand-colors": "source"
     }
   },
   {
@@ -2422,8 +2416,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/underpricer": "enabled",
-      "theme/system": "source"
+      "brand/underpricer": "enabled"
     }
   },
   {
@@ -2707,8 +2700,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/myquility": "enabled",
-      "theme/system": "source"
+      "brand/myquility": "enabled"
     }
   },
   {
@@ -2972,8 +2964,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/allsavings": "enabled",
-      "theme/system": "source"
+      "brand/allsavings": "enabled"
     }
   },
   {
@@ -3247,8 +3238,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/volunteerhq": "enabled",
-      "theme/system": "source"
+      "brand/volunteerhq": "enabled"
     }
   },
   {
@@ -3537,8 +3527,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/abenity": "enabled",
-      "theme/system": "source"
+      "brand/abenity": "enabled"
     }
   },
   {
@@ -3819,8 +3808,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/easemytrip": "enabled",
-      "theme/system": "source"
+      "brand/easemytrip": "enabled"
     }
   },
   {
@@ -4068,8 +4056,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled",
-      "theme/system": "source"
+      "brand/scholartrip": "enabled"
     }
   },
   {
@@ -4361,8 +4348,7 @@
       "brand/ovago_old": "enabled",
       "brand/ovago": "enabled",
       "semantic/brand-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "theme/system": "source"
+      "semantic/generic-colors": "enabled"
     }
   },
   {
@@ -4922,8 +4908,7 @@
       "component/alert": "source",
       "brand/hop2": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled",
-      "theme/system": "source"
+      "semantic/generic-colors": "enabled"
     }
   },
   {
@@ -5471,8 +5456,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "theme/system": "source"
+      "semantic/brand-colors": "enabled"
     }
   },
   {
@@ -6001,8 +5985,7 @@
       "component/alert": "source",
       "brand/wowfare": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "theme/system": "source"
+      "semantic/brand-colors": "enabled"
     }
   },
   {
@@ -6438,8 +6421,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/delaware": "enabled",
-      "theme/system": "source"
+      "brand/delaware": "enabled"
     }
   },
   {
@@ -6914,8 +6896,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/priceline": "enabled",
-      "theme/system": "source"
+      "brand/priceline": "enabled"
     }
   }
 ]

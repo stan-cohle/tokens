@@ -197,43 +197,43 @@
     "fontWeight": {
       "body": {
         "regular": {
-          "value": "{base.fontWeight.medium}",
+          "value": "{base.font-weight.medium}",
           "type": "fontWeights"
         },
         "strong": {
-          "value": "{base.fontWeight.semi-bold}",
+          "value": "{base.font-weight.semi-bold}",
           "type": "fontWeights"
         },
         "heavy": {
-          "value": "{base.fontWeight.bold}",
+          "value": "{base.font-weight.bold}",
           "type": "fontWeights"
         }
       },
       "display": {
         "regular": {
-          "value": "{base.fontWeight.medium}",
+          "value": "{base.font-weight.medium}",
           "type": "fontWeights"
         },
         "strong": {
-          "value": "{base.fontWeight.bold}",
+          "value": "{base.font-weight.bold}",
           "type": "fontWeights"
         },
         "heavy": {
-          "value": "{base.fontWeight.extra-bold}",
+          "value": "{base.font-weight.extra-bold}",
           "type": "fontWeights"
         }
       },
       "title": {
         "regular": {
-          "value": "{base.fontWeight.medium}",
+          "value": "{base.font-weight.medium}",
           "type": "fontWeights"
         },
         "strong": {
-          "value": "{base.fontWeight.bold}",
+          "value": "{base.font-weight.bold}",
           "type": "fontWeights"
         },
         "heavy": {
-          "value": "{base.fontWeight.extra-bold}",
+          "value": "{base.font-weight.extra-bold}",
           "type": "fontWeights"
         }
       }
@@ -342,8 +342,8 @@
       "button": {
         "x-large": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{semantic.fontWeight.body.strong}",
+            "fontFamily": "{semantic.font-family.body}",
+            "fontWeight": "{semantic.font-weight.body.strong}",
             "lineHeight": "{comp.button.x-large.icon-size}",
             "fontSize": "{semantic.fontSize.body.xl}"
           },
@@ -351,8 +351,8 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{semantic.fontWeight.body.strong}",
+            "fontFamily": "{semantic.font-family.body}",
+            "fontWeight": "{semantic.font-weight.body.strong}",
             "lineHeight": "{comp.button.large.icon-size}",
             "fontSize": "{semantic.fontSize.body.xl}"
           },
@@ -360,8 +360,8 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{semantic.fontWeight.body.strong}",
+            "fontFamily": "{semantic.font-family.body}",
+            "fontWeight": "{semantic.font-weight.body.strong}",
             "lineHeight": "{comp.button.medium.icon-size}",
             "fontSize": "{semantic.fontSize.body.xl}"
           },
@@ -369,10 +369,10 @@
         },
         "small": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{semantic.fontWeight.body.strong}",
+            "fontFamily": "{semantic.font-family.body}",
+            "fontWeight": "{semantic.font-weight.body.strong}",
             "lineHeight": "{comp.button.small.icon-size}",
-            "fontSize": "{semantic.fontSize.body.lg}"
+            "fontSize": "{semantic.font-size.body.lg}"
           },
           "type": "typography"
         }

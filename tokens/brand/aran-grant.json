@@ -283,11 +283,11 @@
         "type": "fontFamilies"
       },
       "display": {
-        "value": "{semantic.fontFamily.secondary}",
+        "value": "{semantic.font-family.secondary}",
         "type": "fontFamilies"
       },
       "title": {
-        "value": "{semantic.fontFamily.secondary}",
+        "value": "{semantic.font-family.secondary}",
         "type": "fontFamilies"
       }
     },
@@ -316,29 +316,29 @@
     "fontWeight": {
       "display": {
         "regular": {
-          "value": "{base.fontWeight.regular}",
+          "value": "{base.font-weight.regular}",
           "type": "fontWeights"
         },
         "strong": {
-          "value": "{base.fontWeight.medium}",
+          "value": "{base.font-weight.medium}",
           "type": "fontWeights"
         },
         "heavy": {
-          "value": "{base.fontWeight.semi-bold}",
+          "value": "{base.font-weight.semi-bold}",
           "type": "fontWeights"
         }
       },
       "title": {
         "regular": {
-          "value": "{base.fontWeight.regular}",
+          "value": "{base.font-weight.regular}",
           "type": "fontWeights"
         },
         "strong": {
-          "value": "{base.fontWeight.medium}",
+          "value": "{base.font-weight.medium}",
           "type": "fontWeights"
         },
         "heavy": {
-          "value": "{base.fontWeight.semi-bold}",
+          "value": "{base.font-weight.semi-bold}",
           "type": "fontWeights"
         }
       }

@@ -8,18 +8,18 @@
         },
         "entry": {
           "value": {
-            "fontFamily": "{base.fontFamily.inter}",
-            "fontWeight": "{base.fontWeight.medium}",
-            "lineHeight": "{semantic.lineHeight.title.xs.default}",
+            "fontFamily": "{base.font-family.inter}",
+            "fontWeight": "{base.font-weight.medium}",
+            "lineHeight": "{semantic.line-height.title.xs.default}",
             "fontSize": "15"
           },
           "type": "typography"
         },
         "placeholder": {
           "value": {
-            "fontFamily": "{base.fontFamily.inter}",
-            "fontWeight": "{base.fontWeight.regular}",
-            "lineHeight": "{semantic.lineHeight.title.xs.default}",
+            "fontFamily": "{base.font-family.inter}",
+            "fontWeight": "{base.font-weight.regular}",
+            "lineHeight": "{semantic.line-height.title.xs.default}",
             "fontSize": "15"
           },
           "type": "typography"

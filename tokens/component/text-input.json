@@ -8,10 +8,10 @@
         },
         "entry": {
           "value": {
-            "fontFamily": "{semantic.fontFamily.body}",
-            "fontWeight": "{semantic.fontWeight.body.normal}",
+            "fontFamily": "{semantic.font-family.body}",
+            "fontWeight": "{semantic.font-weight.body.normal}",
             "lineHeight": "24",
-            "fontSize": "{semantic.fontSize.body.lg}"
+            "fontSize": "{semantic.font-size.body.lg}"
           },
           "type": "typography"
         },
