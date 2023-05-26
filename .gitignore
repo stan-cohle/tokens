@@ -1,2 +1,4 @@
 # dependencies
 /node_modules
+/MyStyleD
+package-lock.json
