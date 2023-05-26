@@ -246,10 +246,18 @@
       "brand": {
         "value": "{base.brand.500}",
         "type": "color"
+      },
+      "success": {
+        "value": "{base.brand.500}",
+        "type": "color"
       }
     },
     "border": {
       "brand": {
+        "value": "{base.brand.500}",
+        "type": "color"
+      },
+      "success": {
         "value": "{base.brand.500}",
         "type": "color"
       }
