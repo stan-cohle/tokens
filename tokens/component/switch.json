@@ -2,13 +2,7 @@
   "switch": {
     "default": {
       "focus": {
-        "value": "{semantic.focus.default}",
-        "type": "boxShadow"
-      }
-    },
-    "inverse": {
-      "focus": {
-        "value": "{semantic.focus.inverse}",
+        "value": "{theme.focus.default}",
         "type": "boxShadow"
       }
     },
