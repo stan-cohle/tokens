@@ -343,5 +343,15 @@
         }
       }
     }
+  },
+  "_system": {
+    "color": {
+      "base": {
+        "primary": {
+          "value": "{theme.action.primary.normal}",
+          "type": "color"
+        }
+      }
+    }
   }
 }
