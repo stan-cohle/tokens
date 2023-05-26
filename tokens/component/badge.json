@@ -90,7 +90,7 @@
             "fontWeight": "{base.font-weight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
             "fontSize": "{semantic.font-size.body.xs}",
-            "textCase": "{base.textCase.upper}"
+            "textCase": "{base.text-case.upper}"
           },
           "type": "typography"
         },
@@ -100,7 +100,7 @@
             "fontWeight": "{base.font-weight.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
             "fontSize": "{semantic.font-size.body.md}",
-            "textCase": "{base.textCase.capitalize}"
+            "textCase": "{base.text-case.capitalize}"
           },
           "type": "typography"
         }

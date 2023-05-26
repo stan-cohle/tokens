@@ -293,11 +293,11 @@
     },
     "text-case": {
       "display": {
-        "value": "{base.textCase.upper}",
+        "value": "{base.text-case.upper}",
         "type": "textCase"
       },
       "title": {
-        "value": "{base.textCase.upper}",
+        "value": "{base.text-case.upper}",
         "type": "textCase"
       }
     },

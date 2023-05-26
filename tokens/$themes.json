@@ -4292,7 +4292,7 @@
       "core/tokens": "source",
       "semantic/base-colors": "enabled",
       "semantic/neutral-colors": "enabled",
-      "semantic/typography": "source",
+      "semantic/typography": "enabled",
       "semantic/tokens": "enabled",
       "theme/colors": "enabled",
       "theme/effects": "enabled",
