@@ -1,69 +1,7 @@
 {
-  "theme": {
-    "primary": {
-      "dark": {
-        "value": "{base.red.800}",
-        "type": "color"
-      },
-      "tone": {
-        "value": "{base.red.700}",
-        "type": "color"
-      },
-      "default": {
-        "value": "{base.red.600}",
-        "type": "color"
-      },
-      "tint": {
-        "value": "{base.red.500}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{colors.red.300}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{base.red.100}",
-        "type": "color"
-      }
-    },
-    "info": {
-      "dark": {
-        "value": "{base.blue.800}",
-        "type": "color"
-      },
-      "tone": {
-        "value": "{base.blue.700}",
-        "type": "color"
-      },
-      "default": {
-        "value": "{base.blue.600}",
-        "type": "color"
-      },
-      "tint": {
-        "value": "{base.blue.500}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{colors.blue.300}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{colors.blue.100}",
-        "type": "color"
-      }
-    }
-  },
   "presets": {
     "header": {
-      "value": "{colors.basic.white}",
-      "type": "color"
-    },
-    "link": {
-      "value": "{theme.info.tone}",
-      "type": "color"
-    },
-    "controls": {
-      "value": "{theme.info.default}",
+      "value": "{base.generic.white}",
       "type": "color"
     },
     "subheader": {
@@ -71,7 +9,7 @@
       "type": "color"
     },
     "footer": {
-      "value": "{base.neutral.dark.900}",
+      "value": "{base.neutral.900}",
       "type": "color"
     }
   },
@@ -160,84 +98,6 @@
         }
       }
     },
-    "neutral": {
-      "light": {
-        "100": {
-          "value": "{colors.grey.light.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{colors.grey.light.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{colors.grey.light.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{colors.grey.light.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{colors.grey.light.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{colors.grey.light.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{colors.grey.light.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{colors.dolphin.light.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{colors.grey.light.900}",
-          "type": "color"
-        }
-      },
-      "dark": {
-        "100": {
-          "value": "{colors.grey.dark.100}",
-          "type": "color"
-        },
-        "200": {
-          "value": "{colors.grey.dark.200}",
-          "type": "color"
-        },
-        "300": {
-          "value": "{colors.grey.dark.300}",
-          "type": "color"
-        },
-        "400": {
-          "value": "{colors.grey.dark.400}",
-          "type": "color"
-        },
-        "500": {
-          "value": "{colors.grey.dark.500}",
-          "type": "color"
-        },
-        "600": {
-          "value": "{colors.grey.dark.600}",
-          "type": "color"
-        },
-        "700": {
-          "value": "{colors.grey.dark.700}",
-          "type": "color"
-        },
-        "800": {
-          "value": "{colors.grey.dark.800}",
-          "type": "color"
-        },
-        "900": {
-          "value": "{colors.grey.dark.900}",
-          "type": "color"
-        }
-      }
-    },
     "red": {
       "100": {
         "value": "#FCE4E3",
@@ -278,18 +138,6 @@
     "semi-bold-secondary": {
       "value": "Semibold",
       "type": "fontWeights"
-    }
-  },
-  "layout": {
-    "footer": {
-      "title-font": {
-        "value": "{Base-Secondary.Heading.X-Small.Uppercase.Semi-bold}",
-        "type": "typography"
-      },
-      "title-color": {
-        "value": "{theme.primary.default}",
-        "type": "color"
-      }
     }
   }
 }

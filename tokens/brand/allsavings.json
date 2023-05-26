@@ -80,7 +80,7 @@
   "theme": {
     "presets": {
       "header": {
-        "value": "{core.color.generic.white}",
+        "value": "{base.generic.white}",
         "type": "color"
       },
       "subheader": {

@@ -524,7 +524,7 @@
           }
         },
         "default": {
-          "value": "{theme.interactive.focus}",
+          "value": "{_system.color.base.focus}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -539,27 +539,31 @@
       },
       "base": {
         "primary": {
-          "value": "{base.brand.600}",
+          "value": "{theme.bg.brand}",
           "type": "color"
         },
         "accent": {
-          "value": "{base.accent.600}",
+          "value": "{theme.bg.accent}",
           "type": "color"
         },
         "success": {
-          "value": "{base.success.600}",
+          "value": "{theme.bg.success}",
           "type": "color"
         },
         "warning": {
-          "value": "{base.warning.600}",
+          "value": "{theme.bg.warning}",
           "type": "color"
         },
         "danger": {
-          "value": "{base.danger.600}",
+          "value": "{theme.bg.danger}",
           "type": "color"
         },
         "info": {
-          "value": "{base.info.600}",
+          "value": "{theme.bg.info}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{theme.bg.info}",
           "type": "color"
         }
       }

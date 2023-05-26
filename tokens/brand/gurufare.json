@@ -451,19 +451,5 @@
         }
       }
     }
-  },
-  "_system": {
-    "color": {
-      "base": {
-        "primary": {
-          "value": "{base.gurufare.other.mariner}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{base.gurufare.mandy.600}",
-          "type": "color"
-        }
-      }
-    }
   }
 }

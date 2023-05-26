@@ -71,15 +71,27 @@
         "value": "{base.grey.300}",
         "type": "color"
       }
+    },
+    "interactiva": {
+      "default": {
+        "normal": {
+          "value": "{theme.primary.dark}",
+          "type": "color"
+        }
+      }
+    },
+    "action": {
+      "link": {
+        "normal": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        }
+      }
     }
   },
   "presets": {
     "header": {
-      "value": "{colors.basic.white}",
-      "type": "color"
-    },
-    "controls": {
-      "value": "{theme.primary.dark}",
+      "value": "{base.generic.white}",
       "type": "color"
     },
     "subheader": {
@@ -88,14 +100,6 @@
     },
     "footer": {
       "value": "{theme.primary.dark}",
-      "type": "color"
-    },
-    "form": {
-      "value": "{theme.opacity.black.80}",
-      "type": "color"
-    },
-    "link": {
-      "value": "{theme.primary.default}",
       "type": "color"
     }
   },

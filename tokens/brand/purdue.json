@@ -16,39 +16,39 @@
     },
     "content": {
       "primary": {
-        "value": "{core.color.generic.black}",
+        "value": "{base.generic.black}",
         "type": "color"
-      },
-      "secondary": {
-        "value": "{base.neutral.dark.800}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{base.neutral.dark.500}",
-        "type": "color"
+      }
+    },
+    "interactive": {
+      "default": {
+        "normal": {
+          "type": "color",
+          "value": "{colors.gold.800}"
+        }
+      }
+    },
+    "action": {
+      "link": {
+        "normal": {
+          "type": "color",
+          "value": "{base.generic.black}"
+        }
       }
     }
   },
   "presets": {
     "header": {
       "type": "color",
-      "value": "{core.color.generic.black}"
+      "value": "{base.generic.black}"
     },
     "subheader": {
       "type": "color",
-      "value": "{core.color.generic.white}"
+      "value": "{base.generic.white}"
     },
     "footer": {
       "type": "color",
-      "value": "{core.color.generic.black}"
-    },
-    "controls": {
-      "type": "color",
-      "value": "{colors.gold.800}"
-    },
-    "link": {
-      "type": "color",
-      "value": "{core.color.generic.black}"
+      "value": "{base.generic.black}"
     }
   },
   "colors": {

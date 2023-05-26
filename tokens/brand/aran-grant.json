@@ -277,7 +277,7 @@
     }
   },
   "semantic": {
-    "fontFamily": {
+    "font-family": {
       "secondary": {
         "value": "Oswald",
         "type": "fontFamilies"
@@ -291,7 +291,7 @@
         "type": "fontFamilies"
       }
     },
-    "textCase": {
+    "text-case": {
       "display": {
         "value": "{base.textCase.upper}",
         "type": "textCase"
@@ -313,7 +313,7 @@
         }
       }
     },
-    "fontWeight": {
+    "font-weight": {
       "display": {
         "regular": {
           "value": "{base.font-weight.regular}",

@@ -312,6 +312,12 @@
         "value": "{core.color.dolphin.1100}",
         "type": "color"
       }
+    },
+    "font-family": {
+      "montserrat": {
+        "value": "Helvetica Now Display",
+        "type": "fontFamilies"
+      }
     }
   },
   "button": {
@@ -322,22 +328,16 @@
       }
     }
   },
-  "sys": {
+  "semantic": {
     "font-family": {
       "title": {
-        "value": "{base.fontFamily.montserrat}",
+        "value": "{base.font-family.montserrat}",
         "type": "fontFamilies"
       },
       "body": {
         "value": "{base.font-family.inter}",
         "type": "fontFamilies"
       }
-    }
-  },
-  "font-family": {
-    "montserrat": {
-      "value": "Helvetica Now Display",
-      "type": "fontFamilies"
     }
   }
 }

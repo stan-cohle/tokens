@@ -372,10 +372,6 @@
       }
     },
     "interactive": {
-      "focus": {
-        "value": "{theme.border.info}",
-        "type": "color"
-      },
       "default": {
         "normal": {
           "type": "color",

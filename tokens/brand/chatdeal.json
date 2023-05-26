@@ -81,10 +81,6 @@
       }
     },
     "interactive": {
-      "focus": {
-        "value": "{base.chatdeal.blue}",
-        "type": "color"
-      },
       "default": {
         "normal": {
           "value": "{theme.action.accent.normal}",
@@ -343,6 +339,16 @@
         },
         "neutral": {
           "value": "linear-gradient(180deg, #4794ff 0%, #a7acb4 0.01%, #676e79 76.37%)",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "_system": {
+    "colors": {
+      "base": {
+        "focus": {
+          "value": "{base.chatdeal.blue}",
           "type": "color"
         }
       }

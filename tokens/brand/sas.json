@@ -99,7 +99,7 @@
   },
   "font-weight": {
     "semi-bold-secondary": {
-      "value": "{font-weight.bold}",
+      "value": "{base.font-weight.bold}",
       "type": "fontWeights"
     }
   }

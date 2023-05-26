@@ -293,7 +293,7 @@
     }
   },
   "base": {
-    "fontFamily": {
+    "font-family": {
       "montserrat": {
         "value": "Montserrat",
         "type": "fontFamilies"
@@ -511,13 +511,13 @@
     }
   },
   "semantic": {
-    "fontFamily": {
+    "font-family": {
       "primary": {
-        "value": "{base.fontFamily.montserrat}",
+        "value": "{base.font-family.montserrat}",
         "type": "fontFamilies"
       }
     },
-    "fontWeight": {
+    "font-weight": {
       "body": {
         "normal": {
           "value": "{base.font-weight.medium}",

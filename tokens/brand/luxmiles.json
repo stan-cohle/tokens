@@ -188,13 +188,13 @@
     }
   },
   "semantic": {
-    "fontFamily": {
+    "font-family": {
       "primary": {
         "value": "Mulish",
         "type": "fontFamilies"
       }
     },
-    "fontWeight": {
+    "font-weight": {
       "body": {
         "regular": {
           "value": "{base.font-weight.medium}",
@@ -345,7 +345,7 @@
             "fontFamily": "{semantic.font-family.body}",
             "fontWeight": "{semantic.font-weight.body.strong}",
             "lineHeight": "{comp.button.x-large.icon-size}",
-            "fontSize": "{semantic.fontSize.body.xl}"
+            "fontSize": "{semantic.font-size.title.xs}"
           },
           "type": "typography"
         },
@@ -354,7 +354,7 @@
             "fontFamily": "{semantic.font-family.body}",
             "fontWeight": "{semantic.font-weight.body.strong}",
             "lineHeight": "{comp.button.large.icon-size}",
-            "fontSize": "{semantic.fontSize.body.xl}"
+            "fontSize": "{semantic.font-size.title.xs}"
           },
           "type": "typography"
         },
@@ -363,7 +363,7 @@
             "fontFamily": "{semantic.font-family.body}",
             "fontWeight": "{semantic.font-weight.body.strong}",
             "lineHeight": "{comp.button.medium.icon-size}",
-            "fontSize": "{semantic.fontSize.body.xl}"
+            "fontSize": "{semantic.font-size.title.xs}"
           },
           "type": "typography"
         },

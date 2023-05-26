@@ -377,32 +377,6 @@
         "value": "{base.kayak.black.600}",
         "type": "color"
       }
-    },
-    "shadow": {
-      "component": {
-        "primary": {
-          "value": {
-            "x": "0",
-            "y": "12",
-            "blur": "8",
-            "spread": "-8",
-            "color": "rgba({base.kayak.orange.500},{core.opacity.300})",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        },
-        "accent": {
-          "value": {
-            "x": "0",
-            "y": "12",
-            "blur": "8",
-            "spread": "-8",
-            "color": "rgba({base.kayak.blue.500},{core.opacity.300})",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        }
-      }
     }
   },
   "base": {
