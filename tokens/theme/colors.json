@@ -468,10 +468,6 @@
         "value": "{theme.bg.brand}",
         "type": "color"
       },
-      "multistep-subheader": {
-        "value": "{theme.bg.brand}",
-        "type": "color"
-      },
       "subheader": {
         "value": "{theme.presets.header}",
         "type": "color",
@@ -487,6 +483,10 @@
       },
       "footer": {
         "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      },
+      "multistep-subheader": {
+        "value": "{theme.bg.brand}",
         "type": "color"
       }
     }
