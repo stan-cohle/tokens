@@ -239,8 +239,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "semantic/generic-colors": "enabled",
-      "brand/ovago": "disabled"
+      "semantic/generic-colors": "enabled"
     }
   },
   {
@@ -494,8 +493,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/kayak": "enabled",
-      "semantic/generic-colors": "enabled",
-      "brand/ovago": "disabled"
+      "semantic/generic-colors": "enabled"
     }
   },
   {
@@ -1001,8 +999,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/chatdeal": "enabled",
-      "semantic/brand-colors": "source",
-      "brand/ovago": "disabled"
+      "semantic/brand-colors": "source"
     }
   },
   {
@@ -1332,8 +1329,7 @@
       "component/alert": "source",
       "brand/aran-grant": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "brand/ovago": "disabled"
+      "semantic/brand-colors": "enabled"
     }
   },
   {
@@ -1852,8 +1848,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/gurufare": "enabled",
-      "brand/ovago": "disabled"
+      "brand/gurufare": "enabled"
     }
   },
   {
@@ -2128,8 +2123,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/luxmiles": "enabled",
-      "semantic/brand-colors": "source",
-      "brand/ovago": "disabled"
+      "semantic/brand-colors": "source"
     }
   },
   {
@@ -2397,8 +2391,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/underpricer": "enabled",
-      "brand/ovago": "disabled"
+      "brand/underpricer": "enabled"
     }
   },
   {
@@ -2682,8 +2675,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/myquility": "enabled",
-      "brand/ovago": "disabled"
+      "brand/myquility": "enabled"
     }
   },
   {
@@ -2947,8 +2939,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/allsavings": "enabled",
-      "brand/ovago": "disabled"
+      "brand/allsavings": "enabled"
     }
   },
   {
@@ -3222,8 +3213,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/volunteerhq": "enabled",
-      "brand/ovago": "disabled"
+      "brand/volunteerhq": "enabled"
     }
   },
   {
@@ -3512,8 +3502,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/abenity": "enabled",
-      "brand/ovago": "disabled"
+      "brand/abenity": "enabled"
     }
   },
   {
@@ -3794,8 +3783,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/easemytrip": "enabled",
-      "brand/ovago": "disabled"
+      "brand/easemytrip": "enabled"
     }
   },
   {
@@ -4043,8 +4031,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled",
-      "brand/ovago": "disabled"
+      "brand/scholartrip": "enabled"
     }
   },
   {
@@ -4598,8 +4585,7 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core/colors": "enabled",
-      "brand/ovago": "disabled"
+      "core/colors": "enabled"
     }
   },
   {
@@ -4896,8 +4882,7 @@
       "component/alert": "source",
       "brand/hop2": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled",
-      "brand/ovago": "disabled"
+      "semantic/generic-colors": "enabled"
     }
   },
   {
@@ -5445,8 +5430,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "brand/ovago": "disabled"
+      "semantic/brand-colors": "enabled"
     }
   },
   {
@@ -5975,8 +5959,7 @@
       "component/alert": "source",
       "brand/wowfare": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "brand/ovago": "disabled"
+      "semantic/brand-colors": "enabled"
     }
   },
   {
@@ -6412,8 +6395,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/delaware": "enabled",
-      "brand/ovago": "disabled"
+      "brand/delaware": "enabled"
     }
   },
   {
@@ -6888,8 +6870,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/priceline": "enabled",
-      "brand/ovago": "disabled"
+      "brand/priceline": "enabled"
     }
   }
 ]
