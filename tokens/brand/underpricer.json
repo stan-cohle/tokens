@@ -12,6 +12,10 @@
       "footer": {
         "value": "{theme.bg.inverse-primary}",
         "type": "color"
+      },
+      "multistep-subheader": {
+        "value": "linear-gradient(180deg, #3A4162 0%, #1A1E3D 100%)",
+        "type": "color"
       }
     },
     "action": {
