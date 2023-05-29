@@ -176,18 +176,86 @@
     }
   },
   "theme": {
-    "presets": {
-      "header": {
-        "type": "color",
-        "value": "{base.gurufare.other.mariner}"
+    "bg": {
+      "brand": {
+        "value": "{base.gurufare.other.mariner}",
+        "type": "color"
       },
-      "subheader": {
+      "brand-subtle": {
+        "value": "{base.gurufare.other.mariner}",
         "type": "color",
-        "value": "{base.gurufare.other.mariner-gradient}"
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.92",
+              "space": "hsl"
+            }
+          }
+        }
       },
-      "footer": {
+      "accent": {
+        "value": "{base.gurufare.mandy.600}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{base.gurufare.mandy.600}",
         "type": "color",
-        "value": "{base.gurufare.stone.900}"
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "content": {
+      "brand": {
+        "value": "{base.gurufare.other.mariner}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.gurufare.mandy.600}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "brand": {
+        "value": "{base.gurufare.other.mariner}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.gurufare.other.mariner}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.74",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{base.gurufare.mandy.600}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{base.gurufare.mandy.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.68",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "action": {
@@ -288,88 +356,6 @@
         }
       }
     },
-    "bg": {
-      "brand": {
-        "value": "{base.gurufare.other.mariner}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{base.gurufare.other.mariner}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.92",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{base.gurufare.mandy.600}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{base.gurufare.mandy.600}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.88",
-              "space": "lch"
-            }
-          }
-        }
-      }
-    },
-    "content": {
-      "brand": {
-        "value": "{base.gurufare.other.mariner}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{base.gurufare.mandy.600}",
-        "type": "color"
-      }
-    },
-    "border": {
-      "brand": {
-        "value": "{base.gurufare.other.mariner}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{base.gurufare.other.mariner}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.74",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{base.gurufare.mandy.600}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{base.gurufare.mandy.600}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.68",
-              "space": "lch"
-            }
-          }
-        }
-      }
-    },
     "interactive": {
       "default": {
         "normal": {
@@ -449,6 +435,24 @@
             "type": "color"
           }
         }
+      }
+    },
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{base.gurufare.other.mariner}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{base.gurufare.other.mariner-gradient}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{base.gurufare.stone.900}"
+      },
+      "multistep-subheader": {
+        "value": "{base.gurufare.other.mariner-gradient}",
+        "type": "color"
       }
     }
   }
