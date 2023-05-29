@@ -134,12 +134,16 @@
         }
       },
       "other": {
-        "mariner-gradient": {
-          "value": "linear-gradient(180deg, {base.gurufare.other.mariner} 0, #51A2CA 100%)",
-          "type": "color"
-        },
         "mariner": {
           "value": "#315FCC",
+          "type": "color"
+        },
+        "gradient-vertical": {
+          "value": "linear-gradient(180deg, {base.gurufare.other.mariner} 0, {base.gurufare.macaw-blue.700} 100%)",
+          "type": "color"
+        },
+        "gradient-horizontal": {
+          "value": "linear-gradient(240deg, {base.gurufare.other.mariner} 0, {base.gurufare.macaw-blue.700} 100%)",
           "type": "color"
         }
       },
@@ -444,14 +448,14 @@
       },
       "subheader": {
         "type": "color",
-        "value": "{base.gurufare.other.mariner-gradient}"
+        "value": "{base.gurufare.other.gradient-vertical}"
       },
       "footer": {
         "type": "color",
         "value": "{base.gurufare.stone.900}"
       },
       "multistep-subheader": {
-        "value": "{base.gurufare.other.mariner-gradient}",
+        "value": "{base.gurufare.other.gradient-horizontal}",
         "type": "color"
       }
     }

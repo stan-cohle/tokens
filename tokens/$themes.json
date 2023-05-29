@@ -1575,7 +1575,6 @@
       "comp.ifta.label": "S:de3c8040ebd6038cb9c4fd688b67bcab6249f972,",
       "comp.ifta.entry": "S:b8038c1213a500185b5f5c5d0858456d9b384606,",
       "comp.ifta.placeholder": "S:94ec801ea0b08656a82b386105a1474c8e3e4c0a,",
-      "base.gurufare.other.mariner-gradient": "S:688317b842bbdef813202f6c296d1ccb68900266,",
       "base.gurufare.other.mariner": "S:17e7b53c72a1ca98335ad37fdd5f6198cc770514,",
       "base.gurufare.brand.default": "S:d5c61fe913b2c7c24f7e151a5531aec96e2c5010,",
       "base.gurufare.brand.emblem-1": "S:a932f5593a7681a737116e24b9d55febd7d4552b,",
@@ -1822,7 +1821,9 @@
       "base.Body.XXS.Strong.Paragraph": "S:60c8b3b31ccf203680d2701075403a0582c1256c,",
       "base.Body.XXS.Strong.Paragraph-link": "S:84753e7b7e61fddd5ba4a07cc711dfa457a0d3d2,",
       "base.Body.XXS.Strong.Paragraph-upper": "S:f6e2a087ae573839b754622fcad5bad621af38d1,",
-      "theme.presets.multistep-subheader": "S:5c019319fea65e7e3e08287cd8833ca1b0956089,"
+      "theme.presets.multistep-subheader": "S:5c019319fea65e7e3e08287cd8833ca1b0956089,",
+      "base.gurufare.other.gradient-vertical": "S:688317b842bbdef813202f6c296d1ccb68900266,",
+      "base.gurufare.other.gradient-horizontal": "S:96502ea9cfc46b0a8aa40dd44f561c9a5e516e85,"
     },
     "selectedTokenSets": {
       "core/colors": "source",
