@@ -6850,7 +6850,8 @@
       "theme.focus.warning": "S:cfb6788c000bd98a1f9e3e82e6d83bca52fd61d6,",
       "theme.focus.danger": "S:38dbe5c910d5e5ae5b3113e5b0f7b773a0a59949,",
       "theme.focus.info": "S:9df20640f0335f1038fce876992621d0bd08919b,",
-      "theme.focus.default": "S:8ac28dedd96e809d078aac0bf47f6d7fe1742b5d,"
+      "theme.focus.default": "S:8ac28dedd96e809d078aac0bf47f6d7fe1742b5d,",
+      "theme.presets.multistep-subheader": "S:d800855f1e0d0c0372dae1bc7e3aa596f16d0ed4,"
     },
     "selectedTokenSets": {
       "core/colors": "source",
