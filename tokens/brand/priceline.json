@@ -293,7 +293,7 @@
     },
     "presets": {
       "multistep-subheader": {
-        "value": "linear-gradient(180deg, {base.priceline.primary.base} 0%, {base.priceline.primary.dark} 100%);",
+        "value": "linear-gradient(90deg, {base.priceline.primary.base} 0%, {base.priceline.primary.dark} 100%);",
         "type": "color"
       }
     }
