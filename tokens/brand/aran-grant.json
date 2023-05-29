@@ -156,7 +156,7 @@
         "type": "color"
       },
       "gradient-neutral": {
-        "value": "linear-gradient(220deg, {base.neutral.900} 0%, {base.neutral.900} 100%)",
+        "value": "linear-gradient(220deg, {base.neutral.1000} 0%, {base.neutral.900} 100%)",
         "type": "color"
       },
       "sand": {
@@ -211,7 +211,7 @@
         "value": "{base.neutral.1100}"
       },
       "multistep-subheader": {
-        "value": "{base.arangrant.gradient-neutral}",
+        "value": "linear-gradient(240deg, {base.neutral.1000} 0%, {base.neutral.900} 100%)",
         "type": "color"
       }
     },
