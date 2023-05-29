@@ -213,8 +213,12 @@
         "value": "#1e2c3a",
         "type": "color"
       },
-      "gradient": {
+      "gradient-vertical": {
         "value": "linear-gradient(180deg, #51A2CA 0%, #3B92BD 100%);",
+        "type": "color"
+      },
+      "gradient-horizontal": {
+        "value": "linear-gradient(90deg, #51A2CA 0%, #3B92BD 100%);",
         "type": "color"
       }
     }
@@ -223,11 +227,19 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{base.hop2.gradient}"
+        "value": "{base.hop2.gradient-vertical}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "#3B92BD"
       },
       "footer": {
         "type": "color",
         "value": "{base.hop2.river-bed}"
+      },
+      "multistep-subheader": {
+        "type": "color",
+        "value": "{base.hop2.gradient-horizontal}"
       }
     }
   }
