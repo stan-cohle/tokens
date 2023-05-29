@@ -151,8 +151,12 @@
       }
     },
     "ovago": {
-      "purple-gradient": {
-        "value": "linear-gradient(180deg, #5649A6 0%, {base.brand.700} 100%)",
+      "gradient-vertical": {
+        "value": "linear-gradient(180deg, {base.brand.800} 0%, {base.brand.700} 100%)",
+        "type": "color"
+      },
+      "gradient-horizontal": {
+        "value": "linear-gradient(90deg, {base.brand.800} 0%, {base.brand.700} 100%)",
         "type": "color"
       },
       "midnight": {
@@ -191,11 +195,15 @@
       },
       "subheader": {
         "type": "color",
-        "value": "{base.ovago.purple-gradient}"
+        "value": "{base.ovago.gradient-vertical}"
       },
       "footer": {
         "type": "color",
         "value": "{base.ovago.midnight}"
+      },
+      "multistep-subheader": {
+        "type": "color",
+        "value": "{base.ovago.gradient-vertical}"
       }
     }
   }
