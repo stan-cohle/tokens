@@ -154,8 +154,7 @@
               "modify": {
                 "type": "darken",
                 "value": "{semantic.color.modifiers.button.hover-mod}",
-                "space": "lch",
-                "color": "{theme.generic.white}"
+                "space": "lch"
               }
             }
           }
@@ -168,8 +167,7 @@
               "modify": {
                 "type": "darken",
                 "value": "{semantic.color.modifiers.button.pressed-mod}",
-                "space": "lch",
-                "color": "{theme.generic.black}"
+                "space": "lch"
               }
             }
           }
