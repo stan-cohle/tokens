@@ -143,6 +143,10 @@
         "value": "linear-gradient(140deg, #0b978a 0%, #0a92b0 100%)",
         "type": "color"
       },
+      "mint-gradient-horizontal": {
+        "value": "linear-gradient(90deg, #0b978a 0%, #0a92b0 100%)",
+        "type": "color"
+      },
       "white-to-primary": {
         "value": "linear-gradient(90deg, rgba({base.info.600}, 0) 0%, {base.info.600} 100%)",
         "type": "color"
@@ -167,15 +171,15 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{base.wowfare.rhino-800}"
-      },
-      "subheader": {
-        "type": "color",
-        "value": "{base.wowfare.rhino-900}"
+        "value": "{base.brand.600}"
       },
       "footer": {
         "type": "color",
         "value": "{base.wowfare.rhino-1100}"
+      },
+      "multistep-subheader": {
+        "value": "{base.wowfare.mint-gradient-horizontal}",
+        "type": "color"
       }
     },
     "interactive": {

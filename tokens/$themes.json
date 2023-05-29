@@ -6093,7 +6093,6 @@
       "theme.interactive.form.content.placeholder": "S:10b8dc62d3b5bb2a65e3c3454a193e9fe598c659,",
       "theme.interactive.form.content.entry": "S:7a6a374a12488f26c73257e33d5ef28875e28659,",
       "theme.presets.header": "S:c9ddad171abf5e1f7b6dc6f29827e125ba3ec20f,",
-      "theme.presets.subheader": "S:b3c44c95f0af91b5a0878bed6884e4872ac850aa,",
       "theme.presets.footer": "S:e848aad8880d6f5771a29c9333bd29d337c67bbe,",
       "base.wowfare.rhino-800": "S:3e520be039f5888c645316ccce944fea641966ed,",
       "base.wowfare.rhino-900": "S:fc759ea4bb0d349e578f7458b995bd3155047d76,",
@@ -6373,7 +6372,10 @@
       "base.Body.XXS.Medium.Strike": "S:ba94c8687acb5f333a705424c5650f7a0687632e,",
       "base.Body.XXS.Medium.Paragraph-upper": "S:754fd0302742571c8f60a5fd4906a2669cc7f024,",
       "base.Body.XXS.Strong.Strike": "S:24dcfdd5e4dcc5c935a28614032bfe4c7bd27317,",
-      "base.Body.XXS.Strong.Paragraph-upper": "S:0ee2ca2f5ca7341adc43453fecd808300ded04be,"
+      "base.Body.XXS.Strong.Paragraph-upper": "S:0ee2ca2f5ca7341adc43453fecd808300ded04be,",
+      "theme.presets.subheader": "S:b3c44c95f0af91b5a0878bed6884e4872ac850aa,",
+      "theme.presets.multistep-subheader": "S:58cfb26f671a1afcc337080cd9bb39ddf6899094,",
+      "base.wowfare.mint-gradient-horizontal": "S:b19fdaae053432aed4c8a445f19ac80c17aa4b5b,"
     },
     "selectedTokenSets": {
       "core/colors": "source",
