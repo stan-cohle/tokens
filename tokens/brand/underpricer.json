@@ -2,10 +2,18 @@
   "theme": {
     "bg": {
       "brand": {
-        "value": "{base.underpricer.orange}",
+        "value": "{base.neutral.1000}",
         "type": "color"
       },
       "brand-subtle": {
+        "value": "{base.neutral.100}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.underpricer.orange}",
+        "type": "color"
+      },
+      "accent-subtle": {
         "value": "{base.underpricer.orange}",
         "type": "color",
         "$extensions": {
@@ -17,18 +25,14 @@
             }
           }
         }
-      },
-      "accent": {
-        "value": "{theme.bg.info-subtle}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.bg.info-subtle}",
-        "type": "color"
       }
     },
     "content": {
       "brand": {
+        "value": "{base.neutral.1000}",
+        "type": "color"
+      },
+      "accent": {
         "value": "{base.underpricer.orange}",
         "type": "color",
         "$extensions": {
@@ -40,14 +44,18 @@
             }
           }
         }
-      },
-      "accent": {
-        "value": "{theme.content.info}",
-        "type": "color"
       }
     },
     "border": {
       "brand": {
+        "value": "{base.neutral.1000}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.neutral.300}",
+        "type": "color"
+      },
+      "accent": {
         "value": "{base.underpricer.orange}",
         "type": "color",
         "$extensions": {
@@ -60,26 +68,18 @@
           }
         }
       },
-      "brand-subtle": {
+      "accent-subtle": {
         "value": "{base.underpricer.orange}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.66",
+              "value": "0.64",
               "space": "lch"
             }
           }
         }
-      },
-      "accent": {
-        "value": "{theme.border.info}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.border.info-subtle}",
-        "type": "color"
       }
     },
     "action": {
@@ -173,7 +173,7 @@
       "form": {
         "border": {
           "active": {
-            "value": "{theme.border.info}",
+            "value": "{base.neutral.1000}",
             "type": "color"
           }
         }
