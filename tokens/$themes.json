@@ -973,7 +973,8 @@
       "theme.border.brand": "S:eab08177544c983a66389da8837980342325c1db,",
       "theme.border.brand-subtle": "S:26fb6719d399faef9603e1900cce0d482f42d66b,",
       "theme.action.primary.active": "S:bb63c8dee3a22cec9d79ed34bbfca86751e7ab09,",
-      "theme.action.link.normal": "S:7ed9a44289d7c2eb64de979a42508461b0ddeceb,"
+      "theme.action.link.normal": "S:7ed9a44289d7c2eb64de979a42508461b0ddeceb,",
+      "theme.presets.multistep-subheader": "S:d36d77a4c151c3d278dc9f636743b38114121c93,"
     },
     "selectedTokenSets": {
       "core/colors": "source",

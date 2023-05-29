@@ -75,6 +75,10 @@
         "value": "#111827",
         "type": "color"
       },
+      "multistep-subheader": {
+        "value": "{base.chatdeal.gradient.blue-90}",
+        "type": "color"
+      },
       "header-backdrop": {
         "value": "linear-gradient(270deg, #0a141f00 0%, #0a141f66 75%, #0a141f80 100%)",
         "type": "color"
@@ -350,6 +354,70 @@
         "focus": {
           "value": "{base.chatdeal.blue}",
           "type": "color"
+        }
+      }
+    }
+  },
+  "semantic": {
+    "font-family": {
+      "primary": {
+        "value": "Lato",
+        "type": "fontFamilies"
+      }
+    },
+    "font-weight": {
+      "body": {
+        "normal": {
+          "value": "{base.font-weight.regular}",
+          "type": "fontWeights"
+        },
+        "medium": {
+          "value": "{base.font-weight.semi-bold}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.font-weight.bold}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.font-weight.extra-bold}",
+          "type": "fontWeights"
+        }
+      },
+      "title": {
+        "normal": {
+          "value": "{base.font-weight.regular}",
+          "type": "fontWeights"
+        },
+        "medium": {
+          "value": "{base.font-weight.semi-bold}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.font-weight.bold}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.font-weight.extra-bold}",
+          "type": "fontWeights"
+        }
+      },
+      "display": {
+        "normal": {
+          "value": "{base.font-weight.regular}",
+          "type": "fontWeights"
+        },
+        "medium": {
+          "value": "{base.font-weight.semi-bold}",
+          "type": "fontWeights"
+        },
+        "strong": {
+          "value": "{base.font-weight.bold}",
+          "type": "fontWeights"
+        },
+        "heavy": {
+          "value": "{base.font-weight.extra-bold}",
+          "type": "fontWeights"
         }
       }
     }
