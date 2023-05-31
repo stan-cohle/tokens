@@ -249,7 +249,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/kayak": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -756,7 +757,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/chatdeal": "enabled",
-      "semantic/brand-colors": "source"
+      "semantic/brand-colors": "source",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -1065,7 +1067,8 @@
       "component/alert": "source",
       "brand/aran-grant": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -1586,7 +1589,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/gurufare": "enabled"
+      "brand/gurufare": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -1861,7 +1865,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/luxmiles": "enabled",
-      "semantic/brand-colors": "source"
+      "semantic/brand-colors": "source",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -2129,7 +2134,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/underpricer": "enabled"
+      "brand/underpricer": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -2413,7 +2419,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/myquility": "enabled"
+      "brand/myquility": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -2677,7 +2684,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/allsavings": "enabled"
+      "brand/allsavings": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -2951,7 +2959,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/volunteerhq": "enabled"
+      "brand/volunteerhq": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -3240,7 +3249,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/abenity": "enabled"
+      "brand/abenity": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -3521,7 +3531,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/easemytrip": "enabled"
+      "brand/easemytrip": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -3769,7 +3780,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled"
+      "brand/scholartrip": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -4300,7 +4312,8 @@
       "component/alert": "source",
       "semantic/brand-colors": "enabled",
       "semantic/generic-colors": "enabled",
-      "brand/ovago": "enabled"
+      "brand/ovago": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -4564,7 +4577,8 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core/colors": "enabled"
+      "core/colors": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -5093,7 +5107,8 @@
       "component/alert": "source",
       "brand/hop2": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -5641,7 +5656,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -6172,7 +6188,8 @@
       "component/alert": "source",
       "brand/wowfare": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -6608,7 +6625,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/delaware": "enabled"
+      "brand/delaware": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -7081,7 +7099,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   },
@@ -7557,7 +7576,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/priceline": "enabled"
+      "brand/priceline": "enabled",
+      "brand/pill_buttons": "disabled"
     },
     "group": "internal_themes_no_group"
   }

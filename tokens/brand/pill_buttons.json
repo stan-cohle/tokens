@@ -1,0 +1,20 @@
+{
+  "semantic": {
+    "border-radius": {
+      "action": {
+        "sm": {
+          "value": "{core.border-radius.pill}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{core.border-radius.pill}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{core.border-radius.pill}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  }
+}
