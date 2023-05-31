@@ -179,6 +179,12 @@
         "value": "{base.info.1100}",
         "type": "color"
       }
+    },
+    "font-family": {
+      "kanit": {
+        "value": "Kanit",
+        "type": "fontFamilies"
+      }
     }
   },
   "theme": {
@@ -364,6 +370,26 @@
       "brand-subtle": {
         "value": "{theme.border.danger-subtle}",
         "type": "color"
+      }
+    }
+  },
+  "semantic": {
+    "font-family": {
+      "secondary": {
+        "value": "{base.font-family.kanit}",
+        "type": "fontFamilies"
+      },
+      "display": {
+        "value": "{semantic.font-family.secondary}",
+        "type": "fontFamilies"
+      },
+      "title": {
+        "value": "{semantic.font-family.secondary}",
+        "type": "fontFamilies"
+      },
+      "action": {
+        "value": "{semantic.font-family.secondary}",
+        "type": "fontFamilies"
       }
     }
   }
