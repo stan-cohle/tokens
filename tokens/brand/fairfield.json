@@ -392,5 +392,47 @@
         "type": "fontFamilies"
       }
     }
+  },
+  "typography": {
+    "component": {
+      "button": {
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.font-family.action}",
+            "fontWeight": "{base.font-weight.medium}",
+            "lineHeight": "{comp.button.small.icon-size}",
+            "fontSize": "{semantic.font-size.body.md}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.font-family.action}",
+            "fontWeight": "{base.font-weight.medium}",
+            "lineHeight": "{comp.button.medium.icon-size}",
+            "fontSize": "{semantic.font-size.body.md}"
+          },
+          "type": "typography"
+        },
+        "large": {
+          "value": {
+            "fontFamily": "{semantic.font-family.action}",
+            "fontWeight": "{base.font-weight.medium}",
+            "lineHeight": "{comp.button.large.icon-size}",
+            "fontSize": "{semantic.font-size.body.lg}"
+          },
+          "type": "typography"
+        },
+        "x-large": {
+          "value": {
+            "fontFamily": "{semantic.font-family.action}",
+            "fontWeight": "{base.font-weight.semi-bold}",
+            "lineHeight": "{comp.button.x-large.icon-size}",
+            "fontSize": "{semantic.font-size.title.xs}"
+          },
+          "type": "typography"
+        }
+      }
+    }
   }
 }
