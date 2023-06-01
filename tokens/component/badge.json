@@ -87,7 +87,7 @@
         "small": {
           "value": {
             "fontFamily": "{semantic.font-family.body}",
-            "fontWeight": "{base.font-weight.medium}",
+            "fontWeight": "{semantic.font-weight.body.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
             "fontSize": "{semantic.font-size.body.xs}",
             "textCase": "{base.text-case.upper}"
@@ -97,7 +97,7 @@
         "medium": {
           "value": {
             "fontFamily": "{semantic.font-family.body}",
-            "fontWeight": "{base.font-weight.medium}",
+            "fontWeight": "{semantic.font-weight.body.medium}",
             "lineHeight": "{comp.badge.small.icon-size}",
             "fontSize": "{semantic.font-size.body.md}",
             "textCase": "{base.text-case.capitalize}"
