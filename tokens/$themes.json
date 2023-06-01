@@ -251,7 +251,7 @@
       "brand/kayak": "enabled",
       "semantic/generic-colors": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "5c73594e6fd3df10362436e00c934500cee28151",
@@ -758,7 +758,7 @@
       "brand/chatdeal": "enabled",
       "semantic/brand-colors": "source",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "2d40afde0713bd7d76fdf314f875949c18af9edc",
@@ -1067,7 +1067,7 @@
       "semantic/generic-colors": "enabled",
       "semantic/brand-colors": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "d7f42b02070e102b2f749f08b49ede7c0dde522d",
@@ -1588,7 +1588,7 @@
       "component/alert": "source",
       "brand/gurufare": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "8cebdd1fbc353b3efd4f362465e441e342797202",
@@ -1863,7 +1863,7 @@
       "brand/luxmiles": "enabled",
       "semantic/brand-colors": "source",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "e2509b1d517e53085b2b024519cd74ae29a3b6a8",
@@ -2131,8 +2131,7 @@
       "component/alert": "source",
       "brand/underpricer": "enabled",
       "brand/pill_buttons": "disabled"
-    },
-
+    }
   },
   {
     "id": "fc901bb7cbd73af7ac14c59d313e030c5ee97627",
@@ -2416,7 +2415,7 @@
       "component/alert": "source",
       "brand/myquility": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "97ddb8fcaccd8eeeac81cb5bdd17154af1f05243",
@@ -2680,7 +2679,7 @@
       "component/alert": "source",
       "brand/allsavings": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "a8ad8f935d1b3a4e1754f911b3f3c4edabdc4d20",
@@ -2954,7 +2953,7 @@
       "component/alert": "source",
       "brand/volunteerhq": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "57849ff7231517a73e1d8406dd1272d25a0920f3",
@@ -3243,7 +3242,7 @@
       "component/alert": "source",
       "brand/abenity": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "8cbe97dbe5fafeb37b1dc699f45c3c2ac378d5a5",
@@ -3524,7 +3523,7 @@
       "component/alert": "source",
       "brand/easemytrip": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "161f3846266d25c5abc4c39caf493ab0ff312eb8",
@@ -3772,7 +3771,7 @@
       "component/alert": "source",
       "brand/scholartrip": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "ee34e55d7f91244230898f596777af8b19441865",
@@ -4303,7 +4302,7 @@
       "semantic/generic-colors": "enabled",
       "brand/ovago": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "25779fe62b26ef390570a8522fa9e3807ae318e3",
@@ -4567,7 +4566,7 @@
     "selectedTokenSets": {
       "core/colors": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "69f4d476dec8f1989c00bbc4413f4491ec293014",
@@ -5096,7 +5095,7 @@
       "semantic/tokens": "enabled",
       "semantic/generic-colors": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "2cf51c41c5ef002adcc9cf1577a8d87ef94b6289",
@@ -5644,7 +5643,7 @@
       "semantic/generic-colors": "enabled",
       "semantic/brand-colors": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "88578ca0832a68cd7df45dba020cc284b119edc3",
@@ -6175,7 +6174,7 @@
       "semantic/generic-colors": "enabled",
       "semantic/brand-colors": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "b06cf940731ae80bf7dfabd070b0c2e38ac1cae9",
@@ -6611,7 +6610,7 @@
       "component/alert": "source",
       "brand/delaware": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "a9277d0a16805ebd5ab6b389cea165b7855566c3",
@@ -7084,7 +7083,7 @@
       "brand/fairfield": "enabled",
       "semantic/generic-colors": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   },
   {
     "id": "8658b62e1eddaebf3a007315437c44229cf365d1",
@@ -7560,6 +7559,6 @@
       "component/alert": "source",
       "brand/priceline": "enabled",
       "brand/pill_buttons": "disabled"
-    },
+    }
   }
 ]
