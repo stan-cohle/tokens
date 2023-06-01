@@ -33,7 +33,6 @@
     "brand/chatdeal",
     "brand/kayak",
     "brand/priceline",
-    "brand/pill_buttons",
     "brand/underpricer",
     "brand/myquility",
     "brand/allsavings",
@@ -44,6 +43,7 @@
     "brand/monmouth",
     "brand/clemson",
     "brand/yatra",
-    "brand/sas"
+    "brand/sas",
+    "modifier/pill-buttons"
   ]
 }

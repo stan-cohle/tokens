@@ -250,7 +250,7 @@
       "component/alert": "source",
       "brand/kayak": "enabled",
       "semantic/generic-colors": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -757,7 +757,7 @@
       "component/alert": "source",
       "brand/chatdeal": "enabled",
       "semantic/brand-colors": "source",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -1066,7 +1066,7 @@
       "brand/aran-grant": "enabled",
       "semantic/generic-colors": "enabled",
       "semantic/brand-colors": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -1587,7 +1587,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/gurufare": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -1862,7 +1862,7 @@
       "component/alert": "source",
       "brand/luxmiles": "enabled",
       "semantic/brand-colors": "source",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -2130,7 +2130,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/underpricer": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -2414,7 +2414,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/myquility": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -2678,7 +2678,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/allsavings": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -2952,7 +2952,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/volunteerhq": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -3241,7 +3241,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/abenity": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -3522,7 +3522,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/easemytrip": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -3770,7 +3770,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/scholartrip": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -4301,7 +4301,7 @@
       "semantic/brand-colors": "enabled",
       "semantic/generic-colors": "enabled",
       "brand/ovago": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -4565,7 +4565,7 @@
     },
     "selectedTokenSets": {
       "core/colors": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -5094,7 +5094,7 @@
       "brand/hop2": "enabled",
       "semantic/tokens": "enabled",
       "semantic/generic-colors": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -5642,7 +5642,7 @@
       "component/alert": "source",
       "semantic/generic-colors": "enabled",
       "semantic/brand-colors": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -6173,7 +6173,7 @@
       "brand/wowfare": "enabled",
       "semantic/generic-colors": "enabled",
       "semantic/brand-colors": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -6609,7 +6609,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/delaware": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -7082,7 +7082,7 @@
       "component/alert": "source",
       "brand/fairfield": "enabled",
       "semantic/generic-colors": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   },
   {
@@ -7558,7 +7558,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/priceline": "enabled",
-      "brand/pill_buttons": "disabled"
+      "modifier/pill-buttons": "disabled"
     }
   }
 ]
