@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "archive",
     "core/colors",
     "core/tokens",
     "semantic/base-colors",
@@ -43,7 +42,6 @@
     "brand/monmouth",
     "brand/clemson",
     "brand/yatra",
-    "brand/sas",
-    "modifier/pill-buttons"
+    "brand/sas"
   ]
 }

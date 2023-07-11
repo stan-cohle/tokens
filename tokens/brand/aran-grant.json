@@ -164,9 +164,18 @@
         "type": "color"
       },
       "transparent-80": {
-        "value": "rgba({base.neutral.900}, {core.opacity.1000})",
+        "value": "{base.neutral.900}",
         "type": "color",
-        "description": "Transparent bar"
+        "description": "Transparent bar",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.1000}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "retro": {
         "value": "linear-gradient(220deg, #ffffff 0%, #eeecec 100%)",

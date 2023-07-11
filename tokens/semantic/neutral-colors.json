@@ -52,24 +52,69 @@
     },
     "neutral-alpha": {
       "100": {
-        "value": "rgba({base.neutral.1100},{core.opacity.75})",
-        "type": "color"
+        "value": "{base.neutral.1100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.75}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "200": {
-        "value": "rgba({base.neutral.1100},{core.opacity.150})",
-        "type": "color"
+        "value": "{base.neutral.1100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.150}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "300": {
-        "value": "rgba({base.neutral.1100},{core.opacity.250})",
-        "type": "color"
+        "value": "{base.neutral.1100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.250}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "400": {
-        "value": "rgba({base.neutral.1100},{core.opacity.300})",
-        "type": "color"
+        "value": "{base.neutral.1100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.300}",
+              "space": "lch"
+            }
+          }
+        }
       },
       "500": {
-        "value": "rgba({base.neutral.1100},{core.opacity.400})",
-        "type": "color"
+        "value": "{base.neutral.1100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{core.opacity.400}",
+              "space": "lch"
+            }
+          }
+        }
       }
     }
   }
